@@ -1,0 +1,8 @@
+#!/bin/bash
+# Get all used QZH-IDS and save them in text files
+
+egrep -hor '(key\d{6})' . | sort | uniq > qzh-keywords.txt;
+egrep -hor '(lem\d{6})' . | sort | uniq > qzh-lem.txt;
+egrep -hor '(per\d{6})' . | sort | uniq > qzh-persons.txt;
+egrep -hor '(org\d{6})' . | sort | uniq > qzh-organisations.txt;
+egrep -hor '(loc\d{6})' . | sort | uniq > qzh-places.txt;
