@@ -27,7 +27,7 @@ Eine Liste aller verfügbarer Orte befindet sich in der Datei `place/place.xml`.
 </place>
 ```
 
-Eine weitere Datei (`qzh-places.txt`) enthält eine Liste mit allen Place-IDs und muss entsprechend bei Änderungen ebenfalls aktualisiert werden. Die Datei (und auch die Dateien für die Personen und die Organisationen) können mit dem folgenden Konsolenbefehlen automatisch erzeugt oder aktualisiert werden:
+Eine weitere Datei (`qzh-places.txt`) enthält eine Liste mit allen Place-IDs und muss entsprechend bei Änderungen ebenfalls aktualisiert werden. Die Datei (und auch die Dateien für die Personen und die Organisationen) können mit dem folgenden Konsolenbefehlen automatisch erzeugt oder aktualisiert werden (siehe Datei `qzh-ids`):
 
 ```bash
 egrep -hor '(key\d{6})' . | sort | uniq > qzh-keywords.txt;
@@ -37,6 +37,13 @@ egrep -hor '(org\d{6})' . | sort | uniq > qzh-organisations.txt;
 egrep -hor '(loc\d{6})' . | sort | uniq > qzh-places.txt;
 ```
  
+Um alle Commands auf einmal auszuführen, können folgende Befehle auf der Konsole eingegeben werden (getestet nur auf dem Mac):
+
+```bash
+cd quellen-zur-zuercher-geschichte-daten #Pfad entsprechend anpassen
+chmod +x qzh-ids #Skript ausführbar machen
+./qzh-ids #Skript starten (dauert etwa 15 Sekunden)
+```
 
 Innerhalb der TEI-XML Dateien wird dann auf den ID des Ortes referenziert:
 
