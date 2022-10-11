@@ -118,7 +118,12 @@
                 <field name="org-name" expression="tei:orgName"/>
                 <field name="type" expression="'Organization'"/>
                 <facet dimension="type" expression="'Organization'"/>
-            </text>            
+            </text>
+            <text qname="tei:category" index="no">
+                <field name="category-desc" expression="tei:desc"/>
+                <facet dimension="type" expression="'Keyword'"/>
+
+            </text>
         </lucene>
         
         <range>
@@ -131,6 +136,7 @@
             <create qname="tei:idno" type="xs:string"/>
             <create qname="tei:persName" type="xs:string"/>
             <create qname="tei:orgName" type="xs:string"/>
+            <create qname="tei:desc" type="xs:string"/>
         </range>
     </index>
 </collection>
