@@ -6,16 +6,12 @@
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
 	xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI" n="1234" xml:lang="de">
 <teiHeader>
-<fileDesc>
+	<fileDesc>
             <titleStmt>
-                <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
+                <title>Dummy File</title>
                 <respStmt>
-                    <persName>Andrea Schmid-Kunz</persName>
+                    <persName>Jan</persName>
                     <resp key="transcript"/>
-                </respStmt>
-                <respStmt>
-                    <persName>Michael Schaffner</persName>
-                    <resp key="tagging"/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -28,23 +24,16 @@
                     <persName>Francisca Loetz. Unter Mitarbeit von Wolfram Schneider-Lastin</persName>
                     <resp>Herausgeberschaft</resp>
                 </respStmt>
-                <idno>QZH_MyCollection_Example</idno>
+                <idno>QZH_Dummy_File</idno>
             </seriesStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno>StAZH B II.695, S. 35</idno>
+                        <idno>Dummy File</idno>
                     </msIdentifier>
-                    <head>Der Fall des Türken Mustapha Caffa oder Cara</head>
+                    <head>Dummy File</head>
                     <msContents>
-                        <summary>In diesem einzigartigen Fall lässt sich verfolgen, wie konsequent der Rat die
-                            Geschichte des Türken Caffa alias Cara zu überprüfen suchte, der sich als versklavter
-                            osmanischer Muslim und geflüchteter Galeerenflüchtling ausgab, welcher zum Reformiertentum
-                            konvertiert sei. Offenbar hielt der Rat die Darlegungen des schliesslich als Betrüger
-                            aufgedeckten Mannes für glaubwürdig genug, um vielfältige Erkundigungen einzuziehen.
-                            Ausserdem weisen die Akten darauf hin, dass Caffa seine vermeintliche Konversion als
-                            symbolisches Kapital einzusetzen vermochte, um sich von den jeweiligen Orten unterstützen zu
-                            lassen, an denen er seine Geschichte verkaufte.</summary>
+                        <summary></summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Eintrag</filiation>
@@ -76,10 +65,7 @@
         <profileDesc>
             <textClass default="false">
                 <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-                    <term ref="key000325">Fremde</term>
                     <term ref="key000334">Gefängnis</term>
-                    <term ref="key000670">Konfession</term>
-                    <term ref="key005339">Konversion</term>
                 </keywords>
             </textClass>
             <particDesc default="false"/>
@@ -91,18 +77,7 @@
 <text>
         <body>
         <div><p>
-              <lb/>Der im <placeName ref="loc012737">Ötenbach</placeName> verwahrte betrieger, welcher
-            <lb/>sich von namen <persName>Mustapha Caffa</persName>, und von Algiers
-            <lb/>gebürtig dargibt, auch allhier das christenthum an-
-            <lb/>nemmen wollen, und getaufft zuwerden verlangt;
-            <lb/>soll in den <placeName ref="loc008635">Wellenberg</placeName> gelegt; durch die Herren
-            <lb/>nachgänger, alles ernsts wohar er komme? by was
-            <lb/>gsellschafft er sich die zeitharo aufgehalten?
-            <lb/>was für reisen er gemacht? ob und wann er zu <placeName ref="loc000464">Bern</placeName> ge-
-            <lb/>taufft worden, auch obe er zu <placeName ref="loc000086">Einsidlen</placeName> nicht um
-            <lb/>ein gleiches angehalten, und was ihme dorten
-            <lb/>widerfahren, befraget; und seine verantwortung
-            <lb/>widerum an <abbr>mghh.</abbr> gebracht werden.</p></div>
+			<lb/><placeName ref="loc012737">Ötenbach</placeName>, <persName ref="per014037">Hans Kaspar Abegg</persName>, <abbr>mghh.</abbr> </p></div>
         </body>
 	</text>
 </group>
