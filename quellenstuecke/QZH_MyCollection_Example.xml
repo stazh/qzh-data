@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="https://www.ssrq-sds-fds.ch/tei/Textkritik_Version_tei-ssrq.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI" n="1234" xml:lang="de">
-    <teiHeader>
-        <fileDesc>
+<?xml-model href="https:<pb/>www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http:<pb/>relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https:<pb/>www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http:<pb/>purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https:<pb/>www.ssrq-sds-fds.ch/tei/Textkritik_Version_tei-ssrq.css“?>
+<!--<?xml-stylesheet type="text/css" href="https:<pb/>www.ssrq-sds-fds.ch/tei/Inhalt_Version_tei-ssrq.css"?>-->
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI" n="1234" xml:lang="de">
+<teiHeader>
+<fileDesc>
             <titleStmt>
                 <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
                 <respStmt>
@@ -44,17 +48,13 @@
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Eintrag</filiation>
-                            <filiation type="original">
-                                <origDate when="1706-07-21"/>
-                            </filiation>
+                            <filiation type="original"><origDate when="1706-07-21"/></filiation>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                    <material>Papier</material>
-                                </support>
+                                <support><material>Papier</material></support>
                                 <extent/>
                             </supportDesc>
                         </objectDesc>
@@ -85,28 +85,26 @@
             <particDesc default="false"/>
             <settingDesc default="false"/>
         </profileDesc>
-    </teiHeader>
-    <text>
-        <group>
-            <text>
+	</teiHeader>
+<text>
+<group>
+<text>
         <body>
-        <div>
-                        <p>
-              <lb/>Der im <placeName>Ötenbach</placeName> verwahrte betrieger, welcher
-            <lb/>sich von namen <persName>Mustapha Caffa</persName>, und von <placeName>Algiers</placeName>
+        <div><p>
+              <lb/>Der im <placeName ref="loc012737">Ötenbach</placeName> verwahrte betrieger, welcher
+            <lb/>sich von namen Mustapha Caffa, und von Algiers
             <lb/>gebürtig dargibt, auch allhier das christenthum an-
             <lb/>nemmen wollen, und getaufft zuwerden verlangt;
-            <lb/>soll in den <placeName>Wellenberg</placeName> gelegt; durch die Herren
+            <lb/>soll in den <placeName ref="loc008635">Wellenberg</placeName> gelegt; durch die Herren
             <lb/>nachgänger, alles ernsts wohar er komme? by was
             <lb/>gsellschafft er sich die zeitharo aufgehalten?
-            <lb/>was für reisen er gemacht? ob und wann er zu <placeName>Bern</placeName> ge-
-            <lb/>taufft worden, auch obe er zu <placeName>Einsidlen</placeName> nicht um
+            <lb/>was für reisen er gemacht? ob und wann er zu <placeName ref="loc000464">Bern</placeName> ge-
+            <lb/>taufft worden, auch obe er zu <placeName ref="loc000086">Einsidlen</placeName> nicht um
             <lb/>ein gleiches angehalten, und was ihme dorten
             <lb/>widerfahren, befraget; und seine verantwortung
-            <lb/>widerum an <abbr>mghh.</abbr> gebracht werden.</p>
-                    </div>
+            <lb/>widerum an <abbr>mghh.</abbr> gebracht werden.</p></div>
         </body>
-            </text>
-            </group>
-    </text>
+	</text>
+</group>
+</text>
 </TEI>
