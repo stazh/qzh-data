@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://www.ssrq-sds-fds.ch/tei/Textkritik_Version_tei-ssrq.css“?>
+<!--<?xml-stylesheet type="text/css" href="https://www.ssrq-sds-fds.ch/tei/Inhalt_Version_tei-ssrq.css"?>-->
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
+ xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI" n="1234" xml:lang="de">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <respStmt>
+     <persName>Andrea Schmid-Kunz</persName>
+     <resp key="transcript"/>
+    </respStmt>
+    <respStmt>
+     <persName>Michael Schaffner</persName>
+     <resp key="tagging"/>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <date type="electronic" when="2021-05-01"/>
+    <date type="print" when="2018-12-31"/>
+   </publicationStmt>
+   <seriesStmt xml:id="ssrq-sds-fds">
+    <title>Gelebte Reformation. Zürich 1500-1800</title>
+    <respStmt>
+     <persName>Francisca Loetz. Unter Mitarbeit von Wolfram Schneider-Lastin</persName>
+     <resp>Herausgeberschaft</resp>
+    </respStmt>
+    <idno>QZH_016</idno>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+     <msIdentifier>
+      <idno>StAZH A 61.5</idno>
+     </msIdentifier>
+     <head>Verzeichnis der Armen und der Almosenkasse der Gemeinde
+      Grüningen</head>
+     <msContents>
+      <msItem>
+       <textLang>Deutsch</textLang>
+       <filiation type="current">Eintrag</filiation>
+       <filiation type="original"/>
+      </msItem>
+     </msContents>
+     <physDesc>
+      <objectDesc>
+       <supportDesc>
+        <support><material>Papier</material></support>
+        <extent/>
+       </supportDesc>
+      </objectDesc>
+     </physDesc>
+     <history>
+      <origin><origDate from="1692-01-01" to="1692-12-31"/></origin>
+     </history>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>
+     <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+    </p>
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc> </profileDesc>
+  <profileDesc>
+   <textClass default="false">
+    <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+     <term ref="key005358">Armenversorgung</term>
+    </keywords>
+   </textClass>
+   <particDesc default="false"/>
+   <settingDesc default="false"/>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <group>
+   <text>
+    <body>
+    <div> 
+    <pb n="1"/>
+     <head><lb/>Verzeichnuß der armen
+      <lb/>item des kirchen und
+      <lb/>seckli guths zu
+      <lb/><placeName>Gruͤningen</placeName>. <date when="1692">1692</date>.</head>
+     <p>
+     <lb/>Byweßen 
+     <lb/>Mr <persName>Marx Relstab</persName> von <placeName>Grüningen</placeName>
+     <lb/><persName>Bartli Scherer</persName> zu <placeName>Binzikon</placeName>
+     <lb/><orgName>Ehgaumeren</orgName> { <persName>Jacob Murer</persName> von <placeName>Yzikon</placeName> 
+     <lb/><persName>Kli Jog Krießi</persName> uff dem <placeName>Niggenberg</placeName>
+     <lb/>Laut hochoberkeitlichen befelch, zusammen getragen und
+     <lb/>sontags den <date when="1692-06-19">19 tag junis</date> vor einem ehrsamen
+     <lb/>stilstand buochstëblichen zur censur abgeleßen
+     <lb/>von
+     <lb/><persName>Hanß Jacob Wolff</persName>
+     <lb/>Pfahrern daselbsten
+     <lb/>1692
+      <pb n="2"/>
+     <lb/>Die Pfahr <placeName>Gruͤningen</placeName> hat am seckli guth, laut
+     verbriefften
+     <lb/>capitalien, so in summa 2590 fl vermag, jerlichen zinß ein
+     <lb/>zeforderen 129 fl 10 ß welcher aber sehr schlecht ein-
+     <lb/>gehet, seitenweilen der kirchenpfleger Mr. <persName>Joachim Kauff<lb break="no"/>man</persName> 
+      bis dato, an den mit Liechtm. may und Martini 1690
+     <lb/>verfallnen zinß mehr nit alß 43 fl 10 ß einbekomen
+     <lb/>mögen, weßwegen die ußgäben, so wir wochenlich der
+     <lb/>armen halben habend, nit ußgfergen [?] werdend, wo nit
+     <lb/>das sontägliche seckli were.
+     <lb/>Bynebend hat sy auch ein 3ten theil am kirchenguth, so 
+     <lb/>zu <placeName>Gosauw</placeName> ligt, und in summa vermag
+     <lb/>An kernen jerlich 26 müth 2 vrtl 1 kopff
+     <lb/>An gelt zinßen jerlich 242 fl 8 ß 6 hr
+     <lb/>Wie allese halben Hr. Pfahrer <persName>Eßlinger</persName> zu <placeName>Gosauw</placeName>
+     <lb/>ordenlichen Bericht ablegen und hiemit auch ihme
+     <lb/>überlaßen wird.
+     <lb/>Hergegen hat <placeName>Grüningen</placeName> arme und gibt
+     <lb/>uß ihrem seckli wochenlich uß, wie folget.
+      <pb n="3"/>
+     <lb/>Arme der gemeind und pfahr
+     <lb/><placeName>Grüeningen</placeName>
+     <lb/>1692.
+     <lb/><placeName>Gruͤningen</placeName> und <placeName>Buͤel</placeName>.
+     <lb/><persName>Barbara Grob</persName>, <persName>Jacob Lüsis</persName> frauw zu <placeName>Grüningen</placeName> ist 35 jahr alt
+     <lb/>ihr mann vor 3 ½ jahr ins land hinundergegangen, kam aber bis
+     <lb/>dato nit mehr heim, lies sy hilff und trostloß, sodas sy sich
+     <lb/>selber angegriffen, das ihro ußert etwas bethzügs wenig überbliben.
+     <lb/>Hat einen 3 ½ jehrig bub. Verdient mit wollen spinen 12 ß wochenli[ch]
+     <lb/>Mit hin zu aber arbeitet sy den lüthen uß den Güteren. Man hat
+     <lb/>ihro vergangen jahr von den kirchen <placeName>Grüningen</placeName> an gelt gäben 1 fl
+     <lb/>Anjetzo hat sy wochenlich 7 ß. von dem sekli <placeName>Grün[ingen]</placeName>
+     <lb/>alle fest, mehl 1 kopf von <placeName>Gosauw</placeName>
+     <lb/><persName>Heinrich Buochman</persName> der ampts spilman zu <placeName>Grüningen</placeName> von 41 jahren, sein
+     <lb/>weib von 38 jahren, hat 3 buben, der elste von 8 ½ jahren, der
+     <lb/>jüngst von 4 ½ jahren, so ungwünend sind; Er verdient mit seilen
+     <lb/>item wulles weben, sy aber mit spinnen und nehen zusamen, woche[nlich]
+     <lb/>20 ß. Habend sich auch angegriffen, darum ihnen jez etliche woch[en]
+     <lb/>sonderlich in seiner gehabten kranckh. mit gelt, brott, mehl under
+     <lb/>die arm gegriffen worden, hat alle fest 1 ½ kopff mehl von Gos.
+     <lb/><persName>Helena Wildermuth</persName>, <persName>Schmid maurers</persName> sel, gut Zwacken, zu <placeName>Grüningen</placeName>, witib,
+     <lb/>von 56 jahr, hat weder haus noch herberg, ist mit großen geschwolle[n]
+     <lb/>waßersüchtigen füßen behafftet, daher sy mit ihrem spinnen mehr
+     <lb/>nit als wochenl. 4 – 5 ß verdienen mag: Ist allein, und wird ihr
+     <lb/>von der kirchen <placeName>Grüningen</placeName> wochens 1 brott oder 5 ß.
+     <lb/>alle fest 1 kopff mehl von <placeName>Gosauw</placeName>
+     <lb/>und inzwischend handreichungen gegeben.
+     <lb/><persName>Anna Weber</persName>, gut <persName>Anni Ferwer</persName>, ein ledig 60 jehrig mensch, mit ellenden
+     <lb/>hinckenden lib beschwehrdt, weg alters hat und kan sy wenig ver
+     <lb/>dienen, mag wochens uf 10 ß komen. Hat nüt mehr eignes, herge
+     <lb/>gen wochenlich 1 brott oder 5 ß von der kirchen <placeName>Grüningen</placeName>
+     <lb/>alle fest 1 kopf mehl von <placeName>Gosauw</placeName>:
+     <lb/><persName>Barbeli Wirz</persName>. <persName>Jacob Lüsis</persName> sel. witib von 39 jahren, mit 6 kinden, das elste 14
+     <lb/>jerig aber kleiner statur, das jüngst 5 jerig. Sy verdient
+     <lb/>nebend einem kind mit bauwelen spinen, item zwey kinden
+     <lb/>mit wollis weben zusammen wochenlich 20 btzen
+     <lb/>Hat verwichnen jahrs 22 fl 8 ß. von unserem sekli empfang[en]
+     <lb/>anietzo hat sy wochenlich 4 rüthi brödtli
+     <lb/>11 ß von unserm sekli
+     <lb/>alle fest ½ vtel mehl, von <placeName>Gosauw</placeName>
+     <lb/>Für ihre kind hat sy vergangen [?] an winterkleider em
+     <lb/>pfangen 3 p[aar] schüeli 3 p[aar] steli.
+      <pb n="4"/>
+     <lb/>(Auf den folgenden Seiten: 6 Arme in <placeName>Yzikon</placeName>, 21 in <placeName>Binzikon</placeName>)  
+      <pb n="5"/>
+     <gap reason="irrelevant"/>
+     <lb/>Fehrners
+     <lb/>sind ußert gemeind arme, die handreichungen, und
+     <lb/>verpflegung von der kirchen empfangend
+     <lb/><persName>Barbara Walder</persName> von <placeName>holtzhausen</placeName>, ist wegen melancholischer anfechtung
+     <lb/>im spital dero die kirch und hoststäfer 1 lb wochenlich
+     <lb/>tischgelt gibt.
+     <lb/><persName>Anna Rebman</persName> <persName>Ulrich Kramers</persName> sel. witib von ungferd 26 jahren, haltet
+     <lb/>sich mit einem kind zu meilen uf, und komt zu 10–14 oder
+     <lb/>mehr tage handreichung gen hollen.
+     <lb/><persName>Hanseli</persName> von 4 jahren, ist by <persName>Schuler
+     <lb/>Pfister</persName> <persName>hans Rodolf Walders</persName> sel { in der angst und
+     noth p[er] 3 brötli wochen
+     <lb/>3 buben zu <placeName>holtzhausen</placeName> { u. 13 lb 16 ß an tisch
+     verdungen
+     <lb/>
+     { <persName>Bernhard</persName> 9 jerig 
+      } sind in der Betbur 
+     <lb/>
+     { <persName>Jogeli</persName> 14 jerig 
+      } 22 lb jerlich verdungen
+     <lb/> habend zusammen uf gwüße jahr, wochenlich 9 brödli
+     <lb/> oder mütschli von <placeName>Rütti</placeName>
+     <lb/><persName>Elßbethli</persName> von 17 jahren } <persName>Felix Walders</persName> in der
+     Leggen Kind sind per 26 lb 16 ß
+     <lb/><persName>Cristina</persName> von 10 jahren } verdungen von der kirche,
+     haben auch indes 1 kopf
+     <lb/> } mehl alle fest.
+     <lb/>Über dise benante, sind noch im land
+     <lb/>herumb zühende, bettlende und
+     <lb/>schwermende, die nit zu hinder-
+     <lb/>halten sind.
+     <lb/><persName>Anneli Wildermuth</persName> von 18 jahr. sh. ein Bastart des <persName>Christoph Wildermuthen</persName>
+     <lb/>ußdem stettli: Ob man glich das selbe zum oßteren an
+     <lb/>ehrliche ort verdungen und ihme wochenl. 5 ß von der
+     <lb/>kirchen gegeben, jedoch verfangt kein warnen, zu sprechen
+     <lb/>weder fründlichkeit noch ernst, sonder lauftt stetts im
+     <lb/>bettel herum.
+     <lb/><persName>Elßbeth Hürliman</persName> <persName>Hanß Gnemmen</persName> Frauw von <placeName>Yzikon</placeName>, so by 3 jahren uß der
+     <lb/>pfahr <placeName>Egg</placeName> in dise gmeind komen, sind in christenlicher
+      <pb n="6"/>
+     <lb/>religion und bätten gar schlecht geübt und mit keinem lieb dar
+     <lb/>zu gewünnen. Er ist ins land gen werken, sy aber schwermt,
+     <lb/>nochdem sy uns vorgegeben ins <placeName>brandenburg</placeName> ze ziehen,
+     <lb/>mit etlichen kinden im bettel herum. Die einte tochter
+     <lb/>nammens Bethli von 21 jahren ist wegen stehlen und sich
+     <lb/>selbs verfluchen, offt fründt- und ernsthafft gehandhabet,
+     <lb/>u. samt der muter auch gethürmt worden. Unser hochgg.
+     <lb/>herr landtvogt hat mit unserem zuthun, 3 von ihren
+     <lb/>kinden, das eint gen <placeName>Tägernauw</placeName> das ander uff den
+     <lb/><placeName>Hirzel</placeName>, das drit gen <placeName>Pfeffikon</placeName> vertischgeltet uß
+     <lb/>überblibnem ihrem gütli.
+     <lb/><persName>Catri Kriesi gut Oswalden</persName>, von <placeName>Binzikon</placeName>, von 50 jahren ein ledig mensch
+     <lb/>laufft sit osteren im bettel herum, ohn das man
+     <lb/>weißt wo sy ist.
+     <lb/><persName>Anna Spöri</persName> <persName>Adams</persName> kind von 21 jahren von <placeName>Yzikon</placeName>, von dem auch
+     <lb/>oben gemeldet, ist zu <placeName>Guggenbüel</placeName> per 3 fl von uns
+     <lb/>nocher <placeName>Utikon</placeName> verdungen worden und da wie ver-
+     <lb/>meint, sy daselbsten seye, weil sy alle monat das
+     <lb/>monat gelt abgehollet hat, so müßtend wir aller orthen
+     <lb/>klegti hören, das es im bettel sonderlich in der
+     <lb/>statt herum schwerme.
+      <pb n="7"/>
+     <lb/>Suma was vergangen 1691 jahres under
+     <lb/>unsern armen ußgetheilt worden,
+     <lb/>61 lb 2 ß an monat gelt von <placeName>Zürich</placeName>.
+     <lb/>1268 brötli von rüti
+     <lb/>[3-zeilige Akkolade, Spitze nach re.]
+     <lb/>31 p[aar] schuh und s[c]h[ü]li }
+     <lb/>25 p[aar] strümpf und steli } von <placeName>Zürich</placeName>
+     <lb/>41/2 flb nördlinger }
+     <lb/>349 lb 1 ß an der wochen stühr }
+     <lb/>123 lb 7 ß 4 hr an handreichung und }
+     <lb/>artgelt löhn der 3 theil } von der kirchen
+     <placeName>Grüningen</placeName>
+     <lb/>14 lb 19 ß zween persohnen am }
+     <lb/>monat gelt }
+     <lb/>6 müt kernen, am fest mehl uß der pfänd gosauw</p></div>
+    </body>
+    <back>
+     <div>
+      <p>Das Verzeichnis, das Namen, Alter, Wohnort und Beschäftigung der Armengenössigen sowie die Ausgaben der Almosenkasse festhält, zeigt, 
+       welches Armutsverständnis der Zürcher Armenpolitik zugrunde lag. Allein Gemeindemitglieder, die unverschuldet ins Elend geraten waren und, soweit möglich, samt ihren Kindern arbeiteten, erhielten eine Unterstützung in Form von 
+       Naturalien und Geld. Diese sogenannten würdigen Armen wurden scharf von denjenigen unterschieden, die angesichts ihrer Bettelei, ihres Lebenswandels und ihrer (mutmasslichen) Versuche, Almosen unrechtmässig zu beziehen, 
+       als amoralisch galten und daher keinen Anspruch auf Unterstützung haben sollten.</p> 
+     </div>
+    </back>
+   </text>
+  </group>
+ </text>
+</TEI>
