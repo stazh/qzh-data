@@ -32,7 +32,7 @@ as item()*
             let $collection := collection("/db/apps/qzh-data/quellenstuecke/")
             for $quellenstueck in $collection
             for $p at $pos in $quellenstueck//tei:text//tei:persName
-            let $personName := $p/text()
+            let $personName := fn:normalize-space($p)
             let $id := if ($p//@ref) 
               then $p//@ref
               else $quellenstueck//seriesStmt/tei:idno || "_" || $pos

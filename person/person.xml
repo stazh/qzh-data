@@ -134,10 +134,6 @@
             <person xml:id="QZH_016_27">
                 <persName type="full">Cristina</persName>
             </person>
-            <person xml:id="QZH_022_28">
-                <persName type="full">Cuͦnrad
-      Schleipffer</persName>
-            </person>
             <person xml:id="QZH_022_23">
                 <persName type="full">Cuͦnrad Schleipffer</persName>
             </person>
@@ -145,8 +141,7 @@
                 <persName type="full">Debus Metler</persName>
             </person>
             <person xml:id="QZH_020_25">
-                <persName type="full">Debus Metler zugenant
-      Hanß Metler der thebus</persName>
+                <persName type="full">Debus Metler zugenant Hanß Metler der thebus</persName>
             </person>
             <person xml:id="QZH_020_37">
                 <persName type="full">Deewuß</persName>
@@ -164,8 +159,7 @@
                 <persName type="full">Einsidlen</persName>
             </person>
             <person xml:id="QZH_017_8">
-                <persName type="full">Elsi
-      Tikelmann</persName>
+                <persName type="full">Elsi Tikelmann</persName>
             </person>
             <person xml:id="QZH_017_9">
                 <persName type="full">Elsi Tikelmanns</persName>
@@ -192,8 +186,7 @@
                 <persName type="full">Felix Walders</persName>
             </person>
             <person xml:id="QZH_001_10">
-                <persName type="full">François
-       Lossignans</persName>
+                <persName type="full">François Lossignans</persName>
             </person>
             <person xml:id="QZH_018_8">
                 <persName type="full">Gabriel Laba</persName>
@@ -212,10 +205,6 @@
             </person>
             <person xml:id="QZH_018_13">
                 <persName type="full">Göldi</persName>
-            </person>
-            <person xml:id="QZH_022_36">
-                <persName type="full">Hanns
-      Hegni</persName>
             </person>
             <person xml:id="QZH_018_1">
                 <persName type="full">Hanns Gölldi</persName>
@@ -239,22 +228,16 @@
                 <persName type="full">Hannßen Gölldi</persName>
             </person>
             <person xml:id="QZH_015_13">
-                <persName type="full">Hans
-      Hartman Escher</persName>
-            </person>
-            <person xml:id="QZH_013_4">
-                <persName type="full">Hans
-      Kambli</persName>
-            </person>
-            <person xml:id="QZH_022_24">
-                <persName type="full">Hans
-      Walder</persName>
+                <persName type="full">Hans Hartman Escher</persName>
             </person>
             <person xml:id="QZH_022_32">
                 <persName type="full">Hans Hegni</persName>
             </person>
             <person xml:id="QZH_014_1">
                 <persName type="full">Hans Jacob Keller</persName>
+            </person>
+            <person xml:id="QZH_013_4">
+                <persName type="full">Hans Kambli</persName>
             </person>
             <person xml:id="per014037">
                 <persName type="full">Hans Kaspar Abegg</persName>
@@ -277,7 +260,7 @@
             <person xml:id="QZH_020_47">
                 <persName type="full">Hans Sigg</persName>
             </person>
-            <person xml:id="QZH_022_26">
+            <person xml:id="QZH_022_24">
                 <persName type="full">Hans Walder</persName>
             </person>
             <person xml:id="QZH_022_3">
@@ -296,8 +279,7 @@
                 <persName type="full">Hanß Hartman Escher</persName>
             </person>
             <person xml:id="QZH_020_22">
-                <persName type="full">Hanß Heinrichli
-      Sigg</persName>
+                <persName type="full">Hanß Heinrichli Sigg</persName>
             </person>
             <person xml:id="QZH_014_3">
                 <persName type="full">Hanß Hëberlig</persName>
@@ -398,16 +380,11 @@
             <person xml:id="QZH_017_7">
                 <persName type="full">Jacob Öffeli</persName>
             </person>
-            <person xml:id="QZH_015_4">
-                <persName type="full">Jacoben
-      Isler imm Tal</persName>
-            </person>
             <person xml:id="QZH_015_8">
                 <persName type="full">Jacoben Isler</persName>
             </person>
             <person xml:id="QZH_015_15">
-                <persName type="full">Jacoben Isler
-      im Tal</persName>
+                <persName type="full">Jacoben Isler im Tal</persName>
             </person>
             <person xml:id="QZH_015_19">
                 <persName type="full">Jacoben Isler imm Tal</persName>
@@ -502,10 +479,6 @@
             <person xml:id="QZH_018_4">
                 <persName type="full">Moritz Gydonnis</persName>
             </person>
-            <person xml:id="QZH_005_1">
-                <persName type="full">Mustafa
-                            Caffa</persName>
-            </person>
             <person xml:id="QZH_004_1">
                 <persName type="full">Mustafa Caffa</persName>
             </person>
@@ -573,8 +546,7 @@
                 <persName type="full">Schomal</persName>
             </person>
             <person xml:id="QZH_016_21">
-                <persName type="full">Schuler
-     Pfister</persName>
+                <persName type="full">Schuler Pfister</persName>
             </person>
             <person xml:id="QZH_011_8">
                 <persName type="full">Schutzer</persName>
@@ -646,12 +618,8 @@
                 <persName type="full">hans Rodolf Walders</persName>
             </person>
             <person xml:id="QZH_014_19">
-                <persName type="full">zur 
-      Louben</persName>
-            </person>
-            <person xml:id="QZH_014_5">
                 <persName type="full">zur Louben</persName>
             </person>
         </listPerson>
     </standOff>
-	</TEI>
+</TEI>
