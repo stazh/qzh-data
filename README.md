@@ -7,13 +7,44 @@ Dieses Repository beinhaltet die Quellenstücke für das folgende Repository: ht
 
 Quellenstücke (TEI-XMLs) können im Verzeichnis `/quellenstuecke` abgelegt werden und werden so von der Webapplikation automatisch erfasst.
 
-## Anzeigen Personen, Organisationen, Orte
+## Erfassen und Anzeigen von Personen
 
-Das folgende Beispiel zeigt das Editieren eines Ortes. Das Editieren von Personen und Organisationen erfolgt nach dem gleichen Muster.
+Eine Liste aller verfügbarer Personen befindet sich in der Datei `person/person.xml`:
+
+```xml
+<person xml:id="per1234">
+	<persName type="full">Anna Weber</persName>
+</person>
+```
+
+Über die Identifier können die Personen innerhalb des TEI-XML Quellenstücks eindeutig referenziert werden:
+
+```xml
+<persName ref="per1234">Anna Weber</persName>
+```
+
+Es ist auch möglich, Personen zu kenneichnen, ohne eine Referenz anzugeben:
+
+```xml
+<persName>Anna Weber</persName>
+```
+
+Mit einem Skript ist es möglich, aus allen Quellenstücken die `person/person.xml` zu generieren. Dieses Skript befindet sich unter `script/generate-list-of-people.xql`.
+
+Dieses Skript kann direkt innerhalb von eXide mit dem „Eval“-Button gestartet werden. Das Skript benötigt ungefähr eine Minute, um die Liste mit Personen zusammenzustellen. Anschliessend wird die der neue Inhalt der Datei `person/person.xml` auf dem unteren Bildschirmrand angezeigt: 
+
+![][image-1]
+
+Der neue Inhalt muss am Ende noch in die Datei `person/person.xml` gecopy-pasted werden.
+
+## Erfassen und Anzeigen von Organisationen und Orte
+
+Das folgende Beispiel zeigt das Editieren eines Ortes. Das Editieren von Organisationen erfolgt nach dem gleichen Muster.
 
 Eine Liste aller verfügbarer Orte befindet sich in der Datei `place/place.xml`. Dort sind die einzelnen Orte hinterlegt:
 
 ```xml
+<!-- auszug -->
 <place xml:id="loc010352" n="Aesch">
 	<placeName type="main">Aesch</placeName>
 	<placeName type="add">(CH-ZH) Dorf/village</placeName>
@@ -27,24 +58,6 @@ Eine Liste aller verfügbarer Orte befindet sich in der Datei `place/place.xml`.
 </place>
 ```
 
-Eine weitere Datei (`qzh-places.txt`) enthält eine Liste mit allen Place-IDs und muss entsprechend bei Änderungen ebenfalls aktualisiert werden. Die Datei (und auch die Dateien für die Personen und die Organisationen) können mit dem folgenden Konsolenbefehlen automatisch erzeugt oder aktualisiert werden (siehe Datei `qzh-ids`):
-
-```bash
-egrep -hor '(key\d{6})' . | sort | uniq > qzh-keywords.txt;
-egrep -hor '(lem\d{6})' . | sort | uniq > qzh-lem.txt;
-egrep -hor '(per\d{6})' . | sort | uniq > qzh-persons.txt;
-egrep -hor '(org\d{6})' . | sort | uniq > qzh-organisations.txt;
-egrep -hor '(loc\d{6})' . | sort | uniq > qzh-places.txt;
-```
- 
-Um alle Commands auf einmal auszuführen, können folgende Befehle auf der Konsole eingegeben werden (getestet nur auf dem Mac):
-
-```bash
-cd quellen-zur-zuercher-geschichte-daten #Pfad entsprechend anpassen
-chmod +x qzh-ids #Skript ausführbar machen
-./qzh-ids #Skript starten (dauert etwa 15 Sekunden)
-```
-
 Innerhalb der TEI-XML Dateien wird dann auf den ID des Ortes referenziert:
 
 ```json
@@ -53,13 +66,14 @@ Innerhalb der TEI-XML Dateien wird dann auf den ID des Ortes referenziert:
 
 (Auf diese Weise können auch unterschiedliche Schreibweisen des gleichen Ortes gekennzeichnet werden)
 
-## Anzeigen von Schlagworten
+## Erfassen und Anzeigen von Schlagworten
 
 
 ###  Über das taxonomy.xml-File
 Schlagworte werden innerhalb der TEI-XML’s referenziert:
 
 ```xml
+<!-- auszug -->
 <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
 	<term ref="key000325">Fremde</term>
 	<term ref="key000334">Gefängnis</term>
@@ -91,6 +105,7 @@ if ($target) then ( <a href="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/vie
 Die Definitionen werden aus dem Repository `qzh-data` gelesen: `taxonomy/taxonomy.xml`
 
 ```xml
+<!-- auszug -->
 <category xml:id="key000325">
 	<desc xml:lang="deu">Fremder</desc>
 	<gloss>Person, die nicht dem eigenen Rechtskreis angehört und bei verminderter Rechtsfähigkeit Beschränkungen im Alltag und Erwerbsleben erfährt
@@ -98,7 +113,7 @@ Die Definitionen werden aus dem Repository `qzh-data` gelesen: `taxonomy/taxonom
 </category>
 ```
 
-###  Über die SSRQ-API
+###  (Über die SSRQ-API)
 
 Im Code ist auch die Möglichkeit vorgesehen, die Definitionen der Schlagworte über die API abzufragen. Soweit ich gesehen habe, wird diese Funktionalität in der Webapplikation jedoch nicht (mehr?) aktiv genutzt.
 
@@ -128,3 +143,7 @@ declare function app:list-keys($node as node(), $model as map(*)) {
 
 Die aufgerufene API-Schnittstelle lautet: [https://www.ssrq-sds-fds.ch/lemma-db-edit/views/get-key-infos.xq]()
 
+
+
+
+[image-1]:	./documentation/generate-list-of-people.png
