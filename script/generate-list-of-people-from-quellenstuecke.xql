@@ -9,7 +9,7 @@ as item()*
   group by $i
     return $items[index-of($items, $i)[1]]
 };
- 
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="persons" type="Person">
     <teiHeader>
         <fileDesc>
@@ -26,7 +26,6 @@ as item()*
     </teiHeader>
     <standOff>
         <listPerson>
-            
     {
 
         let $all := 
@@ -43,9 +42,14 @@ as item()*
                     <persName type="full">{$personName}</persName>
                 </person>
                 
-        return local:remove-duplicates($all)
-    
+        let $allWithoutDuplicates := local:remove-duplicates($all)
+        let $allOrdered :=
+          for $i in $allWithoutDuplicates
+            order by $i//persName//text()
+            return $i
         
+        return $allOrdered
+
     }
 
         </listPerson>
