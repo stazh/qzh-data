@@ -242,6 +242,9 @@
             <person xml:id="per014037">
                 <persName type="full">Hans Kaspar Abegg</persName>
             </person>
+            <person xml:id="per014037">
+                <persName type="full">Hans Kaspar Abegg (2)</persName>
+            </person>
             <person xml:id="QZH_013_5">
                 <persName type="full">Hans Leu</persName>
             </person>
@@ -622,4 +625,4 @@
             </person>
         </listPerson>
     </standOff>
-</TEI>
+	</TEI>
