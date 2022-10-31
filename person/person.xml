@@ -23,16 +23,52 @@
             <person xml:id="QZH_012_6">
                 <persName type="full">Agatha Zollerin</persName>
             </person>
+            <person xml:id="QZH_020_48">
+                <persName type="full">Andreas Rütschi</persName>
+            </person>
+            <person xml:id="QZH_020_4">
+                <persName type="full">Andreas Rütschi</persName>
+            </person>
             <person xml:id="QZH_020_10">
                 <persName type="full">Andreas Rütschi</persName>
             </person>
             <person xml:id="QZH_020_32">
                 <persName type="full">Andresen</persName>
             </person>
+            <person xml:id="QZH_020_39">
+                <persName type="full">Andreß</persName>
+            </person>
+            <person xml:id="QZH_020_35">
+                <persName type="full">Andreß</persName>
+            </person>
             <person xml:id="QZH_020_33">
                 <persName type="full">Andreß</persName>
             </person>
+            <person xml:id="QZH_020_42">
+                <persName type="full">Andreß</persName>
+            </person>
+            <person xml:id="QZH_020_46">
+                <persName type="full">Andreß</persName>
+            </person>
+            <person xml:id="QZH_020_41">
+                <persName type="full">Andreß</persName>
+            </person>
+            <person xml:id="QZH_020_44">
+                <persName type="full">Andreß</persName>
+            </person>
+            <person xml:id="QZH_020_38">
+                <persName type="full">Andreß</persName>
+            </person>
+            <person xml:id="QZH_020_36">
+                <persName type="full">Andreß</persName>
+            </person>
+            <person xml:id="QZH_020_45">
+                <persName type="full">Andreß</persName>
+            </person>
             <person xml:id="QZH_020_29">
+                <persName type="full">Andreß Rüetschi</persName>
+            </person>
+            <person xml:id="QZH_020_30">
                 <persName type="full">Andreß Rüetschi</persName>
             </person>
             <person xml:id="QZH_016_18">
@@ -71,6 +107,9 @@
             <person xml:id="QZH_014_33">
                 <persName type="full">Batt Baumgarten</persName>
             </person>
+            <person xml:id="QZH_014_24">
+                <persName type="full">Batt Boumgartter</persName>
+            </person>
             <person xml:id="QZH_014_23">
                 <persName type="full">Batt Boumgartter</persName>
             </person>
@@ -92,8 +131,38 @@
             <person xml:id="QZH_015_6">
                 <persName type="full">Bertschinger</persName>
             </person>
+            <person xml:id="QZH_001_4">
+                <persName type="full">Bohq</persName>
+            </person>
+            <person xml:id="QZH_001_6">
+                <persName type="full">Bohq</persName>
+            </person>
+            <person xml:id="QZH_011_1">
+                <persName type="full">Bohq</persName>
+            </person>
+            <person xml:id="QZH_001_5">
+                <persName type="full">Bohq</persName>
+            </person>
             <person xml:id="QZH_001_17">
                 <persName type="full">Bohq</persName>
+            </person>
+            <person xml:id="QZH_001_18">
+                <persName type="full">Bohq</persName>
+            </person>
+            <person xml:id="QZH_014_13">
+                <persName type="full">Boumgartter</persName>
+            </person>
+            <person xml:id="QZH_014_14">
+                <persName type="full">Boumgartter</persName>
+            </person>
+            <person xml:id="QZH_014_26">
+                <persName type="full">Boumgartter</persName>
+            </person>
+            <person xml:id="QZH_014_28">
+                <persName type="full">Boumgartter</persName>
+            </person>
+            <person xml:id="QZH_014_9">
+                <persName type="full">Boumgartter</persName>
             </person>
             <person xml:id="QZH_014_10">
                 <persName type="full">Boumgartter</persName>
@@ -107,13 +176,112 @@
             <person xml:id="QZH_001_14">
                 <persName type="full">Büehler</persName>
             </person>
+            <person xml:id="QZH_015_3">
+                <persName type="full">Bürkli</persName>
+            </person>
             <person xml:id="QZH_015_18">
                 <persName type="full">Bürkli</persName>
+            </person>
+            <person xml:id="QZH_015_5">
+                <persName type="full">Bürkli</persName>
+            </person>
+            <person xml:id="QZH_011_11">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_003_9">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_010_2">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_009_3">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_008_4">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_005_4">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_003_11">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_001_22">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_006_7">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_006_5">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_009_5">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_004_4">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_005_2">
+                <persName type="full">Caffa</persName>
             </person>
             <person xml:id="QZH_001_20">
                 <persName type="full">Caffa</persName>
             </person>
+            <person xml:id="QZH_002_2">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_011_9">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_010_4">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_007_5">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_008_6">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_002_4">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_004_2">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_007_3">
+                <persName type="full">Caffa</persName>
+            </person>
+            <person xml:id="QZH_008_5">
+                <persName type="full">Cara</persName>
+            </person>
             <person xml:id="QZH_001_21">
+                <persName type="full">Cara</persName>
+            </person>
+            <person xml:id="QZH_003_10">
+                <persName type="full">Cara</persName>
+            </person>
+            <person xml:id="QZH_011_10">
+                <persName type="full">Cara</persName>
+            </person>
+            <person xml:id="QZH_004_3">
+                <persName type="full">Cara</persName>
+            </person>
+            <person xml:id="QZH_009_4">
+                <persName type="full">Cara</persName>
+            </person>
+            <person xml:id="QZH_007_4">
+                <persName type="full">Cara</persName>
+            </person>
+            <person xml:id="QZH_005_3">
+                <persName type="full">Cara</persName>
+            </person>
+            <person xml:id="QZH_010_3">
+                <persName type="full">Cara</persName>
+            </person>
+            <person xml:id="QZH_002_3">
+                <persName type="full">Cara</persName>
+            </person>
+            <person xml:id="QZH_006_6">
                 <persName type="full">Cara</persName>
             </person>
             <person xml:id="QZH_015_11">
@@ -125,6 +293,9 @@
             <person xml:id="QZH_016_29">
                 <persName type="full">Christoph Wildermuthen</persName>
             </person>
+            <person xml:id="QZH_022_18">
+                <persName type="full">Claus Ötikon</persName>
+            </person>
             <person xml:id="QZH_022_11">
                 <persName type="full">Claus Ötikon</persName>
             </person>
@@ -133,6 +304,12 @@
             </person>
             <person xml:id="QZH_016_27">
                 <persName type="full">Cristina</persName>
+            </person>
+            <person xml:id="QZH_022_31">
+                <persName type="full">Cuͦnrad Schleipffer</persName>
+            </person>
+            <person xml:id="QZH_022_28">
+                <persName type="full">Cuͦnrad Schleipffer</persName>
             </person>
             <person xml:id="QZH_022_23">
                 <persName type="full">Cuͦnrad Schleipffer</persName>
@@ -143,6 +320,12 @@
             <person xml:id="QZH_020_25">
                 <persName type="full">Debus Metler zugenant Hanß Metler der thebus</persName>
             </person>
+            <person xml:id="QZH_020_40">
+                <persName type="full">Deewuß</persName>
+            </person>
+            <person xml:id="QZH_020_43">
+                <persName type="full">Deewuß</persName>
+            </person>
             <person xml:id="QZH_020_37">
                 <persName type="full">Deewuß</persName>
             </person>
@@ -151,6 +334,15 @@
             </person>
             <person xml:id="QZH_020_31">
                 <persName type="full">Deewußen</persName>
+            </person>
+            <person xml:id="QZH_020_34">
+                <persName type="full">Deewußen</persName>
+            </person>
+            <person xml:id="QZH_021_4">
+                <persName type="full">Denzler</persName>
+            </person>
+            <person xml:id="QZH_021_10">
+                <persName type="full">Denzler</persName>
             </person>
             <person xml:id="QZH_021_1">
                 <persName type="full">Denzler</persName>
@@ -197,7 +389,34 @@
             <person xml:id="QZH_014_11">
                 <persName type="full">Gmünderin</persName>
             </person>
+            <person xml:id="QZH_014_12">
+                <persName type="full">Gmünderin</persName>
+            </person>
+            <person xml:id="QZH_014_25">
+                <persName type="full">Gmünderin</persName>
+            </person>
+            <person xml:id="QZH_014_17">
+                <persName type="full">Gmünderin</persName>
+            </person>
+            <person xml:id="QZH_014_8">
+                <persName type="full">Gmünderin</persName>
+            </person>
+            <person xml:id="QZH_014_27">
+                <persName type="full">Gmünderin</persName>
+            </person>
+            <person xml:id="QZH_014_21">
+                <persName type="full">Gmünderin</persName>
+            </person>
+            <person xml:id="QZH_014_30">
+                <persName type="full">Gmünderin</persName>
+            </person>
+            <person xml:id="QZH_014_15">
+                <persName type="full">Gmünderin</persName>
+            </person>
             <person xml:id="QZH_015_17">
+                <persName type="full">Grebel</persName>
+            </person>
+            <person xml:id="QZH_015_2">
                 <persName type="full">Grebel</persName>
             </person>
             <person xml:id="QZH_018_10">
@@ -206,11 +425,38 @@
             <person xml:id="QZH_018_13">
                 <persName type="full">Göldi</persName>
             </person>
+            <person xml:id="QZH_018_17">
+                <persName type="full">Göldi</persName>
+            </person>
+            <person xml:id="QZH_018_15">
+                <persName type="full">Göldi</persName>
+            </person>
+            <person xml:id="QZH_018_16">
+                <persName type="full">Göldi</persName>
+            </person>
+            <person xml:id="QZH_018_7">
+                <persName type="full">Hanns Gölldi</persName>
+            </person>
+            <person xml:id="QZH_018_3">
+                <persName type="full">Hanns Gölldi</persName>
+            </person>
             <person xml:id="QZH_018_1">
                 <persName type="full">Hanns Gölldi</persName>
             </person>
+            <person xml:id="QZH_022_5">
+                <persName type="full">Hanns Hegni</persName>
+            </person>
+            <person xml:id="QZH_022_36">
+                <persName type="full">Hanns Hegni</persName>
+            </person>
             <person xml:id="QZH_022_29">
                 <persName type="full">Hanns Hegni</persName>
+            </person>
+            <person xml:id="QZH_022_30">
+                <persName type="full">Hanns Pfister</persName>
+            </person>
+            <person xml:id="QZH_022_8">
+                <persName type="full">Hanns Pfister</persName>
             </person>
             <person xml:id="QZH_022_1">
                 <persName type="full">Hanns Pfister</persName>
@@ -263,8 +509,14 @@
             <person xml:id="QZH_020_47">
                 <persName type="full">Hans Sigg</persName>
             </person>
+            <person xml:id="QZH_022_26">
+                <persName type="full">Hans Walder</persName>
+            </person>
             <person xml:id="QZH_022_24">
                 <persName type="full">Hans Walder</persName>
+            </person>
+            <person xml:id="QZH_022_9">
+                <persName type="full">Hans Zollingers</persName>
             </person>
             <person xml:id="QZH_022_3">
                 <persName type="full">Hans Zollingers</persName>
@@ -296,6 +548,9 @@
             <person xml:id="QZH_020_11">
                 <persName type="full">Hanß Siggen</persName>
             </person>
+            <person xml:id="QZH_020_3">
+                <persName type="full">Hanß Siggen</persName>
+            </person>
             <person xml:id="QZH_021_3">
                 <persName type="full">Haußlins</persName>
             </person>
@@ -305,8 +560,14 @@
             <person xml:id="QZH_021_7">
                 <persName type="full">Haüßlein</persName>
             </person>
+            <person xml:id="QZH_022_35">
+                <persName type="full">Heini Rebman</persName>
+            </person>
             <person xml:id="QZH_022_33">
                 <persName type="full">Heini Rebman</persName>
+            </person>
+            <person xml:id="QZH_022_25">
+                <persName type="full">Heini Scherer</persName>
             </person>
             <person xml:id="QZH_022_21">
                 <persName type="full">Heini Scherer</persName>
@@ -316,6 +577,9 @@
             </person>
             <person xml:id="QZH_022_15">
                 <persName type="full">Heini Walders</persName>
+            </person>
+            <person xml:id="QZH_012_8">
+                <persName type="full">Heinrich Bullinger</persName>
             </person>
             <person xml:id="QZH_012_10">
                 <persName type="full">Heinrich Bullinger</persName>
@@ -332,6 +596,9 @@
             <person xml:id="QZH_023_1">
                 <persName type="full">Heinrich Widmers</persName>
             </person>
+            <person xml:id="QZH_023_7">
+                <persName type="full">Heinrich Widmers</persName>
+            </person>
             <person xml:id="QZH_016_11">
                 <persName type="full">Helena Wildermuth</persName>
             </person>
@@ -339,6 +606,9 @@
                 <persName type="full">Hirtzel</persName>
             </person>
             <person xml:id="QZH_001_16">
+                <persName type="full">Holard</persName>
+            </person>
+            <person xml:id="QZH_003_5">
                 <persName type="full">Holard</persName>
             </person>
             <person xml:id="QZH_014_20">
@@ -356,10 +626,46 @@
             <person xml:id="QZH_014_31">
                 <persName type="full">Hëberlig</persName>
             </person>
+            <person xml:id="QZH_022_14">
+                <persName type="full">Imer</persName>
+            </person>
+            <person xml:id="QZH_022_41">
+                <persName type="full">Imer</persName>
+            </person>
+            <person xml:id="QZH_022_13">
+                <persName type="full">Imer</persName>
+            </person>
+            <person xml:id="QZH_022_4">
+                <persName type="full">Imer</persName>
+            </person>
+            <person xml:id="QZH_022_7">
+                <persName type="full">Imer</persName>
+            </person>
             <person xml:id="QZH_022_10">
                 <persName type="full">Imer</persName>
             </person>
+            <person xml:id="QZH_015_21">
+                <persName type="full">Isler</persName>
+            </person>
+            <person xml:id="QZH_015_9">
+                <persName type="full">Isler</persName>
+            </person>
+            <person xml:id="QZH_015_27">
+                <persName type="full">Isler</persName>
+            </person>
+            <person xml:id="QZH_015_26">
+                <persName type="full">Isler</persName>
+            </person>
             <person xml:id="QZH_015_16">
+                <persName type="full">Isler</persName>
+            </person>
+            <person xml:id="QZH_015_24">
+                <persName type="full">Isler</persName>
+            </person>
+            <person xml:id="QZH_015_23">
+                <persName type="full">Isler</persName>
+            </person>
+            <person xml:id="QZH_015_20">
                 <persName type="full">Isler</persName>
             </person>
             <person xml:id="QZH_015_22">
@@ -368,10 +674,16 @@
             <person xml:id="QZH_017_4">
                 <persName type="full">Jacob</persName>
             </person>
+            <person xml:id="QZH_017_6">
+                <persName type="full">Jacob</persName>
+            </person>
             <person xml:id="QZH_015_25">
                 <persName type="full">Jacob Isler</persName>
             </person>
             <person xml:id="QZH_016_16">
+                <persName type="full">Jacob Lüsis</persName>
+            </person>
+            <person xml:id="QZH_016_9">
                 <persName type="full">Jacob Lüsis</persName>
             </person>
             <person xml:id="QZH_016_3">
@@ -389,6 +701,9 @@
             <person xml:id="QZH_015_15">
                 <persName type="full">Jacoben Isler im Tal</persName>
             </person>
+            <person xml:id="QZH_015_4">
+                <persName type="full">Jacoben Isler imm Tal</persName>
+            </person>
             <person xml:id="QZH_015_19">
                 <persName type="full">Jacoben Isler imm Tal</persName>
             </person>
@@ -404,7 +719,13 @@
             <person xml:id="QZH_023_4">
                 <persName type="full">Jesu</persName>
             </person>
+            <person xml:id="QZH_023_5">
+                <persName type="full">Jesu Christi</persName>
+            </person>
             <person xml:id="QZH_012_1">
+                <persName type="full">Jesu Christi</persName>
+            </person>
+            <person xml:id="QZH_012_9">
                 <persName type="full">Jesu Christi</persName>
             </person>
             <person xml:id="QZH_012_5">
@@ -423,6 +744,9 @@
                 <persName type="full">Joh. Baptist Ott</persName>
             </person>
             <person xml:id="QZH_013_1">
+                <persName type="full">Kambli</persName>
+            </person>
+            <person xml:id="QZH_018_14">
                 <persName type="full">Kambli</persName>
             </person>
             <person xml:id="QZH_016_4">
@@ -452,7 +776,22 @@
             <person xml:id="QZH_003_7">
                 <persName type="full">Maleblanc</persName>
             </person>
+            <person xml:id="QZH_012_4">
+                <persName type="full">Maria</persName>
+            </person>
+            <person xml:id="QZH_012_15">
+                <persName type="full">Maria</persName>
+            </person>
+            <person xml:id="QZH_023_6">
+                <persName type="full">Maria</persName>
+            </person>
             <person xml:id="QZH_001_13">
+                <persName type="full">Maria</persName>
+            </person>
+            <person xml:id="QZH_012_12">
+                <persName type="full">Maria</persName>
+            </person>
+            <person xml:id="QZH_012_2">
                 <persName type="full">Maria</persName>
             </person>
             <person xml:id="QZH_016_1">
@@ -482,13 +821,28 @@
             <person xml:id="QZH_018_4">
                 <persName type="full">Moritz Gydonnis</persName>
             </person>
+            <person xml:id="QZH_005_1">
+                <persName type="full">Mustafa Caffa</persName>
+            </person>
             <person xml:id="QZH_004_1">
+                <persName type="full">Mustafa Caffa</persName>
+            </person>
+            <person xml:id="QZH_007_1">
+                <persName type="full">Mustafa Caffa</persName>
+            </person>
+            <person xml:id="QZH_010_1">
                 <persName type="full">Mustafa Caffa</persName>
             </person>
             <person xml:id="QZH_009_1">
                 <persName type="full">Mustafa Carra</persName>
             </person>
+            <person xml:id="QZH_008_2">
+                <persName type="full">Mustaffa Caffa</persName>
+            </person>
             <person xml:id="QZH_006_1">
+                <persName type="full">Mustaffa Caffa</persName>
+            </person>
+            <person xml:id="QZH_006_2">
                 <persName type="full">Mustaffa Caffa</persName>
             </person>
             <person xml:id="QZH_008_1">
@@ -497,7 +851,22 @@
             <person xml:id="QZH_001_1">
                 <persName type="full">Mustapha Caffa</persName>
             </person>
+            <person xml:id="QZH_002_1">
+                <persName type="full">Mustapha Caffa</persName>
+            </person>
+            <person xml:id="QZH_001_3">
+                <persName type="full">Mustapha Caffa</persName>
+            </person>
+            <person xml:id="QZH_MyCollection_Example_2">
+                <persName type="full">Mustapha Caffa</persName>
+            </person>
+            <person xml:id="QZH_MyCollection_Example_1">
+                <persName type="full">Mustapha Caffa</persName>
+            </person>
             <person xml:id="QZH_003_1">
+                <persName type="full">Mustapha Cara</persName>
+            </person>
+            <person xml:id="QZH_003_4">
                 <persName type="full">Mustapha Cara</persName>
             </person>
             <person xml:id="QZH_007_2">
@@ -506,13 +875,22 @@
             <person xml:id="QZH_011_7">
                 <persName type="full">Ottinguer</persName>
             </person>
+            <person xml:id="QZH_019_2">
+                <persName type="full">Paulus</persName>
+            </person>
             <person xml:id="QZH_019_1">
                 <persName type="full">Paulus</persName>
             </person>
             <person xml:id="QZH_022_38">
                 <persName type="full">Pennigig</persName>
             </person>
+            <person xml:id="QZH_011_3">
+                <persName type="full">Peprune</persName>
+            </person>
             <person xml:id="QZH_011_2">
+                <persName type="full">Peprune</persName>
+            </person>
+            <person xml:id="QZH_011_4">
                 <persName type="full">Peprune</persName>
             </person>
             <person xml:id="QZH_022_17">
@@ -530,6 +908,21 @@
             <person xml:id="QZH_020_26">
                 <persName type="full">Rütschi</persName>
             </person>
+            <person xml:id="QZH_020_8">
+                <persName type="full">Rütschi</persName>
+            </person>
+            <person xml:id="QZH_020_5">
+                <persName type="full">Rütschi</persName>
+            </person>
+            <person xml:id="QZH_020_7">
+                <persName type="full">Rütschi</persName>
+            </person>
+            <person xml:id="QZH_020_9">
+                <persName type="full">Rütschi</persName>
+            </person>
+            <person xml:id="QZH_020_6">
+                <persName type="full">Rütschi</persName>
+            </person>
             <person xml:id="QZH_020_13">
                 <persName type="full">Rütschis</persName>
             </person>
@@ -540,6 +933,9 @@
                 <persName type="full">Scheüchtzern</persName>
             </person>
             <person xml:id="QZH_022_27">
+                <persName type="full">Schleipfer</persName>
+            </person>
+            <person xml:id="QZH_022_40">
                 <persName type="full">Schleipfer</persName>
             </person>
             <person xml:id="QZH_016_12">
@@ -554,7 +950,16 @@
             <person xml:id="QZH_011_8">
                 <persName type="full">Schutzer</persName>
             </person>
+            <person xml:id="QZH_020_19">
+                <persName type="full">Sigg</persName>
+            </person>
             <person xml:id="QZH_020_12">
+                <persName type="full">Sigg</persName>
+            </person>
+            <person xml:id="QZH_020_16">
+                <persName type="full">Sigg</persName>
+            </person>
+            <person xml:id="QZH_020_15">
                 <persName type="full">Sigg</persName>
             </person>
             <person xml:id="QZH_020_14">
@@ -587,6 +992,9 @@
             <person xml:id="QZH_016_19">
                 <persName type="full">Ulrich Kramers</persName>
             </person>
+            <person xml:id="QZH_014_4">
+                <persName type="full">Ursula Gmünderin</persName>
+            </person>
             <person xml:id="QZH_014_22">
                 <persName type="full">Ursula Gmünderin</persName>
             </person>
@@ -605,10 +1013,19 @@
             <person xml:id="QZH_018_6">
                 <persName type="full">Wilhälm Schomal</persName>
             </person>
+            <person xml:id="QZH_011_6">
+                <persName type="full">Zeller</persName>
+            </person>
             <person xml:id="QZH_001_7">
                 <persName type="full">Zeller</persName>
             </person>
             <person xml:id="QZH_022_12">
+                <persName type="full">Zollingers</persName>
+            </person>
+            <person xml:id="QZH_022_20">
+                <persName type="full">Zollingers</persName>
+            </person>
+            <person xml:id="QZH_022_6">
                 <persName type="full">Zollingers</persName>
             </person>
             <person xml:id="QZH_014_35">
@@ -620,9 +1037,12 @@
             <person xml:id="QZH_016_22">
                 <persName type="full">hans Rodolf Walders</persName>
             </person>
+            <person xml:id="QZH_014_5">
+                <persName type="full">zur Louben</persName>
+            </person>
             <person xml:id="QZH_014_19">
                 <persName type="full">zur Louben</persName>
             </person>
         </listPerson>
     </standOff>
-	</TEI>
+</TEI>

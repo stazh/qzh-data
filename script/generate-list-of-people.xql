@@ -6,8 +6,10 @@ declare function local:remove-duplicates($items as item()*)
 as item()*
 {
   for $i in $items
-  group by $i
-    return $items[index-of($items, $i)[1]]
+  let $id := $i//@xml:id
+  let $identifier := $id || "-" || $i//text()
+  group by $identifier
+    return $i[1]
 };
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="persons" type="Person">
@@ -45,7 +47,7 @@ as item()*
         let $allWithoutDuplicates := local:remove-duplicates($all)
         let $allOrdered :=
           for $i in $allWithoutDuplicates
-            order by $i//persName//text()
+            order by $i//persName//text(), $i//@xml:id
             return $i
         
         return $allOrdered
