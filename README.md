@@ -29,6 +29,12 @@ Es ist auch möglich, Personen zu kenneichnen, ohne eine Referenz anzugeben:
 <persName>Anna Weber</persName>
 ```
 
+Wenn Personen mit einer NID als ref-Tag ausgezeichnet werden, erscheint auf der Benutzeroberfläche automatisch ein Link, um weitere Personeninformationen im Katalog der Deutschen Nationalbibliothek anzuzeigen:
+
+```xml
+<persName ref="118517384">Heinrich Bullinger</persName>
+```
+
 Mit einem Skript ist es möglich, aus allen Quellenstücken die `person/person.xml` zu generieren. Dieses Skript befindet sich unter `script/generate-list-of-people.xql`.
 
 Dieses Skript kann direkt innerhalb von eXide mit dem „Eval“-Button gestartet werden. Das Skript benötigt ungefähr eine Minute, um die Liste mit Personen zusammenzustellen. Anschliessend wird die der neue Inhalt der Datei `person/person.xml` auf dem unteren Bildschirmrand angezeigt: 
