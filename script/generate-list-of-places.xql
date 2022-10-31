@@ -6,18 +6,25 @@ declare function local:remove-duplicates($items as item()*)
 as item()*
 {
   for $i in $items
-  let $id := $i//@xml:id
+  let $placeId := $i//@xml:id
   let $placeName := $i//text()
 
-
-
-  group by $id
-    return <place xml:id="{$id}" n="{$placeName[1]}">
+  group by $placeId
+  
+    
+    return <place xmlns="http://www.tei-c.org/ns/1.0" xml:id="{$placeId}" n="{string-join(distinct-values($placeName), ", ")}">
     {
-        for $place in $i
-        let $placeName := $place//text()
-        group by $placeName
-        return <placeName>{$place[1]//text()}</placeName>
+        let $placesTags := for $place in $i
+                        let $placeName := $place//text()
+                        group by $placeName
+                        return <placeName type="main">{$place[1]//text()}</placeName>
+        
+        let $coordinateTag := if (fn:matches($placeId, "^[-+]?([1-8]?\d(\.\d+)?|90(\.0+)?) \s*[-+]?(180(\.0+)?|((1[0-7]\d)|([1-9]?\d))(\.\d+)?)$")) (:check if the reference is a coordinate. Example format: 47.37721420014591 8.527299029687203:) 
+                                then <location><geo>{string-join($placeId)}</geo></location>  
+                                else ()
+        
+        return [$placesTags, $coordinateTag]
+        
     }
     
     </place>  
@@ -53,6 +60,7 @@ as item()*
               then $p//@ref
               else $quellenstueck//seriesStmt/tei:idno || "_" || $pos
 
+        
             order by $id
             return <place xml:id="{$id}">
                         <placeName type="main">{$placeName}</placeName>
