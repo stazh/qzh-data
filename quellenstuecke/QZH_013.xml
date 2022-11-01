@@ -32,7 +32,7 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH E I 30.29, Nr. 1</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4890606">StAZH E I 30.29, Nr. 1</idno>
      </msIdentifier>
      <head>Schreiben des Pfarrers von Flaach mit Bitte um Unterstützung für die Finanzierung einer Pfarrstelle in der Gemeinde Dorf</head>
      <msContents>
@@ -65,8 +65,10 @@
   <profileDesc>
    <textClass default="false">
     <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-     <term ref="key000670">Konfession</term>
+     <term ref="key000149">Gottesdienst</term>
+     <term ref="key000212">Löhne</term>
      <term ref="key000301">Pfarrer</term>
+     <term ref="key000637">Pfarrei</term>
     </keywords>
    </textClass>
    <particDesc default="false"/>
@@ -79,49 +81,49 @@
     <body>
      <pb n="1"/>
      <div><p>
-      <seg><lb/>An die Frommen fürsichtigen eerenvesten und wysen herren
+      <seg><lb/>An die frommen, fürsichtigen, eerenvesten und wysen herren
       <lb/>burgermeister <persName>Kambli</persName>, beide herren seckelmeister und herrenn
-      <lb/>obmann <persName>Käller</persName> myne gnädigen und gebietenden herrenn.</seg>
+      <lb/>obmann <persName>Käller</persName>, myne gnädigen und gebietenden herrenn.</seg>
       <seg><lb/>Gottes gnad, sampt minem fründtlichen gruͦß, auch
-      underthenigen diensten jeder zit zevor
-      <lb/>fromme fürsichtige eersamme und wyse gnedige herren die ursach mynes schribens an
-      <lb/><abbr>ü.</abbr> ersam wyßheit ist dise    Es sind verschiner
-      zit vor üch unseren gnedigen herren
+      underthenigen diensten jeder zit zevor,
+      <lb/>fromme, fürsichtige, eersamme und wyse, gnedige herren.</seg> <seg>Die ursach mynes schribens an
+      <lb/><abbr>ü.</abbr> ersam wyßheit ist dise:    Es sind verschiner
+      zit vor üch, unseren gnedigen herren,
       <lb/>erschinen die anwält der gmeind <placeName>Dorff</placeName> in der herrschaft <placeName>Andelfingen</placeName>, mit
-      <lb/>deemütiger bitt ir unser gnedig herren, welltind inen auch ein stür und hilff
-       thuͦn
+      <lb/>deemütiger bitt ir, unser gnedig herren, welltind inen auch ein stür und hilff
+       thuͦn,
       <lb/>daamit sy mit Gottes wort versächen, und inen das heilig evangelium in irem
        <lb/>kilchli und capell verkünt und predget möchte werden, dann sy sunst zuͦ der pfarr
-      <lb/><placeName>Andelfingen</placeName> hörend, daahin si auch bißher gangen sind
+      <lb/><placeName>Andelfingen</placeName> hörend, daahin si auch bißher gangen sind.
       <lb/>Diewyl sich aber ir gmeind umb vil gemeeret, der kilchwäg eben wyt, sy auch all
-      <lb/>arbeitsame und müde lüt sind Auch vil junger und alter lüten under inne sigind
-      <lb/>die etwan minder ze kilchen gangen weder sich gebürt    In ansächung des und anders
-       <lb/>hand si an irem herr pfarrer und <abbr>h.</abbr> obervogt geworben ob inen nit zuͦglaan
+      <lb/>arbeitsame und müde lüt sind, auch vil junger und alter lüten under inne sigind,
+      <lb/>die etwan minder ze kilchen gangen weder sich gebürt:    In ansächung des und anders
+       <lb/>hand si an irem herr pfarrer und <abbr>h.</abbr> obervogt geworben, ob inen nit zuͦglaan
       <lb/>möchte werden, diewyl sy ein eigen kilchli und capell habind, das man inen uff
-      <lb/>iren kosten auch am <abbr>h.</abbr> sontag ein leer und predig theti wellind sy nüt dester
+      <lb/>iren kosten auch am <abbr>h.</abbr> sontag ein leer und predig theti, wellind sy nüt dester
       <lb/>minder sich nit von der pfarr kilch absünderen, sonder ire kindli daa laßen
       tauffen
       <lb/>ire eeen daa bestäten, das nachtmaal <abbr>s</abbr> herren mit inne uf die heiligen tag
-      empfachen
+      empfachen,
       <lb/>auch die zinstag predig so vil inne müglich besuchen.    Hand inen die vorgenannten
       <lb/>herren das nit wellen weeren, sonder inen ire yfer und christenliche wolmeinung
       <lb/>laßen gefallen.    Hieruf sy an mich gewerben hand, das ich inen welli zewillen
-      <lb/>werden und inen umb gottes willen, auch umb ein eerlichen lon das <abbr>h.</abbr> evangelium
-      <lb/>verkünden    Wiewol ich mich nun dest nie versächen, und ich min alter und kilch
+      <lb/>werden und inen umb gottes willen, auch umb ein eerlichen lon, das <abbr>h.</abbr> evangelium
+      <lb/>verkünden    Wiewol ich mich nun dest nie versächen und ich min alter und kilch,
       <lb/>auch dienst fürgewänt, hand si doch nit wellen abstaan, und mich leschtlich
-      bewegt
+      bewegt,
       <lb/>das ich inen bin ze willen worden, und hab si jetz bis in das viert jaar naach
       miner
-      <lb/>gethaaner predig am sontag vor mittag versächen davon si mir ierlich gäben
-      <lb/>hand etwan xx etwan xxv. <abbr>fl</abbr>
-      <lb/>Diewyl sy aber arm sind, und auch im gmeinen seckel nit vil hand, sonder das gält
+      <lb/>gethaaner predig am sontag vor mittag versächen davon si mir jerlich gäben
+      <lb/>hand etwan xx, etwan xxv. <abbr>fl</abbr>
+      <lb/>Diewyl sy aber arm sind und auch im gmeinen seckel nit vil hand, sonder das gält
       also
-      <lb/>zesamesammlent und stürend, sind sy rätig worden ein underthenige bit an üwer
+      <lb/>zesamesammlent und stürend, sind sy rätig worden, ein underthenige bit an üwer
        <lb/>ersam wyßheit zetuͦn, das ir iren us gnaaden ein
        stür und hilf hieran thuͦn
       <lb/>wellint, diewyl si meer theils all ir zins und zächenden gan <placeName>Dös</placeName><!-- msr: Töss, Kloster --> in das kloster
-      <lb/>gäbint    Habend mich ietz gebätten, diewyl inen
-      noch kein antwort worden <abbr>ü</abbr>
+      <lb/>gäbint    Habend mich jetz gebätten, diewyl inen
+      noch kein antwort worden, <abbr>ü</abbr>
        <lb/><abbr>er.</abbr> wißheit zuͦberichten, das ir meinung gar nit
       sige, das sy eines eignen predigers
       <lb/>begärint, und also understaan wöltind ein eigne pfarr ufzerichten, und sich von
@@ -129,24 +131,24 @@
       kinder
       <lb/>dester bas im glauben und in gottes wort und willen berichtet werdind und in allem
        guͦten
-       <lb/>zuͦnämmend Diewyl ich nun anders nüt bi inne spür
-      dannn ein christenlich yfer, und
+       <lb/>zuͦnämmend. Diewyl ich nun anders nüt bi inne spür,
+      dann ein christenlich yfer und
       <lb/>das sy mit allem flys und ernst Gottes wort hörend, ist min dienstlich underthenige
       bit
-      <lb/>an <abbr>e. e. w.</abbr> wollint si in gnaden bedencken und ir demuͤtige bit erhören.</seg>
+      <lb/>an <abbr>e. e. w.</abbr>, wollint si in gnaden bedencken und ir demuͤtige bit erhören.</seg>
       <seg><lb/>Hiemit tuͦn ich <abbr>ü. e. w.</abbr> gott dem herren
       befälchen, bit hiebi wellind mich und die minen alizit
       <lb/>in gnaaden befolchen haben datum den <origDate when="1583-11-06">6 novembris a<hi rend="sup">o</hi>
       1583.</origDate>
-       <lb/><abbr>ü. e. w.</abbr> <abbr>underth.</abbr> diener <persName>Hans Löüw</persName> pfarrer zuͦ <placeName>Flaach</placeName></seg>
+       <lb/><abbr>ü. e. w.</abbr> <abbr>underth.</abbr> diener <persName>Hans Löüw</persName>, pfarrer zuͦ <placeName>Flaach</placeName></seg>
       <pb n="2"/>
       <lb/>Demm frommen, erenvesten, fürsichtigen
       <lb/>ersamen und wysen herren <persName>Hans
-      <lb/>Kambli</persName>, burgermeister der statt <placeName>Zü-
-      <lb/>rich</placeName>, mynem gnedigen herrenn.
+      <lb/>Kambli</persName>, burgermeister der statt <placeName>Zü<lb break="no"/>rich</placeName>, 
+      mynem gnedigen herrenn.
       <lb/>Umb ein stür, einem predicannten,
-      <lb/>so ein gmeind zu <placeName>Dorff</placeName> mit pre-
-      <lb/>digen versichen.
+      <lb/>so ein gmeind zu <placeName>Dorff</placeName> mit pre<lb break="no"/>digen 
+      versichen.
       <lb/><placeName>Dorff</placeName></p></div>
     </body>
     <back>

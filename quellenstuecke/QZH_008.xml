@@ -8,7 +8,6 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
     <respStmt>
      <persName>Andrea Schmid-Kunz</persName>
      <resp key="transcript"/>
@@ -33,9 +32,9 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH A 27.125</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4899937">StAZH A 27.125, Nr. 52</idno>
      </msIdentifier>
-     <head>Eintrag im Ratsmanual betreffend Mustapha Kaffa</head>
+     <head>Bericht des Diakons Johannes Ott betreffend Mustapha Caffa oder Carra</head>
      <msContents>
       <msItem>
        <textLang>Deutsch</textLang>
@@ -91,15 +90,15 @@
       <lb/>ehrenveste, fürnemme, fürsichtige, wolweise,
       <lb/>in sonders hochgeerte, gnädige herren;
       <lb/>In anderthalb-stündiger conferenz im
-      <lb/><placeName>Wellenberg</placeName>, morgens den <date when="1706-07-27">27. Heumonats 1706</date>. mit
-      <lb/><persName>Mustaffa Carra</persName> (so wollte er genennet werden, und
+      <lb/><placeName>Wellenberg</placeName>, morgens den <date when="1706-07-27">27. Heumonats 1706</date> mit
+      <lb/><persName>Mustaffa Carra</persName> (so wollte er genennet werden und
       <lb/>nicht <persName>Mustaffa Caffa</persName>) habe befunden, dß er auff
       <lb/>alles menschliche vermanen und zusprechen hin
       <lb/>beharret zulaügnen, dß er zu <placeName>Einsidlen</placeName> getaufft
-      <lb/>worden, oder zu <placeName>Zürich</placeName> begeret habe getaufft zuwerden
+      <lb/>worden oder zu <placeName>Zürich</placeName> begeret habe getaufft zuwerden,
       <lb/>sonder er habe allhier nur angezeiget, dß er würklich
       <lb/>albereit getaufft seye, begere aber weitere instruction
-      <lb/>im christlichen glauben, und recommendation in <placeName>Holland</placeName>.
+      <lb/>im christlichen glauben und recommendation in <placeName>Holland</placeName>.
       <lb/>Er habe den <abbr>h.</abbr> tauff schon in <placeName>Bern</placeName> empfangen, als er
       <lb/>jederweilen bekennet. Auff die ein und ander wertig ge<lb break="no"/>tahne 
       einwürff, dß anderwertiger schrifft- und mündlicher
@@ -109,11 +108,11 @@
       <lb/>wol verstanden, und also seine meinung nicht wol abge<lb break="no"/>faßet 
       hette. Im examen der religion halben habe gefun<lb break="no"/>den, 
       dß er unser christliche religion nicht unfein verstehet,
-      <lb/>dß vater unser, die artickel des glaubens, und die <abbr>h.</abbr>
+      <lb/>dß Vater Unser, die artickel des glaubens, und die <abbr>h.</abbr>
       <lb/>zehen gebott auf reformierte weis auswendig kann: Die
       <lb/>reformierte der papistischen religion in der christenheit
       <lb/>vorzeücht, allermeistens wegen der <placeName>römischen</placeName> abgötterey;
-      <lb/>vorgiebet er habe einen gust davon bekommen auff der
+      <lb/>vorgiebet, er habe einen gust davon bekommen auff der
       <lb/><placeName>französischen</placeName> galere, da er nebst reformierten auff
       <lb/>gleiche bank geschlagen gewesen, zugleich bezeüget, dß
       <lb/>er, was er allhier ausgebe, auch wann es anderst nicht
@@ -122,7 +121,7 @@
       <lb/>consilia!
       <lb/>Euer gnaden und weisheit
       <lb/>gehorsamster
-      <lb/><persName>Joh. Baptist Ott</persName>
+      <lb/><persName>Joh. Baptist Ott</persName>,
       <lb/>diacon.</p></div>
     </body>
     <back><div>

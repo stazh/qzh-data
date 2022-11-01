@@ -8,7 +8,6 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
                 <respStmt>
                     <persName>Andrea Schmid-Kunz</persName>
                     <resp key="transcript"/>
@@ -33,13 +32,13 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno>StAZH A 27.125</idno>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4899932">StAZH A 27.125, Nr. 56</idno>
                     </msIdentifier>
-                    <head>Der Fall des Türken Mustapha Caffa oder Cara</head>
+                    <head>Aussagen des Mustapha Caffa anlässlich seiner Befragung</head>
                     <msContents>
                         <msItem>
                             <textLang>Deutsch</textLang>
-                            <filiation type="current">Eintrag</filiation>
+                            <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
                             <filiation type="original"><origDate from="1706-07-21" to="1706-08-03"/></filiation>
                         </msItem>
                     </msContents>
@@ -83,43 +82,30 @@
         <group>
             <text>
                 <body>
-            <div><ab place="verso" type="dorsal">
-                <pb n="1"/>
-                <p>
-            <lb/>Nachgang
-            <lb/>3. <persName>Mustapha Cara</persName> ein Türck von <placeName>Algiers</placeName>
-            <lb/>gebürtig, wegen verdachts in dem <placeName>Wellen<lb break="no"/>berg</placeName> verhaften. <choice><abbr>betr</abbr><expan>effend</expan></choice> <origDate when="1706">1706</origDate>.
-            <lb/>Vom <origDate when="1706-07-21">21.ten julii. <abbr>A.<hi rend="sup">o</hi></abbr> 1706</origDate>.
-                <lb/>vom <origDate when="1706-07-23">23.ten dito</origDate>.
-                <lb/>vom <origDate when="1706-08-03">3.ten augusti</origDate>.
-            </p></ab>
-            </div>
-                    <div>
-                <p>
-            <lb/>Was für ein endurtheil, über obigen betrieger ergangen
-                <lb/>zeigt sich im und. Man: sub <origDate when="1706-08-04">4 ten: Aug. 1706</origDate>.
-            <pb n="2"/>
-            <lb/><choice><abbr>Actm</abbr><expan>Actum</expan></choice> mitwochs den 21.ten julii. A.<hi rend="sup">o</hi> 1706.
+      <div>
+            <pb n="1"/>
+          <p>
+            <lb/><choice><abbr>Actm</abbr><expan>Actum</expan></choice> mitwochs den 21.ten julii. A.<hi rend="sup">o</hi> 1706,
             <lb/><choice><abbr>prent</abbr><expan>presentibus</expan></choice> herren rathsherr <persName>Hans Rudolf Werdmüler</persName> und
             <lb/>herren zunfftmeister <persName>Meyer</persName>.
             <lb/>Aus oberkeitlichem befehl, wurde der im <placeName>Wellenberg</placeName> verhafte
             <lb/><persName>Mustapha Cara</persName> von <placeName>Algiers</placeName> gebürtig, alles ernsts examiniert,
-            <lb/>welcher hierauf folgende aussag gethan.
+            <lb/>welcher hierauf folgende aussag gethan:
             <lb/>Sein vatter seye ein kaufmann auf dem meer geweßen, und als
             <lb/>er 12. jahr 8. monat alt, nebent selbigem, samt der mutter
-            <lb/>und geschwösterten von den <orgName>Franzosen</orgName> gefangen, und nach <placeName>Marsilien</placeName> auf die
-            <lb/>gallere geführt worden, woselbst er 32. jahr 2 monat und
-            <lb/>3. tag als ein armer gefangner geweßen, und vor 3. jahren
+            <lb/>und geschwösterten, von den <orgName>Franzosen</orgName> gefangen und nach <placeName>Marsilien</placeName> auf die
+            <lb/>gallere geführt worden, woselbst er 32. jahr, 2 monat und
+            <lb/>3. tag als ein armer gefangner geweßen und vor 3. jahren
             <lb/>erlößt worden, da er den graden wegs nach <placeName>Bern</placeName> kommen,
-            <lb/>und sich daselbst taufen laßen von mr. <persName>Holard</persName>, seine tauf<lb break="no"/>zeüg 
+            <lb/>und sich daselbst taufen laßen von <abbr>mr.</abbr> <persName>Holard</persName>, seine tauf<lb break="no"/>zeüg 
                     seyen geweßen <abbr>mr.</abbr> le president <persName>Tillier</persName> und noch ein alter 
             <lb/>herr, welcher erstere ihme 1 doublonen geben, und ein
-            <lb/>taufzedul zugestellt worden, zu <placeName>Bern</placeName> seye er 6. wochen und
+            <lb/>taufzedul zugestellt worden. Zu <placeName>Bern</placeName> seye er 6. wochen und
             <lb/>3. tag gebliben, unßer religion hebe er erlehrnet von 2.
             <lb/>genfern, deren der einte <persName>Maleblanc</persName> vom geschlecht und
-            <lb/>eines maurers sohn, desgleichen einer von <placeName>Lausanna</placeName> so <persName>Bauvain</persName>
-            <lb/>geheißen, die mit ihme auf der gallere an einem ruder ge-
-            <lb/>fangen geweßen, und von unßerer religion geredt, daß
+            <lb/>eines maurers sohn, desgleichen einer von <placeName>Lausanna</placeName>, so <persName>Bauvain</persName>
+            <lb/>geheißen, die mit ihme auf der gallere an einem ruder ge<lb break="no"/>fangen 
+              geweßen, und von unßerer religion geredt, daß
             <lb/>wie er von <placeName>Bern</placeName> hinweg kommen, selbige gut gewüßt habe, als er
             <lb/>nun auf <placeName>Genff</placeName> wollen, habe man ihne zu <placeName>Versoy</placeName> zu kriegs<lb break="no"/>dienst 
                     gezwungen und nacher <placeName>Valenciene</placeName> geführt, daselbst er
@@ -129,14 +115,14 @@
             <lb/>habe er alle campagnie gethan, von <placeName>Marseille</placeName> hinweg, seye er
             <lb/>auf <placeName>Collmar</placeName>, <placeName>Basel</placeName>, <placeName>Zurzach</placeName>, <placeName>Arauw</placeName>, <placeName>Lutzern</placeName>, da er sich an sinnem
             <lb/>fueß 5 tag lang curieren laßen, welches er umb gottes willen
-            <lb/>geforderet, und sie ihne nicht gefraget, als ob er ein frömlider seye
-           <pb n="3"/>
-            <lb/>von <placeName>Lutzern</placeName> seye er an ein orth, so ein see wie hier habe,
-            <lb/>Hernach auf <placeName>Dietikon</placeName>, allwo er in dem wirthshauß in einem sack
+            <lb/>geforderet, und sie ihne nicht gefraget, als ob er ein frömlider seye.
+           <pb n="2"/>
+            <lb/>Von <placeName>Lutzern</placeName> seye er an ein orth, so ein see wie hier habe,
+            <lb/>hernach auf <placeName>Dietikon</placeName>, allwo er in dem wirthshauß in einem sack
             <lb/>das pater noster gefunden, und endtlich hieher kommen auf die
             <lb/><placeName>Sillbrug</placeName>, da ihne ein franzoß, dem man ein kind tauft und
             <lb/>der ihne zu <placeName>Bern</placeName> kennt, antrofen, welcher alsbald
-            <lb/>gesagt, en voila se pauvre turc, und zu sich geladen, zu dem
+            <lb/>gesagt, <q>en voila se pauvre turc</q>, und zu sich geladen, zu dem
             <lb/>er gangen, und mitgeholfen essen und trinken, er seye nie
             <lb/>zu <placeName>Einsidlen</placeName> noch in einer procession geweßen, auch sein leben<lb break="no"/>tag 
                     nichts von <placeName>Einsidlen</placeName> gehört, so er betriege, solle ihn gott
@@ -146,6 +132,21 @@
             <lb/>und verlange, daß er in unßerer religion wider möchte
             <lb/>unterrichtet werden, rede jemand anders, so habe man ihm nit
             <lb/>verstanden.</p></div>
+                    <pb n="3"/>
+                    <div><ab place="verso" type="dorsal">
+                        <p>
+                            <lb/>Nachgang
+                            <lb/>3. <persName>Mustapha Cara</persName> ein türck von <placeName>Algiers</placeName>
+                            <lb/>gebürtig, wegen verdachts in dem <placeName>Wellen<lb break="no"/>berg</placeName> verhaften <choice><abbr>betr</abbr><expan>effend</expan></choice>, <origDate when="1706">1706</origDate>.
+                            <lb/>Vom <origDate when="1706-07-21">21.ten julii. <abbr>A.<hi rend="sup">o</hi></abbr> 1706</origDate>.
+                            <lb/>vom <origDate when="1706-07-23">23.ten dito</origDate>.
+                            <lb/>vom <origDate when="1706-08-03">3.ten augusti</origDate>.
+                        </p></ab>
+                    </div>
+                    <div>
+                        <p>
+                            <lb/>Was für ein endurtheil über obigen betrieger ergangen
+                            <lb/>zeigt sich im <choice><abbr>und. man:</abbr><expan>underschreibermanual</expan></choice> sub <origDate when="1706-08-04">4 ten: Aug. 1706</origDate>.</p></div>
         </body>
                 <back>
                     <div>

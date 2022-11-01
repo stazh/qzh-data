@@ -32,13 +32,13 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH E I 10.4, Nr. 3</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4902121">StAZH E I 10.4, Nr. 3.2</idno>
      </msIdentifier>
-     <head>Konfessionell besetzter Wirtshauskonflikt</head>
+     <head>Zeugenaussagen zu einem konfessionell besetzten Wirtshauskonflikt</head>
      <msContents>
       <msItem>
        <textLang>Deutsch</textLang>
-       <filiation type="current">Aufzeichnungen (Einzelblatt)</filiation>
+       <filiation type="current">Aufzeichnungen (Doppelblatt)</filiation>
        <filiation type="original"></filiation>
       </msItem>
      </msContents>
@@ -50,8 +50,7 @@
        </supportDesc>
       </objectDesc>
      </physDesc>
-     <history><origin><origDate from="1615-01-01" to="1615-12-31">Datierung aufgrund des
-      Inhalts</origDate></origin></history>
+     <history><origin><origDate from="1615-01-01" to="1615-12-31">Datierung gemäss StAZH E I 10.4, Nr. 3.1</origDate></origin></history>
     </msDesc>
    </sourceDesc>
   </fileDesc>
@@ -66,6 +65,7 @@
   <profileDesc>
    <textClass default="false">
     <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+     <term ref="key000285">Ehrverletzung</term>
      <term ref="key000670">Konfession</term>
      <term ref="key000301">Pfarrer</term>
      <term ref="key000758">Wirtshaus</term>
@@ -97,7 +97,8 @@
       <lb/>und gredt, er thrybe allweg syne tratzwortt, habe <persName>Boum<lb break="no"/>gartter</persName> iro domalß widerumb geandtworttet, er seche woll
       <lb/>sy <persName>Gmünderin</persName> heygs nit gern. Sy heyge ouch nach ein humbel
       <lb/>im arß, darzu wölle er iro noch woll sagen, was die <orgName>Züricher</orgName>
-      <lb/>sigind: Waß sy für ein leer fhüerind; Sy fhüerind keinß ap<lb break="no"/>postels leer, sy fhüerind nun des <persName>Zwinglins</persName> leer, unnd 
+      <lb/>sigind: Waß sy für ein leer fhüerind; Sy fhüerind keinß ap<lb break="no"/>postels 
+      leer, sy fhüerind nun des <persName>Zwinglins</persName> leer, unnd 
       <lb/>denselben habe man verbrenndt, dann er sige ein ketzer
       <lb/>gsyn, und sigind wirß ouch; Und sige under uns <orgName>Zürichern</orgName>
       <lb/>niemandt zu Gott kommen: Und kömme by uns niemandt zu
@@ -106,19 +107,20 @@
       <lb/>waß wir <orgName>Züricher</orgName> für pfaffen habind, die könnind nütt:
       <lb/>Aber ier könnind innen die sünden verzychen, und unsere,
       <lb/>der <orgName>Zürichern</orgName>, könnindtß nit. Wie nun hieruf sy <persName>Gmünderin</persName>
-      <lb/>zu ime Boumgartter gredt, er heigs erhygt. Dann ire
+      <lb/>zu ime <persName>Boumgartter</persName> gredt, er heigs erhygt. Dann ire
       <pb n="2"/>
       <lb/>könnind die sünden ouch nit verzychen. Dann wellicher sünder 
       <lb/>rüw, und leid über syne sünd habe, und Gott umb verzychung
       <lb/>bitten thüeige, dem verzyche Gott die sünden. Da habe
       <lb/><persName>Batt Boumgarttner</persName> darüber wytter gredt, er heige der jaren
-      <lb/>gmeindt, der krieg werde wider angohn, aber es sige ver<lb break="no"/>gebens, wyl daß wytt, oder breittmul (Herrn Aman <persName>zur 
+      <lb/>gmeindt, der krieg werde wider angohn, aber es sige ver<lb break="no"/>gebens, 
+      wyl daß wytt, oder breittmul (Herrn Aman <persName>zur 
       <lb/>Louben</persName> damit gemeindt) und der burgermeister <persName>Holtzhalb</persName>
       <lb/>zu <placeName>Zürich</placeName> lebind, so bescheche es nit. Aber wann eß wider
       <lb/>angienge, welltind sy unß <orgName>Zürichern</orgName> anderst thun, dann vor.
       <lb/>Dann sy wölltind unß das kloster <placeName>Cappell</placeName> nit mehr schëngken,
       <lb/>wie vor. Daruf heige sy <persName>Gmünderin</persName> gredt, <quote>rüwtß dich
-      <lb/>denn so übel: Was wottist mit thun, du Boumgartter
+      <lb/>denn so übel: Was wottist mit thun, du <persName>Boumgartter</persName>
       <lb/>Wottist dyne kind darfür setzen.</quote> By wellichen jetzterzellten
       <lb/>reden (so sy <persName>Ursula Gmünderin</persName>, und <persName>Batt Boumgartter</persName> also 
       <lb/>gegen einandern gethonn) sige der priester von <placeName>Nühen</placeName>, sampt
@@ -138,9 +140,10 @@
       <lb/>gredt.
       <pb n="3"/>
       <lb/><persName>Heinrich Kleiner</persName> von <placeName>Mettmastetten</placeName>, der domalß ouch ir
-      <lb/><persName>Gmünderin</persName> bystannd gewëßen, züget glychß, und ein-
-      <lb/>mündig wie wachtmeister <persName>Hëberlig</persName>.
+      <lb/><persName>Gmünderin</persName> bystannd gewëßen, züget glychß, und ein<lb break="no"/>mündig 
+      wie wachtmeister <persName>Hëberlig</persName>.
       <lb/>Unnd beschlosßend damit ire kundtschafft sagen.</p></div>
+     <pb n="4"/>
     </body>
     <back>
      <div><p>

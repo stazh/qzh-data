@@ -32,9 +32,9 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH A 9.2, Nr. 3</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3436031">StAZH A 9.2, Nr. 3</idno>
      </msIdentifier>
-     <head>Bericht des Ehegerichts über Pfarrer Hans Göldi wegen Ehebruch mit einer Prostituierten</head>
+     <head>Bericht des Ehegerichts der Stadt Zürich über Pfarrer Hans Göldi wegen Ehebruch mit einer Prostituierten</head>
      <msContents>
       <msItem>
        <textLang>Deutsch</textLang>
@@ -187,6 +187,7 @@
       <lb/>Burger unnd dienn<lb break="no"/>
       <lb/>er an dem <orgName>Eegricht</orgName>.</p></div>
       <pb n="5"/><!-- msr: leere Seite -->
+     <pb n="6"/>
       <div>
        <ab place="verso" type="dorsal"><p>
       <lb/>Den <date when="1587-09-19">19.ten 7bris 1587</date>.

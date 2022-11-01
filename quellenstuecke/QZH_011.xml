@@ -8,7 +8,6 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
     <respStmt>
      <persName>Andrea Schmid-Kunz</persName>
      <resp key="transcript"/>
@@ -33,13 +32,13 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH A 27.125</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4899938">StAZH A 27.125, Nr. 53</idno>
      </msIdentifier>
-     <head>Schreiben des Vorsingers der französischen Kirche in Zürich betreffend Mustapha Caffa oder Cara</head>
+     <head>Schreiben des Vorsingers der französischen Kirche in Zürich betreffend Mustapha Caffa</head>
      <msContents>
       <msItem>
        <textLang>Französisch</textLang>
-       <filiation type="current">Aufzeichnungen (Einzelblatt)</filiation>
+       <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
        <filiation type="original"></filiation>
       </msItem>
      </msContents>
@@ -76,6 +75,7 @@
      <term ref="key000670">Konfession</term>
      <term ref="key005339">Konversion</term>
      <term ref="key000301">Pfarrer</term>
+     <term ref="key003408">Taufe</term>
     </keywords>
    </textClass>
    <particDesc default="false"/>
@@ -95,23 +95,23 @@
       <lb/>kirchen.</p></ab></div>
      <div>
      <p>
-      <lb/>Le mercredi 14 juillet 1706 on me dit dans le
+      <lb/>Le mercredi, <date when="1706-07-14">14 juillet 1706</date>, on me dit dans le
       <lb/>temple qu’il avoit un turc dans nôtre assemblée.
       <lb/>Et en sortant je vis ce turc arréte à la porte, et
       <lb/>je lui demandai, s’il avoit une atestation, et
       <lb/>d’ou il étoit. Il me respondit qu’il n’avoit point
       <lb/>d’atestation, parce qu’il venoit presentement
       <lb/>des galeres de <placeName>France</placeName>, et qu’il n’avoit pas été
-      <lb/>en aucun endroit reformé qu’a <placeName>Arau</placeName> qu’il
-      <lb/>étoit d’<placeName>Algers</placeName> qu’il avoit été 32 ans sur les
-      <lb/>galeres de <placeName>France</placeName> qu’il connoissoit nos frères
-      <lb/>les confesseurs. Il m’en nomma plusieurs, et
+      <lb/>en aucun endroit reformé qu’a <placeName>Arau</placeName>, qu’il
+      <lb/>étoit d’<placeName>Algers</placeName>, qu’il avoit été 32 ans sur les
+      <lb/>galeres de <placeName>France</placeName>, qu’il connoissoit nos frères
+      <lb/>les confesseurs. Il m’en nomma plusieurs et
       <lb/>me dit des particularités et des circonstances
       <lb/>de leurs soufrances qu’il souhaitoit de recevoir
       <lb/>le bateme. Je lui dis de venir à midi chez
       <lb/>moi, parce que j’etois bien aise de l’examiner
-      <lb/>un peu plus, et même de le faire exami
-      <lb/>ner à monsieur <persName>Peprune</persName>. Il y vint où il dit
+      <lb/>un peu plus, et même de le faire exami<lb break="no"/>ner 
+      à monsieur <persName>Peprune</persName>. Il y vint où il dit
       <lb/>les memes choses sans se couper et témoigna
       <lb/>qu’il souhaitoit de se faire batizer et <abbr>Mr.</abbr>
       <lb/><persName>Peprune</persName> lui aiant dit, sil le disoit sincerement
@@ -123,14 +123,14 @@
       <lb/>bien aise de le faire voir à monsieur le marquis
       <lb/>de <persName>Rochegude</persName>. Je l’y menai, mais ne l’aiant
       <lb/>pas trouvé, je le presentai par rencontre à monsieur
-      <lb/>le pasteur <persName>Zeller</persName>, à qui il dit aussi qu’il souhai
-      <lb/>toit de recevoir le <del rend="strikethrough">bateme</del> christianisme, sur quoi <abbr>mr</abbr>
+      <lb/>le pasteur <persName>Zeller</persName>, à qui il dit aussi qu’il souhai<lb break="no"/>toit 
+      de recevoir le <del rend="strikethrough">bateme</del> christianisme, sur quoi <abbr>mr</abbr>
       le pasteur
       <lb/>me chargea de le mener apres diné chez monsieur
       <lb/>le professeur <persName>Ottinguer</persName>, et aiant dit a <abbr>Monsr.</abbr> 
       <lb/>le professeur la meme chose, m’ordonna
       <lb/>de le mener chez monsiegneur le zunft
-      <lb/>maistre <persName>Schutzer</persName></p></div>
+      <lb/>maistre <persName>Schutzer</persName>.</p></div>
     </body>
     <back><div>
      <p>In diesem einzigartigen Fall lässt sich verfolgen, wie konsequent der <orgName>Rat</orgName> die

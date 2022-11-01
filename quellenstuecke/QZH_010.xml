@@ -8,7 +8,6 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
     <respStmt>
      <persName>Andrea Schmid-Kunz</persName>
      <resp key="transcript"/>
@@ -33,9 +32,9 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH B II 695, S. 53</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4890591">StAZH B II 695, S. 53</idno>
      </msIdentifier>
-     <head>Eintrag im Ratsmanual betreffend Mustapha Kaffa</head>
+     <head>Beschluss betreffend Bestrafung und Landesverweis des Mustapha Caffa von Algier</head>
      <msContents>
       <msItem>
        <textLang>Deutsch</textLang>
@@ -68,6 +67,7 @@
   <profileDesc>
    <textClass default="false">
     <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+     <term ref="key000598">Ausweisung</term>
      <term ref="key000325">Fremde</term>
      <term ref="key000670">Konfession</term>
      <term ref="key005339">Konversion</term>
@@ -85,15 +85,15 @@
     <body>
      <pb n="53"/>
       <div><p> 
-       <lb/>Der im <placeName>Wellenberg</placeName> verhaffte, <persName>Mustafa Caffa</persName> von
+       <lb/>Der im <placeName>Wellenberg</placeName> verhaffte <persName>Mustafa Caffa</persName> von
        <lb/><placeName>Algiers</placeName>, welcher vor etwas jahren zu <placeName>Bern</placeName>
        <lb/>den christlichen glauben angenommen, und den
        <lb/><abbr>hlgn:</abbr> tauff empfangen; jüngst aber zu <placeName>Einsidlen</placeName>
-       <lb/>auch widrum getaufft worden; und auch in hier um
-       <lb/>den tauff angehalten; solle als ein betrieger, und
+       <lb/>auch widrum getaufft worden und auch in hier um
+       <lb/>den tauff angehalten, solle als ein betrieger und
        <lb/>profanator des sacraments des <abbr>hlgn:</abbr> tauffs
        <lb/>an den pranger gestellt, mit dem staupbäsen
-       <lb/>durch die statt gejagt werden, und für immer des
+       <lb/>durch die statt gejagt werden und für immer des
        <lb/>landts verwisen sein.</p>
       </div>
     </body>

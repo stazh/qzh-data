@@ -32,13 +32,13 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH E I 5.2, Nr. 21</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3950934">StAZH E I 5.2, Nr. 21</idno>
      </msIdentifier>
      <head>Gutachten der Zürcher Geistlichen zu Sexualdelikten</head>
      <msContents>
       <msItem>
        <textLang>Deutsch</textLang>
-       <filiation type="current">Aufzeichnungen</filiation>
+       <filiation type="current">Aufzeichnungen (2 Doppelblätter)</filiation>
        <filiation type="original"></filiation>
       </msItem>
      </msContents>
@@ -83,7 +83,7 @@
      <pb n="3"/>
      <div><p>
       <lb/>Herr bürgermeister, fromm, edel, vest,
-      ehrenvest, für sichtig, ehrsamm
+      ehrenvest, fürsichtig, ehrsamm
       <lb/>und wyß, insonders hochehrende
       gnedige liebe herren. Demnach
       <lb/>nun by wenig jahren har, und
@@ -222,7 +222,7 @@
       <lb/>ein keüscher reiner geist, und aller
       unreinigkeit deß lybs und deß gmüts
       <lb/>feyend ist, umb söllicher
-      greüwlen willen, die stett Sodoma und Gomorrha
+      greüwlen willen, die stett <placeName>Sodoma</placeName> und <placeName>Gomorrha</placeName>
       <lb/>vom himel herab
       verbränt hatt mit fhür und schwäbel. Deßglychen in 
       <lb/>synem <abbr>h.</abbr> gsatz
@@ -255,9 +255,9 @@
       machen <abbr>E. E. W.</abbr> hab uß gutem gmüt in söllichen fäh<lb break="no"/>len 
        etwan daß
       besser glauben, und den sachen destminder
-      nachsetzen
-       <pb break="no"/>
-       <lb/>wöllen, damit derglychen unrath destminder
+      nachsetzen</p>
+       <pb n="6"/>
+      <p><lb/>wöllen, damit derglychen unrath destminder
       komme under die liebe
        <lb/>jugend, nach auch ein gantzes land deßnacher
       verschreit werde. Man
@@ -308,6 +308,8 @@
       underthenige und<lb/>ghorsamme, die diener der
        <lb/>kilchen und
        schuͦl alhie.</p></div>
+     <pb n="7"/>
+     <pb n="8"/>
     </body>
     <back>
      <div><p>

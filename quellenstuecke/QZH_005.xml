@@ -8,7 +8,6 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
                 <respStmt>
                     <persName>Andrea Schmid-Kunz</persName>
                     <resp key="transcript"/>
@@ -33,9 +32,9 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno>StAZH B IV 205, S. 118</idno>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4890708">StAZH B IV 205, S. 118</idno>
                     </msIdentifier>
-                    <head>Der Fall des Türken Mustapha Caffa oder Cara</head>
+                    <head>Schreiben von Bürgermeister und Rat der Stadt Zürich an den Abt des Klosters Einsiedeln betreffend Mustapha Caffa</head>
                     <msContents>
                         <msItem>
                             <textLang>Deutsch</textLang>
@@ -86,22 +85,22 @@
                     <pb n="118"/>
                     <div>
                         <p>        
-                            <lb/>Vor einigen tagen ist allhier ankommen, ein manspersohn, welche hat einen krumen
+                            <lb/>Vor einigen tagen ist allhier ankommen ein manspersohn, welche hat einen krumen
                             <lb/>fuß, breite diknaß, großen knebelbart; tragt einen weisgrauwen rok, weisen
-                            <lb/>hut, leinin strümpf, mit lädernen riemen, sich angebend, nammenshalber <persName>Mustafa
-                            <lb/>Caffa</persName>, geburths statt halber von <placeName>Algiers</placeName>, ein gebohrner türk, mit anhalten daß
+                            <lb/>hut, leinin strümpf, mit lädernen riemen, sich angebend nammenshalber <persName>Mustafa
+                            <lb/>Caffa</persName>, geburths statt halber von <placeName>Algiers</placeName>, ein gebohrner türk, mit anhalten, daß
                             <lb/>ihme allhier das sacrament des <abbr>hlgen:</abbr> tauffs zugedienet werden möchte, weilen
                             <lb/>den christlichen glauben anzunemmen, und dem mahometanischen aberglauben
-                            <lb/>abzusagen willens, wenn wir aber von einigen unserer burgeren und angehörigen
-                            <lb/>die nachricht erhalten, daß eben dieser kerl, vor einigen wenig wochen, under
+                            <lb/>abzusagen willens. Wenn wir aber von einigen unserer burgeren und angehörigen
+                            <lb/>die nachricht erhalten, daß eben dieser kerl vor einigen wenig wochen, under
                             gleichen
                             <lb/>vorgäben, zu <placeName>Einsidlen</placeName> sich aufgehalten habe, und würklich getaufft worden seye;
                             <lb/>Als haben wir nicht umgehen wollen, mitleß gägenwirtigen, durch eigenen laüff<lb break="no"/>botten 
                             absendenden schreibens eüer <abbr>gn:</abbr> <add place="above"><abbr>frdt:</abbr> zuersuchen, unß ohnschwehr zu notificiren,<!-- Hinzufügung durch msr transkribiert --></add> obe die sachen wie obgedacht sich
-                            <lb/>verhalten, <add place="left margin">und ob mit bedeütem <lb/>kerl, alles sich erzelltermaßen <lb/>verloffen?</add> <del>zuvernemmen</del> damit das nöthig erachtende vorgekehrt werden
+                            <lb/>verhalten, <add place="left margin">und ob mit bedeütem <lb/>kerl alles sich erzelltermaßen <lb/>verloffen?</add> <del>zuvernemmen</del> damit das nöthig erachtende vorgekehrt werden
                             <lb/>könne; In erwartung nun einer verhofentlich willfahrigen antwort, thun wir
-                            <lb/>uns samtlich dem machtschirm des höchsten getreülich erlaßen, datum. Den
-                            <lb/><origDate when="1706-07-24">24ten. July A<hi rend="sup">o</hi>. 1706:</origDate>
+                            <lb/>uns samtlich dem machtschirm des höchsten getreülich erlaßen. Datum den
+                            <lb/><origDate when="1706-07-24">24ten. july <abbr>a<hi rend="sup">o</hi></abbr>. 1706:</origDate>
                             <lb/><orgName>Burgermeister und rath
                             <lb/>der statt <placeName>Zürich</placeName></orgName>.
                             <lb/>An herren abt zu <placeName>Einsidlen</placeName>

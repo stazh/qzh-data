@@ -32,13 +32,13 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-         <idno>A 27.3</idno>
+         <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4905699">A 27.3. Nr. 20.1</idno>
      </msIdentifier>
         <head>Kundschaften über gotteslästerliche Vorfälle</head>
      <msContents>
       <msItem>
        <textLang>Deutsch</textLang>
-       <filiation type="current">Eintrag</filiation>
+       <filiation type="current">Aufzeichnung (3 Doppelblätter)</filiation>
        <filiation type="original"/>
       </msItem>
      </msContents>
@@ -146,6 +146,7 @@
   <lb/>do hand sy inn anweg gefürt an dz gstat zu der <persName>Peter Ruͦtsch<lb break="no"/>mans</persName> 
   stapfen, do wüß er nümen, wie er hin kan sige.
   <pb n="4"/>
+     <pb n="5"/>
       <lb/><persName>Claus Ötikon</persName>, <abbr>d</abbr>, dz er nach dem nacht mal sig gangen mitt andren
   <lb/>knaben zuͦ dem schlafftrunck, do sig <persName>Kuͦnrad Schleipfer</persName> gesessen
       <lb/>inn des <persName>Zollingers</persName> huß hinder dem tisch nebend der schiben
@@ -169,7 +170,7 @@
       <lb/>heigi als wild unnd als übel geschworen als dise obgn[annten] und namlich
       <lb/>die schwur gotz macht und gotz ertrich ingestalt wie
       <lb/>die andern.
-  <pb n="5"/>
+  <pb n="6"/>
       <lb/><persName>Hanns Pfister der pfiffer</persName>, <abbr>d</abbr>, er sige gsin in der kuchi
   <lb/>do sige <persName>Cuͦnrad Schleipffer</persName> an dem morgen kom, do
       were es
@@ -197,7 +198,7 @@
       <lb/><persName>Hanns Hegni</persName>, <abbr>d</abbr>, wie beid <persName>Hanns Pfister</persName> geseit hand
   <lb/>von bösen schwüren die <persName>Cuͦnrad Schleipffer</persName> gethan
       hat.
-  <pb n="6"/>
+  <pb n="7"/>
       <lb/><persName>Hans Hegni</persName>, <abbr>d</abbr>, von <persName>Heini Rebman</persName> wie dz er gespilt
       <lb/>heigi, do heigi er vil bößi schwüren than heigi, do heigi
       <lb/>inn der züg gestübt, do hatt er gesprochen, dz dich gotz fünff
@@ -215,7 +216,7 @@
       <lb/>und herte och wol, das die gesellen sy hiessent
       <lb/>heren spilen; das thattind si und hettind frowen
   <lb/>bi inen, die fuͦrtind si inn die schuͦr und
-      <lb/>redtind d[?] [?] spilen so wellen
+      <lb/>redtind detten wir<!-- msr: Lesung ergänzt --> nit spilen so wellen
       <lb/>wir doch bruͦten, Nuͦn
   <lb/>an morgen fuͦrte er zwen priester
       <lb/>gen <placeName>Frigenbach</placeName>, die werent im hus uber
@@ -225,7 +226,7 @@
       <lb/>wild wesen gehapt, das er het wellen,
       <lb/>er wer niena im hus gewesen dann
       <lb/>er sorgte gengs, das dadurch der thunder
-     <pb n="7"/>
+     <pb n="8"/>
       <lb/>all pot in das hus schlieg. Nun an der nach
       <lb/>kilwi zukte <persName>Hans Senn</persName> ein aprochnen tegen
       <lb/>inn shimpfs wiß, do schwuͦre <persName>Schleipfer</persName>, das
@@ -250,6 +251,14 @@
       <lb/>uß und in gangen, das er nit eigenlich
       <lb/>wuß, wie es von ein an das ander 
       <lb/>gangen sig.</p>
+    <pb n="9"/>
+    <p><gap reason="irrelevant"/></p>
+    <pb n="10"/>
+   <p><gap reason="irrelevant"/></p>
+    <pb n="11"/>
+    <p><gap reason="irrelevant"/></p>
+    <pb n="12"/>
+    <p><gap reason="irrelevant"/></p>
 </div>
     </body>
     <back>

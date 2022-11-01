@@ -8,7 +8,6 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
     <respStmt>
      <persName>Andrea Schmid-Kunz</persName>
      <resp key="transcript"/>
@@ -33,13 +32,13 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH A 27.125</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4899729">StAZH A 27.125, Nr. 54</idno>
      </msIdentifier>
-     <head>Der Fall des Türken Mustapha Caffa oder Cara</head>
+     <head>Untersuchung betreffend Mustapha Caffa von Algier</head>
      <msContents>
       <msItem>
        <textLang>Deutsch</textLang>
-       <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+       <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
        <filiation type="original"><origDate when="1706-07-17"/></filiation>
       </msItem>
      </msContents>
@@ -84,31 +83,26 @@
   <group>
    <text>
     <body>
-     <div><ab type="dorsal" place="verso">
-      <lb/><persName>Mustapha Caffa</persName> von <placeName>Algiers</placeName>.
-      <lb/>Eines türcken.
-      <lb/><choice><abbr>Act</abbr><expan>um</expan></choice> Sammbstags <choice><abbr>d</abbr><expan>en</expan></choice>
-      <lb/><origDate when="1706-07-17">17. Jullii. ao 1706</origDate>.
-     </ab></div>
      <div>
       <pb n="1"/>
       <p>
-       <lb/><choice><abbr>Act</abbr><expan>Actum</expan></choice> Sammbstags den. <origDate when="1706-07-17">17. Jullii. 1706</origDate>. <lb/><choice><abbr>prent</abbr><expan>presentibus</expan></choice> Herren zunfftmeister
-       <persName>Scheüchtzer</persName>. <lb/>Ein türck <persName>Mustapha Caffa</persName> von Algiers hat sich ver<lb break="no"/>schienen mittwuchen
+       <lb/><choice><abbr>Act</abbr><expan>Actum</expan></choice> Sammbstags den <origDate when="1706-07-17">17. jullii 1706</origDate>. <lb/><choice><abbr>prent</abbr><expan>presentibus</expan></choice> herren zunfftmeister
+       <persName>Scheüchtzer</persName>. <lb/>Ein türck, <persName>Mustapha Caffa</persName>von Algiers, hat sich ver<lb break="no"/>schienen mittwuchen
        nach der frantzösischen predigt <lb/>bey der kirchentüre zum <placeName>Frauwmünster</placeName> gestelt; <lb/>Der
-       von <abbr>Hrn.</abbr> <persName>Bohq</persName> dem vorsinger umb sein Attestat<lb break="no"/>ion befraget; Er aber mit keiner versehen
-       zu<lb break="no"/>sein, auch daß Er sich an keinem reformierten orth <lb/>auff gehalten, alß zu <placeName>Arauw</placeName>
+       von <abbr>hrn.</abbr> <persName>Bohq</persName>, dem vorsinger, umb sein Attestat<lb break="no"/>ion befraget; Er aber mit keiner versehen
+       zu<lb break="no"/>sein, auch daß er sich an keinem reformierten orth <lb/>auff gehalten, alß zu <placeName>Arauw</placeName>
        durch gereißt, und <lb/>graden wegs von <placeName>Marseille</placeName> ab den frantzösischen <lb/>galeeren,
        worauff er in die 32. Jahr gewesen, komm<lb break="no"/>en thüeyge, geantwortet, und bittlich
        angehalten, <lb/>daß der <abbr>hr.</abbr> <persName>Bohq</persName> ihnen zu seinem vorhaben, die <lb/>christenliche
-       reformmiert religion anzunemmen, <lb/>und den <abbr>h.</abbr> tauff zuempfangen, behülflich seyn
-       <lb/>wolle. <lb/>Am donstag abend hatte <abbr>hr.</abbr> <persName>Bohq</persName> die müeh genommen <lb/>Den türck zu herren
-       pfarrer <persName>Zeller</persName>, herren professor <lb/><persName>Hottingern</persName>, und lestlich zu herren zunfftmeister
-       <lb/><persName>Scheüchtzern</persName> zubegleiten, und obiges begehren <lb/>Widerhollen zulaßen; <lb/>Auff
-       gefallenen bericht daß zu <placeName>Wiedicken</placeName> frantzös<lb break="no"/>ische laüffling und ander bättelgesind
+       reformmiert religion anzunemmen <lb/>und den <abbr>h.</abbr> tauff zuempfangen, behülflich seyn
+       <lb/>wolle. <lb/>Am donstag abend hatte <abbr>hr.</abbr> <persName>Bohq</persName> die müeh genommen <lb/>den türck zu herren
+       pfarrer <persName>Zeller</persName>, herren professor <lb/><persName>Hottingern</persName> und lestlich zu herren zunfftmeister
+       <lb/><persName>Scheüchtzern</persName> zubegleiten, und obiges begehren <lb/>widerhollen zulaßen; <lb/>Auff
+       gefallenen bericht, daß zu <placeName>Wiedicken</placeName> frantzös<lb break="no"/>ische laüffling und ander bättelgesind
        sich auffhalt<lb break="no"/>en; under wellichen sich auch ein türck befinden <lb/>thüeyge, ward nicht
-       ermanglet die wahrhafftige be<lb break="no"/>nachrichtigung zuerforschen; wie sich dann erfunden
-       <pb n="2"/> <lb/>daß bedeüt bättelgesind vom freytag abend den 9. biß <lb/>am mittwuchen am
+       ermanglet, die wahrhafftige be<lb break="no"/>nachrichtigung zuerforschen; wie sich dann erfunden,
+       <pb n="2"/> 
+       <lb/>daß bedeüt bättelgesind vom freytag abend den 9. biß <lb/>am mittwuchen am
        morgen daselbst geblieben; <lb/>und daß an besagtem freytag abend des <persName>François
        <lb/>Lossignans</persName> weib ein kindt zur welt gebohren; So <lb/>am sammbstag abend bey dem
        <placeName>Frauwmünster</placeName> ge<lb break="no"/>taufft worden, deßen tauffzeügen gewesen <persName>Louys <lb/>Marchand</persName> und
@@ -119,13 +113,13 @@
        den frantzosen gehört, daß der türck vor drey <lb/>jahren zu <placeName>Bern</placeName> getaufft worden; worüber
        mehr <lb/>besagter türckh am freytag am morgen in den <lb/><placeName>Öttenbach</placeName> verwahret; bey ihme ein
        pater noster <lb/>ein <persName>Maria</persName> bildlin und 2. Pfennige von <placeName>Einsidlen</placeName> <lb/>gefunden worden.
-       <lb/>Seckelmeister <persName>Büehler</persName> und <abbr>mr.</abbr> <persName>Bachmann</persName> der gsellen<lb break="no"/>Wirth waren wegen verhalten der
+       <lb/>Seckelmeister <persName>Büehler</persName> und <abbr>mr.</abbr> <persName>Bachmann</persName>, der gsellen<lb break="no"/>wirth, waren wegen verhalten der
        frantzösischen <lb/>läufflingen und des türcken auch in mehrerem <lb/>verhört; welliche
        obbegriffenen verlauff einhell<lb break="no"/>ig confirmiert und bestettiget; <lb/>Am sammstag ward
        mehr bemelte türckh in dem 
        <pb n="3"/> 
        <lb/><placeName>Öttenbach</placeName> über diße punckten und umb sein biß<lb break="no"/>hariges 
-       betriegerisches verhalten zu red gestelt <abbr>etc.</abbr> <lb/>Wellicher bekent, daß er vor
+       betriegerisches verhalten zu red gestelt <abbr>etc.</abbr>. <lb/>Wellicher bekent, daß er vor
        3. Jahren zu <placeName>Bern</placeName> <lb/>gewesen, aldorth 6. wuchen und 3. tag lang ver<lb break="no"/>blieben, in der
        christenlichen religion under<lb break="no"/>richtet, in der frantzösischen kirchen daselbst
        <lb/>durch <abbr>hrn.</abbr> Ministre <persName>Holard</persName> getaufft und Nicolas <lb/>genannt worden. Habe auch die 3.
@@ -136,6 +130,14 @@
        den tauff <lb/>und die <abbr>röm.</abbr> <abbr>cathol.</abbr> Religion angenommen <lb/>habe. Wie hiervon mein
        hochgeehrter herr raths- <lb/>und silherr <persName>Waser</persName> die sichere nachrichtung gegeben.</p>
      </div>
+     <pb n="4"/>
+     <div><ab type="dorsal" place="verso">
+      <lb/>Verhör
+      <lb/><persName>Mustapha Caffa</persName> von <placeName>Algiers</placeName>.
+      <lb/>Eines türcken.
+      <lb/><choice><abbr>Act</abbr><expan>um</expan></choice> sammbstags <choice><abbr>d</abbr><expan>en</expan></choice>
+      <lb/><origDate when="1706-07-17">17. jullii. <abbr>ao</abbr> 1706</origDate>.
+     </ab></div>
     </body>
     <back>
      <div>

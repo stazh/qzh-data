@@ -32,7 +32,7 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH A 7.22, Nr. 39</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4890448">StAZH A 7.22, Nr. 39</idno>
      </msIdentifier>
      <head>Scheidungsbegehren von Jacob Öffeli und Elsi Diggelmann</head>
      <msContents>
@@ -71,6 +71,7 @@
      <term ref="key004344">Ehegericht</term>
      <term ref="key005098">Eherecht</term>
      <term ref="key003400">Ehescheidung</term>
+     <term ref="key003496">Krankheiten</term>
      <term ref="key000959">Vergewaltigung</term>
     </keywords>
    </textClass>

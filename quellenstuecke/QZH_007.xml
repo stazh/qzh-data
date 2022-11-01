@@ -8,7 +8,6 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
     <respStmt>
      <persName>Andrea Schmid-Kunz</persName>
      <resp key="transcript"/>
@@ -33,13 +32,13 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH B II 695, S. 43</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4890521">StAZH B II 695, S. 43</idno>
      </msIdentifier>
-     <head>Eintrag im Ratsmanual betreffend Mustapha Kaffa</head>
+     <head>Beschluss betreffend Befragung von Mustapha Caffa von Algier</head>
      <msContents>
       <msItem>
        <textLang>Deutsch</textLang>
-       <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+       <filiation type="current">Eintrag</filiation>
        <filiation type="original"><origDate when="1706-07-26"/></filiation>
       </msItem>
      </msContents>
@@ -68,9 +67,9 @@
   <profileDesc>
    <textClass default="false">
     <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+     <term ref="key003369">Folter</term>
      <term ref="key000325">Fremde</term>
      <term ref="key000334">Gefängnis</term>
-     <term ref="key003369">Folter</term>
      <term ref="key000670">Konfession</term>
      <term ref="key005339">Konversion</term>
      <term ref="key003408">Taufe</term>
@@ -86,16 +85,15 @@
     <body>
      <div>
       <pb n="43"/>
-      <p> <lb/>Weilen herr decanus zu <placeName>Einsidlen</placeName>, in antwort
+      <p> <lb/>Weilen herr decanus zu <placeName>Einsidlen</placeName>in antwort
       <lb/>des an <abbr>hrn:</abbr> prælaten abgelaßenen schreibens
-      <lb/>bedeütet, daß einer, nammens <persName>Mustafa Caffa</persName>
-      <lb/>von <placeName>Algiers</placeName>, vor einigen wochen sich zu <placeName>Einsidlen</placeName>
+      <lb/>bedeütet, daß einer nammens <persName>Mustafa Caffa</persName>
+      <lb/>von <placeName>Algiers</placeName> vor einigen wochen sich zu <placeName>Einsidlen</placeName>
       <lb/>tauffen laßen; also sind die <abbr>hren:</abbr> <orgName>nachgänger</orgName>
       <lb/>befelchent, nachmahlen zu ihm zukehren, ihme
-      <lb/>dießens schreibens innhalt vorzuhalten, und
-      <lb/>ihne nachmahlen obe er zu <placeName>Einsidlen</placeName> getaufft
-      <lb/>worden, und was für gsellschafft by ihme ge-
-      <lb/>wesen, zu examinieren, und fahls er auf seiner
+      <lb/>dießens schreibens innhalt vorzuhalten und
+      <lb/>ihne nachmahlen, obe er zu <placeName>Einsidlen</placeName> getaufft
+      <lb/>worden und was für gsellschafft by ihme ge<lb break="no"/>wesen, zu examinieren, und fahls er auf seiner
       <lb/>hartnäkigen verlaugnung verharrete, ihne
       <lb/>durch den <abbr>mr:</abbr> würklich lehr aufzühen
       <lb/>und visitieren zulaßen.

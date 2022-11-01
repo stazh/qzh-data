@@ -8,7 +8,6 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Der Fall des Türken Mustapha Caffa oder Cara</title>
     <respStmt>
      <persName>Andrea Schmid-Kunz</persName>
      <resp key="transcript"/>
@@ -33,13 +32,13 @@
    <sourceDesc>
     <msDesc>
      <msIdentifier>
-      <idno>StAZH A 27.125</idno>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4899936">StAZH A 27.125, Nr. 55</idno>
      </msIdentifier>
-     <head>Schreiben des Paters Joachim Pfeiffer aus dem Kloster Einsiedeln betreffend Mustapha Caffa oder Cara</head>
+     <head>Schreiben des Paters Joachim Pfeiffer aus dem Kloster Einsiedeln betreffend Mustapha Caffa</head>
      <msContents>
       <msItem>
        <textLang>Deutsch</textLang>
-       <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+       <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
        <filiation type="original"><origDate when="1706-07-25"/></filiation>
       </msItem>
      </msContents>
@@ -90,21 +89,21 @@
        <lb/>und weise hochgeehrtiste herren <abbr>etc</abbr>.
        <lb/>Aus ihrem sub dato 24 currentis an meinem gnädigen
        <lb/>fürsten und <abbr>h.</abbr> abgelassnem, habe zu vernemmen gehabt,
-       <lb/>wie das sie einige information und nachricht verlangen
-       <lb/>ob nit vor etwas zeits ein gewüsser man bekleidt
-       <lb/>und gestaltet als ihr schreiben außweist sich hiereinge<lb break="no"/>funden
-        der sich nambset <persName>Mustaffa Caffa</persName> ein dürkh
-       <lb/>aus <placeName>Algiers</placeName>, und ob er den <abbr>h.</abbr> tauff empfangen habe,
+       <lb/>wie das sie einige information und nachricht verlangen,
+       <lb/>ob nit vor etwas zeits ein gewüsser man, bekleidt
+       <lb/>und gestaltet als ihr schreiben außweist, sich hiereinge<lb break="no"/>funden,
+        der sich nambset <persName>Mustaffa Caffa</persName>, ein dürkh
+       <lb/>aus <placeName>Algiers</placeName>, und ob er den <abbr>h.</abbr> tauff empfangen habe.
        <lb/>Wan nun ihro hoch <abbr>frstl. gnd.</abbr> nit anheimbsch, als
        <lb/>füege in dero abwesenheit zu <abbr>freündtl.er</abbr> antwort, ds
-       <lb/>ja vor etwelchen wuchen ein solcher, sich <persName>Mustaffa Caffa</persName> von
-       <lb/><placeName>Algiers</placeName> nambsete alhier gewesen, und den <placeName>h.</placeName> tauff empfangen
-       <lb/>ob aber es gleich der jenige seye der sich dermahlen al<lb break="no"/>dort 
-       einfindt, mag ich nit wisen. Und dis ist waß über ihr
+       <lb/>ja, vor etwelchen wuchen ein solcher, sich <persName>Mustaffa Caffa</persName> von
+       <lb/><placeName>Algiers</placeName> nambsete, alhier gewesen, und den <placeName>h.</placeName> tauff empfangen.
+       <lb/>Ob aber es gleich der jenige seye, der sich dermahlen al<lb break="no"/>dort 
+       einfindt, mag ich nit wisen. Und dis ist, waß über ihr
        <lb/>genambstes zu berichten hab, nachst göttlicher empfehlung
        <lb/>verbleibendt <abbr>mgen. hhen.</abbr> diensbeflißner
-       <lb/><abbr>P.</abbr> <persName>Joachim Pfeiffer</persName> decan
-       <lb/>geben in unseren <abbr>festl.</abbr> gotshaus <persName>Einsidlen</persName> den 25ten julii a<hi rend="sup">o</hi> 1706.</p>
+       <lb/><abbr>p.</abbr> <persName>Joachim Pfeiffer</persName>, decan.
+       <lb/>Geben in unseren <abbr>festl.</abbr> gotshaus <persName>Einsidlen</persName>, den 25ten julii <abbr>a<hi rend="sup">o</hi></abbr> 1706.</p>
       <pb n="2"/>
       <p>  <lb/>Denen hochgeacht-wohledelgebohrn-
        <lb/>gestreng- fürsichtig- und weisen herren,
