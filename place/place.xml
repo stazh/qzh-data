@@ -173,6 +173,9 @@
             <place xml:id="QZH_003_13" n="Marseille">
                 <placeName type="main">Marseille</placeName>
             </place>
+            <place xml:id="Beispielquelle_1" n="Zürich">
+                <placeName type="main">Zürich</placeName>
+            </place>
             <place xml:id="QZH_003_10" n="Genff">
                 <placeName type="main">Genff</placeName>
             </place>
@@ -260,8 +263,8 @@
             <place xml:id="QZH_013_8" n="Dorff">
                 <placeName type="main">Dorff</placeName>
             </place>
-            <place xml:id="47.37721420014591 8.527299029687203" n="Zürcher, Zürcher2">
-                <placeName type="main">Zürcher2</placeName>
+            <place xml:id="47.37721420014591 8.527299029687203" n="Zürcher, Zürich">
+                <placeName type="main">Zürich</placeName>
                 <placeName type="main">Zürcher</placeName>
                 <location>
                     <geo>47.37721420014591 8.527299029687203</geo>
@@ -360,9 +363,6 @@
             <place xml:id="QZH_007_1" n="Einsidlen">
                 <placeName type="main">Einsidlen</placeName>
             </place>
-            <place xml:id="QZH_007_4" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
             <place xml:id="QZH_007_3" n="Einsidlen">
                 <placeName type="main">Einsidlen</placeName>
             </place>
@@ -386,6 +386,12 @@
             </place>
             <place xml:id="QZH_022_6" n="Steffner hoff">
                 <placeName type="main">Steffner hoff</placeName>
+            </place>
+            <place xml:id="Einsiedeln" n="Einsidlen">
+                <placeName type="main">Einsidlen</placeName>
+            </place>
+            <place xml:id="loc000065" n="Zürich">
+                <placeName type="main">Zürich</placeName>
             </place>
             <place xml:id="QZH_016_20" n="Gosauw">
                 <placeName type="main">Gosauw</placeName>
