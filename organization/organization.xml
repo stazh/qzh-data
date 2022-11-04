@@ -1,5 +1,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="organizations" type="Organization">
-    <teiHeader>
+
+<!--Organizationen werden in der QZH-Applikation nicht mehr angezeigt-->
+
+    <!--<teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Quellen zur Zürcher Geschichte: Organisationsdaten</title>
@@ -1563,5 +1566,5 @@
                 <orgName>Rebleute</orgName>
             </org>
         </listOrg>
-    </standOff>
+    </standOff>-->
 </TEI>

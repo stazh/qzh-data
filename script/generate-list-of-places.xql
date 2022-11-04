@@ -7,6 +7,8 @@ as item()*
 {
   for $i in $items
   let $placeId := $i//@xml:id
+  
+  let $optionalCoordinate := replace(substring-after($placeId, "LOC_"), "_", " ")
   let $placeName := $i//text()
 
   group by $placeId
@@ -19,8 +21,8 @@ as item()*
                         group by $placeName
                         return <placeName type="main">{$place[1]//text()}</placeName>
         
-        let $coordinateTag := if (fn:matches($placeId, "^[-+]?([1-8]?\d(\.\d+)?|90(\.0+)?) \s*[-+]?(180(\.0+)?|((1[0-7]\d)|([1-9]?\d))(\.\d+)?)$")) (:check if the reference is a coordinate. Example format: 47.37721420014591 8.527299029687203:) 
-                                then <location><geo>{string-join($placeId)}</geo></location>  
+        let $coordinateTag := if (fn:matches($optionalCoordinate, "^[-+]?([1-8]?\d(\.\d+)?|90(\.0+)?) \s*[-+]?(180(\.0+)?|((1[0-7]\d)|([1-9]?\d))(\.\d+)?)$")) (:check if the reference is a coordinate. Example format: 47.37721420014591 8.527299029687203:) 
+                                then <location><geo>{string-join($optionalCoordinate)}</geo></location>  
                                 else ()
         
         return [$placesTags, $coordinateTag]

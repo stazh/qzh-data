@@ -257,14 +257,6 @@
             <place xml:id="QZH_013_8" n="Dorff">
                 <placeName type="main">Dorff</placeName>
             </place>
-            <place xml:id="47.37721420014591 8.527299029687203" n="Zürich, Zürich2">
-                <placeName type="main">Zürich</placeName>
-                <placeName type="main">Zürich2</placeName>
-
-                <location>
-                    <geo>47.37721420014591 8.527299029687203</geo>
-                </location>
-            </place>
             <place xml:id="QZH_013_1" n="Dorff">
                 <placeName type="main">Dorff</placeName>
             </place>
@@ -639,6 +631,12 @@
             </place>
             <place xml:id="QZH_015_11" n="Baden">
                 <placeName type="main">Baden</placeName>
+            </place>
+            <place xml:id="LOC_47.37721420014591_8.527299029687203" n="Zürich">
+                <placeName type="main">Zürich</placeName>
+                <location>
+                    <geo>47.37721420014591 8.527299029687203</geo>
+                </location>
             </place>
             <place xml:id="QZH_015_18" n="Solothurn">
                 <placeName type="main">Solothurn</placeName>
