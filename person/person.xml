@@ -954,15 +954,11 @@
                 <source>Beispielquelle</source>
                 <dateOfTheSource>2022</dateOfTheSource>
             </person>
-            <person xml:id="GND_118517384">
-                <persName type="full">Heinrich Bullinger</persName>
-                <source>QZH_012</source>
-                <dateOfTheSource>1561-1608</dateOfTheSource>
-            </person>
             <person xml:id="per012634">
                 <persName type="full">Heinrich Bullinger</persName>
-                <source>Beispielquelle</source>
-                <dateOfTheSource>2022</dateOfTheSource>
+            </person>
+            <person xml:id="GND_118517384">
+                <persName type="full">Heinrich Bullinger, Bullingers, Bullinger</persName>
             </person>
             <person xml:id="QZH_016_10">
                 <persName type="full">Heinrich Buochman</persName>
@@ -1190,9 +1186,7 @@
                 <dateOfTheSource>1668</dateOfTheSource>
             </person>
             <person xml:id="janhuber">
-                <persName type="full">Jan Huber</persName>
-                <source>Beispielquelle</source>
-                <dateOfTheSource>2022</dateOfTheSource>
+                <persName type="full">Jan Huber, Jan Huber2</persName>
             </person>
             <person xml:id="QZH_023_4">
                 <persName type="full">Jesu</persName>

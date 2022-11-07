@@ -24,6 +24,7 @@
    </publicationStmt>
    <seriesStmt xml:id="ssrq-sds-fds">
     <title>Gelebte Reformation. Zürich 1500-1800</title>
+    <link>https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html</link>
     <respStmt>
      <persName>Francisca Loetz. Unter Mitarbeit von Wolfram Schneider-Lastin</persName>
      <resp>Herausgeberschaft</resp>
@@ -87,11 +88,11 @@
       Das ist eine Beispielquelle.<lb/><lb/>
       Person ohne eindeutigen Identifier: <persName>Heinrich Bullinger</persName><lb/>
       Person mit Identifier: <persName ref="per012634">Heinrich Bullinger</persName><lb/>
-      Person mit GND-Identifier: <persName ref="118517384">Heinrich Bullinger</persName><lb/><lb/>
+      Person mit GND-Identifier: <persName ref="GND_118517384">Heinrich Bullinger</persName><lb/><lb/>
 
       Ort ohne eindeutigen Identifier: <placeName>Zürich</placeName><lb/>
       Ort mit eindeutigem Identifier: <placeName ref="loc000065">Zürich</placeName><lb/>
-      Ort mit eindeutigem Koordinaten-Identifier: <placeName ref="47.37721420014591 8.527299029687203">Zürich</placeName><lb/>
+      Ort mit eindeutigem Koordinaten-Identifier: <placeName ref="LOC_47.37721420014591_8.527299029687203">Zürich</placeName><lb/>
 
       </p>
       </div>

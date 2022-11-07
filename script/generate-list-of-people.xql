@@ -47,10 +47,22 @@ declare function local:remove-duplicates($items as item()*)
 as item()*
 {
   for $i in $items
-  let $id := $i//@xml:id
-  let $identifier := $id || "-" || $i/persName/text()
-  group by $identifier
-    return $i[1]
+  
+
+  let $personId := $i//@xml:id
+
+  group by $personId
+    return 
+        <person xmlns="http://www.tei-c.org/ns/1.0" xml:id="{$personId}">
+            <persName type="full">{string-join(distinct-values($i/persName//text()), ", ")}</persName>
+            
+            {
+                if (count(distinct-values($i/source/text())) = 1) 
+                    then [<source>{$i/source/text()[1]}</source>, <dateOfTheSource>{$i/dateOfTheSource/text()[1]}</dateOfTheSource>]
+                    else ()
+            }
+
+        </person>
 };
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="persons" type="Person">
