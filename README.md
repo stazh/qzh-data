@@ -19,6 +19,63 @@ Eine konkrete Anleitung zum Anlegen eines Accounts bei GitLab und zum Verbinden 
 
 ## Hinweise für das Tagging der Quellenstücke
 
+### Erfassen von Metadaten
+
+Im Tag `seriesStmt` könnten Metadaten für das Quellenstück eingetragen werden. Hier ein Beispiel:
+
+```swift
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <respStmt>
+     <persName>Andrea Schmid-Kunz</persName>
+     <resp key="transcript"/>
+    </respStmt>
+    <respStmt>
+     <persName>Michael Schaffner</persName>
+     <resp key="tagging"/>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <date type="electronic" when="2021-05-01"/>
+    <date type="print" when="2018-12-31"/>
+   </publicationStmt>
+   <seriesStmt xml:id="ssrq-sds-fds">
+    <title>Gelebte Reformation. Zürich 1500-1800</title>
+    <link>https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html</link>
+    <respStmt>
+     <persName>Francisca Loetz. Unter Mitarbeit von Wolfram Schneider-Lastin</persName>
+     <resp>Herausgeberschaft</resp>
+    </respStmt>
+    <idno>QZH_022</idno>
+   </seriesStmt>
+
+	...
+
+  </fileDesc>
+ </teiHeader>
+```
+
+Diese Informationen werden im TEI-Publisher verwendet, um die Metadaten zum Quellenstück darzustellen:
+
+![][image-2]
+
+Es ist zu beachten, dass der angegebene Text für den Tag `<idno>` mit dem Dateinamen der XML-Datei übereinstimmen muss. Die Datei `quellenstücke/QZH_022.xml` hat also den Tag `<idno>QZH_022</idno>`
+
+Die Angabe eines Links unterhalb des Titels ist optional. Wird ein Link angegeben, so muss dieser mit `https://` oder mit `http://` beginnen.
+
+Innerhalb der Metadaten gibt es einen Tag `<msIdentifier>` mit einem verschachtelten Tag `idno`. Der eingetragene Wert im Attribut „source“ beinhaltet die Institution, die für das Quellenstück verantwortlich ist. Im folgenden Beispiel ist dies die Institution „StAZH“. 
+
+```swift
+     <msIdentifier>
+      <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4903814">StAZH A 61.5, Nr. 28</idno>
+     </msIdentifier>
+```
+
+Anhand dieser Angabe wird in der TEI-Publisher Webapplikation die Liste der Filtermöglichkeiten automatisch generiert:
+
+![][image-3]
+
 ### Erfassen und Anzeigen von Personen
 
 Es sind drei Varianten vorgesehen, um Personen in den Quellenstücken zu kennzeichnen:
@@ -34,7 +91,7 @@ In der Personenübersicht werden Personen, die auf diese Art ausgezeichnet worde
 
 Zusätzlich werden für diese Personen ohne Identifier in der Personenübersicht der Name des Quellenstücks sowie das Jahr des Quellenstücks angeben:
 
-![][image-2]
+![][image-4]
 
 Auf diese Weise können sich die Besucherinnen und Besucher der Webseite selbst einen Eindruck davon machen, ob es sich bei mehreren Namenseinträgen um die gleiche Person handelt.
 
@@ -42,11 +99,11 @@ Bei der Jahresangabe sollte beachtet werden, dass sich diese auf das Quellenstü
 
 Innerhalb des Quellenstücks werden gekennzeichnete Personen farblich hervorgehoben:
 
-![][image-3]
+![][image-5]
 
 Wird kein eindeutiger Identifier angegeben, wird bei einem Klick auf den Personennamen im Quellenstück die Personensuche angezeigt und automatisch der erste Buchstabe der angeklickten Person ausgewählt:
 
-![][image-4]
+![][image-6]
 
 Auf diese Weise hat die Benutzerin oder der Benutzer die Möglichkeit, andere Vorkommen des gleichen Namens zu finden.
 
@@ -61,18 +118,18 @@ Alternativ können Personen mit einem eindeutigen Identifier gekennzeichnet werd
 
 Es kann sein, dass die gleiche Person in verschiedenen Quellenstücken mit unterschiedlichen Schreibweisen erfasst wurde. In diesem Fall werden in der Webapplikation alle verwendeten Namen für die gleiche Person mit Komma getrennt dargestellt. Zudem wird ein Personensymbol angezeigt:
 
-![][image-5]
+![][image-7]
 
 Dank dem eindeutigen Identifier wird in der Detailansicht für die Person zudem eine Liste mit „Erwähnungen“ in verschiedenen Quellenstücken angezeigt: 
 
-![][image-6]
+![][image-8]
 
 
 Wird innerhalb eines Quellenstücks auf den Namen einer Person geklickt, so öffnet sich die Detailansicht für diese Person. Im Gegensatz zur Variante 1 gelangt man nicht zur Personensuche, da Personen mit einem eindeutigen Identifier automatisch gruppiert werden und es somit für die entsprechende Person ohnehin nur einen einzigen Eintrag in der Personensuche gäbe.
 
 Personen mit Identifier erscheinen zudem in der Registeransicht eines einzelnen Quellenstücks:
 
-![][image-7]
+![][image-9]
 
 
 
@@ -93,7 +150,7 @@ Durch das Tagging mit einer GND/NID hat man alle Vorteile der Variante 2 (gruppi
 
 Zusätzlich wird bei dieser Variante in der Detailansicht für eine Person ein Link in die GND-Datenbank angezeigt:
 
-![][image-8]
+![][image-10]
 
 
 #### Übersicht mit allen Personen generieren
@@ -113,17 +170,17 @@ Dies ist die einfachste Variante, um einen Ort auszuzeichnen. Im Gegensatz zum R
 
 In der Ortsübersicht werden Orte, welche auf diese Weise ausgezeichnet worden sind, als einzelne Einträge dargestellt. So ist es wahrscheinlich, dass in der Liste mehrmals der gleiche Name erscheint (da nicht ausgeschlossen werden kann, dass es sich bei mehreren Erwähnungen des gleichen Namens in einem Quellenstück oder mehreren Quellenstücken um den gleichen Ort handelt):
 
-![][image-9]
+![][image-11]
 
 Auf diese Weise können sich die Besucherinnen und Besucher der Webseite selbst einen Eindruck davon machen, ob es sich bei mehreren Einträgen um den gleichen Ort handelt.
 
 Innerhalb des Quellenstücks werden gekennzeichnete Orte farblich hervorgehoben:
 
-![][image-10]
+![][image-12]
 
 Wird kein eindeutiger Identifier angegeben, wird bei einem Klick auf den Ortsnamen in der Weboberfläche die Ortssuche angezeigt und automatisch der erste Buchstabe des angeklickten Ortes ausgewählt:
 
-![][image-11]
+![][image-13]
 
 Auf diese Weise hat die Benutzerin oder der Benutzer die Möglichkeit, andere Vorkommen des gleichen Namens zu finden.
 
@@ -139,17 +196,17 @@ Alternativ können Orte mit einem eindeutigen Identifier gekennzeichnet werden. 
 
 Es kann sein, dass der gleiche Ort in verschiedenen Quellenstücken mit unterschiedlichen Schreibweisen erfasst wurde. In diesem Fall werden in der Webapplikation alle verwendeten Namen für den gleichen Ort mit Komma getrennt dargestellt:
 
-![][image-12]
+![][image-14]
 
 Dank dem eindeutigen Identifier wird in der Detailansicht für den Ort zudem eine Liste mit „Erwähnungen“ in verschiedenen Quellenstücken angezeigt:
 
-![][image-13]
+![][image-15]
 
 Wird innerhalb eines Quellenstücks auf den Namen eines Ortes geklickt, so öffnet sich die Detailansicht für diesen Ort. Im Gegensatz zur Variante 1 gelangt man nicht zur Ortssuche, da Orte mit einem eindeutigen Identifier automatisch gruppiert werden und es somit für die entsprechenden Orte ohnehin nur einen einzigen Eintrag in der Ortssuche gäbe.
 
 Orte mit Identifier erscheinen in der Registeransicht eines einzelnen Quellenstücks:
 
-![][image-14]
+![][image-16]
 
 
 #### Variante 3: Mit einem Koordinaten-Identifier
@@ -166,11 +223,11 @@ Durch das Tagging mit einer Koordinate hat man alle Vorteile der Variante 2 (gru
 
 Zusätzlich wird bei dieser Variante in der Detailansicht für den Ort eine Karte angezeigt:
 
-![][image-15]
+![][image-17]
 
 Ausserdem erscheint in der Suche für Orte mit einer Koordinate ein Kartensymbol:
 
-![][image-16]
+![][image-18]
 
 
 #### Übersicht mit allen Orten generieren
@@ -218,11 +275,11 @@ So sieht ein beispielhafter Eintrag im `taxonomy/taxonomy.xml` aus:
 
 Diese Definitionen sind dafür verantwortlich, auf der Webapplikation die Übersicht mit den Stichworten anzuzeigen:
 
-![][image-17]
+![][image-19]
 
 Ausserdem wird pro Quellenstück am rechten Bildschirmrand eine Liste mit Definitionen zum aktuellen Quellenstück angezeigt:
 
-![][image-18] 
+![][image-20] 
 
 ## Vor der Veröffentlichung von neuen Versionen: Übersicht der Personen und Orte generieren
 
@@ -230,7 +287,7 @@ Ausserdem wird pro Quellenstück am rechten Bildschirmrand eine Liste mit Defini
 
 Die Webapplikation zeigt neben den Quellenstücken auch ein Register mit Orten, Personen und Schlagwörtern an.
 
-![][image-19]
+![][image-21]
 
 Alle drei Register basieren jeweils auf einer .xml-Datei, welche die entsprechenden Registerdaten enthält: `person/person.xml`, `place/place.xml`, `taxonomy/taxanomy.xml`. 
 
@@ -244,7 +301,7 @@ Die Datei `taxanomy/taxanomy.xml` enthält Stichworte und Definitionen und muss 
 
 Die Datei `person/person.xml` enthält die benötigten Informationen für das Personenregister.
 
-![][image-20]
+![][image-22]
 
 Die Datei kann automatisch aus den Quellenstücken generiert werden. Manuelle Korrekturen an der Datei sind zwar möglich, sind jedoch nicht empfohlen, da die Gefahr besteht, dass manuell eingetragene Änderungen beim nächsten Mal wieder gelöscht werden, sobald die Datei erneut automatisch generiert wird.
 
@@ -271,7 +328,7 @@ Hinweise zum Taggen von Personen in den Quellenstücken sind weiter oben beschri
 
 Um die Datei `person/person.xml` zu generieren, wird eine lokale Installation der eXist-DB benötigt. Im Dashboard der eXist-DB kann eXide geöffnet werden:
 
-![][image-21]
+![][image-23]
 
 Auf der linken Bildschirmseite wird die Datei-Hierarchie angezeigt. Hier navigiert man zum Skript, welches dafür zuständig ist, die Liste der Personen zu generieren:
 
@@ -279,15 +336,15 @@ Auf der linken Bildschirmseite wird die Datei-Hierarchie angezeigt. Hier navigie
 /db/apps/qzh-data/script/generate-list-of-people.xml
 ```
 
-![][image-22]
+![][image-24]
 
 Nach einem Klick auf „Eval“ wird die generierte XML-Datein mit den Personen am unteren Bildschirmrand ausgegeben:
 
-![][image-23]
+![][image-25]
 
 Dieser ausgegebene Text sollte kopiert, und anschliessend in der Datei `person/person.xml` eingefügt werden:
 
-![][image-24]
+![][image-26]
 
 Achtung: Nicht vergessen, die Änderungen wieder auf GitLab zu pushen.
 
@@ -295,7 +352,7 @@ Achtung: Nicht vergessen, die Änderungen wieder auf GitLab zu pushen.
 
 Die Datei `place/place.xml` enthält die benötigten Informationen für das Ortsregister.
 
-![][image-25]
+![][image-27]
 
 Die Datei kann automatisch aus den Quellenstücken generiert werden. Manuelle Korrekturen an der Datei sind zwar möglich, sind jedoch nicht empfohlen, da die Gefahr besteht, dass manuell eingetragene Änderungen beim nächsten Mal wieder gelöscht werden, sobald die Datei erneut automatisch generiert wird.
 
@@ -330,7 +387,7 @@ Hinweise zum Taggen von Orten in den Quellenstücken sind weiter oben beschriebe
 
 Um die Datei `place/place.xml` zu generieren, wird eine lokale Installation der eXist-DB benötigt. Im Dashboard der eXist-DB kann eXide geöffnet werden:
 
-![][image-26]
+![][image-28]
 
 Auf der linken Bildschirmseite wird die Datei-Hierarchie angezeigt. Hier navigiert man zum Skript, welches dafür zuständig ist, die Liste der Orten zu generieren:
 
@@ -338,15 +395,15 @@ Auf der linken Bildschirmseite wird die Datei-Hierarchie angezeigt. Hier navigie
 /db/apps/qzh-data/script/generate-list-of-places.xml
 ```
 
-![][image-27]
+![][image-29]
 
 Nach einem Klick auf „Eval“ wird die generierte Liste mit den Orten am unteren Bildschirmrand ausgegeben:
 
-![][image-28]
+![][image-30]
 
 Dieser ausgegebene Text sollte kopiert, und anschliessend in der Datei `place/place.xml` eingefügt werden:
 
-![][image-29]
+![][image-31]
 
 Achtung: Nicht vergessen, die Änderungen wieder auf GitLab zu pushen.
 
@@ -355,31 +412,33 @@ Achtung: Nicht vergessen, die Änderungen wieder auf GitLab zu pushen.
 [3]:	https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D118517384
 
 [image-1]:	documentation/bild1.png
-[image-2]:	documentation/bild14.png
-[image-3]:	documentation/bild18.png
-[image-4]:	documentation/bild19.png
-[image-5]:	documentation/bild15.png
-[image-6]:	documentation/bild16.png
-[image-7]:	documentation/bild27.png
-[image-8]:	documentation/bild17.png
-[image-9]:	documentation/bild20.png
-[image-10]:	documentation/bild21.png
-[image-11]:	documentation/bild22.png
-[image-12]:	documentation/bild23.png
-[image-13]:	documentation/bild24.png
-[image-14]:	documentation/bild28.png
-[image-15]:	documentation/bild25.png
-[image-16]:	documentation/bild26.png
-[image-17]:	documentation/bild3.png
-[image-18]:	documentation/bild4.png
-[image-19]:	documentation/bild2.png
-[image-20]:	documentation/bild5.png
-[image-21]:	documentation/bild6.png
-[image-22]:	documentation/bild7.png
-[image-23]:	documentation/bild8.png
-[image-24]:	documentation/bild9.png
-[image-25]:	documentation/bild10.png
-[image-26]:	documentation/bild6.png
-[image-27]:	documentation/bild11.png
-[image-28]:	documentation/bild12.png
-[image-29]:	documentation/bild13.png
+[image-2]:	documentation/bild29.png
+[image-3]:	documentation/bild30.png
+[image-4]:	documentation/bild14.png
+[image-5]:	documentation/bild18.png
+[image-6]:	documentation/bild19.png
+[image-7]:	documentation/bild15.png
+[image-8]:	documentation/bild16.png
+[image-9]:	documentation/bild27.png
+[image-10]:	documentation/bild17.png
+[image-11]:	documentation/bild20.png
+[image-12]:	documentation/bild21.png
+[image-13]:	documentation/bild22.png
+[image-14]:	documentation/bild23.png
+[image-15]:	documentation/bild24.png
+[image-16]:	documentation/bild28.png
+[image-17]:	documentation/bild25.png
+[image-18]:	documentation/bild26.png
+[image-19]:	documentation/bild3.png
+[image-20]:	documentation/bild4.png
+[image-21]:	documentation/bild2.png
+[image-22]:	documentation/bild5.png
+[image-23]:	documentation/bild6.png
+[image-24]:	documentation/bild7.png
+[image-25]:	documentation/bild8.png
+[image-26]:	documentation/bild9.png
+[image-27]:	documentation/bild10.png
+[image-28]:	documentation/bild6.png
+[image-29]:	documentation/bild11.png
+[image-30]:	documentation/bild12.png
+[image-31]:	documentation/bild13.png
