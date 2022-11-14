@@ -407,6 +407,10 @@ Dieser ausgegebene Text sollte kopiert, und anschliessend in der Datei `place/pl
 
 Achtung: Nicht vergessen, die Änderungen wieder auf GitLab zu pushen.
 
+## Anpassen der Bibliografie / des Literaturverzeichnisses
+
+Der HTML-Code für das Literaturverzeichnis ist im Repository "code" mit dem Namen  `literaturverzeichnis.html` abgelegt. Die XML-Version des Literaturverzeichnisses wird nicht mehr benötigt.
+
 [1]:	https://www.youtube.com/watch?v=dyY539HzN6Q
 [2]:	https://gitlab.com/quellen-zur-zuercher-geschichte/quellen-zur-zuercher-geschichte/-/blob/master/documentation/Arbeiten_mit_TEI_Publisher_GIT_Workflow/index.md
 [3]:	https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D118517384
