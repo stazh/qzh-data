@@ -19,7 +19,7 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="QZH_012_11">
+            <person xml:id="QZH_012_10">
                 <persName type="full">Agatha Zoller</persName>
                 <source>QZH_012</source>
                 <dateOfTheSource>1561-1608</dateOfTheSource>
@@ -944,21 +944,25 @@
                 <source>QZH_022</source>
                 <dateOfTheSource>1518</dateOfTheSource>
             </person>
-            <person xml:id="Beispielquelle2_1">
+            <person xml:id="Beispielquelle_1">
                 <persName type="full">Heinrich Bullinger</persName>
-                <source>Beispielquelle2</source>
+                <source>Beispielquelle</source>
                 <dateOfTheSource>2022</dateOfTheSource>
             </person>
-            <person xml:id="Beispielquelle_1">
+            <person xml:id="GND_118517384">
                 <persName type="full">Heinrich Bullinger</persName>
                 <source>Beispielquelle</source>
                 <dateOfTheSource>2022</dateOfTheSource>
             </person>
             <person xml:id="per012634">
                 <persName type="full">Heinrich Bullinger</persName>
+                <source>Beispielquelle</source>
+                <dateOfTheSource>2022</dateOfTheSource>
             </person>
-            <person xml:id="GND_118517384">
+            <person xml:id="118517384">
                 <persName type="full">Heinrich Bullinger, Bullingers, Bullinger</persName>
+                <source>QZH_012QZH_012QZH_012QZH_012</source>
+                <dateOfTheSource>1561-16081561-16081561-16081561-1608</dateOfTheSource>
             </person>
             <person xml:id="QZH_016_10">
                 <persName type="full">Heinrich Buochman</persName>
@@ -995,7 +999,7 @@
                 <source>QZH_015</source>
                 <dateOfTheSource>1623-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_001_15">
+            <person xml:id="GND_1089804849">
                 <persName type="full">Holard</persName>
                 <source>QZH_001</source>
                 <dateOfTheSource>1706</dateOfTheSource>
@@ -1015,7 +1019,7 @@
                 <source>QZH_015</source>
                 <dateOfTheSource>1623-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_001_7">
+            <person xml:id="GND_117013463">
                 <persName type="full">Hottingern</persName>
                 <source>QZH_001</source>
                 <dateOfTheSource>1706</dateOfTheSource>
@@ -1184,9 +1188,6 @@
                 <persName type="full">Jacobli</persName>
                 <source>QZH_020</source>
                 <dateOfTheSource>1668</dateOfTheSource>
-            </person>
-            <person xml:id="janhuber">
-                <persName type="full">Jan Huber, Jan Huber2</persName>
             </person>
             <person xml:id="QZH_023_4">
                 <persName type="full">Jesu</persName>
@@ -1523,15 +1524,10 @@
                 <source>QZH_020</source>
                 <dateOfTheSource>1668</dateOfTheSource>
             </person>
-            <person xml:id="QZH_001_1">
-                <persName type="full">Scheüchtzer</persName>
-                <source>QZH_001</source>
-                <dateOfTheSource>1706</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_001_8">
-                <persName type="full">Scheüchtzern</persName>
-                <source>QZH_001</source>
-                <dateOfTheSource>1706</dateOfTheSource>
+            <person xml:id="GND_1089527993">
+                <persName type="full">Scheüchtzer, Scheüchtzern</persName>
+                <source>QZH_001QZH_001</source>
+                <dateOfTheSource>17061706</dateOfTheSource>
             </person>
             <person xml:id="QZH_022_27">
                 <persName type="full">Schleipfer</persName>
@@ -1668,7 +1664,7 @@
                 <source>QZH_018</source>
                 <dateOfTheSource>1587</dateOfTheSource>
             </person>
-            <person xml:id="QZH_001_6">
+            <person xml:id="GND_1019762608">
                 <persName type="full">Zeller</persName>
                 <source>QZH_001</source>
                 <dateOfTheSource>1706</dateOfTheSource>
