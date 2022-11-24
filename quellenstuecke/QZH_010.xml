@@ -86,9 +86,9 @@
      <pb n="53"/>
       <div><p> 
        <lb/>Der im <placeName>Wellenberg</placeName> verhaffte <persName>Mustafa Caffa</persName> von
-       <lb/><placeName>Algiers</placeName>, welcher vor etwas jahren zu <placeName>Bern</placeName>
+       <lb/><placeName ref="LOC_36.73225_3.08746">Algiers</placeName>, welcher vor etwas jahren zu <placeName ref="LOC_46.94809_7.44744">Bern</placeName>
        <lb/>den christlichen glauben angenommen, und den
-       <lb/><abbr>hlgn:</abbr> tauff empfangen; jüngst aber zu <placeName>Einsidlen</placeName>
+       <lb/><abbr>hlgn:</abbr> tauff empfangen, jüngst aber zu <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName>
        <lb/>auch widrum getaufft worden und auch in hier um
        <lb/>den tauff angehalten, solle als ein betrieger und
        <lb/>profanator des sacraments des <abbr>hlgn:</abbr> tauffs

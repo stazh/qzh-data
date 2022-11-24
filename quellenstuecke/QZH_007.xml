@@ -85,21 +85,21 @@
     <body>
      <div>
       <pb n="43"/>
-      <p> <lb/>Weilen herr decanus zu <placeName>Einsidlen</placeName>in antwort
+      <p> <lb/>Weilen herr decanus zu <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName> in antwort
       <lb/>des an <abbr>hrn:</abbr> prælaten abgelaßenen schreibens
       <lb/>bedeütet, daß einer nammens <persName>Mustafa Caffa</persName>
-      <lb/>von <placeName>Algiers</placeName> vor einigen wochen sich zu <placeName>Einsidlen</placeName>
-      <lb/>tauffen laßen; also sind die <abbr>hren:</abbr> <orgName>nachgänger</orgName>
+       <lb/>von <placeName ref="LOC_36.73225_3.08746">Algiers</placeName> vor einigen wochen sich zu <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName>
+      <lb/>tauffen laßen; also sind die <abbr>hren:</abbr> nachgänger
       <lb/>befelchent, nachmahlen zu ihm zukehren, ihme
       <lb/>dießens schreibens innhalt vorzuhalten und
-      <lb/>ihne nachmahlen, obe er zu <placeName>Einsidlen</placeName> getaufft
+       <lb/>ihne nachmahlen, obe er zu <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName> getaufft
       <lb/>worden und was für gsellschafft by ihme ge<lb break="no"/>wesen, zu examinieren, und fahls er auf seiner
       <lb/>hartnäkigen verlaugnung verharrete, ihne
       <lb/>durch den <abbr>mr:</abbr> würklich lehr aufzühen
       <lb/>und visitieren zulaßen.
-      <lb/>Zuvor aber wird <abbr>hr:</abbr> leütpriester <persName>Ott</persName> selbigem
+       <lb/>Zuvor aber wird <abbr>hr:</abbr> leütpriester <persName ref="GND_101117728">Ott</persName> selbigem
       <lb/>seinen begangenen schwehren fehler zugemüth<lb break="no"/>legen, 
-      ihne der wüsßenschafft halber in
+      ihne der wüßenschafft halber in
       <lb/>religions-sachen explorieren, worauf er
       <lb/>dann in ein haüsli zuverwahren ist.</p>
      </div>

@@ -85,49 +85,51 @@
       <div>
             <pb n="1"/>
           <p>
-            <lb/><choice><abbr>Actm</abbr><expan>Actum</expan></choice> mitwochs den 21.ten julii. A.<hi rend="sup">o</hi> 1706,
-            <lb/><choice><abbr>prent</abbr><expan>presentibus</expan></choice> herren rathsherr <persName>Hans Rudolf Werdmüler</persName> und
+            <lb/><choice><abbr>Actm</abbr><expan>Actum</expan></choice> mitwochs, den 21.ten julii a.<hi rend="sup">o</hi> 1706,
+              <lb/><choice><abbr>prent</abbr><expan>presentibus</expan></choice> herren rathsherr <persName ref="GND_1089451482">Hans Rudolf Werdmüler</persName> und
             <lb/>herren zunfftmeister <persName>Meyer</persName>.
             <lb/>Aus oberkeitlichem befehl, wurde der im <placeName>Wellenberg</placeName> verhafte
-            <lb/><persName>Mustapha Cara</persName> von <placeName>Algiers</placeName> gebürtig, alles ernsts examiniert,
+              <lb/><persName>Mustapha Cara</persName>, von <placeName ref="LOC_36.73225_3.08746">Algiers</placeName> gebürtig, alles ernsts examiniert,
             <lb/>welcher hierauf folgende aussag gethan:
-            <lb/>Sein vatter seye ein kaufmann auf dem meer geweßen, und als
+            <lb/>Sein vatter seye ein kaufmann auf dem meer geweßen und als
             <lb/>er 12. jahr 8. monat alt, nebent selbigem, samt der mutter
-            <lb/>und geschwösterten, von den <orgName>Franzosen</orgName> gefangen und nach <placeName>Marsilien</placeName> auf die
+              <lb/>und geschwösterten, von den franzosen gefangen und nach <placeName ref="LOC_43.29695_5.38107">Marsilien</placeName> auf die
             <lb/>gallere geführt worden, woselbst er 32. jahr, 2 monat und
             <lb/>3. tag als ein armer gefangner geweßen und vor 3. jahren
-            <lb/>erlößt worden, da er den graden wegs nach <placeName>Bern</placeName> kommen,
-            <lb/>und sich daselbst taufen laßen von <abbr>mr.</abbr> <persName>Holard</persName>, seine tauf<lb break="no"/>zeüg 
+              <lb/>erlößt worden, da er den graden wegs nach <placeName ref="LOC_46.94809_7.44744">Bern</placeName> kommen,
+              <lb/>und sich daselbst taufen laßen von <abbr>mr.</abbr> <persName ref="GND_1089804849">Holard</persName>. Seine tauf<lb break="no"/>zeüg 
                     seyen geweßen <abbr>mr.</abbr> le president <persName>Tillier</persName> und noch ein alter 
             <lb/>herr, welcher erstere ihme 1 doublonen geben, und ein
-            <lb/>taufzedul zugestellt worden. Zu <placeName>Bern</placeName> seye er 6. wochen und
+              <lb/>taufzedul zugestellt worden. Zu <placeName ref="LOC_46.94809_7.44744">Bern</placeName> seye er 6. wochen und
             <lb/>3. tag gebliben, unßer religion hebe er erlehrnet von 2.
             <lb/>genfern, deren der einte <persName>Maleblanc</persName> vom geschlecht und
-            <lb/>eines maurers sohn, desgleichen einer von <placeName>Lausanna</placeName>, so <persName>Bauvain</persName>
+              <lb/>eines maurers sohn, desgleichen einer von <placeName ref="LOC_46.516_6.63282">Lausanna</placeName>, so <persName>Bauvain</persName>
             <lb/>geheißen, die mit ihme auf der gallere an einem ruder ge<lb break="no"/>fangen 
               geweßen, und von unßerer religion geredt, daß
-            <lb/>wie er von <placeName>Bern</placeName> hinweg kommen, selbige gut gewüßt habe, als er
-            <lb/>nun auf <placeName>Genff</placeName> wollen, habe man ihne zu <placeName>Versoy</placeName> zu kriegs<lb break="no"/>dienst 
-                    gezwungen und nacher <placeName>Valenciene</placeName> geführt, daselbst er
+              <lb/>wie er von <placeName ref="LOC_46.94809_7.44744">Bern</placeName> hinweg kommen, selbige gut gewüßt habe, als er
+              <lb/>nun auf <placeName ref="LOC_46.20222_6.14569">Genff</placeName> wollen, habe man ihne zu <placeName ref="LOC_46.28382_6.16214">Versoy</placeName> zu kriegs<lb break="no"/>dienst 
+              gezwungen und nacher <placeName ref="LOC_50.35909_3.52506">Valenciene</placeName> geführt, daselbst er
             <lb/>außgerißen, seye aber attrapiert und wider auf die gallere
             <lb/>condemniert, woselbst er 9. monat gebliben, und aber<lb break="no"/>mahls 
-                    erlößt worden, in dißen zweymahligen gefangenschaften
-            <lb/>habe er alle campagnie gethan, von <placeName>Marseille</placeName> hinweg, seye er
-            <lb/>auf <placeName>Collmar</placeName>, <placeName>Basel</placeName>, <placeName>Zurzach</placeName>, <placeName>Arauw</placeName>, <placeName>Lutzern</placeName>, da er sich an sinnem
+                    erlößt worden. In dißen zweymahligen gefangenschaften
+              <lb/>habe er alle campagnie gethan. Von <placeName ref="LOC_43.29695_5.38107">Marseille</placeName> hinweg, seye er
+              <lb/>auf <placeName ref="48.08078_7.35584">Collmar</placeName>, <placeName ref="47.55839_7.57327">Basel</placeName>, <placeName ref="47.58764_8.29365">Zurzach</placeName>,
+              <placeName ref="LOC_47.39254_8.04422">Arauw</placeName>,
+              <placeName ref="47.05048_8.30635">Lutzern</placeName>, da er sich an sinnem
             <lb/>fueß 5 tag lang curieren laßen, welches er umb gottes willen
             <lb/>geforderet, und sie ihne nicht gefraget, als ob er ein frömlider seye.
            <pb n="2"/>
-            <lb/>Von <placeName>Lutzern</placeName> seye er an ein orth, so ein see wie hier habe,
-            <lb/>hernach auf <placeName>Dietikon</placeName>, allwo er in dem wirthshauß in einem sack
+              <lb/>Von <placeName ref="47.05048_8.30635">Lutzern</placeName> seye er an ein orth, so ein see wie hier habe,
+              <lb/>hernach auf <placeName ref="47.40165_8.40015">Dietikon</placeName>, allwo er in dem wirthshauß in einem sack
             <lb/>das pater noster gefunden, und endtlich hieher kommen auf die
             <lb/><placeName>Sillbrug</placeName>, da ihne ein franzoß, dem man ein kind tauft und
-            <lb/>der ihne zu <placeName>Bern</placeName> kennt, antrofen, welcher alsbald
+              <lb/>der ihne zu <placeName ref="LOC_46.94809_7.44744">Bern</placeName> kennt, antrofen, welcher alsbald
             <lb/>gesagt, <q>en voila se pauvre turc</q>, und zu sich geladen, zu dem
-            <lb/>er gangen, und mitgeholfen essen und trinken, er seye nie
-            <lb/>zu <placeName>Einsidlen</placeName> noch in einer procession geweßen, auch sein leben<lb break="no"/>tag 
-                    nichts von <placeName>Einsidlen</placeName> gehört, so er betriege, solle ihn gott
-            <lb/>straffen; Er seye hieher in die stadt kommen, ein handreichung und schreiben
-            <lb/>zubegehren, daß er könne nach <placeName>Holland</placeName>, auf den schifen
+            <lb/>er gangen, und mitgeholfen essen und trinken. Er seye nie
+              <lb/>zu <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName> noch in einer procession geweßen, auch sein leben<lb break="no"/>tag 
+              nichts von <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName> gehört, so er betriege, solle ihn gott
+            <lb/>straffen. Er seye hieher in die stadt kommen, ein handreichung und schreiben
+              <lb/>zubegehren, daß er könne nach <placeName ref="LOC_52.25_5.75">Holland</placeName>, auf den schifen
             <lb/>zudienen, er habe nichts gesagt, als daß er schon tauft
             <lb/>und verlange, daß er in unßerer religion wider möchte
             <lb/>unterrichtet werden, rede jemand anders, so habe man ihm nit
@@ -136,9 +138,9 @@
                     <div><ab place="verso" type="dorsal">
                         <p>
                             <lb/>Nachgang
-                            <lb/>3. <persName>Mustapha Cara</persName> ein türck von <placeName>Algiers</placeName>
-                            <lb/>gebürtig, wegen verdachts in dem <placeName>Wellen<lb break="no"/>berg</placeName> verhaften <choice><abbr>betr</abbr><expan>effend</expan></choice>, <origDate when="1706">1706</origDate>.
-                            <lb/>Vom <origDate when="1706-07-21">21.ten julii. <abbr>A.<hi rend="sup">o</hi></abbr> 1706</origDate>.
+                            <lb/>3. <persName>Mustapha Cara</persName> ein türck von <placeName ref="LOC_36.73225_3.08746">Algiers</placeName>
+                            <lb/>gebürtig, wegen verdachts in dem <placeName>Wellen<lb break="no"/>berg</placeName> verhaften <choice><abbr>betr</abbr><expan>betreffend</expan></choice>, <origDate when="1706">1706</origDate>.
+                            <lb/>Vom <origDate when="1706-07-21">21.ten julii. <abbr>a.<hi rend="sup">o</hi></abbr> 1706</origDate>.
                             <lb/>vom <origDate when="1706-07-23">23.ten dito</origDate>.
                             <lb/>vom <origDate when="1706-08-03">3.ten augusti</origDate>.
                         </p></ab>

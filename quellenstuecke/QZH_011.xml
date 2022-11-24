@@ -88,9 +88,9 @@
     <body>
      <pb n="1"/>
      <div>
-      <ab place="cover middle" type="dorsal"><p>
+      <ab place="verso middle" type="dorsal"><p>
       <lb/>Schriftlicher bericht
-      <lb/><abbr>Hrn.</abbr> <persName>Bohq</persName> vorsingers
+      <lb/><abbr>hrn.</abbr> <persName>Bohq</persName> vorsingers
       <lb/>der frantzösischen
       <lb/>kirchen.</p></ab></div>
      <div>
@@ -101,36 +101,36 @@
       <lb/>je lui demandai, s’il avoit une atestation, et
       <lb/>d’ou il étoit. Il me respondit qu’il n’avoit point
       <lb/>d’atestation, parce qu’il venoit presentement
-      <lb/>des galeres de <placeName>France</placeName>, et qu’il n’avoit pas été
-      <lb/>en aucun endroit reformé qu’a <placeName>Arau</placeName>, qu’il
-      <lb/>étoit d’<placeName>Algers</placeName>, qu’il avoit été 32 ans sur les
-      <lb/>galeres de <placeName>France</placeName>, qu’il connoissoit nos frères
+      <lb/>des galeres de <placeName ref="LOC_46_2">France</placeName>, et qu’il n’avoit pas été
+      <lb/>en aucun endroit reformé qu’a <placeName ref="LOC_47.39254_8.04422">Arau</placeName>, qu’il
+      <lb/>étoit d’<placeName ref="LOC_36.73225_3.08746">Algers</placeName>, qu’il avoit été 32 ans sur les
+      <lb/>galeres de <placeName ref="LOC_46_2">France</placeName>, qu’il connoissoit nos frères
       <lb/>les confesseurs. Il m’en nomma plusieurs et
       <lb/>me dit des particularités et des circonstances
-      <lb/>de leurs soufrances qu’il souhaitoit de recevoir
+      <lb/>de leurs soufrances, qu’il souhaitoit de recevoir
       <lb/>le bateme. Je lui dis de venir à midi chez
       <lb/>moi, parce que j’etois bien aise de l’examiner
       <lb/>un peu plus, et même de le faire exami<lb break="no"/>ner 
       à monsieur <persName>Peprune</persName>. Il y vint où il dit
       <lb/>les memes choses sans se couper et témoigna
-      <lb/>qu’il souhaitoit de se faire batizer et <abbr>Mr.</abbr>
-      <lb/><persName>Peprune</persName> lui aiant dit, sil le disoit sincerement
+      <lb/>qu’il souhaitoit de se faire batizer et <abbr>mr.</abbr>
+      <lb/><persName>Peprune</persName> lui aiant dit, sil le disoit sincerement,
       <lb/>il repondit qu’il voudroit que dieu dit à l’oreille
-      <lb/>de <abbr>Mr.</abbr> <persName>Peprune</persName> ce qu’il avoit dans le coeur. Comme
+      <lb/>de <abbr>mr.</abbr> <persName>Peprune</persName> ce qu’il avoit dans le coeur. Comme
       <lb/>nous croïions ce qu’il nous disoit, je lui dis de
       <lb/>revenir le lendemain. Il revint et etant bien
       <pb n="2"/>
       <lb/>bien aise de le faire voir à monsieur le marquis
-      <lb/>de <persName>Rochegude</persName>. Je l’y menai, mais ne l’aiant
+      <lb/>de <persName ref="GND_116883448">Rochegude</persName>. Je l’y menai, mais ne l’aiant
       <lb/>pas trouvé, je le presentai par rencontre à monsieur
-      <lb/>le pasteur <persName>Zeller</persName>, à qui il dit aussi qu’il souhai<lb break="no"/>toit 
+      <lb/>le pasteur <persName ref="GND_1019762608">Zeller</persName>, à qui il dit aussi qu’il souhai<lb break="no"/>toit 
       de recevoir le <del rend="strikethrough">bateme</del> christianisme, sur quoi <abbr>mr</abbr>
       le pasteur
       <lb/>me chargea de le mener apres diné chez monsieur
-      <lb/>le professeur <persName>Ottinguer</persName>, et aiant dit a <abbr>Monsr.</abbr> 
+      <lb/>le professeur <persName ref="GND_117013463">Ottinguer</persName>, et aiant dit a <abbr>monsr.</abbr> 
       <lb/>le professeur la meme chose, m’ordonna
       <lb/>de le mener chez monsiegneur le zunft
-      <lb/>maistre <persName>Schutzer</persName>.</p></div>
+      <lb/>maistre <persName ref="GND_1089527993">Schutzer</persName>.</p></div>
     </body>
     <back><div>
      <p>In diesem einzigartigen Fall lässt sich verfolgen, wie konsequent der <orgName>Rat</orgName> die

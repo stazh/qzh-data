@@ -112,12 +112,12 @@
        <lb/>gebraucht, nit zur üppigkeit und unzucht oder hoffart zu pflantzen, auch nit
        aber<lb break="no"/>glauben 
        und abgötterei zepflantzen und anzerichten, sunder allerlei tugenden,
-       besunder ehrliche thaten, unser heil und seligkeit anzubilden und fuüzutragen;
-       habend es
-       <lb/>[der]halben nit in die kilchen gestellt, sunder in ihren hüseren behalten, und
+       besunder ehrliche thaten, unser heil und seligkeit anzubilden und fuüzutragen.
+       Habend es
+       <lb/><choice><abbr>halben</abbr><expan>derhalben</expan></choice> nit in die kilchen gestellt, sunder in ihren hüseren behalten, und
        findt
        <lb/>man noch vil schöner kunstlicher gemälen und bilderen, di vorzeiten nutzlich
-       <lb/>gedicht und gemacht worden sind, dererlei auch dz ein ist; dann eüwere
+       <lb/>gedicht und gemacht worden sind, dererlei auch dz ein ist. Dann eüwere
        <lb/>liebe schwöster <abbr>fr.</abbr> <persName>Verena Aescherin</persName>, selig, nit unlang vor irer vermechlung
        <lb/>gar kunstlich und schön mit vil mhü und arbeit abgewürkt, und also ein
        <lb/>kostlicher tafet gemacht hat, da ir etwan (noch bei leben üwer erenden fürge<lb break="no"/>liebten
@@ -129,8 +129,8 @@
        <lb/>begriffen wölle, welches ich gutwillig angenommen, und eüch zu lieb und
        <lb/>eeren diese ußlegnung dises gewürkten tuchs bschriben hab, welche ich eüch
        <lb/>hiemit zuschik, mit begär, dieselbig von mir in gutem ufzunemmen.
-       <lb/>Gott bewar eüch ewigklich. Datum <placeName>Zürich</placeName> <abbr>d.</abbr> <origDate when="1561-07-06">6. Julii Anno do<lb break="no"/>mini 
-        1561</origDate>. <persName ref="118517384">Heinrich Bullinger</persName>.</p>
+       <lb/>Gott bewar eüch ewigklich. Datum <placeName ref="LOC_47.36667_8.55">Zürich</placeName> <abbr>d.</abbr> <origDate when="1561-07-06">6. julii anno do<lb break="no"/>mini 
+        1561</origDate>. <persName ref="GND_118517384">Heinrich Bullinger</persName>.</p>
       <head type="subtitle">Summa des tuchs.</head> 
       <p>
        <lb/>Dieses abgewürkt tuch ist ein bildner oder ein bildtnuß, 
@@ -145,9 +145,9 @@
     </body>
     <back>
      <div>
-      <p>Heinrich Bullinger zerstreut in seinem
+      <p><persName ref="118517384">Heinrich Bullinger</persName> zerstreut in seinem
        Schreiben an <persName>Agatha Zoller</persName> deren Bedenken, der von ihrer Schwester 1554
-       hergestellte u<persName ref="118517384"></persName>nd von ihr ererbte Wirkteppich über die Verkündigung an <persName>Maria</persName>
+       hergestellte und von ihr ererbte Wirkteppich über die Verkündigung an <persName>Maria</persName>
        könne gegen das biblische Bilderverbot verstossen. Aus dem in einer
        unvollständigen Kopie erhaltenen Schreiben wird <persName ref="118517384">Bullingers</persName> klare Unterscheidung
        zwischen <q>Götze</q> und Bild ersichtlich: Der Wandbehang sei kein Objekt falscher
