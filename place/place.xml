@@ -14,41 +14,15 @@
     </teiHeader>
     <standOff>
         <listPlace>
-            <place xml:id="QZH_011_3" n="Algers">
+            <place xml:id="LOC_36.73225_3.08746" n="Algiers, Algers">
                 <placeName type="main">Algers</placeName>
+                <placeName type="main">Algiers</placeName>
+                <location>
+                    <geo>36.73225 3.08746</geo>
+                </location>
             </place>
             <place xml:id="QZH_004_2" n="Algier">
                 <placeName type="main">Algier</placeName>
-            </place>
-            <place xml:id="QZH_003_2" n="Algiers">
-                <placeName type="main">Algiers</placeName>
-            </place>
-            <place xml:id="QZH_003_24" n="Algiers">
-                <placeName type="main">Algiers</placeName>
-            </place>
-            <place xml:id="QZH_009_2" n="Algiers">
-                <placeName type="main">Algiers</placeName>
-            </place>
-            <place xml:id="QZH_001_15" n="Algiers">
-                <placeName type="main">Algiers</placeName>
-            </place>
-            <place xml:id="QZH_002_2" n="Algiers">
-                <placeName type="main">Algiers</placeName>
-            </place>
-            <place xml:id="QZH_010_2" n="Algiers">
-                <placeName type="main">Algiers</placeName>
-            </place>
-            <place xml:id="QZH_007_2" n="Algiers">
-                <placeName type="main">Algiers</placeName>
-            </place>
-            <place xml:id="QZH_005_1" n="Algiers">
-                <placeName type="main">Algiers</placeName>
-            </place>
-            <place xml:id="QZH_006_2" n="Algiers">
-                <placeName type="main">Algiers</placeName>
-            </place>
-            <place xml:id="QZH_006_1" n="Algiers">
-                <placeName type="main">Algiers</placeName>
             </place>
             <place xml:id="QZH_013_3" n="Andelfingen">
                 <placeName type="main">Andelfingen</placeName>
@@ -56,14 +30,12 @@
             <place xml:id="QZH_013_2" n="Andelfingen">
                 <placeName type="main">Andelfingen</placeName>
             </place>
-            <place xml:id="QZH_011_2" n="Arau">
+            <place xml:id="LOC_47.39254_8.04422" n="Arauw, Arau">
+                <placeName type="main">Arauw</placeName>
                 <placeName type="main">Arau</placeName>
-            </place>
-            <place xml:id="QZH_003_15" n="Arauw">
-                <placeName type="main">Arauw</placeName>
-            </place>
-            <place xml:id="QZH_001_2" n="Arauw">
-                <placeName type="main">Arauw</placeName>
+                <location>
+                    <geo>47.39254 8.04422</geo>
+                </location>
             </place>
             <place xml:id="QZH_018_2" n="Arburg">
                 <placeName type="main">Arburg</placeName>
@@ -89,38 +61,18 @@
             <place xml:id="QZH_015_2" n="Bareg">
                 <placeName type="main">Bareg</placeName>
             </place>
-            <place xml:id="QZH_003_13" n="Basel">
+            <place xml:id="47.55839_7.57327" n="Basel">
                 <placeName type="main">Basel</placeName>
             </place>
-            <place xml:id="QZH_003_5" n="Bern">
+            <place xml:id="46.94809_7.44744" n="Bern">
                 <placeName type="main">Bern</placeName>
             </place>
-            <place xml:id="QZH_003_7" n="Bern">
+            <place xml:id="LOC_46.94809_7.44744" n="Bern, Berner">
                 <placeName type="main">Bern</placeName>
-            </place>
-            <place xml:id="QZH_003_4" n="Bern">
-                <placeName type="main">Bern</placeName>
-            </place>
-            <place xml:id="QZH_003_20" n="Bern">
-                <placeName type="main">Bern</placeName>
-            </place>
-            <place xml:id="QZH_001_6" n="Bern">
-                <placeName type="main">Bern</placeName>
-            </place>
-            <place xml:id="QZH_001_10" n="Bern">
-                <placeName type="main">Bern</placeName>
-            </place>
-            <place xml:id="QZH_002_4" n="Bern">
-                <placeName type="main">Bern</placeName>
-            </place>
-            <place xml:id="QZH_010_3" n="Bern">
-                <placeName type="main">Bern</placeName>
-            </place>
-            <place xml:id="QZH_008_5" n="Bern">
-                <placeName type="main">Bern</placeName>
-            </place>
-            <place xml:id="QZH_001_12" n="Berner">
                 <placeName type="main">Berner</placeName>
+                <location>
+                    <geo>46.94809 7.44744</geo>
+                </location>
             </place>
             <place xml:id="QZH_015_3" n="Bibersee">
                 <placeName type="main">Bibersee</placeName>
@@ -152,10 +104,10 @@
             <place xml:id="QZH_014_10" n="Cappell">
                 <placeName type="main">Cappell</placeName>
             </place>
-            <place xml:id="QZH_003_12" n="Collmar">
+            <place xml:id="48.08078_7.35584" n="Collmar">
                 <placeName type="main">Collmar</placeName>
             </place>
-            <place xml:id="QZH_003_18" n="Dietikon">
+            <place xml:id="47.40165_8.40015" n="Dietikon">
                 <placeName type="main">Dietikon</placeName>
             </place>
             <place xml:id="QZH_013_9" n="Dorf">
@@ -182,62 +134,26 @@
             <place xml:id="QZH_023_4" n="Eglisou">
                 <placeName type="main">Eglisou</placeName>
             </place>
-            <place xml:id="QZH_003_21" n="Einsidlen">
+            <place xml:id="LOC_47.12693_8.75345" n="Einsidlen">
                 <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_003_22" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_004_4" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_004_3" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_001_8" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_001_14" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_002_5" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_010_4" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_007_1" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_007_4" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_007_3" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_008_2" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_005_4" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
-            </place>
-            <place xml:id="QZH_005_2" n="Einsidlen">
-                <placeName type="main">Einsidlen</placeName>
+                <location>
+                    <geo>47.12693 8.75345</geo>
+                </location>
             </place>
             <place xml:id="QZH_013_5" n="Flaach">
                 <placeName type="main">Flaach</placeName>
             </place>
-            <place xml:id="QZH_011_1" n="France">
+            <place xml:id="LOC_46_2" n="France">
                 <placeName type="main">France</placeName>
+                <location>
+                    <geo>46 2</geo>
+                </location>
             </place>
-            <place xml:id="QZH_011_4" n="France">
-                <placeName type="main">France</placeName>
-            </place>
-            <place xml:id="QZH_001_1" n="Frauwmünster">
+            <place xml:id="LOC_47.36966_8.54145" n="Frauwmünster">
                 <placeName type="main">Frauwmünster</placeName>
-            </place>
-            <place xml:id="QZH_001_5" n="Frauwmünster">
-                <placeName type="main">Frauwmünster</placeName>
+                <location>
+                    <geo>47.36966 8.54145</geo>
+                </location>
             </place>
             <place xml:id="QZH_022_9" n="Frigenbach">
                 <placeName type="main">Frigenbach</placeName>
@@ -245,11 +161,11 @@
             <place xml:id="QZH_022_8" n="Frigenbach">
                 <placeName type="main">Frigenbach</placeName>
             </place>
-            <place xml:id="QZH_003_8" n="Genff">
+            <place xml:id="LOC_46.20222_6.14569" n="Genff">
                 <placeName type="main">Genff</placeName>
-            </place>
-            <place xml:id="QZH_001_11" n="Genff">
-                <placeName type="main">Genff</placeName>
+                <location>
+                    <geo>46.20222 6.14569</geo>
+                </location>
             </place>
             <place xml:id="QZH_023_1" n="Glattfelden">
                 <placeName type="main">Glattfelden</placeName>
@@ -332,11 +248,14 @@
             <place xml:id="QZH_017_4" n="Hittnow">
                 <placeName type="main">Hittnow</placeName>
             </place>
-            <place xml:id="QZH_003_23" n="Holland">
+            <place xml:id="52.25_5.75" n="Holland">
                 <placeName type="main">Holland</placeName>
             </place>
-            <place xml:id="QZH_008_4" n="Holland">
+            <place xml:id="LOC_52.25_5.75" n="Holland">
                 <placeName type="main">Holland</placeName>
+                <location>
+                    <geo>52.25 5.75</geo>
+                </location>
             </place>
             <place xml:id="QZH_022_5" n="Holtzhusen">
                 <placeName type="main">Holtzhusen</placeName>
@@ -356,8 +275,11 @@
             <place xml:id="QZH_014_3" n="Knonouw">
                 <placeName type="main">Knonouw</placeName>
             </place>
-            <place xml:id="QZH_003_6" n="Lausanna">
+            <place xml:id="LOC_46.516_6.63282" n="Lausanna">
                 <placeName type="main">Lausanna</placeName>
+                <location>
+                    <geo>46.516 6.63282</geo>
+                </location>
             </place>
             <place xml:id="QZH_015_22" n="Limmat">
                 <placeName type="main">Limmat</placeName>
@@ -374,20 +296,15 @@
             <place xml:id="QZH_018_4" n="Lucernn">
                 <placeName type="main">Lucernn</placeName>
             </place>
-            <place xml:id="QZH_003_16" n="Lutzern">
+            <place xml:id="47.05048_8.30635" n="Lutzern">
                 <placeName type="main">Lutzern</placeName>
             </place>
-            <place xml:id="QZH_003_17" n="Lutzern">
-                <placeName type="main">Lutzern</placeName>
-            </place>
-            <place xml:id="QZH_003_11" n="Marseille">
+            <place xml:id="LOC_43.29695_5.38107" n="Marseille, Marsilien">
                 <placeName type="main">Marseille</placeName>
-            </place>
-            <place xml:id="QZH_001_3" n="Marseille">
-                <placeName type="main">Marseille</placeName>
-            </place>
-            <place xml:id="QZH_003_3" n="Marsilien">
                 <placeName type="main">Marsilien</placeName>
+                <location>
+                    <geo>43.29695 5.38107</geo>
+                </location>
             </place>
             <place xml:id="QZH_022_4" n="Meilen">
                 <placeName type="main">Meilen</placeName>
@@ -455,11 +372,11 @@
             <place xml:id="QZH_020_7" n="Schlattingen">
                 <placeName type="main">Schlattingen</placeName>
             </place>
-            <place xml:id="QZH_009_6" n="Schwarzwald">
-                <placeName type="main">Schwarzwald</placeName>
-            </place>
-            <place xml:id="QZH_001_13" n="Schweitz">
+            <place xml:id="LOC_47.0405_8.74101" n="Schweitz">
                 <placeName type="main">Schweitz</placeName>
+                <location>
+                    <geo>47.0405 8.74101</geo>
+                </location>
             </place>
             <place xml:id="QZH_003_19" n="Sillbrug">
                 <placeName type="main">Sillbrug</placeName>
@@ -476,8 +393,11 @@
             <place xml:id="QZH_022_6" n="Steffner hoff">
                 <placeName type="main">Steffner hoff</placeName>
             </place>
-            <place xml:id="QZH_009_5" n="Triberg">
-                <placeName type="main">Triberg</placeName>
+            <place xml:id="LOC_48.13175_8.23317" n="Triberg ob dem Schwarzwald">
+                <placeName type="main">Triberg ob dem Schwarzwald</placeName>
+                <location>
+                    <geo>48.13175 8.23317</geo>
+                </location>
             </place>
             <place xml:id="QZH_016_32" n="Tägernauw">
                 <placeName type="main">Tägernauw</placeName>
@@ -491,17 +411,26 @@
             <place xml:id="QZH_016_38" n="Utikon">
                 <placeName type="main">Utikon</placeName>
             </place>
-            <place xml:id="QZH_003_10" n="Valenciene">
+            <place xml:id="LOC_50.35909_3.52506" n="Valenciene">
                 <placeName type="main">Valenciene</placeName>
+                <location>
+                    <geo>50.35909 3.52506</geo>
+                </location>
             </place>
-            <place xml:id="QZH_003_9" n="Versoy">
+            <place xml:id="LOC_46.28382_6.16214" n="Versoy">
                 <placeName type="main">Versoy</placeName>
+                <location>
+                    <geo>46.28382 6.16214</geo>
+                </location>
             </place>
             <place xml:id="QZH_017_1" n="Waͤrikon">
                 <placeName type="main">Waͤrikon</placeName>
             </place>
-            <place xml:id="QZH_009_3" n="Weiningen">
+            <place xml:id="47.42022_8.43644" n="Weiningen">
                 <placeName type="main">Weiningen</placeName>
+            </place>
+            <place xml:id="QZH_010_1" n="Wellenberg">
+                <placeName type="main">Wellenberg</placeName>
             </place>
             <place xml:id="QZH_003_1" n="Wellenberg">
                 <placeName type="main">Wellenberg</placeName>
@@ -518,22 +447,13 @@
             <place xml:id="QZH_003_25" n="Wellenberg">
                 <placeName type="main">Wellenberg</placeName>
             </place>
+            <place xml:id="QZH_008_1" n="Wellenberg">
+                <placeName type="main">Wellenberg</placeName>
+            </place>
             <place xml:id="QZH_004_1" n="Wellenberg">
                 <placeName type="main">Wellenberg</placeName>
             </place>
             <place xml:id="QZH_009_1" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_018_10" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_002_3" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_010_1" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_008_1" n="Wellenberg">
                 <placeName type="main">Wellenberg</placeName>
             </place>
             <place xml:id="QZH_020_2" n="Wellenberg">
@@ -548,11 +468,20 @@
             <place xml:id="QZH_015_19" n="Wellenberg">
                 <placeName type="main">Wellenberg</placeName>
             </place>
+            <place xml:id="QZH_018_10" n="Wellenberg">
+                <placeName type="main">Wellenberg</placeName>
+            </place>
             <place xml:id="QZH_015_20" n="Wellenberg">
                 <placeName type="main">Wellenberg</placeName>
             </place>
-            <place xml:id="QZH_001_4" n="Wiedicken">
+            <place xml:id="QZH_002_3" n="Wellenberg">
+                <placeName type="main">Wellenberg</placeName>
+            </place>
+            <place xml:id="LOC_47.36201_8.51497" n="Wiedicken">
                 <placeName type="main">Wiedicken</placeName>
+                <location>
+                    <geo>47.36201 8.51497</geo>
+                </location>
             </place>
             <place xml:id="QZH_014_6" n="Wyl">
                 <placeName type="main">Wyl</placeName>
@@ -590,7 +519,7 @@
             <place xml:id="QZH_014_15" n="Zuger">
                 <placeName type="main">Zuger</placeName>
             </place>
-            <place xml:id="QZH_003_14" n="Zurzach">
+            <place xml:id="47.58764_8.29365" n="Zurzach">
                 <placeName type="main">Zurzach</placeName>
             </place>
             <place xml:id="QZH_020_8" n="Zürcher">
@@ -599,31 +528,16 @@
             <place xml:id="QZH_017_8" n="Zürcher">
                 <placeName type="main">Zürcher</placeName>
             </place>
+            <place xml:id="QZH_016_40" n="Zürich">
+                <placeName type="main">Zürich</placeName>
+            </place>
             <place xml:id="QZH_014_9" n="Zürich">
                 <placeName type="main">Zürich</placeName>
             </place>
             <place xml:id="QZH_014_1" n="Zürich">
                 <placeName type="main">Zürich</placeName>
             </place>
-            <place xml:id="Beispielquelle_1" n="Zürich">
-                <placeName type="main">Zürich</placeName>
-            </place>
-            <place xml:id="QZH_012_2" n="Zürich">
-                <placeName type="main">Zürich</placeName>
-            </place>
-            <place xml:id="QZH_012_1" n="Zürich">
-                <placeName type="main">Zürich</placeName>
-            </place>
-            <place xml:id="QZH_013_6" n="Zürich">
-                <placeName type="main">Zürich</placeName>
-            </place>
-            <place xml:id="QZH_016_40" n="Zürich">
-                <placeName type="main">Zürich</placeName>
-            </place>
             <place xml:id="loc000065" n="Zürich">
-                <placeName type="main">Zürich</placeName>
-            </place>
-            <place xml:id="QZH_008_3" n="Zürich">
                 <placeName type="main">Zürich</placeName>
             </place>
             <place xml:id="QZH_016_39" n="Zürich">
@@ -632,7 +546,19 @@
             <place xml:id="QZH_023_5" n="Zürich">
                 <placeName type="main">Zürich</placeName>
             </place>
-            <place xml:id="QZH_005_3" n="Zürich">
+            <place xml:id="Beispielquelle_1" n="Zürich">
+                <placeName type="main">Zürich</placeName>
+            </place>
+            <place xml:id="LOC_47.36667_8.55" n="Zürich">
+                <placeName type="main">Zürich</placeName>
+                <location>
+                    <geo>47.36667 8.55</geo>
+                </location>
+            </place>
+            <place xml:id="47.36667_8.55" n="Zürich">
+                <placeName type="main">Zürich</placeName>
+            </place>
+            <place xml:id="QZH_013_6" n="Zürich">
                 <placeName type="main">Zürich</placeName>
             </place>
             <place xml:id="LOC_47.37721420014591_8.527299029687203" n="Zürich">
@@ -641,17 +567,8 @@
                     <geo>47.37721420014591 8.527299029687203</geo>
                 </location>
             </place>
-            <place xml:id="QZH_006_5" n="Zürich">
-                <placeName type="main">Zürich</placeName>
-            </place>
-            <place xml:id="QZH_006_4" n="Zürich">
-                <placeName type="main">Zürich</placeName>
-            </place>
             <place xml:id="QZH_016_31" n="brandenburg">
                 <placeName type="main">brandenburg</placeName>
-            </place>
-            <place xml:id="QZH_008_7" n="französischen">
-                <placeName type="main">französischen</placeName>
             </place>
             <place xml:id="QZH_006_3" n="h.">
                 <placeName type="main">h.</placeName>
@@ -668,19 +585,16 @@
             <place xml:id="QZH_020_4" n="rathuß">
                 <placeName type="main">rathuß</placeName>
             </place>
-            <place xml:id="QZH_008_6" n="römischen">
-                <placeName type="main">römischen</placeName>
-            </place>
             <place xml:id="QZH_009_4" n="Ötenbach">
                 <placeName type="main">Ötenbach</placeName>
             </place>
             <place xml:id="QZH_002_1" n="Ötenbach">
                 <placeName type="main">Ötenbach</placeName>
             </place>
-            <place xml:id="QZH_001_7" n="Öttenbach">
+            <place xml:id="QZH_001_8" n="Öttenbach">
                 <placeName type="main">Öttenbach</placeName>
             </place>
-            <place xml:id="QZH_001_9" n="Öttenbach">
+            <place xml:id="QZH_001_10" n="Öttenbach">
                 <placeName type="main">Öttenbach</placeName>
             </place>
         </listPlace>

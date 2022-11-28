@@ -19,8 +19,8 @@ as item()*
                             group by $placeName
                             return <placeName type="main">{$place[1]//text()}</placeName>
                     
-                    let $coordinateTag := if (fn:matches($optionalCoordinate, "^[-+]?([1-8]?\d(\.\d+)?|90(\.0+)?) \s*[-+]?(180(\.0+)?|((1[0-7]\d)|([1-9]?\d))(\.\d+)?)$")) (:check if the reference is a coordinate. Example format: 47.37721420014591 8.527299029687203:) 
-                                            then <location><geo>{string-join($optionalCoordinate)}</geo></location>  
+                    let $coordinateTag := if (fn:matches($optionalCoordinate[1], "^[-+]?([1-8]?\d(\.\d+)?|90(\.0+)?) \s*[-+]?(180(\.0+)?|((1[0-7]\d)|([1-9]?\d))(\.\d+)?)$")) (:check if the reference is a coordinate. Example format: 47.37721420014591 8.527299029687203:) 
+                                            then <location><geo>{string-join($optionalCoordinate[1])}</geo></location>  
                                             else ()
                     
                     return [$placesTags, $coordinateTag]
@@ -66,7 +66,7 @@ as item()*
             
             let $allOrdered := (:the list of places should be ordered alphabetically :)
                 for $i in $allFinalized
-                    order by $i//tei:placeName//text()
+                    order by $i//tei:placeName[1]//text()
                     return $i
             
             return $allOrdered
