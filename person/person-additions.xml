@@ -1,0 +1,7 @@
+
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI">
+    <text>
+        <!--Hier können weitere Namen von Personen eingetragen werden, wenn diese in der Webapplikation erscheinen sollen, aber nicht bereits in den Quellenstücken vorhanden sind-->
+        <persName ref="GND_118517384">Heinrich Bullinger</persName>
+    </text>
+</TEI>
