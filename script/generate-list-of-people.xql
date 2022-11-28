@@ -3,7 +3,7 @@ xquery version "3.1";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 declare function local:extractDateFromSource($source as item())
-as xs:string
+as xs:string?
 {
     (: the date of a source is extracted to be displayed on the webapplication :)
     (: a source can contain different kinds of dates :)
@@ -62,7 +62,7 @@ as item()*
                 <persName type="full">{string-join(distinct-values($i/persName//text()), ", ")}</persName>
                 {
                     if (count(distinct-values($i/source/text())) = 1) 
-                        then [<source>{$i/source/text()[1]}</source>, <dateOfTheSource>{$i/dateOfTheSource/text()[1]}</dateOfTheSource>]
+                        then [<source>{distinct-values($i/source/text())[1]}</source>, <dateOfTheSource>{distinct-values($i/dateOfTheSource/text())[1]}</dateOfTheSource>]
                         else ()
                 }
             </person>
@@ -87,7 +87,7 @@ as item()*
             
             {
                 let $all := 
-                    let $collection := collection("/db/apps/qzh-data/quellenstuecke/")
+                    let $collection := (collection("/db/apps/qzh-data/quellenstuecke/"), (doc("/db/apps/qzh-data/person/person-additions.xml")))
                     for $quellenstueck in $collection
                         for $p at $pos in $quellenstueck//tei:text//tei:persName (: extract all people :)
                         let $personName := fn:normalize-space($p) (:some people contain leading or trailing spaces or line-breaks, remove them :)
