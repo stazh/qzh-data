@@ -3,5 +3,9 @@
     <text>
         <!--Hier können weitere Namen von Personen eingetragen werden, wenn diese in der Webapplikation erscheinen sollen, aber nicht bereits in den Quellenstücken vorhanden sind-->
         <persName ref="GND_118517384">Heinrich Bullinger</persName>
+        <persName ref="GND_118517384">Bullinger, Heinrich</persName>
+        <persName ref="GND_1089477872">Escher, Hans Hartmann</persName>
+        <persName ref="GND_1075829879">Zurlauben, Konrad</persName>
+        <persName ref="GND_118637533">Zwingli, Ulrich</persName>
     </text>
 </TEI>
