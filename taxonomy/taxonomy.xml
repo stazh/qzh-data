@@ -670,6 +670,10 @@
                         <desc xml:lang="deu">Hausierer</desc>
                         <gloss>Warenhändler, Wanderhändler</gloss>
                     </category>
+                    <category xml:id="key111111">
+                        <desc xml:lang="deu">Häusliche Gewalt</desc>
+                        <gloss>Physische, psychische oder sexuelle Formen der Gewalt zwischen Angehörigen eines Haushalts</gloss>
+                    </category>
                     <category xml:id="key000185">
                         <desc xml:lang="deu">Hausrat</desc>
                         <gloss>In der Hauswirtschaft benötigte Gerätschaften und Möbel</gloss>
