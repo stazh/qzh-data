@@ -87,7 +87,7 @@ as item()*
             
             {
                 let $all := 
-                    let $collection := (collection("/db/apps/qzh-data/quellenstuecke/"), (doc("/db/apps/qzh-data/person/person-additions.xml")))
+                    let $collection := ((doc("/db/apps/qzh-data/person/person-additions.xml")), collection("/db/apps/qzh-data/quellenstuecke/"))
                     for $quellenstueck in $collection
                         for $p at $pos in $quellenstueck//tei:text//tei:persName (: extract all people :)
                         let $personName := fn:normalize-space($p) (:some people contain leading or trailing spaces or line-breaks, remove them :)
