@@ -599,6 +599,11 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
+            <person xml:id="GND_1089477872">
+                <persName type="full">Escher, Hans Hartmann, Hanß Hartman Escher, Hans Hartman Escher</persName>
+                <source>QZH_015</source>
+                <dateOfTheSource>1613-1614</dateOfTheSource>
+            </person>
             <person xml:id="QZH_016_7">
                 <persName type="full">Eßlinger</persName>
                 <source>QZH_016</source>
@@ -844,11 +849,6 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="GND_1089477872">
-                <persName type="full">Hanß Hartman Escher, Hans Hartman Escher, Escher, Hans Hartmann</persName>
-                <source>QZH_015</source>
-                <dateOfTheSource>1613-1614</dateOfTheSource>
-            </person>
             <person xml:id="QZH_020_22">
                 <persName type="full">Hanß Heinrichli Sigg</persName>
                 <source>QZH_020</source>
@@ -935,7 +935,7 @@
                 <dateOfTheSource>2022</dateOfTheSource>
             </person>
             <person xml:id="GND_118517384">
-                <persName type="full">Heinrich Bullinger, Bullingers, Bullinger, Bullinger, Heinrich</persName>
+                <persName type="full">Heinrich Bullinger, Bullinger, Heinrich, Bullingers, Bullinger</persName>
             </person>
             <person xml:id="QZH_016_10">
                 <persName type="full">Heinrich Buochman</persName>
@@ -1631,12 +1631,12 @@
                 <dateOfTheSource>1518</dateOfTheSource>
             </person>
             <person xml:id="GND_1075829879">
-                <persName type="full">Zurlouben, Zurlauben, Konrad</persName>
+                <persName type="full">Zurlauben, Konrad, Zurlouben</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
             <person xml:id="GND_118637533">
-                <persName type="full">Zwinglins, Zwingli, Zwingli, Ulrich</persName>
+                <persName type="full">Zwingli, Ulrich, Zwinglins, Zwingli</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
