@@ -15,9 +15,9 @@ as item()*
                 {
                     let $placesTags := 
                         for $place in $i
-                            let $placeName := $place//text()
-                            group by $placeName
-                            return <placeName type="main">{$place[1]//text()}</placeName>
+                            let $currentPlacename := distinct-values($place//text())[1]
+                            group by $currentPlacename
+                            return <placeName type="main">{$currentPlacename}</placeName>
                     
                     let $coordinateTag := if (fn:matches($optionalCoordinate[1], "^[-+]?([1-8]?\d(\.\d+)?|90(\.0+)?) \s*[-+]?(180(\.0+)?|((1[0-7]\d)|([1-9]?\d))(\.\d+)?)$")) (:check if the reference is a coordinate. Example format: 47.37721420014591 8.527299029687203:) 
                                             then <location><geo>{string-join($optionalCoordinate[1])}</geo></location>  
