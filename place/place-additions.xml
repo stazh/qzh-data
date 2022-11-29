@@ -1,0 +1,6 @@
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI">
+    <text>
+        <!--Hier können weitere Namen von Orten eingetragen werden, wenn diese in der Webapplikation erscheinen sollen, aber nicht bereits in den Quellenstücken vorhanden sind-->
+        <placeName ref="LOC_47.36661_8.78629">Pfäffikon Zürich</placeName>
+    </text>
+</TEI>

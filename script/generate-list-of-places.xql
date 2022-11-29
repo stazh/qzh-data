@@ -19,8 +19,8 @@ as item()*
                             group by $currentPlacename
                             return <placeName type="main">{$currentPlacename}</placeName>
                     
-                    let $coordinateTag := if (fn:matches($optionalCoordinate[1], "^[-+]?([1-8]?\d(\.\d+)?|90(\.0+)?) \s*[-+]?(180(\.0+)?|((1[0-7]\d)|([1-9]?\d))(\.\d+)?)$")) (:check if the reference is a coordinate. Example format: 47.37721420014591 8.527299029687203:) 
-                                            then <location><geo>{string-join($optionalCoordinate[1])}</geo></location>  
+                    let $coordinateTag := if (fn:matches(distinct-values($optionalCoordinate)[1], "^[-+]?([1-8]?\d(\.\d+)?|90(\.0+)?) \s*[-+]?(180(\.0+)?|((1[0-7]\d)|([1-9]?\d))(\.\d+)?)$")) (:check if the reference is a coordinate. Example format: 47.37721420014591 8.527299029687203:) 
+                                            then <location><geo>{string-join(distinct-values($optionalCoordinate)[1])}</geo></location>  
                                             else ()
                     
                     return [$placesTags, $coordinateTag]
@@ -48,7 +48,7 @@ as item()*
             
         {
             let $all := 
-            let $collection := collection("/db/apps/qzh-data/quellenstuecke/")
+            let $collection := ((doc("/db/apps/qzh-data/place/place-additions.xml")), collection("/db/apps/qzh-data/quellenstuecke/"))
             for $quellenstueck in $collection
             for $p at $pos in $quellenstueck//tei:text//tei:placeName (: get al places from all "quellenstücke" :)
             let $placeName := fn:normalize-space($p) (:some places contain leading or trailing spaces or line-breaks, remove them :)

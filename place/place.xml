@@ -349,6 +349,12 @@
             <place xml:id="QZH_016_34" n="Pfeffikon">
                 <placeName type="main">Pfeffikon</placeName>
             </place>
+            <place xml:id="LOC_47.36661_8.78629" n="Pfäffikon Zürich">
+                <placeName type="main">Pfäffikon Zürich</placeName>
+                <location>
+                    <geo>47.36661 8.78629</geo>
+                </location>
+            </place>
             <place xml:id="QZH_017_5" n="Pfäffikonner">
                 <placeName type="main">Pfäffikonner</placeName>
             </place>
