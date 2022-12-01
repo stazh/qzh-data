@@ -84,18 +84,18 @@
 <div><p><lb/>Ehrwürdiger, hoch- und wolgelehrter, 
      <lb/>insonders hochgeehrter herr decane!</p>
      <p><lb/>Dieweil von etwas zeit her, so wol zu stadt als 
-     <lb/>land ein schandtliches und höchstärgerliches
+     <lb/>land, ein schandtliches und höchstärgerliches
      gerücht,
      <lb/>zu viler herzen betrübnus erschallen, als wann zu 
-     <placeName>Lin<lb break="no"/>dau</placeName> in dem pfarrhauß ein gespängst, zu großer
+      <placeName ref="LOC_47.44299_8.67362">Lin<lb break="no"/>dau</placeName> in dem pfarrhauß ein gespängst, zu großer
      <lb/>beunrühigung der einwohnern von underschidenlichen
      <lb/>persohnen gesehen und gehört werde, darüber vil
      unbe<lb break="no"/>gründte, 
       ganz ungleiche discursen hin und wider 
-     <lb/>geführt worden; Als haben die <abbr>hhrn</abbr> examinatores
-     <lb/>beyder ständen, umb wahrhaffte eigentliche infor-
-     <lb/>mation davon zuhaben <abbr>hren</abbr> <abbr>pfr.</abbr> <persName>Denzler</persName> von <placeName>Lin<lb break="no"/>dau</placeName> 
-      persöhnlich für sich bescheiden, und von ihme
+     <lb/>geführt worden. Als haben die <abbr>hhrn</abbr> examinatores
+     <lb/>beyder ständen, umb wahrhaffte eigentliche infor<lb break="no"/>mation 
+      davon zuhaben <abbr>hren</abbr> <abbr>pfr.</abbr> <persName ref="GND_1089544812">Denzler</persName> von <placeName ref="LOC_47.44299_8.67362">Lin<lb break="no"/>dau</placeName> 
+      persöhnlich für sich bescheiden und von ihme
      <lb/>folgenden bericht vernommen:     Daß er mit den 
      <lb/>lieben seinigen von erster seiner ankonfft an viler<lb break="no"/>ley 
       gepölder nit ohne großen schrecken zu under<lb break="no"/>schidenlichen 
@@ -103,61 +103,59 @@
      <lb/>andern gemächern des pfarrhaußes zu nacht
      <lb/>und tagszeit gehöret, welches von seinem
      <lb/>schneider, der ihme auß der arbeit geflohen, 
-     <lb/>und andern, die in das pfarrhauß gewandlet, di-
-     <lb/>vulgirt, dabey aber weder von ihme, noch von
+     <lb/>und andern, die in das pfarrhauß gewandlet, di<lb break="no"/>vulgirt, 
+      dabey aber weder von ihme, noch von
      <lb/>jemand in seiner gemeind, vilweniger von ihme
      <lb/>selbst oder seinen haußgenoßen außgegeben worden,
      <lb/>als wann dißes oder jennes in specie, oder diese
      <lb/>und jenne persohn in individuo erscheine, sonder
      <lb/>daß nur ein unruhiger poldergeist auß
-     <lb/>verhängnus gottes sich hören laße; Wie dann
-     <lb/>hren pfarrer <persName>Haußlins</persName> <abbr>sel:</abbr> hinderlaßene selbst
+     <lb/>verhängnus gottes sich hören laße. Wie dann
+     <lb/><abbr>hren</abbr> pfarrer <persName>Haußlins</persName> <abbr>sel:</abbr> hinderlaßene selbst
      <lb/>bekent und ausgesagt, auch vor uns nach
      <lb/>bekennen und aussagen, daß schon under ihres lieben
       <pb n="45v"/>
-     <lb/>vatter <abbr>sel.</abbr> als seinem <abbr>hren</abbr> vorfahren, ja schon vor
-     <lb/>langer zeit, under hren pfarrer Fehr <abbr>sel:</abbr> mehr<lb break="no"/>mahlen etwas ungeheürs observirt und gewahret
+     <lb/>vatter <abbr>sel.</abbr>, als seinem <abbr>hren</abbr> vorfahren, ja schon vor
+     <lb/>langer zeit, under <abbr>hren</abbr> pfarrer Fehr <abbr>sel:</abbr> mehr<lb break="no"/>mahlen etwas ungeheürs observirt und gewahret
      <lb/>worden, deßen die ursach seyn solle, daß vormahlen
-     <lb/>eine magd einen kindermord daselbst begangen, wie
-     dann
+     <lb/>eine magd einen kindermord daselbst begangen, wie dann
      <lb/>an dem orth, da die mordthat geschehen, das meiste
      <lb/>unwesen und gepölder geführet wird. Und
-     <lb/>weilen von hren <abbr>pfr.</abbr> <persName>Denzler</persName> zimlich ehrrühriges
+      <lb/>weilen von <abbr>hren</abbr> <abbr>pfr.</abbr> <persName ref="GND_1089544812">Denzler</persName> zimlich ehrrühriges
      <lb/>spargirt worden, als wann er zu abtreibung dißes
      <lb/>poldergeists untheologisch verfahren, hat er sich
      deßent<lb break="no"/>wegen also verantwortet, daß aus seinem verfahren
-     <lb/>sich erhellet er habe mit den lieben seinigen in allem
+     <lb/>sich erhellet, er habe mit den lieben seinigen in allem
      seine hofnung und trost allein auf gott, der stärker und gewaltiger 
      <lb/>als ihr widersächer, steif gesezt, und in dißer
      <lb/>über ihn verhängten unruhe durch unabläßliches
      <lb/>gebet und seüfzen gnädiger hülf mit kindtlicher
      <lb/>gedult und gelaßenheit von ihme erwartet,
-     <lb/>weßwegen mann ihne mit trost fehrners aufge-
-     <lb/>richtet, und wie er sich weiters under der hand des 
-     <lb/>herren in das könftige zuverhalten habe, underrichtet 
+     <lb/>weßwegen mann ihne mit trost fehrners aufge<lb break="no"/>richtet, 
+      und wie er sich weiters under der hand des 
+     <lb/>herren in das könftige zuverhalten habe, underrichtet, 
      <lb/>dabey aber die nothwendige insinuation an ihme ge-
      <lb/>than, seine stillständer und gemeindsgnoßen dahin
      <lb/>ernsthaft zuvermannen, daß sie dißes wesen nit
      weiters
      <lb/>divulgiren, mit angehenkter treüwung, daß auf ds
      <lb/>erste spargament eine scharfe inquisition auf
-     <lb/>den urheber gehalten, und er nach verdienen ab-
+     <lb/>den urheber gehalten und er nach verdienen ab-
      <lb/>gestrafft werden solle.     Dißes wird so wol auf
-     <lb/>befehl uns: <abbr>gnen.</abbr> <abbr>Hhren.</abbr> als der <abbr>hhren</abbr> examinator <abbr>u</abbr>
+     <lb/>befehl <abbr>uns:</abbr> <abbr>gnen.</abbr> <abbr>hhren.</abbr> als der <abbr>hhren</abbr> examinator <abbr>u</abbr>
      <lb/><abbr>mhhren</abbr> decano und seinen <abbr>hhren</abbr> capitulsbrüderen
      kundt<lb break="no"/>gethan, damit wo dißes ungute und nachtheilige 
      <lb/>gerücht 
      <pb n="45a"/>     
       <lb/>in ihren gemeinden erschalle, zu nothwendiger 
-     <lb/>rettung und reparirung hren <abbr>pfr.</abbr> <persName>Häußlins</persName> <abbr>sel</abbr>
+     <lb/>rettung und reparirung <abbr>hren</abbr> <abbr>pfr.</abbr> <persName>Häußlins</persName> <abbr>sel</abbr>
      <lb/>ehr, mit vorsichtigkeit, durch erinnerung und 
-     <lb/>vermannung, ab der canzel oder von nöthen, oder
-     <orgName>stillständ</orgName>, ir nach
-     <lb/>beschaffenheit das gerücht groß oder klein, kopirt
+     <lb/>vermannung, ab der canzel oder von nöthen, oder stillständ, ir nach
+     <lb/>beschaffenheit das gerücht, groß oder klein, kopirt
      <lb/>und getüscht werde, mit anfügen, daß dergleichen
      spar<lb break="no"/>gament herrühre theils aus mangel der liebe, theils
      <lb/>aus mangel des glaubens, theils aus unwüßen<lb break="no"/>heit 
-      der erkantnus gottes und seines worts;
+      der erkantnus gottes und seines worts.
      <lb/>Dann was ist doch liebloser, als nach dem
      <lb/>tod eines sonst ehrlichen manns auf etwas ge<lb break="no"/>hörtes 
       gepölder arguiren und spagiren, dißer
@@ -171,8 +169,8 @@
      verborgenen
      <lb/>lastern befleckt haben! Wiewolen mann dergleichen
      nichts
-     <lb/>weißt noch aufbringen kan wan dem <abbr>sel:</abbr> hren
-     <lb/>Haüßlein, der ein ganz vernünftiges mit gebet
+     <lb/>weißt noch aufbringen kan, wan dem <abbr>sel:</abbr> <abbr>hren</abbr>
+     <lb/><persName>Haüßlein</persName>, der ein ganz vernünftiges, mit gebet
      <lb/>und seüfzen zu gott, biß auf den letzten athemzug
      <lb/>höchstrühmliches end von dißer welt genommen hat.
      <lb/>Und wann auch dem teüfel selbst durch gottes
@@ -181,22 +179,22 @@
      könte,
      <lb/>solte darum das grund genug seyn, <abbr>hr</abbr> <persName>Haüßlein</persName>
      <lb/>müße kein kind der seligkeit seyn? Ach liebloser 
-     <lb/>grund! War darum der fromme prophet Sa<lb break="no"/>muel kein seliges kind gottes, daß jenne hex
-     <lb/>zu Endor auß zulaßung Gottes einen teüfel
+      <lb/>grund! War darum der fromme prophet <persName ref="GND_118605313">Sa<lb break="no"/>muel</persName> kein seliges kind gottes, daß jenne hex
+     <lb/>zu <placeName>Endor</placeName> auß zulaßung Gottes einen teüfel
      <pb n="45av"/>
      <lb/>herfür gezauberet, der in der gestalt dißes theüren
      pro<lb break="no"/>pheten erschinnen und sich in worten und geberden als
      der
-     <lb/>wahrhafte Samuel erzeiget? Der mangel des glau<lb break="no"/>bens aber laßt sich herfür darinn, daß mann bey
+      <lb/>wahrhafte <persName ref="GND_118605313">Samuel</persName> erzeiget? Der mangel des glau<lb break="no"/>bens aber laßt sich herfür darinn, daß mann bey
      solchen
      <lb/>anläßen darfür haltet, verstorbene leüth seyen nach 
      <lb/>ihrem tod unrühwig, und laufen herumb, da doch
      <lb/>der leib ruhet in der erden, die seel aber hingehet
      zu
      <lb/>ihrem schöpfer, eintweders zur ewigen ruhe, oder
-     <lb/>aber in den orth der qual ohne ein einichen fehrnern
+     <lb/>aber in den orth der qual, ohne ein einichen fehrnern
      <lb/>außgang. In allen aber ist große, grobe unwüßen<lb break="no"/>heit gottes und seines worts, deswegen <abbr>mhhren</abbr>
-     <lb/>decanus samt seinen <abbr>hhren</abbr> mitcapitulsbrüder[en]
+      <lb/>decanus samt seinen <abbr>hhren</abbr> <choice><abbr>mitcapitulsbrüdrn</abbr><expan>mitcapitulsbrüdren</expan></choice>
      <lb/>mit allem fleiß erinnert werden, ihr volk auf
      <lb/>dem wort gottes eines beßeren zubereden, und auf
      <lb/>alle ersinnliche weise dißem höchstägerlichen,
@@ -205,24 +203,24 @@
      gänzliches
      <lb/>vergeß zubringen. Womit nechst empfehlung
      <lb/>göttlichem obschirm verbleibe nechst schönstem
-     <lb/>Gruß</p>
-     <p><lb/><origPlace>Zürich</origPlace> den <origDate when="1697-01-28">28. jenner. 
+     <lb/>gruß</p>
+ <p><lb/><origPlace ref="LOC_47.36667_8.55">Zürich</origPlace> den <origDate when="1697-01-28">28. jenner. 
      <lb/>1697</origDate>.
      <lb/>Meines hochgeehrten <abbr>hren</abbr> 
      <lb/>decani
      <lb/>dienstberichtwilligster
-     <lb/>[Anton Klingler]</p>
+  <lb/><supplied><persName ref="GND_12120071X">Anton Klingler</persName></supplied></p>
 </div>
     </body>
     <back>
      <div>
-      <p>Angesichts des Gerüchts, im Pfarrhaus von <placeName>Lindau</placeName> gehe seit mehreren Generationen
-       wegen eines von einer Magd dort begangenen Kindsmords ein Poltergeist um, der ein Widergänger
-       des verstorbenen Pfarrers <persName>Häuslin</persName> sei, ermahnt <persName>Anton Klingler</persName> die Geistlichen, diesem Gerücht
-       entgegenzutreten. Auch das ehrenrührige Gerücht, der jetzige Pfarrer <persName>Denzler</persName> habe mit
+      <p>Angesichts des Gerüchts, im Pfarrhaus von <placeName ref="LOC_47.44299_8.67362">Lindau</placeName> gehe seit mehreren Generationen
+       wegen eines von einer Magd dort begangenen Kindsmords ein Poltergeist um, der ein Wiedergänger
+       des verstorbenen Pfarrers <persName>Häuslin</persName> sei, ermahnt <persName ref="GND_12120071X">Anton Klingler</persName> die Geistlichen, diesem Gerücht
+       entgegenzutreten. Auch das ehrenrührige Gerücht, der jetzige Pfarrer <persName ref="GND_1089544812">Denzler</persName> habe mit
        unorthodoxen Mitteln den Poltergeist zu vertreiben versucht, sei zu unterbinden. Der
        Geisterglaube verletze die Ehre des verstorbenen Pfarrers und zeuge von mangelndem Glauben.
-       Das Schreiben belegt, dass Poltergeister theologisch zwar als Machenschaft des <persName>Teufels</persName>
+       Das Schreiben belegt, dass Poltergeister theologisch zwar als Machenschaft des Teufels
        denkbar waren, aber die Kirche die vorreformatorischen und weiterhin lebendigen Vorstellungen
        von Geistern als Widergänger von Toten zu bekämpfen suchte.</p>
      </div>
