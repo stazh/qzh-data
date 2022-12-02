@@ -1,7 +1,7 @@
 # Quellen zur Zürcher Geschichte: Daten
 
 ## Repository
-Dieses Repository beinhaltet die Quellenstücke für Projekt „Zürcher Rechtsquellen“. Die TEI-Publisher Webapplikation, mit der die Quellenstücke angezeigt werden, befindet sich hier: https://gitlab.com/quellen-zur-zuercher-geschichte/quellen-zur-zuercher-geschichte
+Dieses Repository beinhaltet die Quellenstücke für Projekt „Zürcher Rechtsquellen“. Die TEI-Publisher Webapplikation, mit der die Quellenstücke angezeigt werden, befindet sich hier: https://github.com/stazh/qzh
 
 ## Workflow zur Bearbeitung der Quellenstücke
 
@@ -15,7 +15,7 @@ Minimale Anpassungen an den Quellenstücken können auch direkt über die GitLab
 
 Für grössere Änderungen empfiehlt sich jedoch stark die Verwendung eines GIT-Clients (zum Beispiel Sourcetree oder GitHub Desktop).  
 
-Eine konkrete Anleitung zum Anlegen eines Accounts bei GitLab und zum Verbinden mit dem GitLab Client (SourceTree, GitHub Desktop) befindet sich hier: [https://gitlab.com/quellen-zur-zuercher-geschichte/quellen-zur-zuercher-geschichte/-/blob/master/documentation/Arbeiten\_mit\_TEI\_Publisher\_GIT\_Workflow/index.md][2]. Für die Pflege der Quellenstücke müssen nur die Schritte 3, 4, 5, 11 und 12 beachtet werden. Die restlichen Schritte werden nur dann benötigt, wenn man Änderungen am Quellcode der Webapplikation selbst vornehmen will. Für Änderungen an den Quellenstücken wird nicht zwingend eine lokale Installation der ExistDB benötigt. Eine lokale Installation der ExistDB hat jedoch den Vorteil, dass die Änderungen an den Quellenstücken auf dem lokalen ExistDB-Server getestet werden können.
+Eine konkrete Anleitung zum Anlegen eines Accounts bei GitHub und zum Verbinden mit dem Git-Client (SourceTree, GitHub Desktop) befindet sich hier: [https://github.com/stazh/qzh/blob/master/documentation/Arbeiten_mit_TEI_Publisher_GIT_Workflow/index.md][2]. Für die Pflege der Quellenstücke müssen nur die Schritte 3, 4, 5, 11 und 12 beachtet werden. Die restlichen Schritte werden nur dann benötigt, wenn man Änderungen am Quellcode der Webapplikation selbst vornehmen will. Für Änderungen an den Quellenstücken wird nicht zwingend eine lokale Installation der ExistDB benötigt. Eine lokale Installation der ExistDB hat jedoch den Vorteil, dass die Änderungen an den Quellenstücken auf dem lokalen ExistDB-Server getestet werden können.
 
 ## Hinweise für das Tagging der Quellenstücke
 
@@ -423,7 +423,7 @@ Achtung: Nicht vergessen, die Änderungen wieder auf GitLab zu pushen.
 Der HTML-Code für das Literaturverzeichnis ist im Repository "code" mit dem Namen  `literaturverzeichnis.html` abgelegt. Die XML-Version des Literaturverzeichnisses wird nicht mehr benötigt.
 
 [1]:	https://www.youtube.com/watch?v=dyY539HzN6Q
-[2]:	https://gitlab.com/quellen-zur-zuercher-geschichte/quellen-zur-zuercher-geschichte/-/blob/master/documentation/Arbeiten_mit_TEI_Publisher_GIT_Workflow/index.md
+[2]:	https://github.com/stazh/qzh/blob/master/documentation/Arbeiten_mit_TEI_Publisher_GIT_Workflow/index.md
 [3]:	https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D118517384
 
 [image-1]:	documentation/bild1.png
