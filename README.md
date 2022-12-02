@@ -9,7 +9,7 @@ Die Quellenstücke (TEI-XMLs) befinden sich im Verzeichnis `/quellenstuecke`. Qu
 
 Mit einem GIT-Client können die Quellenstücke bearbeitet, gelöscht oder ergänzt werden. Eine Einführung in das Thema GIT befindet sich hier: [https://www.youtube.com/watch?v=dyY539HzN6Q][1] (Minute 0 bis Minute 39)
 
-Minimale Anpassungen an den Quellenstücken können auch direkt über die GitLab Webseite vorgenommen werden:
+Minimale Anpassungen an den Quellenstücken können auch direkt über die GitHub Webseite vorgenommen werden:
 
 ![][image-1]
 
@@ -357,7 +357,7 @@ Dieser ausgegebene Text sollte kopiert, und anschliessend in der Datei `person/p
 
 ![][image-26]
 
-Achtung: Nicht vergessen, die Änderungen wieder auf GitLab zu pushen.
+Achtung: Nicht vergessen, die Änderungen wieder auf GitHub zu pushen.
 
 ### Place.xml
 
@@ -416,7 +416,7 @@ Dieser ausgegebene Text sollte kopiert, und anschliessend in der Datei `place/pl
 
 ![][image-31]
 
-Achtung: Nicht vergessen, die Änderungen wieder auf GitLab zu pushen.
+Achtung: Nicht vergessen, die Änderungen wieder auf GitHub zu pushen.
 
 ## Anpassen der Bibliografie / des Literaturverzeichnisses
 
