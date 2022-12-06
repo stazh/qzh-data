@@ -83,7 +83,7 @@
      <pb n="45r"/>
 <div><p><lb/>Ehrwürdiger, hoch- und wolgelehrter, 
      <lb/>insonders hochgeehrter herr decane!</p>
-     <p><lb/>Dieweil von etwas zeit her, so wol zu stadt als 
+     <p><seg><lb/>Dieweil von etwas zeit her, so wol zu stadt als 
      <lb/>land, ein schandtliches und höchstärgerliches
      gerücht,
      <lb/>zu viler herzen betrübnus erschallen, als wann zu 
@@ -96,7 +96,7 @@
      <lb/>beyder ständen, umb wahrhaffte eigentliche infor<lb break="no"/>mation 
       davon zuhaben <abbr>hren</abbr> <abbr>pfr.</abbr> <persName ref="GND_1089544812">Denzler</persName> von <placeName ref="LOC_47.44299_8.67362">Lin<lb break="no"/>dau</placeName> 
       persöhnlich für sich bescheiden und von ihme
-     <lb/>folgenden bericht vernommen:     Daß er mit den 
+     <lb/>folgenden bericht vernommen:</seg>     <seg>Daß er mit den 
      <lb/>lieben seinigen von erster seiner ankonfft an viler<lb break="no"/>ley 
       gepölder nit ohne großen schrecken zu under<lb break="no"/>schidenlichen 
       mahlen in der studier- und wonnstuben, auch
@@ -110,17 +110,17 @@
      <lb/>als wann dißes oder jennes in specie, oder diese
      <lb/>und jenne persohn in individuo erscheine, sonder
      <lb/>daß nur ein unruhiger poldergeist auß
-     <lb/>verhängnus gottes sich hören laße. Wie dann
+     <lb/>verhängnus gottes sich hören laße.</seg> <seg>Wie dann
      <lb/><abbr>hren</abbr> pfarrer <persName>Haußlins</persName> <abbr>sel:</abbr> hinderlaßene selbst
      <lb/>bekent und ausgesagt, auch vor uns nach
      <lb/>bekennen und aussagen, daß schon under ihres lieben
       <pb n="45v"/>
      <lb/>vatter <abbr>sel.</abbr>, als seinem <abbr>hren</abbr> vorfahren, ja schon vor
-     <lb/>langer zeit, under <abbr>hren</abbr> pfarrer Fehr <abbr>sel:</abbr> mehr<lb break="no"/>mahlen etwas ungeheürs observirt und gewahret
+     <lb/>langer zeit, under <abbr>hren</abbr> pfarrer <persName>Fehr</persName> <abbr>sel:</abbr> mehr<lb break="no"/>mahlen etwas ungeheürs observirt und gewahret
      <lb/>worden, deßen die ursach seyn solle, daß vormahlen
      <lb/>eine magd einen kindermord daselbst begangen, wie dann
      <lb/>an dem orth, da die mordthat geschehen, das meiste
-     <lb/>unwesen und gepölder geführet wird. Und
+     <lb/>unwesen und gepölder geführet wird.</seg> <seg>Und
       <lb/>weilen von <abbr>hren</abbr> <abbr>pfr.</abbr> <persName ref="GND_1089544812">Denzler</persName> zimlich ehrrühriges
      <lb/>spargirt worden, als wann er zu abtreibung dißes
      <lb/>poldergeists untheologisch verfahren, hat er sich
@@ -141,7 +141,7 @@
      <lb/>divulgiren, mit angehenkter treüwung, daß auf ds
      <lb/>erste spargament eine scharfe inquisition auf
      <lb/>den urheber gehalten und er nach verdienen ab-
-     <lb/>gestrafft werden solle.     Dißes wird so wol auf
+      <lb/>gestrafft werden solle.</seg>     <seg>Dißes wird so wol auf
      <lb/>befehl <abbr>uns:</abbr> <abbr>gnen.</abbr> <abbr>hhren.</abbr> als der <abbr>hhren</abbr> examinator <abbr>u</abbr>
      <lb/><abbr>mhhren</abbr> decano und seinen <abbr>hhren</abbr> capitulsbrüderen
      kundt<lb break="no"/>gethan, damit wo dißes ungute und nachtheilige 
@@ -193,7 +193,7 @@
      zu
      <lb/>ihrem schöpfer, eintweders zur ewigen ruhe, oder
      <lb/>aber in den orth der qual, ohne ein einichen fehrnern
-     <lb/>außgang. In allen aber ist große, grobe unwüßen<lb break="no"/>heit gottes und seines worts, deswegen <abbr>mhhren</abbr>
+       <lb/>außgang.</seg> <seg>In allen aber ist große, grobe unwüßen<lb break="no"/>heit gottes und seines worts, deswegen <abbr>mhhren</abbr>
       <lb/>decanus samt seinen <abbr>hhren</abbr> <choice><abbr>mitcapitulsbrüdrn</abbr><expan>mitcapitulsbrüdren</expan></choice>
      <lb/>mit allem fleiß erinnert werden, ihr volk auf
      <lb/>dem wort gottes eines beßeren zubereden, und auf
@@ -201,7 +201,7 @@
      unserem
      <lb/>allerheiligsten glauben auch bey der widerpart nach<lb break="no"/>theiligen falschen gerücht zusteüren, und in
      gänzliches
-     <lb/>vergeß zubringen. Womit nechst empfehlung
+        <lb/>vergeß zubringen.</seg> <seg>Womit nechst empfehlung
      <lb/>göttlichem obschirm verbleibe nechst schönstem
      <lb/>gruß</p>
  <p><lb/><origPlace ref="LOC_47.36667_8.55">Zürich</origPlace> den <origDate when="1697-01-28">28. jenner. 
@@ -209,7 +209,7 @@
      <lb/>Meines hochgeehrten <abbr>hren</abbr> 
      <lb/>decani
      <lb/>dienstberichtwilligster
-  <lb/><supplied><persName ref="GND_12120071X">Anton Klingler</persName></supplied></p>
+  <lb/><supplied><persName ref="GND_12120071X">Anton Klingler</persName></supplied></seg></p>
 </div>
     </body>
     <back>

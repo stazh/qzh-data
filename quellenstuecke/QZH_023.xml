@@ -85,7 +85,7 @@
              <lb/><persName>Heinrich Widmers</persName> von <placeName ref="LOC_47.55871_8.50167">Glattfelden</placeName> in der herschafft <placeName ref="LOC_47.57335_8.52607">Eglisou</placeName>,
            <lb/>welchen er in der kirchen doselbst ab offner cantzel
            <lb/>thun müeßen, sontags, den <date when="1694-11-18">18. novemb. <abbr>a<hi rend="sup">o</hi></abbr> 1694</date></head>
-         <p><lb/>Demmnach ich, <persName>Heinrich Widmer</persName> von <placeName ref="LOC_47.55871_8.50167">Glattfelden</placeName> in der herschafft <placeName ref="LOC_47.57335_8.52607">Eglisou</placeName>, so
+         <p><seg><lb/>Demmnach ich, <persName>Heinrich Widmer</persName> von <placeName ref="LOC_47.55871_8.50167">Glattfelden</placeName> in der herschafft <placeName ref="LOC_47.57335_8.52607">Eglisou</placeName>, so
            <lb/>allhier gegenwürthig stohe, in der leidigen trunkhenheit, worinen ein heil<lb break="no"/>loses 
             leben ist, in die verdammliche sünd gerathen, daß ich leider! wider
           <lb/>die hochgelobte jungfrouw <persName ref="GND_118640909">Marya</persName>, die eine und heilige
@@ -98,7 +98,7 @@
            <lb/>zunge annoch regen kan, will ich selbige hinkünfftig zu lobpreißung
            <lb/>deß <abbr>h.</abbr> nammens gottes und zu deemüthiger abbith dißer begangnen
            <lb/>mißethat, wie auch ubriger meiner sünden, auß eingrund meines hertzens
-           <lb/>anwenden. Euch, eine gantze christliche gmeind, pitthe ich, ihr wollet
+           <lb/>anwenden.</seg> <seg>Euch, eine gantze christliche gmeind, pitthe ich, ihr wollet
            <lb/>mir helffen, gott umb verzeichung meiner so schweren sünden anrüffen
            <lb/>und daß er mir die gnad sines <abbr>h.</abbr> geistes verlichen wolle, in
            <lb/>meinem leben mich hinfüro dergestalten ein zu stellen, als wie es mir
@@ -111,7 +111,7 @@
            <lb/>meinen lesterlichen reden verdienet hab, vor welcher mich der liebe,
             <pb n="380"/>
            <lb/>gnädige und erbarmende gott umb seines sohns, unsres er<lb break="no"/>lösers 
-          <persName ref="GND_118557513">Jesu Christi</persName> willen, gnadig bewahren wolle!</p>
+          <persName ref="GND_118557513">Jesu Christi</persName> willen, gnadig bewahren wolle!</seg></p>
         </div>
        </body>
     <back>

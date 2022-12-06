@@ -80,21 +80,21 @@
    <text>
     <body>
      <pb n="1"/>
-     <div><p><lb/>Ufgenommen kundtschafft vor dem frommen, vesten und
+     <div><p><seg><lb/>Ufgenommen kundtschafft vor dem frommen, vesten und
       <lb/>wyßen herrn <persName>Hans Jacob Keller</persName>, burger <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, unnd der
       <lb/>zyt vogt der herrschafft <placeName>Knonouw</placeName>, deßglychen inn bysin
-      <lb/>undervogt <persName>Lienhartten Walldreß</persName> zu <placeName ref="LOC_47.2235_8.46197">Knonouw</placeName>. Unnd
+      <lb/>undervogt <persName>Lienhartten Walldreß</persName> zu <placeName ref="LOC_47.2235_8.46197">Knonouw</placeName>.</seg> <seg>Unnd
       <lb/>zügeten by iren geschworenen Eiden mitt nammen
-      <lb/><persName>Hanß Hëberlig</persName> zu <placeName>Bigkwyl</placeName>, amptß wachtmeister, daß alß
+       <lb/><persName>Hanß Hëberlig</persName> zu <placeName ref="LOC_47.26943_8.42448">Bigkwyl</placeName>, amptß wachtmeister, daß alß
       <lb/>er züg, der <persName>Ursula Gmünderin</persName> zu <placeName ref="LOC_47.2235_8.46197">Zug</placeName> vor herrn aman
       <lb/><persName ref="GND_1075829879">Zurlouben</persName>, und dem statt rath, bystand gweßen, habe er 
       <lb/>uß iren geheiß, durch pannerherrn <persName>Koli</persName>, iren fürsprechen,
       <lb/>uff <persName>Batt Boumgarttern</persName> von <placeName ref="LOC_47.17764_8.59215">Wyl</placeName>, klagen und fürhallten 
-      <lb/>lassen: Daß alß sy, <persName>Gmünderin</persName>, zu <placeName ref="LOC_47.17764_8.59215">Wyl</placeName> im <placeName ref="LOC_47.15886_8.53866">Zuger</placeName> piett mit 
+      <lb/>lassen:</seg> <seg>Daß alß sy, <persName>Gmünderin</persName>, zu <placeName ref="LOC_47.17764_8.59215">Wyl</placeName> im <placeName ref="LOC_47.15886_8.53866">Zuger</placeName> piett mit 
       <lb/>ime, <persName>Boumgartter</persName>, thrungken, da habe er, <persName>Boumgartter</persName>,
       <lb/>zu ir, <persName>Gmünderin</persName>, gredt: <quote>Du küy drëgk, ich bring dir eins.</quote>
       <lb/>Unnd als <persName>Gmünderin</persName> inne, <persName>Boumgartter</persName>, darumb beschelgkt
-      <lb/>und gredt, er thrybe allweg syne tratzwortt, habe <persName>Boum<lb break="no"/>gartter</persName> 
+      <lb/>und gredt, er thrybe allweg syne tratzwortt, habe Boum<lb break="no"/>gartter 
       iro domalß widerumb geandtworttet, er seche woll
       <lb/>sy, <persName>Gmünderin</persName>, heygs nit gern. Sy heyge ouch nach ein humbel
       <lb/>im arß, darzu wölle er iro noch woll sagen, was die Züricher
@@ -111,8 +111,8 @@
       <lb/>zu ime, <persName>Boumgartter</persName>, gredt, er heigs erhygt. Dann ire
       <pb n="2"/>
       <lb/>könnind die sünden ouch nit verzychen. Dann wellicher sünder 
-      <lb/>rüw und leid über syne sünd habe, und Gott umb verzychung
-      <lb/>bitten thüeige, dem verzyche Gott die sünden. Da habe
+      <lb/>rüw und leid über syne sünd habe, und gott umb verzychung
+      <lb/>bitten thüeige, dem verzyche gott die sünden. Da habe
       <lb/><persName>Batt Boumgarttner</persName> darüber wytter gredt, er heige der jaren
       <lb/>gmeindt, der krieg werde wider angohn, aber es sige ver<lb break="no"/>gebens, 
       wyl daß wytt- oder breittmul (herrn aman <persName ref="GND_1075829879">Zur<lb break="no"/>louben</persName> 
@@ -122,12 +122,12 @@
       <lb/>Dann sy wölltind unß das kloster <placeName ref="LOC_47.22523_8.51104">Cappell</placeName> nit mehr schëngken,
       <lb/>wie vor. Daruf heige sy, <persName>Gmünderin</persName>, gredt: <quote>Rüwtß dich
       <lb/>denn so übel? Was wottist mit thun, du <persName>Boumgartter</persName>,
-      <lb/>wottist dyne kind darfür setzen?</quote> By wellichen jetzterzellten
+      <lb/>wottist dyne kind darfür setzen?</quote></seg> <seg>By wellichen jetzterzellten
       <lb/>reden (so sy, <persName>Ursula Gmünderin</persName>, und <persName>Batt Boumgartter</persName> also 
       <lb/>gegen einandern gethonn) sige der priester von <placeName ref="LOC_47.20192_8.58053">Nühen</placeName>, sampt
       <lb/>synem diener gsyn, der habe ouch darzu gredt: <quote>Pfuy, pfuy,
       <lb/>das ist zevill.</quote> Er habe sölliches gegen unß (den Zürichern)
-      <lb/>nie geredt. Hierüber habe <persName>Batt Boumgartter</persName> uff
+      <lb/>nie geredt.</seg> <seg>Hierüber habe <persName>Batt Boumgartter</persName> uff
       <lb/>alle jetztgemellte (von ime gethon zesyn) erklagten reden
       <lb/>und schmach wortt allda zu <placeName ref="LOC_47.2235_8.46197">Zug</placeName> vor rath anderß nützit
       <lb/>niemals geredt, ouch uff synes eignen fürsprechen gehept,
@@ -138,12 +138,12 @@
       <lb/>sy habe ime zu söllich schmach reden keinen anlaaß gegeben.
       <lb/>Dann er, <persName>Boumgartter</persName>, habe dißere wortt nit allein nun an dem
       <lb/>ordt zu <placeName ref="LOC_47.17764_8.59215">Wyl</placeName>, sunder ouch etwa uf dem kilchweg mehr
-      <lb/>gredt.
+      <lb/>gredt.</seg></p>
       <pb n="3"/>
-      <lb/><persName>Heinrich Kleiner</persName> von <placeName ref="LOC_47.24779_8.46399">Mettmastetten</placeName>, der domalß ouch ir,
+      <p><seg><lb/><persName>Heinrich Kleiner</persName> von <placeName ref="LOC_47.24779_8.46399">Mettmastetten</placeName>, der domalß ouch ir,
       <lb/><persName>Gmünderin</persName>, bystannd gewëßen, züget glychß, und ein<lb break="no"/>mündig 
-      wie wachtmeister <persName>Hëberlig</persName>.
-      <lb/>Unnd beschlosßend damit ire kundtschafft sagen.</p></div>
+      wie wachtmeister <persName>Hëberlig</persName>.</seg>
+      <seg><lb/>Unnd beschlosßend damit ire kundtschafft sagen.</seg></p></div>
      <pb n="4"/>
     </body>
     <back>

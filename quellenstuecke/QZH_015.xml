@@ -84,8 +84,8 @@
      <div>
       <head type="subtitle"><persName>Jacoben Islers imm Tal</persName> antwort, <date when="1613-12-18">18. Decembris 1613</date>.</head>
       <p>
-       <lb/>Als herr hußschriber <persName>Grebel</persName> und herr vogt <persName ref="GND_1089574681">Bürkli</persName> zu <persName>Jacoben
-      <lb/>Isler imm Tal</persName>, dem teüffer in <placeName>Wellenberg</placeName> kehrt und imm die schelt
+       <lb/>Als herr hußschriber <persName>Grebel</persName> und herr vogt <persName ref="GND_1089574681">Bürkli</persName> zu Jacoben
+      <lb/>Isler imm Tal, dem teüffer, in <placeName>Wellenberg</placeName> kehrt und imm die schelt
       <lb/>wort, so er unsrer religion und gloubens halben usgossen haben
       <lb/>sölle, alles ernsts für ghalten und darüber seiner antwort begert,
       <lb/>ist er inen darüber mit volgendem bscheid begegnet: Namlich,
@@ -121,9 +121,9 @@
       seige er durch unser
        <lb/>schrifften verfuͤhrt, da er aber hoffe, er seige
        nicht verfuͤhrt, sonder
-      <lb/>habe den rechten grund.
+      <lb/>habe den rechten grund.</p>
       <pb n="2"/>
-      <lb/>Sonsten habe er nit gesagt, daß wenn er abstunde es glich were, als
+      <p><seg><lb/>Sonsten habe er nit gesagt, daß wenn er abstunde es glich were, als
       <lb/>wan ein hund (reverenter) kotzete und wider in sich fresse.
       <lb/>Witer seige er gar nit jichtig, das er unsern glouben als den
       <lb/>arbeitsäligisten gscholten habe. Wol habe er gredt: Er wüste kein
@@ -135,8 +135,8 @@
       <lb/>einem schmalen weg rede, und gangind die capuciner einen
       <lb/>schmaleren wäg. Item er, <persName>Isler</persName>, habe auch gredt, es wandlind
       <lb/>vill lüht so einen breiten weg, wen sie so ring selig werdind, so seigend
-      <lb/>sie, die teüffer, die aller arbeitseligisten lüht.
-      <lb/>Sonsten habe er keinen glouben nie verworffen, sonder alzeit
+      <lb/>sie, die teüffer, die aller arbeitseligisten lüht.</seg>
+      <seg><lb/>Sonsten habe er keinen glouben nie verworffen, sonder alzeit
       <lb/>gredt, es seige so mengerlich glouben in der welt, er gloube aber,
        <lb/>das under allen völkeren, wer recht thuͤge unnd
       gott vor augen habe,
@@ -146,9 +146,9 @@
       <lb/>gnedig herren um gnad unnd diser seiner antwort
       <lb/>glouben zugeben. Mit vermeldung er dasjenige, so die
       <lb/>kundtschafft uber in gredt, gsagt hete, wölle er sich vor gott
-      <lb/>schemen, daß er nit wölle jichtig sin!</p>
+      <lb/>schemen, daß er nit wölle jichtig sin!</seg></p>
       <head type="subtitle"><date when="1614-02-08">8. Februarij 1614</date>, <persName>Jacoben Islers im Tal</persName> antwort.</head>
-      <p><lb/>Als herr <persName ref="GND_1089420609">Caspar Murer</persName>, meister <persName ref="GND_100295231">Hanß Jacob Ulrich</persName>, junker <persName ref="GND_1089477872">Hans
+      <p><seg><lb/>Als herr <persName ref="GND_1089420609">Caspar Murer</persName>, meister <persName ref="GND_100295231">Hanß Jacob Ulrich</persName>, junker <persName ref="GND_1089477872">Hans
        <lb/>Hartman Escher</persName> und herr zunfftmeister <persName ref="GND_136182208">Hirtzel</persName> zu <persName>Jacoben Isler
       <lb/>im Tal</persName> in <placeName>Wellenberg</placeName> kehrt, habend nit allein gsagte <abbr>u. f. wz.</abbr>
       <lb/>mit recht imme die ursach seiner gefangenschafft nochmalen fürghalten, 
@@ -168,8 +168,8 @@
       <lb/>Welches aber alles by imme nützit verfahen mögen, sonders er, <persName>Isler</persName>,
       <lb/>hat sich dessen noch malen erklert, daß er gantz und gar in unser
       <lb/>kilchen nit ghon wölle, dann er sich gegen seiner gmeind als
-      <lb/>vill als verlobt habe. 
-       <lb/>Hienebendt zeigt er auch an, er habe zu <placeName ref="LOC_47.47333_8.30592">Baden</placeName> nie gredt,
+      <lb/>vill als verlobt habe.</seg>
+       <seg><lb/>Hienebendt zeigt er auch an, er habe zu <placeName ref="LOC_47.47333_8.30592">Baden</placeName> nie gredt,
       <lb/>daß der capuzineren gloub besser syge dan der unser. Das aber
       <lb/>hab er gredt, rede auch noch malen, es seigind etliche predicanten,
       <lb/>die gangind so ein breiten weg, dz si aber einen schmalen weg
@@ -181,10 +181,10 @@
       <lb/>Bitet hie nebet euch, min gnedig herren, umb gotts willen,
       <lb/>das ihr ihn zu sinen 10 kleinen kinden lassind mit ver<lb break="no"/>meldung, 
        er khöne nit anloben hinweg zuzühen, were imme grad
-      <lb/>als lieb, man fuhrte ihn in die houptgrub.</p>
+      <lb/>als lieb, man fuhrte ihn in die houptgrub.</seg></p>
       <head type="subtitle"><date when="1614-02-22">22. Februarii 1614.</date></head>
       <p>
-       <lb/>Als herr hußschriber <persName>Grebel</persName> und herr vogt <persName ref="GND_1089574681">Bürkli</persName> abermalen
+       <seg><lb/>Als herr hußschriber <persName>Grebel</persName> und herr vogt <persName ref="GND_1089574681">Bürkli</persName> abermalen
       <lb/>zu <persName>Jacoben Isler imm Tal</persName> zu <placeName>Wellenberg</placeName> kehret und inn zu
       <lb/>dem allerfreundtlichischen und ernstlichsten vermanet, sich in die ge<lb break="no"/>horsamme 
        zugeben, unnd in die christenliche kilchen mit uns
@@ -197,11 +197,11 @@
       <lb/>imme das vorgend anloben grouwen und habe nit mehr imm sin,
       <lb/>ein sölich glübt zuthun. Dan er wüste ninen hin zu komen.
        <lb/>Deren reden halben, so er zu <placeName ref="LOC_47.47333_8.30592">Baden</placeName> solte gredt haben, blibt
-      <lb/>er nochmalen by vorigen sinen antworten.
-      <lb/>Bitet hie nebendt euch, min gnedig herren, nochmalen umb
-      <lb/>gotts willen, daß ihr ihne heimb zu seinen kinden lassind.</p>
+      <lb/>er nochmalen by vorigen sinen antworten.</seg>
+      <seg><lb/>Bitet hie nebendt euch, min gnedig herren, nochmalen umb
+      <lb/>gotts willen, daß ihr ihne heimb zu seinen kinden lassind.</seg></p>
       <head type="subtitle"><date when="1614-02-23">23ten Februarii 1614</date>.</head>
-      <p><lb/>Dieweil er, <persName>Isler</persName>, imm <date when="1613-08">augsten dess verschinen 1613</date> jahrs
+      <p><seg><lb/>Dieweil er, <persName>Isler</persName>, imm <date when="1613-08">augsten dess verschinen 1613</date> jahrs
       <lb/>nebent anderen teüfferen anglobt, auss miner gnedigen herren
       <lb/>land, grichten unnd gebieten hinweg zu zühen, unnd ist widerumb darin
       <lb/>zu khommen, unnd nun er sydhar von der imm <placeName>Kellerampt</placeName> und
@@ -224,8 +224,8 @@
       <lb/>ald ander uff vorstender bëtler jege zur hand bringen und uber
       <lb/>kommen mag, da dan er und die, so man uff die galeren ver<lb break="no"/>urtheilen 
        möchte, mit ein andren uff die galeren durch mitel
-       <lb/>herrn ambaßadorn zu <placeName ref="LOC_47.20791_7.53714">Solothurn</placeName> verschikt werden. 
-      <lb/>Jedoch söllend zuvor unnd ehe solliches geschiht, gegen den teüfferen
+       <lb/>herrn ambaßadorn zu <placeName ref="LOC_47.20791_7.53714">Solothurn</placeName> verschikt werden.</seg> 
+      <seg><lb/>Jedoch söllend zuvor unnd ehe solliches geschiht, gegen den teüfferen
       <lb/>die mitel der bekehrung, halb durch geistliche und weltliche, wie
       <lb/>gegen andern auch beschehen, vürgnommen und gebraucht werden.
       <lb/>Imm fahl sy dan von iren meinungen auch nit abstohn, sonder
@@ -235,11 +235,11 @@
       <lb/>noch uff dißmalen umb allerley ursachen willen eingestehlt und dar<lb break="no"/>by 
        den herren obervögten zu <placeName ref="LOC_47.31505, 8.46836">Bonstetten</placeName> bevohlen worden,
       <lb/>sin, <persName>Islers</persName>, hushaltung, auch hab und guts halben gebürende
-      <lb/>fürsehung unnd ordnung zu thun und zu geben. 
-      <lb/>Actum, den <origDate when="1614-02-23">23ten Februarii anno 1614</origDate>, praesentibus herr burger<lb break="no"/>meister 
-       <persName ref="GND_143647792">Rahn</persName> und beide reht.</p>
+      <lb/>fürsehung unnd ordnung zu thun und zu geben.</seg>
+      <seg><lb/>Actum, den <origDate when="1614-02-23">23ten Februarii anno 1614</origDate>, praesentibus herr burger<lb break="no"/>meister 
+       <persName ref="GND_143647792">Rahn</persName> und beide reht.</seg></p> 
       <head type="subtitle">29. Junii 1614.</head>
-      <p><lb/>Als uff vorgeschribner urtheil min gnedig herren brichtet
+      <p><seg><lb/>Als uff vorgeschribner urtheil min gnedig herren brichtet
        <lb/>worden, daß der ambaßador zu <placeName ref="LOC_47.20791_7.53714">Solothurn</placeName> wyter nit ge<lb break="no"/>legenheit 
        abzunemmen solche lüth unnd daruff er, <persName>Isler</persName>, verner
       <lb/>in der gefangenschafft zu bliben erkent worden, bys man sin
@@ -247,14 +247,14 @@
       <lb/>er, <persName>Isler</persName>, noch dem er uber die 37 wochen lang in gfangen<lb break="no"/>schafft 
        dem <placeName>Wellenberg</placeName> gelegen, verschinen montags znacht
       <lb/>uß dem <placeName>Wellenberg</placeName> unverserter schlossen und riglen (Gott
-      <lb/>weis wie unnd durch was mitel) kohmmen. 
-      <lb/>Nach dem nun diß an mine gnedig herren gelanget,
+      <lb/>weis wie unnd durch was mitel) kohmmen.</seg> 
+      <seg><lb/>Nach dem nun diß an mine gnedig herren gelanget,
        <lb/>ward den beiden obervögten zu <placeName ref="LOC_47.31505, 8.46836">Bonstetten</placeName> bevohlen,
       <lb/>ir heimliche späh uff ine machen zu lassen, und wo er zu be<lb break="no"/>treten, 
        gfenglich anemmen und wider allher fuͤren
-      <lb/>zu lassen. 
-     <seg> <lb/>Actum mitwochs, den <origDate when="1614-06-29">29 Junii anno 1614</origDate>.
-      <lb/>Praesentibus herr burgermeister <persName ref="GND_119464632">Holtzhalb</persName> unnd beide
+      <lb/>zu lassen.</seg>
+     <seg><lb/>Actum mitwochs, den <origDate when="1614-06-29">29 Junii anno 1614</origDate>,
+      <lb/>praesentibus herr burgermeister <persName ref="GND_119464632">Holtzhalb</persName> unnd beide
       <lb/>reht.</seg></p></div>
     </body>
     <back>

@@ -85,7 +85,7 @@
     <body>
      <pb n="1"/>
      <div><p>
-      <lb/>Gnediger herr burgermeister,
+      <seg><lb/>Gnediger herr burgermeister,
       <lb/>hochgeachte, woledle, gestrenge, fromme,
       <lb/>ehrenveste, fürnemme, fürsichtige, wolweise,
       <lb/>in sonders hochgeerte, gnädige herren.
@@ -118,11 +118,11 @@
       <lb/>er, was er allhier ausgebe, auch wann es anderst nicht
       <lb/>seyn könne, an der marter selbs bestetigen wölle.
       <lb/>Der liebe gott segne euer gnaden und weisheit führende
-      <lb/>consilia!
-      <lb/>Euer gnaden und weisheit
+      <lb/>consilia!</seg>
+      <seg><lb/>Euer gnaden und weisheit
       <lb/>gehorsamster
       <lb/><persName ref="GND_101117728">Joh. Baptist Ott</persName>,
-      <lb/>diacon.</p></div>
+      <lb/>diacon.</seg></p></div>
     </body>
     <back><div>
      <p>In diesem einzigartigen Fall lässt sich verfolgen, wie konsequent der <orgName>Rat</orgName> die
