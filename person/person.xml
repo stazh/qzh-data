@@ -134,11 +134,6 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="GND_12120071X">
-                <persName type="full">Anton Klingler</persName>
-                <source>QZH_021</source>
-                <dateOfTheSource>1697</dateOfTheSource>
-            </person>
             <person xml:id="QZH_001_14">
                 <persName type="full">Bachmann</persName>
                 <source>QZH_001</source>
@@ -159,22 +154,27 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
+            <person xml:id="GND_116883448">
+                <persName type="full">Barjac, Jacques de Rochegude, Rochegude</persName>
+                <source>QZH_011</source>
+                <dateOfTheSource>1706</dateOfTheSource>
+            </person>
             <person xml:id="QZH_016_2">
                 <persName type="full">Bartli Scherer</persName>
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_35">
+            <person xml:id="QZH_014_34">
                 <persName type="full">Batt Baumgarten</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_25">
+            <person xml:id="QZH_014_24">
                 <persName type="full">Batt Boumgartter</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_26">
+            <person xml:id="QZH_014_25">
                 <persName type="full">Batt Boumgartter</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
@@ -184,12 +184,12 @@
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_19">
+            <person xml:id="QZH_014_18">
                 <persName type="full">Batt Boumgarttner</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_36">
+            <person xml:id="QZH_014_35">
                 <persName type="full">Baumgarten</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
@@ -204,7 +204,7 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_6">
+            <person xml:id="QZH_015_5">
                 <persName type="full">Bertschinger</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
@@ -244,6 +244,11 @@
                 <source>QZH_011</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
+            <person xml:id="QZH_003_11">
+                <persName type="full">Bolq</persName>
+                <source>QZH_003</source>
+                <dateOfTheSource>1706</dateOfTheSource>
+            </person>
             <person xml:id="QZH_014_10">
                 <persName type="full">Boumgartter</persName>
                 <source>QZH_014</source>
@@ -254,27 +259,22 @@
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_14">
+            <person xml:id="QZH_014_17">
                 <persName type="full">Boumgartter</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_18">
+            <person xml:id="QZH_014_22">
                 <persName type="full">Boumgartter</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_23">
+            <person xml:id="QZH_014_27">
                 <persName type="full">Boumgartter</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_28">
-                <persName type="full">Boumgartter</persName>
-                <source>QZH_014</source>
-                <dateOfTheSource>1615</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_014_30">
+            <person xml:id="QZH_014_29">
                 <persName type="full">Boumgartter</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
@@ -286,6 +286,8 @@
             </person>
             <person xml:id="GND_118517384">
                 <persName type="full">Bullinger, Heinrich, Heinrich Bullinger, Bullingers, Bullinger</persName>
+                <source>QZH_012</source>
+                <dateOfTheSource>1561-1608</dateOfTheSource>
             </person>
             <person xml:id="QZH_001_13">
                 <persName type="full">Büehler</persName>
@@ -293,7 +295,7 @@
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
             <person xml:id="GND_1089574681">
-                <persName type="full">Bürkli</persName>
+                <persName type="full">Bürkli, Johann Jakob, Bürkli</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
@@ -317,12 +319,12 @@
                 <source>QZH_002</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
-            <person xml:id="QZH_003_11">
+            <person xml:id="QZH_003_13">
                 <persName type="full">Caffa</persName>
                 <source>QZH_003</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
-            <person xml:id="QZH_003_9">
+            <person xml:id="QZH_003_15">
                 <persName type="full">Caffa</persName>
                 <source>QZH_003</source>
                 <dateOfTheSource>1706</dateOfTheSource>
@@ -417,7 +419,7 @@
                 <source>QZH_002</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
-            <person xml:id="QZH_003_10">
+            <person xml:id="QZH_003_14">
                 <persName type="full">Cara</persName>
                 <source>QZH_003</source>
                 <dateOfTheSource>1706</dateOfTheSource>
@@ -462,17 +464,12 @@
                 <source>QZH_011</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
-            <person xml:id="GND_1089420609">
-                <persName type="full">Caspar Murer</persName>
-                <source>QZH_015</source>
-                <dateOfTheSource>1613-1614</dateOfTheSource>
-            </person>
             <person xml:id="QZH_016_33">
                 <persName type="full">Catri Kriesi</persName>
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_16">
+            <person xml:id="QZH_015_15">
                 <persName type="full">Christi</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
@@ -563,7 +560,7 @@
                 <dateOfTheSource>1668</dateOfTheSource>
             </person>
             <person xml:id="GND_1089544812">
-                <persName type="full">Denzler</persName>
+                <persName type="full">Denzler, Hans Georg, Denzler</persName>
                 <source>QZH_021</source>
                 <dateOfTheSource>1697</dateOfTheSource>
             </person>
@@ -612,6 +609,11 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
+            <person xml:id="QZH_021_3">
+                <persName type="full">Fehr</persName>
+                <source>QZH_021</source>
+                <dateOfTheSource>1697</dateOfTheSource>
+            </person>
             <person xml:id="QZH_016_27">
                 <persName type="full">Felix Walders</persName>
                 <source>QZH_016</source>
@@ -642,32 +644,32 @@
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_15">
+            <person xml:id="QZH_014_14">
                 <persName type="full">Gmünderin</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_17">
+            <person xml:id="QZH_014_16">
                 <persName type="full">Gmünderin</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_22">
+            <person xml:id="QZH_014_21">
                 <persName type="full">Gmünderin</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_27">
+            <person xml:id="QZH_014_26">
                 <persName type="full">Gmünderin</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_29">
+            <person xml:id="QZH_014_28">
                 <persName type="full">Gmünderin</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_32">
+            <person xml:id="QZH_014_31">
                 <persName type="full">Gmünderin</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
@@ -677,7 +679,7 @@
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_18">
+            <person xml:id="QZH_015_17">
                 <persName type="full">Grebel</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
@@ -802,10 +804,10 @@
                 <source>QZH_022</source>
                 <dateOfTheSource>1518</dateOfTheSource>
             </person>
-            <person xml:id="GND_1089451482">
-                <persName type="full">Hans Rudolf Werdmüler</persName>
-                <source>QZH_003</source>
-                <dateOfTheSource>1706</dateOfTheSource>
+            <person xml:id="QZH_016_22">
+                <persName type="full">Hans Rodolf Walders</persName>
+                <source>QZH_016</source>
+                <dateOfTheSource>1692</dateOfTheSource>
             </person>
             <person xml:id="QZH_022_39">
                 <persName type="full">Hans Senn</persName>
@@ -862,16 +864,6 @@
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="GND_100295231">
-                <persName type="full">Hanß Jacob Ulrich</persName>
-                <source>QZH_015</source>
-                <dateOfTheSource>1613-1614</dateOfTheSource>
-            </person>
-            <person xml:id="GND_1089572506">
-                <persName type="full">Hanß Jacob Wolff</persName>
-                <source>QZH_016</source>
-                <dateOfTheSource>1692</dateOfTheSource>
-            </person>
             <person xml:id="QZH_020_11">
                 <persName type="full">Hanß Siggen</persName>
                 <source>QZH_020</source>
@@ -887,17 +879,17 @@
                 <source>QZH_021</source>
                 <dateOfTheSource>1697</dateOfTheSource>
             </person>
-            <person xml:id="QZH_021_6">
+            <person xml:id="QZH_021_7">
                 <persName type="full">Haüslins</persName>
                 <source>QZH_021</source>
                 <dateOfTheSource>1697</dateOfTheSource>
             </person>
-            <person xml:id="QZH_021_5">
+            <person xml:id="QZH_021_6">
                 <persName type="full">Haüßlein</persName>
                 <source>QZH_021</source>
                 <dateOfTheSource>1697</dateOfTheSource>
             </person>
-            <person xml:id="QZH_021_7">
+            <person xml:id="QZH_021_8">
                 <persName type="full">Haüßlein</persName>
                 <source>QZH_021</source>
                 <dateOfTheSource>1697</dateOfTheSource>
@@ -932,22 +924,12 @@
                 <source>QZH_022</source>
                 <dateOfTheSource>1518</dateOfTheSource>
             </person>
-            <person xml:id="Beispielquelle_1">
-                <persName type="full">Heinrich Bullinger</persName>
-                <source>Beispielquelle</source>
-                <dateOfTheSource>2022</dateOfTheSource>
-            </person>
-            <person xml:id="per012634">
-                <persName type="full">Heinrich Bullinger</persName>
-                <source>Beispielquelle</source>
-                <dateOfTheSource>2022</dateOfTheSource>
-            </person>
             <person xml:id="QZH_016_10">
                 <persName type="full">Heinrich Buochman</persName>
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_31">
+            <person xml:id="QZH_014_30">
                 <persName type="full">Heinrich Kleiner</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
@@ -973,7 +955,7 @@
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
             <person xml:id="GND_136182208">
-                <persName type="full">Hirtzel</persName>
+                <persName type="full">Hirzel, Salomon, Hirtzel</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
@@ -981,22 +963,22 @@
                 <persName type="full">Holard</persName>
             </person>
             <person xml:id="GND_119464632">
-                <persName type="full">Holtzhalb</persName>
+                <persName type="full">Holzhalb, Leonhard, Holtzhalb</persName>
             </person>
             <person xml:id="GND_117013463">
-                <persName type="full">Hottingern, Ottinguer</persName>
+                <persName type="full">Hottinger, Johann Jakob, Ottinguer, Hottingern</persName>
             </person>
-            <person xml:id="QZH_021_11">
+            <person xml:id="QZH_021_12">
                 <persName type="full">Häuslin</persName>
                 <source>QZH_021</source>
                 <dateOfTheSource>1697</dateOfTheSource>
             </person>
-            <person xml:id="QZH_021_4">
+            <person xml:id="QZH_021_5">
                 <persName type="full">Häußlins</persName>
                 <source>QZH_021</source>
                 <dateOfTheSource>1697</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_33">
+            <person xml:id="QZH_014_32">
                 <persName type="full">Hëberlig</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
@@ -1031,7 +1013,12 @@
                 <source>QZH_022</source>
                 <dateOfTheSource>1518</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_17">
+            <person xml:id="QZH_015_16">
+                <persName type="full">Isler</persName>
+                <source>QZH_015</source>
+                <dateOfTheSource>1613-1614</dateOfTheSource>
+            </person>
+            <person xml:id="QZH_015_20">
                 <persName type="full">Isler</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
@@ -1041,7 +1028,7 @@
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_22">
+            <person xml:id="QZH_015_25">
                 <persName type="full">Isler</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
@@ -1051,7 +1038,7 @@
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_27">
+            <person xml:id="QZH_015_29">
                 <persName type="full">Isler</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
@@ -1061,22 +1048,17 @@
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_31">
+            <person xml:id="QZH_015_8">
                 <persName type="full">Isler</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_9">
-                <persName type="full">Isler</persName>
-                <source>QZH_015</source>
-                <dateOfTheSource>1613-1614</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_015_23">
+            <person xml:id="QZH_015_22">
                 <persName type="full">Islers</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_24">
+            <person xml:id="QZH_015_23">
                 <persName type="full">Islers</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
@@ -1101,7 +1083,7 @@
                 <source>QZH_017</source>
                 <dateOfTheSource>1530</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_29">
+            <person xml:id="QZH_015_28">
                 <persName type="full">Jacob Isler</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
@@ -1131,27 +1113,22 @@
                 <source>QZH_017</source>
                 <dateOfTheSource>1530</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_8">
+            <person xml:id="QZH_015_7">
                 <persName type="full">Jacoben Isler</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_15">
+            <person xml:id="QZH_015_14">
                 <persName type="full">Jacoben Isler im Tal</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_20">
+            <person xml:id="QZH_015_19">
                 <persName type="full">Jacoben Isler imm Tal</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_4">
-                <persName type="full">Jacoben Isler imm Tal</persName>
-                <source>QZH_015</source>
-                <dateOfTheSource>1613-1614</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_015_10">
+            <person xml:id="QZH_015_9">
                 <persName type="full">Jacoben Islers im Tal</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
@@ -1176,11 +1153,6 @@
                 <source>QZH_012</source>
                 <dateOfTheSource>1561-1608</dateOfTheSource>
             </person>
-            <person xml:id="GND_118557513">
-                <persName type="full">Jesu, Jesu Christi</persName>
-                <source>QZH_023</source>
-                <dateOfTheSource>1694</dateOfTheSource>
-            </person>
             <person xml:id="QZH_019_3">
                 <persName type="full">Jesum Christum</persName>
                 <source>QZH_019</source>
@@ -1190,6 +1162,11 @@
                 <persName type="full">Jesus</persName>
                 <source>QZH_012</source>
                 <dateOfTheSource>1561-1608</dateOfTheSource>
+            </person>
+            <person xml:id="GND_118557513">
+                <persName type="full">Jesus Christus, Jesu, Jesu Christi</persName>
+                <source>QZH_023</source>
+                <dateOfTheSource>1694</dateOfTheSource>
             </person>
             <person xml:id="QZH_016_6">
                 <persName type="full">Joachim Kauffman</persName>
@@ -1206,16 +1183,23 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="GND_101117728">
-                <persName type="full">Joh. Baptist Ott, Ott</persName>
-            </person>
             <person xml:id="GND_143680544">
-                <persName type="full">Kambli, Hans Kambli</persName>
+                <persName type="full">Kambli, Hans, Kambli, Hans Kambli</persName>
+            </person>
+            <person xml:id="GND_143657062">
+                <persName type="full">Keller, Johannes, Käller</persName>
+                <source>QZH_013</source>
+                <dateOfTheSource>1583</dateOfTheSource>
             </person>
             <person xml:id="QZH_016_4">
                 <persName type="full">Kli Jog Krießi</persName>
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
+            </person>
+            <person xml:id="GND_12120071X">
+                <persName type="full">Klinger, Anton, Anton Klingler</persName>
+                <source>QZH_021</source>
+                <dateOfTheSource>1697</dateOfTheSource>
             </person>
             <person xml:id="QZH_014_6">
                 <persName type="full">Koli</persName>
@@ -1226,11 +1210,6 @@
                 <persName type="full">Kuͦnrad Schleipfer</persName>
                 <source>QZH_022</source>
                 <dateOfTheSource>1518</dateOfTheSource>
-            </person>
-            <person xml:id="GND_143657062">
-                <persName type="full">Käller</persName>
-                <source>QZH_013</source>
-                <dateOfTheSource>1583</dateOfTheSource>
             </person>
             <person xml:id="QZH_014_2">
                 <persName type="full">Lienhartten Walldreß</persName>
@@ -1277,20 +1256,25 @@
                 <source>QZH_012</source>
                 <dateOfTheSource>1561-1608</dateOfTheSource>
             </person>
+            <person xml:id="GND_118640909">
+                <persName type="full">Maria, Marya</persName>
+                <source>QZH_023</source>
+                <dateOfTheSource>1694</dateOfTheSource>
+            </person>
             <person xml:id="QZH_016_1">
                 <persName type="full">Marx Relstab</persName>
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="GND_118640909">
-                <persName type="full">Marya, Maria</persName>
-                <source>QZH_023</source>
-                <dateOfTheSource>1694</dateOfTheSource>
-            </person>
             <person xml:id="QZH_012_3">
                 <persName type="full">Mathei</persName>
                 <source>QZH_012</source>
                 <dateOfTheSource>1561-1608</dateOfTheSource>
+            </person>
+            <person xml:id="GND_1089420609">
+                <persName type="full">Maurer, Hans Kaspar, Caspar Murer</persName>
+                <source>QZH_015</source>
+                <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
             <person xml:id="QZH_016_12">
                 <persName type="full">Maurers</persName>
@@ -1304,6 +1288,11 @@
             </person>
             <person xml:id="QZH_003_2">
                 <persName type="full">Meyer</persName>
+                <source>QZH_003</source>
+                <dateOfTheSource>1706</dateOfTheSource>
+            </person>
+            <person xml:id="QZH_003_9">
+                <persName type="full">Michael Burger</persName>
                 <source>QZH_003</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
@@ -1387,6 +1376,16 @@
                 <source>QZH_002</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
+            <person xml:id="QZH_003_10">
+                <persName type="full">Mustapha Cara</persName>
+                <source>QZH_003</source>
+                <dateOfTheSource>1706</dateOfTheSource>
+            </person>
+            <person xml:id="QZH_003_12">
+                <persName type="full">Mustapha Cara</persName>
+                <source>QZH_003</source>
+                <dateOfTheSource>1706</dateOfTheSource>
+            </person>
             <person xml:id="QZH_003_3">
                 <persName type="full">Mustapha Cara</persName>
                 <source>QZH_003</source>
@@ -1396,6 +1395,9 @@
                 <persName type="full">Mustapha Cara</persName>
                 <source>QZH_003</source>
                 <dateOfTheSource>1706</dateOfTheSource>
+            </person>
+            <person xml:id="GND_101117728">
+                <persName type="full">Ott, Johann Baptist, Ott, Joh. Baptist Ott</persName>
             </person>
             <person xml:id="QZH_019_1">
                 <persName type="full">Paulus</persName>
@@ -1433,14 +1435,9 @@
                 <dateOfTheSource>1518</dateOfTheSource>
             </person>
             <person xml:id="GND_143647792">
-                <persName type="full">Rahn</persName>
+                <persName type="full">Rahn, Hans Rudolf, Rahn</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
-            </person>
-            <person xml:id="GND_116883448">
-                <persName type="full">Rochegude</persName>
-                <source>QZH_011</source>
-                <dateOfTheSource>1706</dateOfTheSource>
             </person>
             <person xml:id="QZH_022_37">
                 <persName type="full">Rudi Nithart</persName>
@@ -1493,7 +1490,7 @@
                 <dateOfTheSource>1697</dateOfTheSource>
             </person>
             <person xml:id="GND_1089527993">
-                <persName type="full">Scheüchtzer, Scheüchtzern, Schutzer</persName>
+                <persName type="full">Scheuchzer, Hans Heinrich, Schutzer, Scheüchtzer, Scheüchtzern</persName>
             </person>
             <person xml:id="QZH_022_27">
                 <persName type="full">Schleipfer</persName>
@@ -1580,7 +1577,12 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_24">
+            <person xml:id="GND_100295231">
+                <persName type="full">Ulrich, Johann Jakob, Hanß Jacob Ulrich</persName>
+                <source>QZH_015</source>
+                <dateOfTheSource>1613-1614</dateOfTheSource>
+            </person>
+            <person xml:id="QZH_014_23">
                 <persName type="full">Ursula Gmünderin</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
@@ -1590,7 +1592,7 @@
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
-            <person xml:id="QZH_014_34">
+            <person xml:id="QZH_014_33">
                 <persName type="full">Ursula Gmünders</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
@@ -1606,17 +1608,30 @@
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
             <person xml:id="GND_1089527985">
-                <persName type="full">Werdmüller</persName>
+                <persName type="full">Werdmüller, Christoph, Werdmüller</persName>
                 <source>QZH_020</source>
                 <dateOfTheSource>1668</dateOfTheSource>
+            </person>
+            <person xml:id="GND_1089451482">
+                <persName type="full">Werdmüller, Hans Rudolf, Hans Rudolf Werdmüler</persName>
+                <source>QZH_003</source>
+                <dateOfTheSource>1706</dateOfTheSource>
             </person>
             <person xml:id="QZH_018_6">
                 <persName type="full">Wilhälm Schomal</persName>
                 <source>QZH_018</source>
                 <dateOfTheSource>1587</dateOfTheSource>
             </person>
+            <person xml:id="GND_1089572506">
+                <persName type="full">Wolf, Hans Jakob, Hanß Jacob Wolff</persName>
+                <source>QZH_016</source>
+                <dateOfTheSource>1692</dateOfTheSource>
+            </person>
             <person xml:id="GND_1019762608">
                 <persName type="full">Zeller</persName>
+            </person>
+            <person xml:id="GND_11019762608">
+                <persName type="full">Zeller, Peter</persName>
             </person>
             <person xml:id="QZH_022_12">
                 <persName type="full">Zollingers</persName>
@@ -1642,11 +1657,6 @@
                 <persName type="full">Zwingli, Ulrich, Zwinglins, Zwingli</persName>
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_016_22">
-                <persName type="full">hans Rodolf Walders</persName>
-                <source>QZH_016</source>
-                <dateOfTheSource>1692</dateOfTheSource>
             </person>
         </listPerson>
     </standOff>
