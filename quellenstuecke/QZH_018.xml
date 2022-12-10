@@ -114,7 +114,7 @@
       <lb/>gefharenn. Er sige aber mit ime zufridenn
       <lb/>unnd überkhommenn.</p>
       <pb n="2"/>
-      <p><seg><lb/><persName>Moritz Gydonnis</persName>, ouch ein kremer von <placeName ref="LOC_47.05048_8.30635">Lucernn</placeName>.
+      <p><lb/><persName>Moritz Gydonnis</persName>, ouch ein kremer von <placeName ref="LOC_47.05048_8.30635">Lucernn</placeName>.
       <lb/>Er habe nüdt annders gesëchenn, dann das ein
       <lb/>gemeinne dirnn, herr <persName>Hannß Gölldi</persName>, mit
       <lb/>irer güppenn degkenn wellenn.</p>
@@ -126,7 +126,7 @@
       <p><lb/>Unnd letstlich bezüget <persName>Gabriel Laba</persName>, auch ein krem<lb break="no"/>er 
       unnd uß dem <placeName ref="LOC_45.75_7.25">Augstal</placeName>, glych wie oberzellterr
       <lb/><persName>Schomal</persName> unnd <persName>Gydonniß</persName>.</p>
-      <p><lb/>Nach wellicher jetzverschribnner personnen sagen
+      <p><seg><lb/>Nach wellicher jetzverschribnner personnen sagen
       <lb/>wir (vomwëgen unnsërs thragennden ampts
       <lb/>unnd habennden befelchs) genannten herr <persName>Hannß<lb break="no"/>en Gölldi</persName> 
       für unns citierenn unnd beschryb<lb break="no"/>enn lassen (der dann ganntz gehormsamlich kom<lb break="no"/>en 
@@ -168,7 +168,7 @@
       <lb/>das er mit gesagter gemeinen dirnnen,
       <lb/>ganntz nützit ußgericht nnach zuschaffenn
       <lb/>gehept, werde es ouch kein eerlicher mann,
-      <lb/>vonn ime nit sagenn alld redenn könn<lb break="no"/>en <abbr>etc</abbr>.    Wann nun wir
+      <lb/>vonn ime nit sagenn alld redenn könn<lb break="no"/>en <abbr>etc</abbr>.</seg>    <seg>Wann nun wir
       <lb/>disers alles (wie harinnen vergriffenn)
       <lb/>gehördt unnd verstannden, habennd wir
       <lb/>unns diser sachenn halber, wyter nit an<lb break="no"/>nëmen 
@@ -179,7 +179,7 @@
       <pb n="4"/>
       <lb/>zugestellt. Was nun diesëlbig harinnen hannd
       <lb/>lot unnd fürnimpt, wellennd wir unns ganntz
-      <lb/>unnderthennigklich gefallenn lassenn. <choice><abbr>Actm </abbr><expan>Actum</expan></choice>
+      <lb/>unnderthennigklich gefallenn lassenn.</seg> <seg><choice><abbr>Actm </abbr><expan>Actum</expan></choice>
       <lb/><origDate when="1587-09-19">zynnstags, denn 19ten herpstmonnat
       <lb/>a<hi rend="sup">o</hi> 1587</origDate>.</seg>
     <seg><lb/><abbr>E. e. wten</abbr>
