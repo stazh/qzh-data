@@ -79,7 +79,7 @@
   <group>
    <text>
     <body>
-     <pb n="1"/>
+     <pb n="1" facs="StAZH_E_I_10_4__Nr__3_2__S__1_.tif"/>
      <div><p><seg><lb/>Ufgenommen kundtschafft vor dem frommen, vesten und
       <lb/>wyßen herrn <persName>Hans Jacob Keller</persName>, burger <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, unnd der
       <lb/>zyt vogt der herrschafft <placeName ref="LOC_47.2235_8.46197">Knonouw</placeName>, deßglychen inn bysin
@@ -109,7 +109,7 @@
       <lb/>Aber ier könnind innen die sünden verzychen, und unsere,
       <lb/>der Zürichern, könnindtß nit. Wie nun hieruf sy, <persName>Gmünderin</persName>,
       <lb/>zu ime, <persName>Boumgartter</persName>, gredt, er heigs erhygt. Dann ire
-      <pb n="2"/>
+        <pb n="2" facs="StAZH_E_I_10_4__Nr__3_2__S__2_.tif"/>
       <lb/>könnind die sünden ouch nit verzychen. Dann wellicher sünder 
       <lb/>rüw und leid über syne sünd habe, und gott umb verzychung
       <lb/>bitten thüeige, dem verzyche gott die sünden. Da habe
@@ -139,12 +139,12 @@
       <lb/>Dann er, <persName>Boumgartter</persName>, habe dißere wortt nit allein nun an dem
       <lb/>ordt zu <placeName ref="LOC_47.17764_8.59215">Wyl</placeName>, sunder ouch etwa uf dem kilchweg mehr
       <lb/>gredt.</seg></p>
-      <pb n="3"/>
+      <pb n="3" facs="StAZH_E_I_10_4__Nr__3_2__S__3_.tif"/>
       <p><seg><lb/><persName>Heinrich Kleiner</persName> von <placeName ref="LOC_47.24779_8.46399">Mettmastetten</placeName>, der domalß ouch ir,
       <lb/><persName>Gmünderin</persName>, bystannd gewëßen, züget glychß, und ein<lb break="no"/>mündig 
       wie wachtmeister <persName>Hëberlig</persName>.</seg>
       <seg><lb/>Unnd beschlosßend damit ire kundtschafft sagen.</seg></p></div>
-     <pb n="4"/>
+     <pb n="4"/><!-- msr: letzte Seite leer, nicht digitalisiert -->
     </body>
     <back>
      <div><p>

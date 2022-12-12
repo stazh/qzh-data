@@ -86,13 +86,7 @@
   <group>
    <text>
     <body>
-     <pb n="1"/>
-     <div>
-      <ab place="verso middle" type="dorsal"><p>
-      <lb/>Schriftlicher bericht
-      <lb/><abbr>hrn.</abbr> <persName>Bohq</persName> vorsingers
-      <lb/>der frantzösischen
-      <lb/>kirchen.</p></ab></div>
+     <pb n="1" facs="StAZH_A_27_68_2__Nr__3_2__S__1_.tif"/>
      <div>
      <p>
       <lb/>Le mercredi, <date when="1706-07-14">14 juillet 1706</date>, on me dit dans le
@@ -119,7 +113,7 @@
       <lb/>de <abbr>mr.</abbr> <persName>Peprune</persName> ce qu’il avoit dans le coeur. Comme
       <lb/>nous croïions ce qu’il nous disoit, je lui dis de
       <lb/>revenir le lendemain. Il revint et etant bien
-      <pb n="2"/>
+      <pb n="2" facs="StAZH_A_27_68_2__Nr__3_2__S__2_.tif"/>
       <lb/>bien aise de le faire voir à monsieur le marquis
       <lb/>de <persName ref="GND_116883448">Rochegude</persName>. Je l’y menai, mais ne l’aiant
       <lb/>pas trouvé, je le presentai par rencontre à monsieur
@@ -131,6 +125,18 @@
       <lb/>le professeur la meme chose, m’ordonna
       <lb/>de le mener chez monsiegneur le zunft
       <lb/>maistre <persName ref="GND_1089527993">Schutzer</persName>.</p></div>
+     <div>
+     <p><pb n="3" facs="StAZH_A_27_68_2__Nr__3_2__S__3_.tif"/></p></div>
+     <pb n="4" facs="StAZH_A_27_68_2__Nr__3_2__S__4_.tif"/>
+      <div>
+       <ab place="verso" type="dorsal">
+      <p>
+         <lb/>Schriftlicher bericht
+         <lb/><abbr>hrn.</abbr> <persName>Bohq</persName>, vorsingers
+         <lb/>der frantzösischen
+         <lb/>kirchen.</p>
+       </ab>
+     </div>
     </body>
     <back><div>
      <p>In diesem einzigartigen Fall lässt sich verfolgen, wie konsequent der <orgName>Rat</orgName> die

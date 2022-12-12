@@ -93,14 +93,14 @@
      <pb n="1"/>
      <div>
       <p><lb/>Ein schön bildtnuß der menschwerdung
-       <lb/>unsers herrn <persName>Jesu Christi</persName> (uß der
-       <lb/>reinen jungkfrauen <persName>Maria</persName>) und siner
+       <lb/>unsers herrn <persName ref="GND_118557513">Jesu Christi</persName> (uß der
+       <lb/>reinen jungkfrauen <persName ref="GND_118640909">Maria</persName>) und siner
        <lb/>erlösung, mit dem er durch seinen
        <lb/>todt uns von dem seligen todt erlößt,
        <lb/>unser einiger erlöser und heiland ist,
        <lb/><persName>Mathei</persName> 1. <abbr>cap.</abbr>
-       <lb/><persName>Maria</persName> hat empfangen von dem heiligen geist, hat
-       <lb/>geboren einen sohn und den genennpt <persName>Jesus</persName>,
+       <lb/><persName ref="GND_118640909">Maria</persName> hat empfangen von dem heiligen geist, hat
+       <lb/>geboren einen sohn und den genennpt <persName ref="GND_118557513">Jesus</persName>,
        <lb/>dann er macht sein volk selig und ledig von sinen
        <lb/>sünden,
        <lb/>1608.</p>
@@ -135,7 +135,7 @@
       <p>
        <lb/>Dieses abgewürkt tuch ist ein bildner oder ein bildtnuß, 
        <lb/>begrifft ein gantze summa der menschwerdung und erlösung unsers
-       <lb/>herren <persName>Jesu Christi</persName>, wi er von einer jungfraun gebohren, uns arme
+       <lb/>herren <persName ref="GND_118557513">Jesu Christi</persName>, wi er von einer jungfraun gebohren, uns arme
        <lb/>sünder mit seinem tod und blut vergiessen von dem ewigen
        <lb/>tod erlößt und unser aller einiger ewiger heiland worden syge
        <lb/>und damit das recht verstanden werde, will ich ordelich von allen
@@ -147,14 +147,14 @@
      <div>
       <p><persName ref="GND_118517384">Heinrich Bullinger</persName> zerstreut in seinem
        Schreiben an <persName>Agatha Zoller</persName> deren Bedenken, der von ihrer Schwester 1554
-       hergestellte und von ihr ererbte Wirkteppich über die Verkündigung an <persName>Maria</persName>
+       hergestellte und von ihr ererbte Wirkteppich über die Verkündigung an <persName ref="GND_118640909">Maria</persName>
        könne gegen das biblische Bilderverbot verstossen. Aus dem in einer
        unvollständigen Kopie erhaltenen Schreiben wird <persName ref="GND_118517384">Bullingers</persName> klare Unterscheidung
        zwischen <q>Götze</q> und Bild ersichtlich: Der Wandbehang sei kein Objekt falscher
        Anbetung, sondern ein frommes Kunstwerk. Dass rund 25 Jahre nach den
        reformatorischen Ereignissen ein Wirkteppich an das spätmittelalterliche
        marianische Bildthema anknüpfte und <persName ref="GND_118517384">Bullinger</persName> daran keinen Anstoss nahm,
-       illustriert, dass in der frühen Reformationszeit <persName>Maria</persName> in Form eines Kunstwerks
+       illustriert, dass in der frühen Reformationszeit <persName ref="GND_118640909">Maria</persName> in Form eines Kunstwerks
        als Gottesmutter geehrt, aber nicht als <q>Götze</q> angebetet werden
        konnte.
       </p>

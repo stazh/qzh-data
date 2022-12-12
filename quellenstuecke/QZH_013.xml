@@ -79,7 +79,7 @@
   <group>
    <text>
     <body>
-     <pb n="1"/>
+     <pb n="1" facs="StAZH_E_I_30_29__Nr__1__S__1_.tif"/>
      <div><p>
       <seg><lb/>An die frommen, fürsichtigen, eerenvesten und wysen herren
        <lb/>burgermeister <persName ref="GND_143680544">Kambli</persName>, beide herren seckelmeister und herrenn
@@ -140,9 +140,9 @@
        befälchen, bit hiebi, wellind mich und die minen alizit
       <lb/>in gnaaden befolchen haben. Datum den <origDate when="1583-11-06">6 novembris a<hi rend="sup">o</hi>
       1583</origDate>.
-       <lb/><abbr>Ü. e. w.</abbr> <abbr>underth.</abbr> diener <persName>Hans Löüw</persName>, pfarrer zuͦ <placeName ref="LOC_47.57608_8.60633">Flaach</placeName>.</seg>
-      <pb n="2"/>
-      <lb/>Demm frommen, erenvesten, fürsichtigen
+       <lb/><abbr>Ü. e. w.</abbr> <abbr>underth.</abbr> diener <persName>Hans Löüw</persName>, pfarrer zuͦ <placeName ref="LOC_47.57608_8.60633">Flaach</placeName>.</seg></p>
+      <pb n="2" facs="StAZH_E_I_30_29__Nr__1__S__2_.tif"/>
+      <p><lb/>Demm frommen, erenvesten, fürsichtigen
       <lb/>ersamen und wysen herren <persName ref="GND_143680544">Hans
        <lb/>Kambli</persName>, burgermeister der statt <placeName ref="LOC_47.36667_8.55">Zü<lb break="no"/>rich</placeName>, 
       mynem gnedigen herrenn.

@@ -79,7 +79,7 @@
   <group>
    <text>
     <body>
-     <pb n="1"/>
+     <pb n="1" facs="StAZH_A_9_2__Nr__3__S__1_.tif"/>
      <div><p><lb/>Edlenn, vestenn, frommen, fürsichtigen, eer<lb break="no"/>samen 
       und wyßenn, innsonnders gönnstigenn,
       <lb/>gnnedignn, liebenn herren. Nachdem unns fürkom<lb break="no"/>en 
@@ -113,7 +113,7 @@
       <lb/>allso, das er mit tadtlicher hannd gëgen ime 
       <lb/>gefharenn. Er sige aber mit ime zufridenn
       <lb/>unnd überkhommenn.</p>
-      <pb n="2"/>
+      <pb n="2" facs="StAZH_A_9_2__Nr__3__S__2_.tif"/>
       <p><lb/><persName>Moritz Gydonnis</persName>, ouch ein kremer von <placeName ref="LOC_47.05048_8.30635">Lucernn</placeName>.
       <lb/>Er habe nüdt annders gesëchenn, dann das ein
       <lb/>gemeinne dirnn, herr <persName>Hannß Gölldi</persName>, mit
@@ -142,7 +142,7 @@
       das er ime abgeschlag<lb break="no"/>en, unnd willenns gewäßenn, zu synnen
       <lb/>töchterenn, so alhie wohnnende, zukherenn.
       <lb/>Hiemit über die <placeName ref="LOC_47.3699_8.5425">Ober Bruggen</placeName> ganngnenn,
-      <pb n="3"/>
+       <pb n="3" facs="StAZH_A_9_2__Nr__3__S__3_.tif"/>
       <lb/>unnder das <placeName>Hällmhuß</placeName> komenn unnd etliche
       <lb/>kremer glychfhalls ouch, da were ein gmeine
       <lb/>dirnn gewäßenn, unnd er vonn etlichen krem<lb break="no"/>erenn, 
@@ -176,7 +176,7 @@
       habennd alle unnd ganntze hannd<lb break="no"/>lunng 
       geschrifftlichenn verfassenn
       <lb/>unnd sölliche <abbr>e. e. wten.</abbr> übergëben unnd
-      <pb n="4"/>
+       <pb n="4" facs="StAZH_A_9_2__Nr__3__S__4_.tif"/>
       <lb/>zugestellt. Was nun diesëlbig harinnen hannd
       <lb/>lot unnd fürnimpt, wellennd wir unns ganntz
       <lb/>unnderthennigklich gefallenn lassenn.</seg> <seg><choice><abbr>Actm </abbr><expan>Actum</expan></choice>
@@ -184,22 +184,22 @@
       <lb/>a<hi rend="sup">o</hi> 1587</origDate>.</seg>
     <seg><lb/><abbr>E. e. wten</abbr>
       <lb/>unnderthennige
-      <lb/>burger unnd dienn<lb break="no"/><lb/>er 
+      <lb/>burger unnd dienn<lb break="no"/>er 
       an dem eegricht.</seg></p></div>
-      <pb n="5"/><!-- msr: leere Seite -->
-     <pb n="6"/>
+     <div><p><pb n="5" facs="StAZH_A_9_2__Nr__3__S__5_.tif"/><!-- msr: leere Seite --></p></div>
+     <pb n="6" facs="StAZH_A_9_2__Nr__3__S__6_.tif"/>
       <div>
        <ab place="verso" type="dorsal"><p>
       <seg><lb/>Den <date when="1587-09-19">19.ten 7bris 1587</date>.
       <lb/>Wyßunng.
-        <lb/>Herr <persName>Hannsen Gölldi</persName> pfhar<lb break="no"/>err zu <placeName ref="LOC_47.33996_8.66778">Mhur</placeName>. belanngende.
+        <lb/>Herr <persName>Hannsen Gölldi</persName> pfhar<lb break="no"/>err zu <placeName ref="LOC_47.33996_8.66778">Mhur</placeName> belanngende.
       <lb/>Wiewol man gloubt, es syge mit
       <lb/>den werchen nüdt thettlichs ver<lb break="no"/>gangen, 
         so ist doch die sach ëben
       <lb/>ergerlich, sonderlich wyls frömbde
       <lb/>personen gsëhen. Derhalben
       <lb/>soll er, <persName>Göldi</persName>, biß jezt donstag
-      <lb/>inn <placeName>Wellenberg</placeName> gelegt, und ein
+       <lb/>inn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> gelegt, und ein
       <lb/>march silbers zebuß gëben. Und
       <lb/>soll im mit ernst undersagt werden,
       <lb/>das er mit bisshar gebruchten sachen

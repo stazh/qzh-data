@@ -83,9 +83,9 @@
   <group>
    <text>
     <body>
-     <pb n="53"/>
+     <pb n="53" facs="StAZH_B_II_695__S__53_.tif"/>
       <div><p> 
-       <lb/>Der im <placeName>Wellenberg</placeName> verhaffte <persName>Mustafa Caffa</persName> von
+       <lb/>Der im <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> verhaffte <persName>Mustafa Caffa</persName> von
        <lb/><placeName ref="LOC_36.73225_3.08746">Algiers</placeName>, welcher vor etwas jahren zu <placeName ref="LOC_46.94809_7.44744">Bern</placeName>
        <lb/>den christlichen glauben angenommen, und den
        <lb/><abbr>hlgn:</abbr> tauff empfangen, jüngst aber zu <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName>
@@ -98,7 +98,7 @@
       </div>
     </body>
     <back><div>
-     <p>In diesem einzigartigen Fall lässt sich verfolgen, wie konsequent der <orgName>Rat</orgName> die
+     <p>In diesem einzigartigen Fall lässt sich verfolgen, wie konsequent der Rat die
       Geschichte des Türken <persName>Caffa</persName> alias <persName>Cara</persName> zu überprüfen suchte, der sich als versklavter
       osmanischer Muslim und geflüchteter Galeerenflüchtling ausgab, welcher zum Reformiertentum
       konvertiert sei. Offenbar hielt der <orgName>Rat</orgName> die Darlegungen des schliesslich als Betrüger

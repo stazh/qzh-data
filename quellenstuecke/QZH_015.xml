@@ -85,7 +85,7 @@
       <head type="subtitle"><persName>Jacoben Islers imm Tal</persName> antwort, <date when="1613-12-18">18. Decembris 1613</date>.</head>
       <p>
        <lb/>Als herr hußschriber <persName>Grebel</persName> und herr vogt <persName ref="GND_1089574681">Bürkli</persName> zu Jacoben
-      <lb/>Isler imm Tal, dem teüffer, in <placeName>Wellenberg</placeName> kehrt und imm die schelt
+       <lb/>Isler imm Tal, dem teüffer, in <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> kehrt und imm die schelt
       <lb/>wort, so er unsrer religion und gloubens halben usgossen haben
       <lb/>sölle, alles ernsts für ghalten und darüber seiner antwort begert,
       <lb/>ist er inen darüber mit volgendem bscheid begegnet: Namlich,
@@ -109,7 +109,7 @@
       <head type="subtitle">5ten Februar 1614.</head>
       <p><lb/>Als herr vogt <persName ref="GND_1089574681">Bürkli</persName>, herr zunfftmeister <persName>Bertschinger</persName> unnd
        <lb/>junker <persName ref="GND_1089477872">Hanß Hartman Escher</persName> abermalen zu <persName>Jacoben Isler</persName> in
-       <lb/><placeName>Wellenberg</placeName> kehrt und dem selben die uber jener siner zu <placeName ref="LOC_47.47333_8.30592">Baden</placeName>
+       <lb/><placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> kehrt und dem selben die uber jener siner zu <placeName ref="LOC_47.47333_8.30592">Baden</placeName>
       <lb/>usgstossner reden halben uffgenohmmen kundtschafften vorlesen lassen, 
       <lb/>und darüber siner antwort begert, ist er daruff mit volgendem
        <lb/>bscheid begegnet. Als er gfenglich gen <placeName ref="LOC_47.35109_8.34214">Bremgarten</placeName> gführt worden
@@ -150,7 +150,7 @@
       <head type="subtitle"><date when="1614-02-08">8. Februarij 1614</date>, <persName>Jacoben Islers im Tal</persName> antwort.</head>
       <p><seg><lb/>Als herr <persName ref="GND_1089420609">Caspar Murer</persName>, meister <persName ref="GND_100295231">Hanß Jacob Ulrich</persName>, junker <persName ref="GND_1089477872">Hans
        <lb/>Hartman Escher</persName> und herr zunfftmeister <persName ref="GND_136182208">Hirtzel</persName> zu <persName>Jacoben Isler
-      <lb/>im Tal</persName> in <placeName>Wellenberg</placeName> kehrt, habend nit allein gsagte <abbr>u. f. wz.</abbr>
+        <lb/>im Tal</persName> in <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> kehrt, habend nit allein gsagte <abbr>u. f. wz.</abbr>
       <lb/>mit recht imme die ursach seiner gefangenschafft nochmalen fürghalten, 
       <lb/>sonders auch die gedachten herren glehrten imme auß gottes
       <lb/>wort ernstlich zugsprochen und von sinem irthumb abzuwysen,
@@ -185,7 +185,7 @@
       <head type="subtitle"><date when="1614-02-22">22. Februarii 1614.</date></head>
       <p>
        <seg><lb/>Als herr hußschriber <persName>Grebel</persName> und herr vogt <persName ref="GND_1089574681">Bürkli</persName> abermalen
-      <lb/>zu <persName>Jacoben Isler imm Tal</persName> zu <placeName>Wellenberg</placeName> kehret und inn zu
+        <lb/>zu <persName>Jacoben Isler imm Tal</persName> zu <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> kehret und inn zu
       <lb/>dem allerfreundtlichischen und ernstlichsten vermanet, sich in die ge<lb break="no"/>horsamme 
        zugeben, unnd in die christenliche kilchen mit uns
       <lb/>zu ghon, ist er nochmalen uff seiner meinung verharret, das er
@@ -245,8 +245,8 @@
       <lb/>in der gefangenschafft zu bliben erkent worden, bys man sin
       <lb/>sach mit glegenheit in ander weg usmachen köhne, ist daruff
       <lb/>er, <persName>Isler</persName>, noch dem er uber die 37 wochen lang in gfangen<lb break="no"/>schafft 
-       dem <placeName>Wellenberg</placeName> gelegen, verschinen montags znacht
-      <lb/>uß dem <placeName>Wellenberg</placeName> unverserter schlossen und riglen (Gott
+       dem <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> gelegen, verschinen montags znacht
+       <lb/>uß dem <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> unverserter schlossen und riglen (Gott
       <lb/>weis wie unnd durch was mitel) kohmmen.</seg> 
       <seg><lb/>Nach dem nun diß an mine gnedig herren gelanget,
        <lb/>ward den beiden obervögten zu <placeName ref="LOC_47.31505_8.46836">Bonstetten</placeName> bevohlen,

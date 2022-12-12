@@ -79,7 +79,7 @@
    <text>
     <body>
     <div> 
-    <pb n="1"/>
+     <pb n="1" facs="StAZH_A_61_5__Nr__28__S__1_.tif"/>
      <head><lb/>Verzeichnuß der armen
       <lb/>item des kirchen und
       <lb/>seckli guths zu
@@ -103,7 +103,7 @@
      <lb/>pfahrern daselbsten
       <lb/><date when="1692">1692</date>.
       </p>
-      <pb n="2"/>
+     <pb n="2" facs="StAZH_A_61_5__Nr__28__S__2_.tif"/>
      <p>
       <lb/>Die pfahr <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName> hat am seckli guth, laut
      verbriefften
@@ -124,7 +124,7 @@
      <lb/>überlaßen wird.
       <lb/>Hergegen hat <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> arme und gibt
      <lb/>uß ihrem seckli wochenlich uß, wie folget.</p>
-      <pb n="3"/>
+     <pb n="3" facs="StAZH_A_61_5__Nr__28__S__3_.tif"/>
      <head type="subtitle"><lb/>Arme der gemeind und pfahr
       <lb/><placeName ref="LOC_47.28333_8.75">Grüeningen</placeName>,
      <lb/><date when="1692">1692</date>.</head>
@@ -170,13 +170,29 @@
        <lb/>alle fest ½ <abbr>vtel</abbr> mehl von <placeName ref="LOC_47.3051_8.75831">Gosauw</placeName>.
      <lb/>Für ihre kind hat sy vergangen <gap reason="illegible" quantity="1"/> an winterkleider em<lb break="no"/>pfangen 
        3 <choice><abbr>p</abbr><expan>aar</expan></choice> schüeli, 3 <choice><abbr>p</abbr><expan>aar</expan></choice> steli.<note>Auf den folgenden Seiten: 6 Arme in <placeName ref="LOC_47.28125_8.77341">Yzikon</placeName>, 21 in <placeName ref="LOC_47.27632_8.75851">Binzikon</placeName></note></p> 
-     <pb n="4"/>
-      <pb n="5"/>
+     <p><pb n="4" facs="StAZH_A_61_5__Nr__28__S__4_.tif"/></p>
+     <p>
+      <gap reason="irrelevant"/>
+     </p>
+     <p><pb n="5" facs="StAZH_A_61_5__Nr__28__S__5_.tif"/></p>
      <p>
      <gap reason="irrelevant"/>
       </p>
+     <p><pb n="6" facs="StAZH_A_61_5__Nr__28__S__6_.tif"/></p>
+     <p>
+      <gap reason="irrelevant"/>
+     </p>
+     <p><pb n="7" facs="StAZH_A_61_5__Nr__28__S__7_.tif"/></p>
+     <p>
+      <gap reason="irrelevant"/>
+     </p>
+     <p><pb n="8" facs="StAZH_A_61_5__Nr__28__S__8_.tif"/></p>
+     <p>
+      <gap reason="irrelevant"/>
+     </p>
+     <p><pb n="9" facs="StAZH_A_61_5__Nr__28__S__9_.tif"/></p>
      <head type="subtitle"><lb/>Fehrners</head>
-       <p>
+ <p>
      <lb/>sind ußert gemeind arme, die handreichungen, und
      <lb/>verpflegung von der kirchen empfangend
      <lb/><persName>Barbara Walder</persName> von <placeName>Holtzhausen</placeName>, ist wegen melancholischer anfechtung
@@ -206,7 +222,6 @@
          <lb/>mehl alle fest.</cell></row>
        </table>
       </p>
-      
      <head type="subtitle"><lb/>Über dise benante, sind noch im land
      <lb/>herumb zühende, bettlende und
      <lb/>schwermende, die nit zu hinder<lb break="no"/>halten sind.</head>
@@ -220,7 +235,7 @@
      <p>
       <lb/><persName>Elßbeth Hürliman</persName>, <persName>Hanß Gnemmen</persName> frauw von <placeName ref="LOC_47.28125_8.77341">Yzikon</placeName>, so by 3 jahren uß der
       <lb/>pfahr <placeName ref="LOC_47.29976_8.69032">Egg</placeName> in dise gmeind komen, sind in christenlicher
-      <pb n="6"/>
+      <pb n="10" facs="StAZH_A_61_5__Nr__28__S__10_.tif"/>
      <lb/>religion und bätten gar schlecht geübt und mit keinem lieb dar
      <lb/>zu gewünnen. Er ist ins land gen werken, sy aber schwermt,
       <lb/>nochdem sy uns vorgegeben ins <placeName ref="LOC_52.45905_13.01582">Brandenburg</placeName> ze ziehen,
@@ -254,13 +269,16 @@
       <row><cell>25 <choice><abbr>p</abbr><expan>paar</expan></choice> strümpf und steli</cell><cell>} von <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.</cell></row>
       <row><cell>41/2 <abbr>flb</abbr> nördlinger</cell><cell/></row>
       <row><cell>349 lb 1 ß an der wochen stühr </cell><cell/></row>
-      <row><cell>123 lb 7 ß 4 hr an handreichung und <lb/>artgelt löhn der 3 theil</cell><cell>} von der kirchen <placeName ref="LOC_47.36667_8.55">Grüningen</placeName></cell></row>
+      <row><cell>123 lb 7 ß 4 hr an handreichung und <lb/>artgelt löhn der 3 theil</cell><cell>} von der kirchen <placeName ref="LOC_47.28333_98.75">Grüningen</placeName></cell></row>
       <row><cell>14 lb 19 ß zween persohnen am <lb/>monat gelt</cell><cell/></row>
      </table>    
      </p>
       <p>
        <lb/>6 müt kernen, am fest mehl uß der pfänd <placeName ref="LOC_47.3051_8.75831">Gosauw</placeName>.
-      </p></div>
+      </p>
+    <p> <pb n="11" facs="StAZH_A_61_5__Nr__28__S__11_.tif"/><!-- msr: leere Seite --></p>
+     <p><pb n="12" facs="StAZH_A_61_5__Nr__28__S__12_.tif"/><!-- msr: leere Seite --></p>
+    </div>
     </body>
     <back>
      <div>

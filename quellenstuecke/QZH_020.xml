@@ -80,11 +80,11 @@
    <text>
     <body>
     <div>
-     <pb n="1"/>
+     <pb n="1" facs="StAZH_A_27_55_2__Nr__10_2__S__1_.tif"/>
      <p>
       <gap reason="irrelevant"/>
      </p>
-     <pb n="2"/>
+     <pb n="2" facs="StAZH_A_27_55_2__Nr__10_2__S__2_.tif"/>
      <p>
       <gap reason="irrelevant"/>
      </p>
@@ -118,9 +118,9 @@
       <lb/><choice><abbr>prs</abbr><expan>presentibus</expan></choice>
       <lb/>wie oben.</p>
       <p><lb/>Hieruff sind, wie nebent stehet, obgedachte beide
-      <lb/>herren widerumb zu dem im <placeName>Wellenberg</placeName>
+       <lb/>herren widerumb zu dem im <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName>
        <lb/>verhafften <persName>Andreas Rütschi</persName> von <placeName ref="LOC_47.61175_8.72781">Oßingen</placeName> ge<lb break="no"/>kehrt, 
-       und nachmahlen alles ernsts ihme für<pb n="3" break="no"/>gehalten, 
+       und nachmahlen alles ernsts ihme für<pb n="3" break="no" facs="StAZH_A_27_55_2__Nr__10_2__S__3_.tif"/>gehalten, 
        niemandem under denen, so er an<lb break="no"/>geben, unrecht zethun, und syn hertz zrumen.
       <lb/>Hat er hieruff deß <persName>Hanß Siggen</persName> halb bekendt,
       <lb/>daß verschinnen sommer, alß sy beid, der <persName>Sigg</persName> und er,
@@ -152,7 +152,7 @@
       <p><lb/>Glyche beschaffenheit habe es mit <persName>Hanß Heinrichli
       <lb/>Sigg</persName>, <persName>Conradt Kübler, zugenant Dorff Conradt</persName>
       <lb/>und deß schärers sohn, genant <persName>Jacobli</persName>, welliche
-      <lb/>er all (seigind damahlen ledig gsyn), unge<pb n="4" break="no"/>bürlich 
+       <lb/>er all (seigind damahlen ledig gsyn), unge<pb n="4" break="no" facs="StAZH_A_27_55_2__Nr__10_2__S__4_.tif"/>bürlich 
        mißhandlen wöllen, die sich aber syner
       <lb/>erwehrt.</p>
       <p><lb/>Uber diß seige <persName>Debus Metler zugenant
@@ -192,7 +192,7 @@
       <lb/>er gesagt: in seinen räbberg. Daruf der <persName>Andreß</persName> mit
       <lb/>ihm gangen, alß sy nun dahin kommen und der <persName>Deewuß</persName>
       <lb/>sich wegen der gfrörne übell gehebt, habe der <persName>Andreß</persName>
-      <pb n="5"/>
+       <pb n="5" facs="StAZH_A_27_55_2__Nr__10_2__S__5_.tif"/>
       <lb/>ihne getröst. Alß sy nun biß unden an drëben kommen, habe
       <lb/>der <persName>Andreß</persName> sich an ein börtlin gsezt und gesagt, er, <persName>Deew<lb break="no"/>uß</persName>, 
        solle kommen schauwen, wie vill gruene schoß es noch
@@ -208,9 +208,11 @@
       <lb/>thuege ihmme gewalt, und ihmme, <persName>Deewußen</persName>, unrecht, der
       <lb/><persName>Andreß</persName> seige nit recht by sinnen, wie sein vatter <abbr>sel.</abbr> und
       <lb/>sein muotter auch seige.</p></div>
-     <pb n="6"/>
-     <pb n="7"/>
-     <pb n="8"/>
+     <div>
+      <p><pb n="6"/></p><!-- msr: leere Seite -->
+      <p><pb n="7"/></p><!-- msr: leere Seite -->
+     </div>
+     <pb n="8" facs="StAZH_A_27_55_2__Nr__10_2__S__8_.tif"/>
      <div><p>
       <gap reason="irrelevant"/>
      </p></div>
