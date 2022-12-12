@@ -408,7 +408,7 @@
                     <geo>47.61175 8.72781</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.36453_8.79202" n="Pfäffikon ZH, Pfäffikonner, Pfeffikon">
+            <place xml:id="LOC_47.36453_8.79202" n="Pfäffikon ZH, Pfeffikon, Pfäffikonner">
                 <placeName type="main">Pfeffikon</placeName>
                 <placeName type="main">Pfäffikon ZH</placeName>
                 <placeName type="main">Pfäffikonner</placeName>
@@ -518,38 +518,11 @@
                     <geo>47.42022 8.43644</geo>
                 </location>
             </place>
-            <place xml:id="QZH_003_1" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_003_24" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_008_1" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_004_1" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
             <place xml:id="LOC_47.368744_8.542639" n="Wellenberg">
                 <placeName type="main">Wellenberg</placeName>
                 <location>
                     <geo>47.368744 8.542639</geo>
                 </location>
-            </place>
-            <place xml:id="QZH_009_1" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_003_36" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_003_32" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_015_14" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-            </place>
-            <place xml:id="QZH_002_3" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
             </place>
             <place xml:id="LOC_47.36201_8.51497" n="Wiedikon, Wiedicken">
                 <placeName type="main">Wiedikon</placeName>
