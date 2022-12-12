@@ -88,7 +88,7 @@
             <lb/><choice><abbr>Actm</abbr><expan>Actum</expan></choice> mitwochs, den 21.ten julii a.<hi rend="sup">o</hi> 1706,
               <lb/><choice><abbr>prent</abbr><expan>presentibus</expan></choice> herren rathsherr <persName ref="GND_1089451482">Hans Rudolf Werdmüler</persName> und
             <lb/>herren zunfftmeister <persName>Meyer</persName>.</p>
-            <p><lb/>Aus oberkeitlichem befehl, wurde der im <placeName>Wellenberg</placeName> verhafte
+          <p><lb/>Aus oberkeitlichem befehl, wurde der im <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> verhafte
               <lb/><persName>Mustapha Cara</persName>, von <placeName ref="LOC_36.73225_3.08746">Algiers</placeName> gebürtig, alles ernsts examiniert,
             <lb/>welcher hierauf folgende aussag gethan:</p>
             <p><lb/>Sein vatter seye ein kaufmann auf dem meer geweßen und als
@@ -117,9 +117,9 @@
               <placeName ref="LOC_47.39254_8.04422">Arauw</placeName>,
               <placeName ref="LOC_47.05048_8.30635">Lutzern</placeName>, da er sich an sinnem
             <lb/>fueß 5 tag lang curieren laßen, welches er umb gottes willen
-            <lb/>geforderet, und sie ihne nicht gefraget, als ob er ein frömlider seye.
+            <lb/>geforderet, und sie ihne nicht gefraget, als ob er ein frömlider seye.</p>
                 <pb n="2" facs="StAZH_A_27_68_2__Nr__3_5__S__2_.tif"/>
-              <lb/>Von <placeName ref="LOC_47.05048_8.30635">Lutzern</placeName> seye er an ein orth, so ein see wie hier habe,
+              <p><lb/>Von <placeName ref="LOC_47.05048_8.30635">Lutzern</placeName> seye er an ein orth, so ein see wie hier habe,
               <lb/>hernach auf <placeName ref="LOC_47.40165_8.40015">Dietikon</placeName>, allwo er in dem wirthshauß in einem sack
             <lb/>das pater noster gefunden, und endtlich hieher kommen auf die
             <lb/><placeName>Sillbrug</placeName>, da ihne ein franzoß, dem man ein kind tauft und
@@ -137,7 +137,7 @@
           <p><lb/><choice><abbr>Actm</abbr><expan>Actum</expan></choice> mitwochs, den 25.ten dito,
               <lb/><choice><abbr>prent</abbr><expan>presentibus</expan></choice> vorgedacht – hochgeehrten herren.</p>
           <p><lb/>Auf aber mahl freünd- und ernstliches examen hat der im
-              <lb/><placeName>Wellenberg</placeName> verhaffte <persName>Mustapha Cara</persName> folgendes ausgesagt:
+              <lb/><placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> verhaffte <persName>Mustapha Cara</persName> folgendes ausgesagt:
               <lb/>Wan man ihm 100 mahl von <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName> gesagt, so hat ers
               <lb/>nit gewüßt, mann habe sollen sagen <placeName ref="LOC_47.12693_8.75345">Aux Eremite</placeName>.
               <lb/>Daselbsthin er komen und 2. Tag verbliben, das erste mahl
@@ -189,7 +189,7 @@
           <p><lb/><choice><abbr>Actm</abbr><expan>Actum</expan></choice> zinstags den 3.ten augusti,
               <lb/><choice><abbr>prent</abbr><expan>presentibus</expan></choice> vorbemeldt hochgeehrten herren.</p>
           <p><lb/>Als zuvorderst <persName>Michael Burger</persName> von <placeName ref="LOC_47.9959_7.85222">Freiburg</placeName> in dem <placeName>Öten<lb break="no"/>bach</placeName> 
-                  befraget worden, ob er den im <placeName>Wellenberg</placeName> verhaften
+              befraget worden, ob er den im <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> verhaften
               <lb/>türck kenne, und selbiger gar nichts von ihme wüßen
               <lb/>wollen, hat man darauf den <persName>Mustapha Cara</persName> examinirt,
               <lb/>welcher nachmahls bey seiner vorigen ausßag verblibe, mit
@@ -205,11 +205,11 @@
               <lb/>sie anders, haben sie ihn nit verstanden, rede die wahrheit,
               <lb/>so gwüß gott im himmel seye, und bittet umb gnad.</p>
       </div>
-                    <div><ab place="verso" type="dorsal">
+                    <div><ab place="below" type="dorsal">
                         <p>
                             <lb/>Nachgang
                             <lb/>3. <persName>Mustapha Cara</persName> ein türck von <placeName ref="LOC_36.73225_3.08746">Algiers</placeName>
-                            <lb/>gebürtig, wegen verdachts in dem <placeName>Wellen<lb break="no"/>berg</placeName> verhaften <choice><abbr>betr</abbr><expan>betreffend</expan></choice>, <origDate when="1706">1706</origDate>.
+                            <lb/>gebürtig, wegen verdachts in dem <placeName ref="LOC_47.368744_8.542639">Wellen<lb break="no"/>berg</placeName> verhaften <choice><abbr>betr</abbr><expan>betreffend</expan></choice>, <origDate when="1706">1706</origDate>.
                             <lb/>Vom <origDate when="1706-07-21">21.ten julii. <abbr>a.<hi rend="sup">o</hi></abbr> 1706</origDate>.
                             <lb/>vom <origDate when="1706-07-23">23.ten dito</origDate>.
                             <lb/>vom <origDate when="1706-08-03">3.ten augusti</origDate>.

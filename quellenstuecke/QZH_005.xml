@@ -85,7 +85,7 @@
                     <pb n="118" facs="StAZH_B_IV_205__S__118_.tif"/>
                     <div>
                         <p>        
-                            <lb/>Vor einigen tagen ist allhier ankommen ein manspersohn, welche hat einen krumen
+                            <<seg>lb/>Vor einigen tagen ist allhier ankommen ein manspersohn, welche hat einen krumen
                             <lb/>fuß, breite diknaß, großen knebelbart; tragt einen weisgrauwen rok, weisen
                             <lb/>hut, leinin strümpf, mit lädernen riemen, sich angebend nammenshalber <persName>Mustafa
                                 <lb/>Caffa</persName>, geburths statt halber von <placeName ref="LOC_36.73225_3.08746">Algiers</placeName>, ein gebohrner türk, mit anhalten, daß
@@ -99,12 +99,12 @@
                             absendenden schreibens eüer <abbr>gn:</abbr> <add place="above"><abbr>frdt:</abbr> zuersuchen, unß ohnschwehr zu notificiren,<!-- Hinzufügung durch msr transkribiert --></add> obe die sachen wie obgedacht sich
                             <lb/>verhalten, <add place="left margin">und ob mit bedeütem <lb/>kerl alles sich erzelltermaßen <lb/>verloffen?</add> <del>zuvernemmen</del> damit das nöthig erachtende vorgekehrt werden
                             <lb/>könne. In erwartung nun einer verhofentlich willfahrigen antwort, thun wir
-                            <lb/>uns samtlich dem machtschirm des höchsten getreülich erlaßen. Datum den
+                            <lb/>uns samtlich dem machtschirm des höchsten getreülich erlaßen.</seg> <seg>Datum den
                             <lb/><origDate when="1706-07-24">24ten. july <abbr>a<hi rend="sup">o</hi></abbr> 1706</origDate>.
                             <lb/>Burgermeister und rath
-                            <lb/>der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.
-                            <lb/>An herren abt zu <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName>
-                            <lb/>abgangen.</p>
+                            <lb/>der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.</seg>
+                            <seg><lb/>An herren abt zu <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName>
+                            <lb/>abgangen.</p></seg>
                     </div>
         </body>
                 <back>
