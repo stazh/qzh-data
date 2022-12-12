@@ -239,7 +239,7 @@
                 <source>QZH_001</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
-            <person xml:id="QZH_011_1">
+            <person xml:id="QZH_011_8">
                 <persName type="full">Bohq</persName>
                 <source>QZH_011</source>
                 <dateOfTheSource>1706</dateOfTheSource>
@@ -959,14 +959,21 @@
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
-            <person xml:id="GND_1089804849">
+            <person xml:id="QZH_001_15">
                 <persName type="full">Holard</persName>
+                <source>QZH_001</source>
+                <dateOfTheSource>1706</dateOfTheSource>
+            </person>
+            <person xml:id="QZH_003_4">
+                <persName type="full">Holard</persName>
+                <source>QZH_003</source>
+                <dateOfTheSource>1706</dateOfTheSource>
             </person>
             <person xml:id="GND_119464632">
                 <persName type="full">Holzhalb, Leonhard, Holtzhalb</persName>
             </person>
             <person xml:id="GND_117013463">
-                <persName type="full">Hottinger, Johann Jakob, Ottinguer, Hottingern</persName>
+                <persName type="full">Hottinger, Johann Jakob, Hottingern, Ottinguer</persName>
             </person>
             <person xml:id="QZH_021_12">
                 <persName type="full">Häuslin</persName>
@@ -1143,30 +1150,13 @@
                 <source>QZH_020</source>
                 <dateOfTheSource>1668</dateOfTheSource>
             </person>
-            <person xml:id="QZH_012_1">
-                <persName type="full">Jesu Christi</persName>
-                <source>QZH_012</source>
-                <dateOfTheSource>1561-1608</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_012_9">
-                <persName type="full">Jesu Christi</persName>
-                <source>QZH_012</source>
-                <dateOfTheSource>1561-1608</dateOfTheSource>
-            </person>
             <person xml:id="QZH_019_3">
                 <persName type="full">Jesum Christum</persName>
                 <source>QZH_019</source>
                 <dateOfTheSource>1623</dateOfTheSource>
             </person>
-            <person xml:id="QZH_012_5">
-                <persName type="full">Jesus</persName>
-                <source>QZH_012</source>
-                <dateOfTheSource>1561-1608</dateOfTheSource>
-            </person>
             <person xml:id="GND_118557513">
-                <persName type="full">Jesus Christus, Jesu, Jesu Christi</persName>
-                <source>QZH_023</source>
-                <dateOfTheSource>1694</dateOfTheSource>
+                <persName type="full">Jesus Christus, Jesu, Jesu Christi, Jesus</persName>
             </person>
             <person xml:id="QZH_016_6">
                 <persName type="full">Joachim Kauffman</persName>
@@ -1231,35 +1221,8 @@
                 <source>QZH_003</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
-            <person xml:id="QZH_001_12">
-                <persName type="full">Maria</persName>
-                <source>QZH_001</source>
-                <dateOfTheSource>1706</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_012_12">
-                <persName type="full">Maria</persName>
-                <source>QZH_012</source>
-                <dateOfTheSource>1561-1608</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_012_15">
-                <persName type="full">Maria</persName>
-                <source>QZH_012</source>
-                <dateOfTheSource>1561-1608</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_012_2">
-                <persName type="full">Maria</persName>
-                <source>QZH_012</source>
-                <dateOfTheSource>1561-1608</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_012_4">
-                <persName type="full">Maria</persName>
-                <source>QZH_012</source>
-                <dateOfTheSource>1561-1608</dateOfTheSource>
-            </person>
             <person xml:id="GND_118640909">
                 <persName type="full">Maria, Marya</persName>
-                <source>QZH_023</source>
-                <dateOfTheSource>1694</dateOfTheSource>
             </person>
             <person xml:id="QZH_016_1">
                 <persName type="full">Marx Relstab</persName>
@@ -1414,17 +1377,17 @@
                 <source>QZH_022</source>
                 <dateOfTheSource>1518</dateOfTheSource>
             </person>
+            <person xml:id="QZH_011_1">
+                <persName type="full">Peprune</persName>
+                <source>QZH_011</source>
+                <dateOfTheSource>1706</dateOfTheSource>
+            </person>
             <person xml:id="QZH_011_2">
                 <persName type="full">Peprune</persName>
                 <source>QZH_011</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
             <person xml:id="QZH_011_3">
-                <persName type="full">Peprune</persName>
-                <source>QZH_011</source>
-                <dateOfTheSource>1706</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_011_4">
                 <persName type="full">Peprune</persName>
                 <source>QZH_011</source>
                 <dateOfTheSource>1706</dateOfTheSource>
@@ -1490,7 +1453,7 @@
                 <dateOfTheSource>1697</dateOfTheSource>
             </person>
             <person xml:id="GND_1089527993">
-                <persName type="full">Scheuchzer, Hans Heinrich, Schutzer, Scheüchtzer, Scheüchtzern</persName>
+                <persName type="full">Scheuchzer, Hans Heinrich, Scheüchtzer, Scheüchtzern, Schutzer</persName>
             </person>
             <person xml:id="QZH_022_27">
                 <persName type="full">Schleipfer</persName>
@@ -1628,10 +1591,7 @@
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
             <person xml:id="GND_1019762608">
-                <persName type="full">Zeller</persName>
-            </person>
-            <person xml:id="GND_11019762608">
-                <persName type="full">Zeller, Peter</persName>
+                <persName type="full">Zeller, Peter, Zeller</persName>
             </person>
             <person xml:id="QZH_022_12">
                 <persName type="full">Zollingers</persName>
