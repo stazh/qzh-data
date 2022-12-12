@@ -1,6 +1,32 @@
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI">
     <text>
         <!--Hier können weitere Namen von Orten eingetragen werden, wenn diese in der Webapplikation erscheinen sollen, aber nicht bereits in den Quellenstücken vorhanden sind-->
-        <placeName ref="LOC_47.36661_8.78629">Pfäffikon Zürich</placeName>
+        <placeName ref="LOC_47.36453_8.79202">Pfäffikon ZH</placeName>
+        <placeName ref="LOC_47.36966_8.54145">Fraumünster</placeName>
+        <placeName ref="LOC_47.39254_8.04422">Aarau</placeName>
+        <placeName ref="LOC_47.36201_8.51497">Wiedikon</placeName>
+        <placeName ref="LOC_47.12693_8.75345">Einsiedeln</placeName>
+        <placeName ref="LOC_46.20222_6.14569">Genf</placeName>
+        <placeName ref="LOC_47.0405_8.74101">Schwyz</placeName>
+        <placeName ref="LOC_46.516_6.63282">Lausanne</placeName>
+        <placeName ref="LOC_50.35909_3.52506">Valenciennes</placeName>
+        <placeName ref="LOC_48.08078_7.35584">Colmar</placeName>
+        <placeName ref="LOC_47.05048_8.30635">Luzern</placeName>
+        <placeName ref="LOC_46_2">Frankreich</placeName>
+        <placeName ref="LOC_47.57117_8.65006">Dorf</placeName>
+        <placeName ref="LOC_47.4789_8.70215">Thöss</placeName>
+        <placeName ref="LOC_47.2235_8.46197">Knonau</placeName>
+        <placeName ref="LOC_47.26943_8.42448">Bickwil</placeName>
+        <placeName ref="LOC_47.22523_8.51104">Kappel</placeName>
+        <placeName ref="LOC_47.24779_8.46399">Mettmenstetten</placeName>
+        <placeName ref="LOC_47.27632_8.75851">Itzikon</placeName>
+        <placeName ref="LOC_47.28795, 8.76324">Büel</placeName>
+        <placeName ref="LOC_47.29449_8.75548">Tägernau</placeName>
+        <placeName ref="LOC_47.36911_8.45699">Uitikon</placeName>
+        <placeName ref="LOC_47.36212_8.70093">Werrikon</placeName>
+        <placeName ref="LOC_47.34713_8.72091">Uster</placeName>
+        <placeName ref="LOC_47.36334_8.82418">Hittnau</placeName>
+        <placeName ref="LOC_47.37398_8.49007">Albisrieden</placeName>
+
     </text>
 </TEI>
