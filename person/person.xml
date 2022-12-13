@@ -469,11 +469,6 @@
                 <source>QZH_016</source>
                 <dateOfTheSource>1692</dateOfTheSource>
             </person>
-            <person xml:id="QZH_015_15">
-                <persName type="full">Christi</persName>
-                <source>QZH_015</source>
-                <dateOfTheSource>1613-1614</dateOfTheSource>
-            </person>
             <person xml:id="QZH_016_29">
                 <persName type="full">Christoph Wildermuthen</persName>
                 <source>QZH_016</source>
@@ -1156,7 +1151,7 @@
                 <dateOfTheSource>1623</dateOfTheSource>
             </person>
             <person xml:id="GND_118557513">
-                <persName type="full">Jesus Christus, Jesu, Jesu Christi, Jesus</persName>
+                <persName type="full">Jesus Christus, Jesu Christi, Jesus, Christi, Jesu</persName>
             </person>
             <person xml:id="QZH_016_6">
                 <persName type="full">Joachim Kauffman</persName>
@@ -1360,7 +1355,7 @@
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
             <person xml:id="GND_101117728">
-                <persName type="full">Ott, Johann Baptist, Ott, Joh. Baptist Ott</persName>
+                <persName type="full">Ott, Johann Baptist, Joh. Baptist Ott, Ott</persName>
             </person>
             <person xml:id="QZH_019_1">
                 <persName type="full">Paulus</persName>

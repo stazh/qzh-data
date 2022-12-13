@@ -36,7 +36,7 @@
                     <geo>47.37398 8.49007</geo>
                 </location>
             </place>
-            <place xml:id="LOC_36.73225_3.08746" n="Algiers, Algier, Algers">
+            <place xml:id="LOC_36.73225_3.08746" n="Algier, Algiers, Algers">
                 <placeName type="main">Algers</placeName>
                 <placeName type="main">Algier</placeName>
                 <placeName type="main">Algiers</placeName>
@@ -122,11 +122,9 @@
                     <geo>47.35109 8.34214</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.28795, 8.76324" n="Buͤel">
-                <placeName type="main">Buͤel</placeName>
-            </place>
-            <place xml:id="LOC_47.28795_8.76324" n="Büel">
+            <place xml:id="LOC_47.28795_8.76324" n="Büel, Buͤel">
                 <placeName type="main">Büel</placeName>
+                <placeName type="main">Buͤel</placeName>
                 <location>
                     <geo>47.28795 8.76324</geo>
                 </location>
@@ -259,9 +257,6 @@
                     <geo>47.41896 8.72177</geo>
                 </location>
             </place>
-            <place xml:id="QZH_018_12" n="Helmhaus">
-                <placeName type="main">Helmhaus</placeName>
-            </place>
             <place xml:id="LOC_47.21743_8.60794" n="Hirzel">
                 <placeName type="main">Hirzel</placeName>
                 <location>
@@ -293,14 +288,12 @@
             <place xml:id="QZH_022_5" n="Holtzhusen">
                 <placeName type="main">Holtzhusen</placeName>
             </place>
-            <place xml:id="QZH_018_2" n="Hällmhuß">
+            <place xml:id="LOC_47.369639_8.543194" n="Hällmhuß, Helmhaus">
                 <placeName type="main">Hällmhuß</placeName>
-            </place>
-            <place xml:id="QZH_018_4" n="Hällmhuß">
-                <placeName type="main">Hällmhuß</placeName>
-            </place>
-            <place xml:id="QZH_018_9" n="Hällmhuß">
-                <placeName type="main">Hällmhuß</placeName>
+                <placeName type="main">Helmhaus</placeName>
+                <location>
+                    <geo>47.369639 8.543194</geo>
+                </location>
             </place>
             <place xml:id="QZH_015_12" n="Kellerampt">
                 <placeName type="main">Kellerampt</placeName>
@@ -342,7 +335,7 @@
                     <geo>47.05048 8.30635</geo>
                 </location>
             </place>
-            <place xml:id="LOC_43.29695_5.38107" n="Marseille, Marsilien">
+            <place xml:id="LOC_43.29695_5.38107" n="Marsilien, Marseille">
                 <placeName type="main">Marseille</placeName>
                 <placeName type="main">Marsilien</placeName>
                 <location>
@@ -413,7 +406,7 @@
                     <geo>47.61175 8.72781</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.36453_8.79202" n="Pfäffikon ZH, Pfäffikonner, Pfeffikon">
+            <place xml:id="LOC_47.36453_8.79202" n="Pfäffikon ZH, Pfeffikon, Pfäffikonner">
                 <placeName type="main">Pfeffikon</placeName>
                 <placeName type="main">Pfäffikon ZH</placeName>
                 <placeName type="main">Pfäffikonner</placeName>
@@ -562,7 +555,7 @@
                     <geo>47.17242 8.51745</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.15886_8.53866" n="Zugerbiet, Zuger piett">
+            <place xml:id="LOC_47.15886_8.53866" n="Zuger piett, Zugerbiet">
                 <placeName type="main">Zugerbiet</placeName>
                 <placeName type="main">Zuger piett</placeName>
                 <location>
@@ -578,14 +571,14 @@
             <place xml:id="QZH_016_18" n="Zwacken">
                 <placeName type="main">Zwacken</placeName>
             </place>
-            <place xml:id="LOC_47.36667_8.55" n="Zürcher, Zürich">
+            <place xml:id="LOC_47.36667_8.55" n="Zürich, Zürcher">
                 <placeName type="main">Zürich</placeName>
                 <placeName type="main">Zürcher</placeName>
                 <location>
                     <geo>47.36667 8.55</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.374444_8.541111" n="Oetenbach, Öttenbach, Ötenbach">
+            <place xml:id="LOC_47.374444_8.541111" n="Oetenbach, Ötenbach, Öttenbach">
                 <placeName type="main">Öttenbach</placeName>
                 <placeName type="main">Oetenbach</placeName>
                 <placeName type="main">Ötenbach</placeName>
