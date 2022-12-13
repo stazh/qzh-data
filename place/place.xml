@@ -98,6 +98,12 @@
                     <geo>47.26943 8.42448</geo>
                 </location>
             </place>
+            <place xml:id="LOC_47.27632_8.75851" n="Binzikon">
+                <placeName type="main">Binzikon</placeName>
+                <location>
+                    <geo>47.27632 8.75851</geo>
+                </location>
+            </place>
             <place xml:id="LOC_47.31505_8.46836" n="Bonstetten">
                 <placeName type="main">Bonstetten</placeName>
                 <location>
@@ -116,9 +122,14 @@
                     <geo>47.35109 8.34214</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.28795, 8.76324" n="Büel, Buͤel">
-                <placeName type="main">Büel</placeName>
+            <place xml:id="LOC_47.28795, 8.76324" n="Buͤel">
                 <placeName type="main">Buͤel</placeName>
+            </place>
+            <place xml:id="LOC_47.28795_8.76324" n="Büel">
+                <placeName type="main">Büel</placeName>
+                <location>
+                    <geo>47.28795 8.76324</geo>
+                </location>
             </place>
             <place xml:id="LOC_47.22523_8.51104" n="Kappel, Cappell">
                 <placeName type="main">Cappell</placeName>
@@ -147,9 +158,9 @@
                     <geo>47.57117 8.65006</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.4789_8.70215" n="Thöss, Dös">
+            <place xml:id="LOC_47.4789_8.70215" n="Töss, Dös">
                 <placeName type="main">Dös</placeName>
-                <placeName type="main">Thöss</placeName>
+                <placeName type="main">Töss</placeName>
                 <location>
                     <geo>47.4789 8.70215</geo>
                 </location>
@@ -240,12 +251,6 @@
                 <placeName type="main">Grüningen</placeName>
                 <location>
                     <geo>47.28333 8.75</geo>
-                </location>
-            </place>
-            <place xml:id="LOC_47.28333_98.75" n="Grüningen">
-                <placeName type="main">Grüningen</placeName>
-                <location>
-                    <geo>47.28333 98.75</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.41896_8.72177" n="Guggenbüel">
@@ -408,7 +413,7 @@
                     <geo>47.61175 8.72781</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.36453_8.79202" n="Pfäffikon ZH, Pfeffikon, Pfäffikonner">
+            <place xml:id="LOC_47.36453_8.79202" n="Pfäffikon ZH, Pfäffikonner, Pfeffikon">
                 <placeName type="main">Pfeffikon</placeName>
                 <placeName type="main">Pfäffikon ZH</placeName>
                 <placeName type="main">Pfäffikonner</placeName>
@@ -544,18 +549,11 @@
                     <geo>47.17764 8.59215</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.28125_8.77341" n="Yzikon">
+            <place xml:id="LOC_47.28125_8.77341" n="Itzikon, Yzikon">
                 <placeName type="main">Yzikon</placeName>
-                <location>
-                    <geo>47.28125 8.77341</geo>
-                </location>
-            </place>
-            <place xml:id="LOC_47.27632_8.75851" n="Itzikon, Binzikon, Yzikon">
-                <placeName type="main">Yzikon</placeName>
-                <placeName type="main">Binzikon</placeName>
                 <placeName type="main">Itzikon</placeName>
                 <location>
-                    <geo>47.27632 8.75851</geo>
+                    <geo>47.28125 8.77341</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.17242_8.51745" n="Zug">
@@ -580,27 +578,20 @@
             <place xml:id="QZH_016_18" n="Zwacken">
                 <placeName type="main">Zwacken</placeName>
             </place>
-            <place xml:id="LOC_47.36667_8.55" n="Zürich, Zürcher">
+            <place xml:id="LOC_47.36667_8.55" n="Zürcher, Zürich">
                 <placeName type="main">Zürich</placeName>
                 <placeName type="main">Zürcher</placeName>
                 <location>
                     <geo>47.36667 8.55</geo>
                 </location>
             </place>
-            <place xml:id="QZH_009_4" n="Ötenbach">
-                <placeName type="main">Ötenbach</placeName>
-            </place>
-            <place xml:id="QZH_003_31" n="Ötenbach">
-                <placeName type="main">Ötenbach</placeName>
-            </place>
-            <place xml:id="QZH_002_1" n="Ötenbach">
-                <placeName type="main">Ötenbach</placeName>
-            </place>
-            <place xml:id="QZH_001_8" n="Öttenbach">
+            <place xml:id="LOC_47.374444_8.541111" n="Oetenbach, Öttenbach, Ötenbach">
                 <placeName type="main">Öttenbach</placeName>
-            </place>
-            <place xml:id="QZH_001_10" n="Öttenbach">
-                <placeName type="main">Öttenbach</placeName>
+                <placeName type="main">Oetenbach</placeName>
+                <placeName type="main">Ötenbach</placeName>
+                <location>
+                    <geo>47.374444 8.541111</geo>
+                </location>
             </place>
         </listPlace>
     </standOff>
