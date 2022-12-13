@@ -165,7 +165,7 @@
       <lb/>segind 10 jahr, syd sy daß gethan, und benant<lb break="no"/>lich 
        in einer schüer.</p>
       <p><lb/>Actum mittwuchs den <origDate when="1668-11-03">3. ten. novembris anno 1668</origDate>.</p>
-      <p><lb/>Vorgedachte herren habend den uffem <placeName>Rathuß</placeName> verhafften
+      <p><seg><lb/>Vorgedachte herren habend den uffem <placeName>Rathuß</placeName> verhafften
        <lb/><persName>Deewuß Mettler</persName> von <placeName ref="LOC_47.61175_8.72781">Oßingen</placeName> ernstlichen befraget,
       <lb/>waß er mit dem <persName>Andreß Rüetschi</persName> daselbsten ge<lb break="no"/>habt, 
        der sagt, vor ohngfahr 13 Jahren, alß er noch
@@ -182,7 +182,7 @@
       <lb/>mahl damahlen alßo gemacht. Der <persName>Andreß</persName> habe ihnne da<lb break="no"/>mahlen 
        angefallen, wie ein ohnverschambter knab ein
       <lb/>meitlin anfalle, und habe zu ihmme gesagt, er solle
-      <lb/>gryffen, wie er versëchen seige. Ohngefahr 4 Jahr
+      <lb/>gryffen, wie er versëchen seige.</seg> <seg>Ohngefahr 4 Jahr
       <lb/>hernach seige er, <persName>Deewuß</persName>, an einem sontag nach der mittag
       <lb/>predig willens gsyn seine räben, so damahlen erfroren
       <lb/>gewësen, zubeschauwen. Alß er nun in
@@ -199,7 +199,7 @@
       <lb/>habe. Alß er kommen, habe der <persName>Andreß</persName> sein glid vorußen
       <lb/>gehabt, und zu ihme gesagt, ob er auch alßo versechen und
       <lb/>nach ihmme gelanget. Er aber habe ihne abgemahnet, wyters
-      <lb/>nun seige zwüschent ihnne gar nit vorgegangen. Er habe
+      <lb/>nun seige zwüschent ihnne gar nit vorgegangen.</seg><seg> Er habe
       <lb/>sich gar gern gestelt, wyl er sich ohn schuldig gewüßt. Er
        <lb/>habe jetzt ettliche jahr zu <placeName ref="LOC_47.66562_8.76984">Schlattingen</placeName> die schuol, und mithe
       <lb/>die kinderlehr versëhen, verhoffentlich zu vernuegen<!-- korrigiert msr -->, mann
@@ -207,7 +207,7 @@
       <lb/>gnësen, daß mehrers nichts fürgangen, der <persName>Andreß</persName>
       <lb/>thuege ihmme gewalt, und ihmme, <persName>Deewußen</persName>, unrecht, der
       <lb/><persName>Andreß</persName> seige nit recht by sinnen, wie sein vatter <abbr>sel.</abbr> und
-      <lb/>sein muotter auch seige.</p></div>
+      <lb/>sein muotter auch seige.</seg></p></div>
      <div>
       <p><pb n="6"/></p><!-- msr: leere Seite -->
       <p><pb n="7"/></p><!-- msr: leere Seite -->

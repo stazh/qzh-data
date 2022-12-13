@@ -85,7 +85,7 @@
      <div>
       <pb n="1" facs="StAZH_A_27_68_2__Nr__3_4__S__1_.tif"/>
       <p> 
-       <lb/>Hochgeacht-wohledelgebohrn-gestreng-fürsichtig-
+       <seg><lb/>Hochgeacht-wohledelgebohrn-gestreng-fürsichtig-
        <lb/>und weise, hochgeehrtiste herren <abbr>etc</abbr>.
        <lb/>Aus ihrem sub dato 24 currentis an meinem gnädigen
        <lb/>fürsten und <abbr>h.</abbr> abgelassnem, habe zu vernemmen gehabt,
@@ -93,17 +93,17 @@
        <lb/>ob nit vor etwas zeits ein gewüsser man, bekleidt
        <lb/>und gestaltet als ihr schreiben außweist, sich hiereinge<lb break="no"/>funden,
         der sich nambset <persName>Mustaffa Caffa</persName>, ein dürkh
-       <lb/>aus <placeName ref="LOC_36.73225_3.08746">Algiers</placeName>, und ob er den <abbr>h.</abbr> tauff empfangen habe.
-       <lb/>Wan nun ihro hoch <abbr>frstl. gnd.</abbr> nit anheimbsch, als
+       <lb/>aus <placeName ref="LOC_36.73225_3.08746">Algiers</placeName>, und ob er den <abbr>h.</abbr> tauff empfangen habe.</seg>
+       <seg><lb/>Wan nun ihro hoch <abbr>frstl. gnd.</abbr> nit anheimbsch, als
        <lb/>füege in dero abwesenheit zu <choice><abbr>freündtl.er</abbr><expan>freündtlicher</expan></choice> antwort, ds
        <lb/>ja, vor etwelchen wuchen ein solcher, sich <persName>Mustaffa Caffa</persName> von
        <lb/><placeName ref="LOC_36.73225_3.08746">Algiers</placeName> nambsete, alhier gewesen, und den <abbr>h.</abbr> tauff empfangen.
        <lb/>Ob aber es gleich der jenige seye, der sich dermahlen al<lb break="no"/>dort 
-       einfindt, mag ich nit wisen. Und dis ist, waß über ihr
+       einfindt, mag ich nit wisen.</seg><seg> Und dis ist, waß über ihr
        <lb/>genambstes zu berichten hab, nachst göttlicher empfehlung
        <lb/>verbleibendt, <abbr>mgen. hhen.</abbr> diensbeflißner
-       <lb/><choice><abbr>p.</abbr><expan>pater</expan></choice> <persName>Joachim Pfeiffer</persName>, decan.
-       <lb/>Geben in unseren <abbr>festl.</abbr> gotshaus <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName>, den 25ten julii <abbr>a<hi rend="sup">o</hi></abbr> 1706.</p>
+       <lb/><choice><abbr>p.</abbr><expan>pater</expan></choice> <persName>Joachim Pfeiffer</persName>, decan.</seg>
+       <seg><lb/>Geben in unseren <abbr>festl.</abbr> gotshaus <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName>, den 25ten julii <abbr>a<hi rend="sup">o</hi></abbr> 1706.</seg></p>
       <pb n="2" facs="StAZH_A_27_68_2__Nr__3_4__S__4_.tif"/>
       <p>  <lb/>Denen hochgeacht-wohledelgebohrn-
        <lb/>gestreng- fürsichtig- und weisen herren,
