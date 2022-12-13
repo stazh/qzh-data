@@ -86,7 +86,7 @@
         <div>
             <pb n="35" facs="StAZH_B_II_695__S__35_.tif"/>
             <p>
-              <lb/>Der im <placeName>Ötenbach</placeName> verwahrte betrieger, welcher
+                <lb/>Der im <placeName ref="LOC_47.374444_8.541111">Ötenbach</placeName> verwahrte betrieger, welcher
                 <lb/>sich von namen <persName>Mustapha Caffa</persName> und von <placeName ref="LOC_36.73225_3.08746">Algiers</placeName>
             <lb/>gebürtig dargibt, auch allhier das christenthum an<lb break="no"/>nemmen wollen, und getaufft zuwerden verlangt,
                 <lb/>soll in den <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> gelegt, durch die herren

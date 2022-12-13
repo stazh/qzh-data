@@ -14,13 +14,13 @@
         <placeName ref="LOC_47.05048_8.30635">Luzern</placeName>
         <placeName ref="LOC_46_2">Frankreich</placeName>
         <placeName ref="LOC_47.57117_8.65006">Dorf</placeName>
-        <placeName ref="LOC_47.4789_8.70215">Thöss</placeName>
+        <placeName ref="LOC_47.4789_8.70215">Töss</placeName>
         <placeName ref="LOC_47.2235_8.46197">Knonau</placeName>
         <placeName ref="LOC_47.26943_8.42448">Bickwil</placeName>
         <placeName ref="LOC_47.22523_8.51104">Kappel</placeName>
         <placeName ref="LOC_47.24779_8.46399">Mettmenstetten</placeName>
-        <placeName ref="LOC_47.27632_8.75851">Itzikon</placeName>
-        <placeName ref="LOC_47.28795, 8.76324">Büel</placeName>
+        <placeName ref="LOC_47.28125_8.77341">Itzikon</placeName>
+        <placeName ref="LOC_47.28795_8.76324">Büel</placeName>
         <placeName ref="LOC_47.29449_8.75548">Tägernau</placeName>
         <placeName ref="LOC_47.36911_8.45699">Uitikon</placeName>
         <placeName ref="LOC_47.36212_8.70093">Werrikon</placeName>
@@ -37,5 +37,6 @@
         <placeName ref="LOC_47.25686_8.69893">Männedorf</placeName>
         <placeName ref="LOC_47.20534_8.75842">Freienbach</placeName>
         <placeName ref="LOC_47.57335_8.52607">Eglisau</placeName>
+        <placeName ref="LOC_47.374444_8.541111">Oetenbach</placeName>
     </text>
 </TEI>

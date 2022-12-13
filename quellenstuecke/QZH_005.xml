@@ -85,7 +85,7 @@
                     <pb n="118" facs="StAZH_B_IV_205__S__118_.tif"/>
                     <div>
                         <p>        
-                            <<seg>lb/>Vor einigen tagen ist allhier ankommen ein manspersohn, welche hat einen krumen
+                            <seg><lb/>Vor einigen tagen ist allhier ankommen ein manspersohn, welche hat einen krumen
                             <lb/>fuß, breite diknaß, großen knebelbart; tragt einen weisgrauwen rok, weisen
                             <lb/>hut, leinin strümpf, mit lädernen riemen, sich angebend nammenshalber <persName>Mustafa
                                 <lb/>Caffa</persName>, geburths statt halber von <placeName ref="LOC_36.73225_3.08746">Algiers</placeName>, ein gebohrner türk, mit anhalten, daß
@@ -104,7 +104,7 @@
                             <lb/>Burgermeister und rath
                             <lb/>der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.</seg>
                             <seg><lb/>An herren abt zu <placeName ref="LOC_47.12693_8.75345">Einsidlen</placeName>
-                            <lb/>abgangen.</p></seg>
+                            <lb/>abgangen.</seg></p>
                     </div>
         </body>
                 <back>
