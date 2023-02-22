@@ -1,4 +1,4 @@
-<meta xmlns="http://exist-db.org/xquery/repo" commit-id="@commit-id@" commit-time="@commit-time@">
+<meta xmlns="http://exist-db.org/xquery/repo">
     <description>Dieses Paket enthält die Daten für die Quellen zur Zürcher Geschichte</description>
     <author/>
     <website/>
