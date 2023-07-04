@@ -509,6 +509,11 @@
                 <source>QZH_022</source>
                 <dateOfTheSource>1518</dateOfTheSource>
             </person>
+            <person xml:id="GND_118523929">
+                <persName type="full">David</persName>
+                <source>QZH_032</source>
+                <dateOfTheSource>1700</dateOfTheSource>
+            </person>
             <person xml:id="QZH_020_50">
                 <persName type="full">Debus Metler</persName>
                 <source>QZH_020</source>
@@ -1196,6 +1201,11 @@
                 <source>QZH_022</source>
                 <dateOfTheSource>1518</dateOfTheSource>
             </person>
+            <person xml:id="GND_102534357">
+                <persName type="full">Leemann, Burkhard, Leemans, Burkhard Leemann</persName>
+                <source>QZH_032</source>
+                <dateOfTheSource>1700</dateOfTheSource>
+            </person>
             <person xml:id="QZH_014_2">
                 <persName type="full">Lienhartten Walldreß</persName>
                 <source>QZH_014</source>
@@ -1355,7 +1365,7 @@
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
             <person xml:id="GND_101117728">
-                <persName type="full">Ott, Johann Baptist, Joh. Baptist Ott, Ott</persName>
+                <persName type="full">Ott, Johann Baptist, Ott, Joh. Baptist Ott</persName>
             </person>
             <person xml:id="QZH_019_1">
                 <persName type="full">Paulus</persName>
@@ -1441,6 +1451,11 @@
                 <persName type="full">Rütschis</persName>
                 <source>QZH_020</source>
                 <dateOfTheSource>1668</dateOfTheSource>
+            </person>
+            <person xml:id="GND_118605100">
+                <persName type="full">Salomon</persName>
+                <source>QZH_032</source>
+                <dateOfTheSource>1700</dateOfTheSource>
             </person>
             <person xml:id="GND_118605313">
                 <persName type="full">Samuel</persName>
