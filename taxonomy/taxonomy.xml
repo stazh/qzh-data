@@ -84,7 +84,7 @@
                     </category>
                     <category xml:id="key000816">
                         <desc xml:lang="deu">Familie</desc>
-                        <gloss>	Gruppe aller miteinander (bluts)verwandten Personen</gloss>
+                        <gloss>Gruppe aller miteinander (bluts)verwandten Personen</gloss>
                     </category>
                     <category xml:id="key004380">
                         <desc xml:lang="deu">Fluchen</desc>
@@ -105,6 +105,10 @@
                     <category xml:id="key000334">
                         <desc xml:lang="deu">Gefängnis</desc>
                         <gloss>Ort, in dem Personen physisch festgehalten werden und üblicherweise eine Reihe an persönlichen Freiheiten verlieren</gloss>
+                    </category>
+                    <category xml:id="key003389">
+                        <desc xml:lang="deu">Gefangenschaft</desc>
+                        <gloss>Gefängnisstrafe</gloss>
                     </category>
                     <category xml:id="key004489">
                         <desc xml:lang="deu">Geld</desc>
@@ -246,11 +250,7 @@
                         <desc xml:lang="deu">Totgeburt</desc>
                         <gloss>Geburt eines während der Schwangerschaft oder im Verlauf der Geburt gestorbenen Kindes</gloss>
                     </category>
-                    <category xml:id="key003396">
-                        <desc xml:lang="deu">Trunkenheit</desc>
-                        <gloss>Betrunkenheit infolge Alkoholgenusses</gloss>
-                    </category>
-                    <category xml:id="key003396">
+                    <category xml:id="key000480">
                         <desc xml:lang="deu">Urfehde</desc>
                         <gloss>Verzicht auf Rache</gloss>
                     </category>
