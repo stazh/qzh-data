@@ -14,13 +14,49 @@
         <encodingDesc>
             <classDecl>
                 <taxonomy xml:id="pb-taxonomy">
+                <category xml:id="key003396">
+                        <desc xml:lang="deu">Alkohol</desc>
+                        <gloss>Chemische Verbindung; Genussmittel</gloss>
+                    </category>
                     <category xml:id="key005358">
                         <desc xml:lang="deu">Armenversorgung</desc>
                         <gloss>Versorgung der Armen</gloss>
                     </category>
+                    <category xml:id="key111118">
+                        <desc xml:lang="deu">Arbeitsunfähigkeit</desc>
+                        <gloss>Durch gesundheitliche Gründe verursachter Verlust der Fähigkeit, eine Arbeit auszuüben</gloss>
+                    </category>
                     <category xml:id="key005343">
                         <desc xml:lang="deu">Ausserehelicher Geschlechtsverkehr</desc>
                         <gloss>Ausserehelicher oder unehelicher Beischlaf</gloss>
+                    </category>
+                    <category xml:id="key000598">
+                        <desc xml:lang="deu">Ausweisung</desc>
+                        <gloss>Verweis aus einem Gebiet bzw. in ein Gebiet</gloss>
+                    </category>
+                    <category xml:id="key000581">
+                        <desc xml:lang="deu">Bettel</desc>
+                        <gloss>Hilfsbedürftiger, von Almosen lebender Mensch</gloss>
+                        </category>
+                        <category xml:id="key000482">
+                        <desc xml:lang="deu">Blasphemie</desc>
+                        <gloss>Beleidigung Gottes</gloss>
+                        </category>
+                        <category xml:id="key000505">
+                        <desc xml:lang="deu">Bodenschätze</desc>
+                        <gloss>Rohstoff, der aus dem Boden gewonnen wird</gloss>
+                    </category>
+                    <category xml:id="key004279">
+                        <desc xml:lang="deu">Brandstiftung</desc>
+                        <gloss>Die gänzliche oder teilweise Zerstörung eines Gegenstandes durch Verbrennen</gloss>
+                    </category>
+                    <category xml:id="key000291">
+                        <desc xml:lang="deu">Diebstahl</desc>
+                        <gloss>Straftat</gloss>
+                    </category>
+                    <category xml:id="key111116">
+                        <desc xml:lang="deu">Drohung</desc>
+                        <gloss>Straftat</gloss>
                     </category>
                     <category xml:id="key000863">
                         <desc xml:lang="deu">Ehe</desc>
@@ -46,6 +82,10 @@
                         <desc xml:lang="deu">Ehrverletzung</desc>
                         <gloss>Handlung oder Worte, welche die Ehre verletzen</gloss>
                     </category>
+                    <category xml:id="key000816">
+                        <desc xml:lang="deu">Familie</desc>
+                        <gloss>	Gruppe aller miteinander (bluts)verwandten Personen</gloss>
+                    </category>
                     <category xml:id="key004380">
                         <desc xml:lang="deu">Fluchen</desc>
                         <gloss>Flüche ausstossen</gloss>
@@ -53,6 +93,10 @@
                     <category xml:id="key003369">
                         <desc xml:lang="deu">Folter</desc>
                         <gloss>Zwangsmassnahme, bei der durch Zufügung (vorwiegend) körperlicher Schmerzen ein Geständnis erreicht wird;  peinliche Befragung</gloss>
+                    </category>
+                    <category xml:id="key111113">
+                        <desc xml:lang="deu">Frauengut</desc>
+                        <gloss>Vermögen der Ehefrau, das sie in die Ehe einbringt</gloss>
                     </category>
                     <category xml:id="key000325">
                         <desc xml:lang="deu">Fremder</desc>
@@ -62,6 +106,10 @@
                         <desc xml:lang="deu">Gefängnis</desc>
                         <gloss>Ort, in dem Personen physisch festgehalten werden und üblicherweise eine Reihe an persönlichen Freiheiten verlieren</gloss>
                     </category>
+                    <category xml:id="key004489">
+                        <desc xml:lang="deu">Geld</desc>
+                        <gloss>Geldbetrag</gloss>
+                    </category>
                     <category xml:id="key000149">
                         <desc xml:lang="deu">Gottesdienst</desc>
                         <gloss>Gemeinschaftliche religiöse Feier zur Verehrung Gottes (in der Kirche)</gloss>
@@ -70,6 +118,10 @@
                         <desc xml:lang="deu">Gotteslästerung</desc>
                         <gloss>Beleidigung Gottes</gloss>
                     </category>
+                    <category xml:id="key000849">
+                        <desc xml:lang="deu">Handwerk</desc>
+                        <gloss>Berufsgruppe</gloss>
+                        </category>
                     <category xml:id="key111111">
                         <desc xml:lang="deu">Häusliche Gewalt</desc>
                         <gloss>Physische, psychische oder sexuelle Formen der Gewalt zwischen Angehörigen eines Haushalts</gloss>
@@ -78,13 +130,25 @@
                         <desc xml:lang="deu">Heiligenverehrung</desc>
                         <gloss>Verehrung der Heiligen</gloss>
                     </category>
+                    <category xml:id="key000945">
+                        <desc xml:lang="deu">Hexerei</desc>
+                        <gloss>Bezeichnung von Tätigkeiten, von denen man annahm, dass sie auf einem Pakt mit dem Teufel basierten, um unter Anwendung von Zaubermitteln den Mitmenschen Schaden zuzufügen.</gloss>
+                    </category>
                     <category xml:id="key003397">
                         <desc xml:lang="deu">Homosexualität</desc>
                         <gloss>Eine auf gleichgeschlechtliche Partner gerichtete Sexualität</gloss>
                     </category>
-                    <category xml:id="key000010">
-                        <desc xml:lang="deu">Kloster</desc>
-                        <gloss>Gebäude(komplex), in dem eine Mindestzahl von Ordensgeistlichen bzw. Nonnen, zum Teil neben Laienbrüdern bzw. -schwestern, Novizen u.a., unter Leitung eines Vorstehers (Abt, Prior) bzw. einer Vorsteherin (Äbtissin, Priorin) nach einer Ordensregel leben</gloss>
+                    <category xml:id="key004196">
+                        <desc xml:lang="deu">Kinder/Jugendliche</desc>
+                        <gloss>Noch nicht erwachsener Mensch bzw. ein Erwachsener aus Sicht der Eltern</gloss>
+                    </category>
+                    <category xml:id="key004196">
+                        <desc xml:lang="deu">Kindstötung</desc>
+                        <gloss>Vorsätzliche Tötung eines Kindes</gloss>
+                    </category>
+                    <category xml:id="key000789">
+                        <desc xml:lang="deu">Kirchweihe</desc>
+                        <gloss>Fest an einer Weihe des Kirchengebäudes oder an einer Feier für den Patron der Kirche</gloss>
                     </category>
                     <category xml:id="key000670">
                         <desc xml:lang="deu">Konfession</desc>
@@ -94,13 +158,45 @@
                         <desc xml:lang="deu">Konversion</desc>
                         <gloss>Glaubenswechsel, Religionswechsel</gloss>
                     </category>
+                    <category xml:id="key111112">
+                        <desc xml:lang="deu">Körperliche Behinderung</desc>
+                        <gloss>Physische Beeinträchtigung</gloss>
+                    </category>
+                    <category xml:id="key003394">
+                        <desc xml:lang="deu">Körperverletzung</desc>
+                        <gloss>Verwundung</gloss>
+                    </category>
+                    <category xml:id="key000010">
+                        <desc xml:lang="deu">Kloster</desc>
+                        <gloss>Gebäude(komplex), in dem eine Mindestzahl von Ordensgeistlichen bzw. Nonnen, zum Teil neben Laienbrüdern bzw. -schwestern, Novizen u.a., unter Leitung eines Vorstehers (Abt, Prior) bzw. einer Vorsteherin (Äbtissin, Priorin) nach einer Ordensregel leben</gloss>
+                    </category>
                     <category xml:id="key003496">
                         <desc xml:lang="deu">Krankheit</desc>
                         <gloss>Gegensatz zu Gesundheit</gloss>
                     </category>
+                    <category xml:id="key003261">
+                        <desc xml:lang="deu">Kundschaft</desc>
+                        <gloss>Rechtsauskünfte durch Zeugen</gloss>
+                    </category>
+                    <category xml:id="key000337">
+                        <desc xml:lang="deu">Landgericht</desc>
+                        <gloss>Ursprünglich das für eine Grafschaft zuständige Hochgericht eines Grafen; das Gericht, in dem Landrecht gesprochen wird, dessen Entwicklung entsprechend dem unterschiedlichen Aufbau der territorialen Gerichts- und Verwaltungsorganisation divergiert; als Gegenbegriff zu Stadtgericht das ausserhalb der Stadt zuständige Gericht; im Plural Landesgerichte auch Sammelbezeichnung für die innerhalb eines Landes tätigen Gerichte</gloss>
+                    </category>
                     <category xml:id="key000212">
                         <desc xml:lang="deu">Lohn</desc>
                         <gloss>Entschädigung für einen geleistete Arbeit</gloss>
+                    </category>
+                    <category xml:id="key005411">
+                        <desc xml:lang="deu">Medizinische Versorgung</desc>
+                        <gloss>Gesundheitswesen</gloss>
+                    </category>
+                    <category xml:id="key005473">
+                        <desc xml:lang="deu">Nachgang</desc>
+                        <gloss>Offizialverfahren bei einem Normverstoss, der von Amtes wegen (ex officio) verfolgt wird, gerichtliche Untersuchung</gloss>
+                    </category>
+                    <category xml:id="key000882">
+                        <desc xml:lang="deu">Nahrungsmittel</desc>
+                        <gloss>Lebensmittel</gloss>
                     </category>
                     <category xml:id="key005473">
                         <desc xml:lang="deu">Offizialverfahren</desc>
@@ -118,6 +214,22 @@
                         <desc xml:lang="deu">Prostitution</desc>
                         <gloss>Sexuelle Handlungen gegen Bezahlung</gloss>
                     </category>
+                    <category xml:id="key111117">
+                        <desc xml:lang="deu">Psychische Krankheit</desc>
+                        <gloss>Erkrankung im mentalen Bereich</gloss>
+                    </category>
+                    <category xml:id="key005333">
+                        <desc xml:lang="deu">Schwangerschaft</desc>
+                        <gloss>Zustand des Schwangerseins</gloss>
+                    </category>
+                    <category xml:id="key000058">
+                        <desc xml:lang="deu">Schulden</desc>
+                        <gloss>Geldsumme, die ausgeliehen wird</gloss>
+                    </category>
+                    <category xml:id="key003559">
+                        <desc xml:lang="deu">Spital</desc>
+                        <gloss>Spital, Kranken-, Armen- und Pfrundhaus</gloss>
+                    </category>
                     <category xml:id="key003408">
                         <desc xml:lang="deu">Taufe</desc>
                         <gloss>Sakrament</gloss>
@@ -126,9 +238,21 @@
                         <desc xml:lang="deu">Täufertum</desc>
                         <gloss>Christliche Sekte, welche die Einwilligung des gläubigen Täuflings zur Vorbedingung der Taufe macht, daher die Kindertaufe verwirft und bei den ihr Beitretenden die Taufhandlung wiederholt.</gloss>
                     </category>
+                    <category xml:id="key003022">
+                        <desc xml:lang="deu">Textilien</desc>
+                        <gloss>Textiles Material</gloss>
+                    </category>
+                    <category xml:id="key111115">
+                        <desc xml:lang="deu">Totgeburt</desc>
+                        <gloss>Geburt eines während der Schwangerschaft oder im Verlauf der Geburt gestorbenen Kindes</gloss>
+                    </category>
                     <category xml:id="key003396">
                         <desc xml:lang="deu">Trunkenheit</desc>
                         <gloss>Betrunkenheit infolge Alkoholgenusses</gloss>
+                    </category>
+                    <category xml:id="key003396">
+                        <desc xml:lang="deu">Urfehde</desc>
+                        <gloss>Verzicht auf Rache</gloss>
                     </category>
                     <category xml:id="key000598">
                         <desc xml:lang="deu">Verbannung</desc>
@@ -137,6 +261,10 @@
                     <category xml:id="key000959">
                         <desc xml:lang="deu">Vergewaltigung</desc>
                         <gloss>Sexueller Missbrauch</gloss>
+                    </category>
+                    <category xml:id="key000036">
+                        <desc xml:lang="deu">Vogtei</desc>
+                        <gloss>Verwaltungsbezirk, in dem ein Vogt als Vertreter der weltlichen Landesherrschaft die wichtigtsten hoheitlichen Kompetenzen wie etwa Hoch- und/oder Niedergericht, Militär- und Polizeiwesen, Verwaltung der obrigkeitlichen Besitzungen und Rechte wahrnahm. Die Aufgabenbereiche in den Vogteien variierten je nach der Organisation der Landesverwaltung.</gloss>
                     </category>
                     <category xml:id="key000758">
                         <desc xml:lang="deu">Wirtshaus</desc>
