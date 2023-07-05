@@ -87,7 +87,7 @@
                         <gloss>Gruppe aller miteinander (bluts)verwandten Personen</gloss>
                     </category>
                     <category xml:id="key004380">
-                        <desc xml:lang="deu">Fluchen</desc>
+                        <desc xml:lang="deu">Fluchen/Schwören</desc>
                         <gloss>Flüche ausstossen</gloss>
                     </category>
                     <category xml:id="key003369">
@@ -118,10 +118,6 @@
                         <desc xml:lang="deu">Gottesdienst</desc>
                         <gloss>Gemeinschaftliche religiöse Feier zur Verehrung Gottes (in der Kirche)</gloss>
                     </category>
-                    <category xml:id="key000482">
-                        <desc xml:lang="deu">Gotteslästerung</desc>
-                        <gloss>Beleidigung Gottes</gloss>
-                    </category>
                     <category xml:id="key000849">
                         <desc xml:lang="deu">Handwerk</desc>
                         <gloss>Berufsgruppe</gloss>
@@ -146,7 +142,7 @@
                         <desc xml:lang="deu">Kinder/Jugendliche</desc>
                         <gloss>Noch nicht erwachsener Mensch bzw. ein Erwachsener aus Sicht der Eltern</gloss>
                     </category>
-                    <category xml:id="key004196">
+                    <category xml:id="key111114">
                         <desc xml:lang="deu">Kindstötung</desc>
                         <gloss>Vorsätzliche Tötung eines Kindes</gloss>
                     </category>
@@ -175,7 +171,7 @@
                         <gloss>Gebäude(komplex), in dem eine Mindestzahl von Ordensgeistlichen bzw. Nonnen, zum Teil neben Laienbrüdern bzw. -schwestern, Novizen u.a., unter Leitung eines Vorstehers (Abt, Prior) bzw. einer Vorsteherin (Äbtissin, Priorin) nach einer Ordensregel leben</gloss>
                     </category>
                     <category xml:id="key003496">
-                        <desc xml:lang="deu">Krankheit</desc>
+                        <desc xml:lang="deu">Krankheiten</desc>
                         <gloss>Gegensatz zu Gesundheit</gloss>
                     </category>
                     <category xml:id="key003261">
@@ -201,10 +197,6 @@
                     <category xml:id="key000882">
                         <desc xml:lang="deu">Nahrungsmittel</desc>
                         <gloss>Lebensmittel</gloss>
-                    </category>
-                    <category xml:id="key005473">
-                        <desc xml:lang="deu">Offizialverfahren</desc>
-                        <gloss>Normverstoss, der von Amtes wegen (ex officio) verfolgt wird</gloss>
                     </category>
                     <category xml:id="key000637">
                         <desc xml:lang="deu">Pfarrei</desc>
@@ -253,10 +245,6 @@
                     <category xml:id="key000480">
                         <desc xml:lang="deu">Urfehde</desc>
                         <gloss>Verzicht auf Rache</gloss>
-                    </category>
-                    <category xml:id="key000598">
-                        <desc xml:lang="deu">Verbannung</desc>
-                        <gloss>Verweis aus einem Gebiet bzw. in ein Gebiet</gloss>
                     </category>
                     <category xml:id="key000959">
                         <desc xml:lang="deu">Vergewaltigung</desc>
