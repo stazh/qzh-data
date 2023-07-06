@@ -87,7 +87,7 @@
   <group>
    <text>
     <body corresp="Sigle1">
-     <pb n="1"/>
+     <pb n="1" facs="A_27_18_11__Nr__32__S__1_.tif"/>
      <div>
       <p>
        <lb/><persName>Jacob Grob</persName>, ein meßerschmid von <placeName ref="LOC_47.30149_8.85275">Hinwyl</placeName>, gibt
@@ -119,7 +119,7 @@
        gnad unnd erledigung der gfengknuss. </p></div>
       <div><pb n="2"/></div>
       <div><pb n="3"/></div>
-      <div><pb n="4"/>
+      <div><pb n="4" facs="A_27_18_11__Nr__32__S__4_.tif"/>
        <head><persName>Jacob Groben</persName> von <placeName ref="LOC_47.30149_8.85275">Hinwyl</placeName>
         <lb/><subst><del hand="later hand">antwort</del>
          <lb/><add place="below" hand="hand18c">argwöhnisches verhalten. <date when="1578"
