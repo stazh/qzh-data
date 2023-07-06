@@ -29,6 +29,32 @@
                     <geo>47.32067 7.89986</geo>
                 </location>
             </place>
+            <place xml:id="LOC_47.30934_8.52127" n="Adliswil, Adlischwyl, Adlischwyls, Adlischweil">
+                <placeName type="main">Adlischweil</placeName>
+                <placeName type="main">Adliswil</placeName>
+                <placeName type="main">Adlischwyls</placeName>
+                <placeName type="main">Adlischwyl</placeName>
+                <location>
+                    <geo>47.30934 8.52127</geo>
+                </location>
+            </place>
+            <place xml:id="loc_47.41814_8.5122" n="Affholtern">
+                <placeName type="main">Affholtern</placeName>
+            </place>
+            <place xml:id="LOC_47.41814_8.5122" n="Affoltern, Affholtern">
+                <placeName type="main">Affholtern</placeName>
+                <placeName type="main">Affoltern</placeName>
+                <location>
+                    <geo>47.41814 8.5122</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.26825_8.52651" n="Albis, Albiß">
+                <placeName type="main">Albis</placeName>
+                <placeName type="main">Albiß</placeName>
+                <location>
+                    <geo>47.26825 8.52651</geo>
+                </location>
+            </place>
             <place xml:id="LOC_47.37398_8.49007" n="Albisrieden, Rieden">
                 <placeName type="main">Albisrieden</placeName>
                 <placeName type="main">Rieden</placeName>
@@ -36,7 +62,7 @@
                     <geo>47.37398 8.49007</geo>
                 </location>
             </place>
-            <place xml:id="LOC_36.73225_3.08746" n="Algier, Algiers, Algers">
+            <place xml:id="LOC_36.73225_3.08746" n="Algiers, Algier, Algers">
                 <placeName type="main">Algers</placeName>
                 <placeName type="main">Algier</placeName>
                 <placeName type="main">Algiers</placeName>
@@ -58,6 +84,14 @@
                     <geo>45.75 7.25</geo>
                 </location>
             </place>
+            <place xml:id="LOC_47.19544_8.53701" n="Notikon, Baar, Norticken">
+                <placeName type="main">Baar</placeName>
+                <placeName type="main">Notikon</placeName>
+                <placeName type="main">Norticken</placeName>
+                <location>
+                    <geo>47.19544 8.53701</geo>
+                </location>
+            </place>
             <place xml:id="LOC_47.47333_8.30592" n="Baden">
                 <placeName type="main">Baden</placeName>
                 <location>
@@ -73,14 +107,24 @@
                     <geo>47.55839 7.57327</geo>
                 </location>
             </place>
+            <place xml:id="LOC_47.65412_8.65391" n="Benken, Bencken, Benncken">
+                <placeName type="main">Benncken</placeName>
+                <placeName type="main">Bencken</placeName>
+                <placeName type="main">Benken</placeName>
+                <location>
+                    <geo>47.65412 8.65391</geo>
+                </location>
+            </place>
             <place xml:id="LOC_46.94809_7.44744" n="Bern">
                 <placeName type="main">Bern</placeName>
                 <location>
                     <geo>46.94809 7.44744</geo>
                 </location>
             </place>
-            <place xml:id="LOC_46.87251_7.59563" n="Berner-gebiett">
+            <place xml:id="LOC_46.87251_7.59563" n="Bern (Kanton), Berner-gebiett, Bern piet">
+                <placeName type="main">Bern piet</placeName>
                 <placeName type="main">Berner-gebiett</placeName>
+                <placeName type="main">Bern (Kanton)</placeName>
                 <location>
                     <geo>46.87251 7.59563</geo>
                 </location>
@@ -122,6 +166,12 @@
                     <geo>47.35109 8.34214</geo>
                 </location>
             </place>
+            <place xml:id="LOC_47.35346_8.32984" n="Bremgarten">
+                <placeName type="main">Bremgarten</placeName>
+                <location>
+                    <geo>47.35346 8.32984</geo>
+                </location>
+            </place>
             <place xml:id="LOC_47.28795_8.76324" n="Büel, Buͤel">
                 <placeName type="main">Büel</placeName>
                 <placeName type="main">Buͤel</placeName>
@@ -156,11 +206,25 @@
                     <geo>47.57117 8.65006</geo>
                 </location>
             </place>
+            <place xml:id="LOC_46.6587_9.62296" n="Graubünden, Drei Bünde">
+                <placeName type="main">Drei Bünde</placeName>
+                <placeName type="main">Graubünden</placeName>
+                <location>
+                    <geo>46.6587 9.62296</geo>
+                </location>
+            </place>
             <place xml:id="LOC_47.4789_8.70215" n="Töss, Dös">
                 <placeName type="main">Dös</placeName>
                 <placeName type="main">Töss</placeName>
                 <location>
                     <geo>47.4789 8.70215</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.39052_8.61719" n="Dübendorf, Dübendorff">
+                <placeName type="main">Dübendorff</placeName>
+                <placeName type="main">Dübendorf</placeName>
+                <location>
+                    <geo>47.39052 8.61719</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.29976_8.69032" n="Egg">
@@ -176,6 +240,9 @@
                     <geo>47.57335 8.52607</geo>
                 </location>
             </place>
+            <place xml:id="QZH_030_2" n="Ehrli">
+                <placeName type="main">Ehrli</placeName>
+            </place>
             <place xml:id="LOC_47.12693_8.75345" n="Einsiedeln, Einsidlen, Aux Eremite">
                 <placeName type="main">Einsiedeln</placeName>
                 <placeName type="main">Aux Eremite</placeName>
@@ -186,6 +253,13 @@
             </place>
             <place xml:id="QZH_021_3" n="Endor">
                 <placeName type="main">Endor</placeName>
+            </place>
+            <place xml:id="LOC_46.88658_9.73945" n="Fideris, Fyderis">
+                <placeName type="main">Fideris</placeName>
+                <placeName type="main">Fyderis</placeName>
+                <location>
+                    <geo>46.88658 9.73945</geo>
+                </location>
             </place>
             <place xml:id="LOC_47.57608_8.60633" n="Flaach">
                 <placeName type="main">Flaach</placeName>
@@ -205,6 +279,13 @@
                 <placeName type="main">Fraumünster</placeName>
                 <location>
                     <geo>47.36966 8.54145</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.2820935_8.3312904" n="Freiamt, Frigen Ämptern">
+                <placeName type="main">Freiamt</placeName>
+                <placeName type="main">Frigen Ämptern</placeName>
+                <location>
+                    <geo>47.2820935 8.3312904</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.9959_7.85222" n="Freiburg">
@@ -243,7 +324,8 @@
                     <geo>47.3051 8.75831</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.28333_8.75" n="Gruͤningen, Grüningen, Grüeningen">
+            <place xml:id="LOC_47.28333_8.75" n="Grüningen, Gruͤningen, Grüeningen, Grüneningen">
+                <placeName type="main">Grüneningen</placeName>
                 <placeName type="main">Gruͤningen</placeName>
                 <placeName type="main">Grüeningen</placeName>
                 <placeName type="main">Grüningen</placeName>
@@ -255,6 +337,32 @@
                 <placeName type="main">Guggenbüel</placeName>
                 <location>
                     <geo>47.41896 8.72177</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.46882_8.49032" n="Hasli">
+                <placeName type="main">Hasli</placeName>
+                <location>
+                    <geo>47.46882 8.49032</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.30147_8.45094" n="Hedingen">
+                <placeName type="main">Hedingen</placeName>
+                <location>
+                    <geo>47.30147 8.45094</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.3303_8.34151" n="Hermetschwil, Hermantschwyl">
+                <placeName type="main">Hermantschwyl</placeName>
+                <placeName type="main">Hermetschwil</placeName>
+                <location>
+                    <geo>47.3303 8.34151</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.30149_8.85275" n="Hinwil, Hinwyl">
+                <placeName type="main">Hinwyl</placeName>
+                <placeName type="main">Hinwil</placeName>
+                <location>
+                    <geo>47.30149 8.85275</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.21743_8.60794" n="Hirzel">
@@ -295,6 +403,14 @@
                     <geo>47.369639 8.543194</geo>
                 </location>
             </place>
+            <place xml:id="LOC_47.19127_8.41962" n="Sankt Wolfgang, Hünenberg, Sanct Wolffgang">
+                <placeName type="main">Hünenberg</placeName>
+                <placeName type="main">Sankt Wolfgang</placeName>
+                <placeName type="main">Sanct Wolffgang</placeName>
+                <location>
+                    <geo>47.19127 8.41962</geo>
+                </location>
+            </place>
             <place xml:id="QZH_015_12" n="Kellerampt">
                 <placeName type="main">Kellerampt</placeName>
             </place>
@@ -304,6 +420,10 @@
                 <location>
                     <geo>47.2235 8.46197</geo>
                 </location>
+            </place>
+            <place xml:id="LOC_47.31971, 8.61219" n="Küsnacht, Küßnacht">
+                <placeName type="main">Küßnacht</placeName>
+                <placeName type="main">Küsnacht</placeName>
             </place>
             <place xml:id="LOC_46.516_6.63282" n="Lausanne, Lausanna">
                 <placeName type="main">Lausanne</placeName>
@@ -335,15 +455,33 @@
                     <geo>47.05048 8.30635</geo>
                 </location>
             </place>
-            <place xml:id="LOC_43.29695_5.38107" n="Marsilien, Marseille">
+            <place xml:id="LOC_45.45186_9.14586" n="Mailand">
+                <placeName type="main">Mailand</placeName>
+                <location>
+                    <geo>45.45186 9.14586</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_43.29695_5.38107" n="Marseille, Marsilien">
                 <placeName type="main">Marseille</placeName>
                 <placeName type="main">Marsilien</placeName>
                 <location>
                     <geo>43.29695 5.38107</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.27232_8.64617" n="Meilen">
+            <place xml:id="QZH_030_3" n="Mathen">
+                <placeName type="main">Mathen</placeName>
+            </place>
+            <place xml:id="LOC_46.95949_9.1712" n="Matt">
+                <placeName type="main">Matt</placeName>
+                <location>
+                    <geo>46.95949 9.1712</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.27232_8.64617" n="Meilen, Undermeilen, Meyllen, Meiler-Veld">
                 <placeName type="main">Meilen</placeName>
+                <placeName type="main">Meyllen</placeName>
+                <placeName type="main">Undermeilen</placeName>
+                <placeName type="main">Meiler-Veld</placeName>
                 <location>
                     <geo>47.27232 8.64617</geo>
                 </location>
@@ -356,18 +494,26 @@
                     <geo>47.25686 8.69893</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.24779_8.46399" n="Mettmenstetten, Mettmastetten">
+            <place xml:id="LOC_47.24779_8.46399" n="Mettmenstetten, Mettmastetten, Metmenstetten">
                 <placeName type="main">Mettmastetten</placeName>
+                <placeName type="main">Metmenstetten</placeName>
                 <placeName type="main">Mettmenstetten</placeName>
                 <location>
                     <geo>47.24779 8.46399</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.33996_8.66778" n="Maur, Mhur">
+            <place xml:id="LOC_47.33996_8.66778" n="Maur, Mhur, Mur">
                 <placeName type="main">Mhur</placeName>
                 <placeName type="main">Maur</placeName>
+                <placeName type="main">Mur</placeName>
                 <location>
                     <geo>47.33996 8.66778</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.27128_8.33954" n="Muri">
+                <placeName type="main">Muri</placeName>
+                <location>
+                    <geo>47.27128 8.33954</geo>
                 </location>
             </place>
             <place xml:id="QZH_020_1" n="Neüwen Thurn">
@@ -391,6 +537,13 @@
                 <placeName type="main">Ober Bruggen</placeName>
                 <location>
                     <geo>47.3699 8.5425</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_48.46222_7.48194" n="Obernai, Obernee">
+                <placeName type="main">Obernee</placeName>
+                <placeName type="main">Obernai</placeName>
+                <location>
+                    <geo>48.46222 7.48194</geo>
                 </location>
             </place>
             <place xml:id="QZH_003_29" n="Ochssen">
@@ -440,6 +593,13 @@
                     <geo>47.66562 8.76984</geo>
                 </location>
             </place>
+            <place xml:id="LOC_48_9" n="Schwaben, Schwabenland">
+                <placeName type="main">Schwaben</placeName>
+                <placeName type="main">Schwabenland</placeName>
+                <location>
+                    <geo>48 9</geo>
+                </location>
+            </place>
             <place xml:id="LOC_47.0405_8.74101" n="Schwyz, Schweitz">
                 <placeName type="main">Schweitz</placeName>
                 <placeName type="main">Schwyz</placeName>
@@ -462,6 +622,20 @@
             <place xml:id="QZH_022_6" n="Steffner Hoff">
                 <placeName type="main">Steffner Hoff</placeName>
             </place>
+            <place xml:id="LOC_48.58392_7.74553" n="Strassburg, Solothurn">
+                <placeName type="main">Strassburg</placeName>
+                <placeName type="main">Solothurn</placeName>
+                <location>
+                    <geo>48.58392 7.74553</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_46.55_7.4" n="Simmental, Sybental">
+                <placeName type="main">Sybental</placeName>
+                <placeName type="main">Simmental</placeName>
+                <location>
+                    <geo>46.55 7.4</geo>
+                </location>
+            </place>
             <place xml:id="LOC_48.13175_8.23317" n="Triberg ob dem Schwarzwald">
                 <placeName type="main">Triberg ob dem Schwarzwald</placeName>
                 <location>
@@ -474,6 +648,16 @@
                 <location>
                     <geo>47.29449 8.75548</geo>
                 </location>
+            </place>
+            <place xml:id="LOC_46.92739_8.41028" n="Nidwalden, Underwalden">
+                <placeName type="main">Underwalden</placeName>
+                <placeName type="main">Nidwalden</placeName>
+                <location>
+                    <geo>46.92739 8.41028</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_46_7847_8.64175" n="Uri">
+                <placeName type="main">Uri</placeName>
             </place>
             <place xml:id="LOC_47.34713_8.72091" n="Uster, Ustri">
                 <placeName type="main">Uster</placeName>
@@ -497,10 +681,25 @@
                     <geo>50.35909 3.52506</geo>
                 </location>
             </place>
+            <place xml:id="QZH_031_35" n="Veld">
+                <placeName type="main">Veld</placeName>
+            </place>
+            <place xml:id="LOC_46.18333_9.91667" n="Veltlin">
+                <placeName type="main">Veltlin</placeName>
+                <location>
+                    <geo>46.18333 9.91667</geo>
+                </location>
+            </place>
             <place xml:id="LOC_46.28382_6.16214" n="Versoy">
                 <placeName type="main">Versoy</placeName>
                 <location>
                     <geo>46.28382 6.16214</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.28706_8.92092" n="Wald">
+                <placeName type="main">Wald</placeName>
+                <location>
+                    <geo>47.28706 8.92092</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.36212_8.70093" n="Werrikon, Waͤrikon">
@@ -536,10 +735,23 @@
                     <geo>47.60253 8.79765</geo>
                 </location>
             </place>
+            <place xml:id="LOC_47.39503_8.52529" n="Wipkingen">
+                <placeName type="main">Wipkingen</placeName>
+                <location>
+                    <geo>47.39503 8.52529</geo>
+                </location>
+            </place>
             <place xml:id="LOC_47.17764_8.59215" n="Wyl">
                 <placeName type="main">Wyl</placeName>
                 <location>
                     <geo>47.17764 8.59215</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.22493_8.65207" n="Wädenswil, Wättischweyl">
+                <placeName type="main">Wättischweyl</placeName>
+                <placeName type="main">Wädenswil</placeName>
+                <location>
+                    <geo>47.22493 8.65207</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.28125_8.77341" n="Itzikon, Yzikon">
@@ -578,12 +790,19 @@
                     <geo>47.36667 8.55</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.374444_8.541111" n="Oetenbach, Ötenbach, Öttenbach">
+            <place xml:id="LOC_47.374444_8.541111" n="Oetenbach, Öttenbach, Ötenbach">
                 <placeName type="main">Öttenbach</placeName>
                 <placeName type="main">Oetenbach</placeName>
                 <placeName type="main">Ötenbach</placeName>
                 <location>
                     <geo>47.374444 8.541111</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.2703_8.68171" n="Uetikon am See, Üetikon">
+                <placeName type="main">Üetikon</placeName>
+                <placeName type="main">Uetikon am See</placeName>
+                <location>
+                    <geo>47.2703 8.68171</geo>
                 </location>
             </place>
         </listPlace>
