@@ -4,7 +4,6 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Quellen zur Zürcher Geschichte</title>
     <respStmt>
      <persName>Katja Lindenmann. Mit einem Kommentar von Michael Schaffner</persName>
      <resp key="transcript"/>
@@ -77,6 +76,7 @@
      <term ref="key111112">Körperliche Behinderung</term>
      <term ref="key003394">Körperverletzung</term>
      <term ref="key000480">Urfehde</term>
+     <term ref="key000078">Verhör</term>
     </keywords>
    </textClass>
    <particDesc default="false"/>

@@ -4,7 +4,6 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Quellen zur Zürcher Geschichte</title>
         <respStmt>
           <persName>Katja Lindenmann. Mit einem Kommentar von Michael Schaffner</persName>
           <resp key="transcript"/>
@@ -30,7 +29,7 @@
           <msIdentifier>
             <idno>ZBZ Ms L 459, S. 433-438</idno>
           </msIdentifier>
-          <head>Ordnung der Nachgänger der Stadt Zürich</head>
+          <head>Eid und Ordnung der Nachgänger der Stadt Zürich</head>
           <msContents>
             <summary>Die Anleitung zum Verhalten der Nachgänger bei Verhören beginnt mit einem Teil
               zum Umgang mit den Gefangenen. Darin werden die Nachgänger angewiesen, geduldig zu
@@ -96,6 +95,7 @@
           <term ref="key005473">Nachgang</term>
           <term ref="key003389">Gefangenschaft</term>
           <term ref="key003369">Folter</term>
+          <term ref="key000078">Zeugnis</term>
           <term ref="key000051">Schreiber</term>
         </keywords>
       </textClass>

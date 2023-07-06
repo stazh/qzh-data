@@ -4,7 +4,6 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Quellen zur Zürcher Geschichte</title>
     <respStmt>
      <persName>Katja Lindenmann. Mit einem Kommentar von Michael Schaffner</persName>
      <resp key="transcript"/>
@@ -90,6 +89,7 @@
      <term ref="key005473">Nachgang</term>
      <term ref="key111117">Psychische Krankheit</term>
      <term ref="key003559">Spital</term>
+     <term ref="key000078">Verhör</term>
     </keywords>
    </textClass>
    <particDesc default="false"/>
