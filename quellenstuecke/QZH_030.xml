@@ -583,13 +583,13 @@
 						<p>Wurde eine Kindstötung durch die Mutter als erwiesen angesehen, verhängte das
 							Zürcher Blutgericht in der Regel die Todesstrafe durch Enthauptung. Im
 							vorliegenden Fall lag die richterliche Kompetenz jedoch nicht beim
-							Rat, da das mutmassliche Vergehen in der Landvogtei <ref target="LOC_47.28333_8.75">Grüningen</ref>
+							Rat, da das mutmassliche Vergehen in der Landvogtei <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>
 							stattgefunden hatte, sondern beim dortigen Landtag, welchem der
 							Landvogt vorstand. Der Grund dafür lag darin, dass die Landvogtei
-							<ref target="LOC_47.28333_8.75">Grüningen</ref> auch nach Integration in das Zürcher Herrschaftsgefüge über
+							<placeName ref="LOC_47.28333_8.75">Grüningen</placeName> auch nach Integration in das Zürcher Herrschaftsgefüge über
 							eine eigene Hochgerichtsbarkeit verfügte (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Brühlmeier 2018</ref>, S. 64-67</bibl>; <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Weibel
 							1987</ref>, S. 35</bibl>). Aus diesem Grund setzt Landvogt <persName>Hans Konrad Bleuler</persName> im
-							vorliegenden Fall den Rat auch abschliessend über das in <ref target="LOC_47.28333_8.75">Grüningen</ref>
+							vorliegenden Fall den Rat auch abschliessend über das in <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>
 							getroffene Urteil in Kenntnis.</p> <p>Bereits im 18. Jahrhundert entwickelte
 							sich unter den Vorzeichen der Aufklärung eine Debatte um die den Kindstötungen zugrundeliegenden Ursachen. Autoren wie
 								<persName ref="GND_118592912">Johann Heinrich Pestalozzi</persName> betonten die ökonomisch und sozial prekäre
