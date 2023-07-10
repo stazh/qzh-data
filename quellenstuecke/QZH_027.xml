@@ -110,7 +110,7 @@
       <text>
         <body corresp="Sigle1">
         <div>
-            <pb n="1" />
+            <pb n="1" facs="A_27_11_11__Nr__5__S__1_.tif"/>
             <p>
               <lb/>Es gipt <persName>Petter Hotz</persName> von <placeName ref="LOC_46.88658_9.73945">Fyderis</placeName>, so
               by houptman <persName>Hotzen</persName> dassëlbs 
@@ -141,7 +141,7 @@
               <lb/>welle.</p>
             <p>
               <lb/>Ouch des unzimlichen schwerens, so er gezigen, wüsse er gar <lb/>nüt zuͦ sagen. </p>
-            <pb n="2" />
+            <pb n="2" facs="A_27_11_11__Nr__5__S__2_.tif"/>
             <p>
               <lb/>Item, das er syn eefrouwe geschlagen haben, <lb/>werde weder sy selbs und ander
               lüt können <lb/>sagen.</p>
@@ -168,7 +168,7 @@
               <lb/>Ouch der kranckeyt halb, so er an im, habe er von kindts<lb break="no" />wesen
               uf gehept. Welte ouch, wo er je umbher zogen, <lb/>desshalb gnugsame kündtschafft
               finden.</p>
-            <pb n="3" />
+            <pb n="3" facs="A_27_11_11__Nr__5__S__3_.tif"/>
             <p>
               <lb/>Item des blatenschiessens halb, ouch des talers, so er <lb/>solte gehept haben,
               syge er leme halb nit so krefftig, <lb/>das er könne blaten schiessen.</p>
@@ -184,7 +184,7 @@
               veruckt, ansëchen unnd üwer gnedige <lb/>hand gegen ime ufthuͦn. So welle er
               gwüsslich sich <lb/>frombklich und still halten, das ir gespüren mögind, <lb/>üwer
               gnad an ime etwas ferfangen haben.</p></div>
-          <pb n="4" />
+          <pb n="4" facs="A_27_11_11__Nr__5__S__4_.tif"/>
           <div><head type="subtitle"><persName>Petter Hatzen</persName> von <placeName ref="LOC_46.88658_9.73945">Fyderis</placeName>
               <lb/>anntwort</head></div>
             <div><p>
@@ -203,9 +203,6 @@
               von <placeName ref="LOC_46.88658_9.73945">Fideris</placeName> mißhandlungen. <date when="1562">1562</date>.</ab>
           </div>
         </body>
-        <back>
-          <div><!-- Kommentartext -->          </div>
-        </back>
 
       </text>
     </group>
