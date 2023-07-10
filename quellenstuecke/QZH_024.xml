@@ -46,7 +46,7 @@
                             ermahnt werden.</summary>     
                         <msItem>
                             <textLang>Deutsch</textLang>
-                            <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+                            <filiation type="current">Aufzeichnungen (Doppelblatt)</filiation>
                             <filiation type="original"><origDate when="1560-06-26"/></filiation>
                         </msItem>
                     </msContents>
@@ -147,11 +147,6 @@
                                 >1560</origDate>.</ab>
                     </div>
                 </body>
-                <back>
-                <div>
-                    <p><!-- Kommentartext --></p>
-                </div>
-                </back>
             </text>
             </group>
     </text>

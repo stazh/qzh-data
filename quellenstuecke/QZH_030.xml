@@ -90,6 +90,7 @@
 			<textClass default="false">
 				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
 					<term ref="key005343">Ausserehelicher Geschlechtsverkehr</term>
+					<term ref="key004344">Ehegericht</term>
 					<term ref="key000816">Familie</term>
 					<term ref="key003369">Folter</term>
 					<term ref="key111114">Kindstötung</term>
@@ -238,10 +239,10 @@
 						<p><pb n="5" facs="A_27_50_4__Nr__4_1__S__5_.tif"/></p>
 						<pb n="6" facs="A_27_50_4__Nr__4_1__S__6_.tif"/>
 						<p>
-							<add place="left top" hand="later hand"><lb/>Vogt
+							<add place="left top">Vogt
 									<persName>Blauler</persName> zuͦ <placeName
-									ref="LOC_47.28333_8.75">Grüneningen</placeName>.</add>
-							<add place="right top" hand="later hand"><lb/><date when="1655-02-16"
+									ref="LOC_47.28333_8.75">Grüeningen</placeName>.</add>
+							<add place="right top"><lb/><date when="1655-02-16"
 									>16. <abbr>febr</abbr> 1655</date>.</add>
 							<lb/>Den hochgeachten, wol edlen, gestrëngen, <lb/>frommen, vesten,
 							fürsichtigen, wyßen herren, <lb/>herren burgermeister und raht
@@ -249,11 +250,11 @@
 							<lb/>statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, mynen
 							gnedigen herren.</p>
 						<p>
-							<add place="below" hand="later hand"><lb/>Bericht<del>tet</del> wegen
+							<add place="below">Bericht<del>tet</del> wegen
 									<persName>Anna Oberholzin</persName> großen <lb/>verdachtes
 								halber, in denne sy erstlich <lb/>schwangern lybes unnd dannach
 								verderbten <lb/>kindes halber gerathen, <del>und begehrt</del>
-								<date when="1655">1655</date>, <lb/><del>rath wie sich gegen ihre
+								<date when="1655">1655</date>. <lb/><del>rath wie sich gegen ihre
 									fehrners zuver<lb break="no"/>halten, zumahln auch, daß man zu
 										<placeName ref="LOC_47.28333_8.75">Grüningen</placeName>
 									<lb/>über ihr verbrächn <unclear>richten</unclear>
