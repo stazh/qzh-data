@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://www.ssrq-sds-fds.ch/tei/Textkritik_Version_tei-ssrq.css“?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI" n="1234" xml:lang="de">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -15,8 +18,9 @@
 			</titleStmt>
 			<publicationStmt>
 				<date type="electronic" when="2021-05-01"/>
+				<date type="print" when="2018-12-31"/>
 			</publicationStmt>
-			<seriesStmt>
+			<seriesStmt xml:id="ssrq-sds-fds">
 				<title>Quellen zur Zürcher Geschichte</title>
 				<respStmt>
 					<persName>Staatsarchiv des Kantons Zürich</persName>
@@ -27,8 +31,7 @@
 			<sourceDesc>
 				<msDesc>
 					<msIdentifier>
-						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4980821"
-							>StAZH A 27.93, Nr. 77</idno>
+						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4980821">StAZH A 27.93, Nr. 77</idno>
 					</msIdentifier>
 					<head>Untersuchung gegen Anna Oberholz wegen Verdachts auf Kindstötung</head>
 					<msContents>
@@ -58,7 +61,7 @@
 							<filiation type="current">Aufzeichnungen (5 Doppelblätter; 1
 								Einzelblatt)</filiation>
 							<filiation type="original"><origDate from="1655-02-16" to="1655-03-06"
-								/></filiation>
+							/></filiation>
 						</msItem>
 					</msContents>
 					<physDesc>
@@ -587,8 +590,7 @@
 							1987</ref>, S. 35</bibl>). Aus diesem Grund setzt Landvogt <persName>Hans Konrad Bleuler</persName> im
 							vorliegenden Fall den Rat auch abschliessend über das in <ref target="LOC_47.28333_8.75">Grüningen</ref>
 							getroffene Urteil in Kenntnis.</p> <p>Bereits im 18. Jahrhundert entwickelte
-							sich unter den Vorzeichen der Aufklärung eine Debatte um
-							zugrundeliegende Ursachen für mutmassliche Kindstötungen. Autoren wie
+							sich unter den Vorzeichen der Aufklärung eine Debatte um die den Kindstötungen zugrundeliegenden Ursachen. Autoren wie
 								<persName ref="GND_118592912">Johann Heinrich Pestalozzi</persName> betonten die ökonomisch und sozial prekäre
 							Situation unverheirateter Mütter und forderten die Einrichtung von
 							Findel- und Gebärhäusern als unterstützende Massnahmen. Neuere

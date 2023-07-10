@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://www.ssrq-sds-fds.ch/tei/Textkritik_Version_tei-ssrq.css“?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI" n="1234" xml:lang="de">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -15,8 +18,9 @@
             </titleStmt>
             <publicationStmt>
                 <date type="electronic" when="2021-05-01"/>
+                <date type="print" when="2018-12-31"/>
             </publicationStmt>
-            <seriesStmt>
+            <seriesStmt xml:id="ssrq-sds-fds">
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
                     <persName>Staatsarchiv des Kantons Zürich</persName>
@@ -58,7 +62,7 @@
                             <filiation type="current">Aufzeichnungen (3 Doppelblätter; 3
                                 Einzelblätter)</filiation>
                             <filiation type="original"><origDate from="1655-08-10" to="1655-10-26"
-                                /></filiation>
+                            /></filiation>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -103,14 +107,12 @@
             <settingDesc default="false"/>
         </profileDesc>
     </teiHeader>
-
     <text>
         <group>
             <text>
                 <body corresp="Sigle1">
                     <div>
-                        <pb/>
-                        <pb n="1"/>
+                        <pb n="1" facs="A_27_50_5__Nr__8_1__S__1_.tif"/>
                         <p>
                             <add place="left top"><lb/>Actum <date when="1655-08-07"> zinstags, denn
                                     <lb/>7. augusti 1655</date>.</add>
@@ -164,7 +166,7 @@
                                 place="left margin" type="sign">ungefahr 2 stund</add>
                             <lb/>widerumb erwachet, habe sy es nit mehr an der syten <lb/>ghan,
                             sonderen tod in dem beth funden, erachte wol <lb/>es müße zwüschent den
-                            küßenen erstickt syn. Seige ihro <pb n="2"/>
+                            küßenen erstickt syn. Seige ihro <pb n="2" facs="A_27_50_5__Nr__8_1__S__2_.tif"/>
                             <lb/>gar schwehr fürkommen und hete vil lieber wünschen <lb/>mögen, daß
                             es noch läbendig were. Seige also mit <lb/>ihrem willen gantz nit
                             geschehen, bette demütigist, <lb/>mann woltte doch ihr daß kind laßen
@@ -196,7 +198,7 @@
                         <p>
                             <lb/>Daß man aber uff sy argwohne, daß sy namlich <lb/>vor und noch der
                             geburt daß kind hab wollen verderben, <lb/><del>gehert</del> konne sy
-                            gar nid gestehen, seige zwaren in dem <pb n="3"/>
+                            gar nid gestehen, seige zwaren in dem <pb n="3" facs="A_27_50_5__Nr__8_1__S__3_.tif"/>
                             <lb/>sy schwanger (daß sy aber nit zuͦsyn gewüsst) <add
                                 place="left margin" type="sign">by herrn doctor
                                     <persName>Gyger</persName>
@@ -236,7 +238,7 @@
                             alßo bald in dem sugen <lb/>gestorben. Ein bitterlicher reüwen habe in
                             demselben by <lb/>ihr yngekehrt, habe daß todte kind an ihr syten gelegt
                             <lb/>biß am morgen. Verlange sy jetz gar übel biß sy <lb/>widerumb zuͦ
-                            ihm kome, wie sy verhoffe bald geschehen <pb n="4"/>
+                            ihm kome, wie sy verhoffe bald geschehen <pb n="4" facs="A_27_50_5__Nr__8_1__S__4_.tif"/>
                             <lb/>werde in der ewigen freüwd, waß sies aber sy in ver<lb break="no"
                             />richtung dißer unthat gsyn, wüße sy nit, konne aber er<lb break="no"
                             />achten, sy müße nit recht bettet haben, daß sy gott <lb/>also fallen
@@ -275,7 +277,7 @@
                                 when="1655-08-18">18 Augst 1655</date>. </p>
                     </div>
                     <div>
-                        <pb n="5"/>
+                        <pb n="5" facs="A_27_50_5__Nr__8_2.tif"/>
                         <p>
                             <lb/>Actum <date when="1655-08-10">frytags, den <lb/>10. augusti
                                 1655</date>. </p>
@@ -303,7 +305,7 @@
                             gedacht, wann es joch <lb/>syn müße, wolle sy gern sterben. </p>
                     </div>
                     <div>
-                        <pb n="6"/>
+                        <pb n="6" facs="A_27_50_5__Nr__8_3__S__1_.tif"/>
                         <p>
                             <lb/>Actum <date when="1655-08-10">frytags den <lb/>10. augusti
                                 1655</date>. </p>
@@ -358,7 +360,7 @@
                             bruͦder <lb/>seige die gröste ursach an dißem jamer, in deme er sy sampt
                             <lb/>dem kind weg und in daß <placeName ref="LOC_48_9"
                                 >Schwabenland</placeName> schicken wollen.</p>
-                        <pb n="7"/>
+                        <pb n="7" facs="A_27_50_5__Nr__8_3__S__2_.tif"/>
                         <p>
                             <lb/>Actum <date when="1655-08-15">mitwochs, denn <lb/>15. augusti
                                 1655</date>. </p>
@@ -406,7 +408,7 @@
                                     rend="sup">ten</hi>. <abbr>dto</abbr></date>. </p>
                     </div>
                     <div>
-                        <pb n="8"/>
+                        <pb n="8" facs="A_27_50_5__Nr__8_4__S__1_.tif"/>
                         <p>
                             <lb/>Actum <date when="1655-08-14">zinstags, denn <lb/>14<hi rend="sup"
                                     >n</hi>. augusti 1655</date>. </p>
@@ -452,7 +454,7 @@
                             >Meilen</placeName>, wyl sy daselbst ihr rechtsame vermannet, <lb/>ihr
                             bruͦder aber, ob glych er sy uß synem huß gethan, habe ge<lb break="no"
                             />beten, mann wolte sy, alß ein kranck, blöd mensch, nach ein zyt <pb
-                                n="9"/>
+                                n="9" facs="A_27_50_5__Nr__8_4__S__2_.tif"/>
                             <lb/>lang dulden, daß geschehen. Nachdem er ghört deß kindli hin<lb
                                 break="no"/>scheid und waß die lüth darüber urtheilind, habe er es
                             dem <lb/>vogt angezeigt, der darüber einen stillstand halten lassen.</p>
@@ -496,7 +498,7 @@
                         <p>
                             <lb/>Sy habe immerzuͦ geartzent, wyl sy schwanger gsyn, auch daß <lb/>sy
                             es seige, niemahlen bekennen wöllen, sonder immerzuͦ gsagt, sy <lb/>habe
-                            etwaß getruncken, daß ihr solch unglegenheit mache. Ihres <pb n="10"/>
+                            etwaß getruncken, daß ihr solch unglegenheit mache. Ihres <pb n="10" facs="A_27_50_5__Nr__8_4__S__3_.tif"/>
                             <lb/>bruͦders tochter habe gesehen, daß sy bald nach demme sy ge<lb
                                 break="no"/>neßen, daß kind under daß beth geschlingget, daß voller
                             <lb/>kodt unnd bschißen worden, welchs zügin <persName>Barbara
@@ -540,7 +542,7 @@
                             <lb/>bath im herd ligend, wie tod. Ihm habe sy wyn angfertigt <lb/>und
                             der <persName>Barbel Murer</persName> übergëben, die es widerumb ge<lb
                                 break="no"/>rathsammet. </p>
-                        <pb n="11"/>
+                        <pb n="11" facs="A_27_50_5__Nr__8_4__S__4_.tif"/>
                         <p>
                             <lb/>Actum <date when="1655-08-17">frytags, denn <lb/>17. augusti
                                 1655</date>. </p>
@@ -564,7 +566,7 @@
                                     <abbr>Aug.</abbr> 55</date>. </p>
                     </div>
                     <div>
-                        <pb n="12"/>
+                        <pb n="12" facs="A_27_50_5__Nr__8_5__S__1_.tif"/>
                         <p>
                             <lb/>Wol, edle, fromme, ehren- und nottveste, fürsichtege, <lb/>fürnëme
                             und wol wyse, insonders hocherende, <lb/>groß günstege <abbr>gn.</abbr>
@@ -611,9 +613,9 @@
                         <p>
                             <lb/>Den <abbr>h.</abbr> undertheneger und gehorsammer <lb/>diener,
                                 <lb/><persName>Hanß Brändli</persName>. </p>
-                        <p><pb n="13"/><!-- leere Seite --></p>
-                        <p><pb n="14"/><!-- leere Seite --></p>
-                        <p><pb n="15"/></p>
+                        <p><pb n="13" facs="A_27_50_5__Nr__8_5__S__2_.tif"/><!-- leere Seite --></p>
+                        <p><pb n="14" facs="A_27_50_5__Nr__8_5__S__3_.tif"/><!-- leere Seite --></p>
+                        <p><pb n="15" facs="A_27_50_5__Nr__8_5__S__4_.tif"/></p>
                         <p>
                             <lb/>Dem wol edlen, frommen, <lb/>ehren und notvesten, für<lb break="no"
                             />sichtegen, <lb/>fürnämen und wol <lb/>wysen <abbr>h. h.</abbr> junker
@@ -626,7 +628,7 @@
                                 >Zürich</placeName>. </p>
                     </div>
                     <div>
-                        <pb n="16"/>
+                        <pb n="16" facs="A_27_50_5__Nr__8_6__S__1_.tif"/>
                         <p>
                             <lb/>Hoch-geacht, gestreng, fromm, edel, vest, ehrn- und nothvest für<lb
                                 break="no"/>nemm, fürsichtig, ehrsamm und weyß, innsonders
@@ -688,7 +690,7 @@
                             <lb/>Zu der zeyt, als die <persName>Regel</persName> ihrens kinds
                             genäsen, hab ich sy <lb/><add place="left margin">etlich tag
                                 darnach</add> abermahl besuͦcht, aber bey ihro funden, dz sy vilmehr
-                            tröstlichen <pb n="17"/>
+                            tröstlichen <pb n="17" facs="A_27_50_5__Nr__8_6__S__2_.tif"/>
                             <lb/>zuͦsprächen, als ein ernstlich erinneren ihres begangnen fehlers
                             von <lb/>nöthen hatte. Söliche leidige thaatt hett ich ihren nit
                             vertrauwet. <lb/>Dann, als ich bey 14. tagen ungefahr <add place="above"
@@ -728,7 +730,7 @@
                             der kilchen daselbsten. </p>
                     </div>
                     <div>
-                        <pb n="18"/>
+                        <pb n="18" facs="A_27_50_5__Nr__8_7__S__1_.tif"/>
                         <p>
                             <add place="left top">Actum frytags, den <date when="1655-10-26">26ten
                                     octobris <lb/>a<hi rend="sup">o</hi>. 1655</date>. <choice>
@@ -775,7 +777,7 @@
                             ehrlich orth an tisch ze<lb break="no"/>begëben. </p>
                         <p>
                             <lb/>Verte. </p>
-                        <pb n="19"/>
+                        <pb n="19" facs="A_27_50_5__Nr__8_7__S__2_.tif"/>
                         <p>
                             <lb/>Wëgen vorstendter <persName>Regula Dolderin</persName> ist herr
                                 <lb/><persName>Hamman</persName><!-- msr: Pfarrerbuch --> im
@@ -815,7 +817,7 @@
                             <lb/>thüege, deßwegen an ihre antwort noch nit kommen <lb/>kömind, darby
                             aber <add place="above">sy</add> alles ernsts ermahnet <lb/>worden.
                             Wylen sy alß ein kranck, geschwullenes <lb/>mentsch sich keines anderen
-                            alß deß sterbens in <pb n="20"/>
+                            alß deß sterbens in <pb n="20" facs="A_27_50_5__Nr__8_7__S__3_.tif"/>
                             <lb/>kurtzer zyt ze versechen, daß derowegen sy gott <lb/>und die
                             oberkheit ehren, ihr hertz gentzlich ruhmen <lb/>und kein beschwerdt
                             gewissen weder den boden <lb/>tragen, sonders in grundt der wärheit
@@ -840,7 +842,7 @@
                                 break="no"/>schwerdt wol erhalten, wo sy aber zuͦvor wyters
                             <lb/>solte gemarteret werden, wurde sy zuͦ einem <lb/>gar arbeitsellige
                             mentschen werden, der ihme <lb/>selbsten nit mehr helffen könndte. </p>
-                        <pb n="21"/>
+                        <pb n="21" facs="A_27_50_5__Nr__8_7__S__4_.tif"/>
                         <p>
                             <lb/>Antwort <lb/><add place="inline" hand="later hand">8.</add> Regula
                             Dolderin von <placeName ref="LOC_47.27232_8.64617">Meilen</placeName>

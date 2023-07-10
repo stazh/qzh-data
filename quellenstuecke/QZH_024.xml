@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://www.ssrq-sds-fds.ch/tei/Textkritik_Version_tei-ssrq.css“?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI" n="1234" xml:lang="de">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -15,8 +18,9 @@
             </titleStmt>
             <publicationStmt>
                 <date type="electronic" when="2021-05-01"/>
+                <date type="print" when="2018-12-31"/>
             </publicationStmt>
-            <seriesStmt>
+            <seriesStmt xml:id="ssrq-sds-fds">
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
                     <persName>Staatsarchiv des Kantons Zürich</persName>
@@ -32,17 +36,17 @@
                     <head>Nachgang betreffend eine Auseinandersetzung zwischen Felix Brunner und seinem Vater</head>
                     <msContents>
                         <summary>Über Felix Brunner von Uster wird Kundschaft eingeholt, weil er seinen Vater mit
-                        einem ungezückten Messer verletzt haben soll. Er gibt an, dies aus Versehen getan zu haben,
-                        da der Vater betrunken und ohne Licht im Wohnbereich gewütet habe. Der Unfall sei im Gerangel
-                        mit ihm geschehen. Brunner beschreibt, dass sein Vater mehrmals pro Woche so stark betrunken
-                        nach Hause komme, dass alle im Haus vor ihm flüchten müssten. Er erwähnt weiter den Unmut des
-                        Vaters darüber, dass er, Felix Brunner, halbseitig gelähmt und deswegen arbeitsunfähig sei.
-                        Felix Brunner wird mit mehreren Tagen Haft und den Verfahrenskosten gestraft. Allerdings soll
-                        auch der Vater bezüglich seines Trinkens und wegen des unangemessenen Umgangs mit seinen Kindern
-                        ermahnt werden.</summary>                        
+                            einem ungezückten Messer verletzt haben soll. Er gibt an, dies aus Versehen getan zu haben,
+                            da der Vater betrunken und ohne Licht im Wohnbereich gewütet habe. Der Unfall sei im Gerangel
+                            mit ihm geschehen. Brunner beschreibt, dass sein Vater mehrmals pro Woche so stark betrunken
+                            nach Hause komme, dass alle im Haus vor ihm flüchten müssten. Er erwähnt weiter den Unmut des
+                            Vaters darüber, dass er, Felix Brunner, halbseitig gelähmt und deswegen arbeitsunfähig sei.
+                            Felix Brunner wird mit mehreren Tagen Haft und den Verfahrenskosten gestraft. Allerdings soll
+                            auch der Vater bezüglich seines Trinkens und wegen des unangemessenen Umgangs mit seinen Kindern
+                            ermahnt werden.</summary>     
                         <msItem>
                             <textLang>Deutsch</textLang>
-                            <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+                            <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
                             <filiation type="original"><origDate when="1560-06-26"/></filiation>
                         </msItem>
                     </msContents>

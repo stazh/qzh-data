@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://www.ssrq-sds-fds.ch/tei/Textkritik_Version_tei-ssrq.css“?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI" n="1234" xml:lang="de">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,8 +18,9 @@
       </titleStmt>
       <publicationStmt>
         <date type="electronic" when="2021-05-01"/>
+        <date type="print" when="2018-12-31"/>
       </publicationStmt>
-      <seriesStmt>
+      <seriesStmt xml:id="ssrq-sds-fds">
         <title>Quellen zur Zürcher Geschichte</title>
         <respStmt>
           <persName>Staatsarchiv des Kantons Zürich</persName>
@@ -29,53 +33,49 @@
           <msIdentifier>
             <idno>ZBZ Ms L 459, S. 433-438</idno>
           </msIdentifier>
-          <head>Eid und Ordnung der Nachgänger der Stadt Zürich</head>
+          <head>Ordnung der Nachgänger der Stadt Zürich</head>
+          <summary>Die Anleitung zum Verhalten der Nachgänger bei Verhören beginnt mit einem Teil
+            zum Umgang mit den Gefangenen. Darin werden die Nachgänger angewiesen, geduldig zu
+            sein. Den Gefangenen sollen die eingegangenen Klagen ohne Nennung der Namen dargelegt
+            und sie zur Aussage aufgefordert werden. Diese soll protokolliert werden. Im Rahmen
+            der Befragung sollen die Nachgänger folgende Fragen klären: Wer, was, wie, wo, wann,
+            womit und mit welcher Absicht die Tat begangen wurde. Weiter wird vorgegeben, dass die
+            Folter erst angewendet werden soll, wenn die Gefangenen bereits von Prädikanten
+            besucht wurden und danach noch immer kein Gestädnis vorliegt. Die Folter soll massvoll
+            geschehen und auch nur, wenn genügend Anzeichen der Tat vorhanden seien. Ansonsten soll
+            weder gefoltert noch verurteilt werden. Im zweiten Teil wird aufgelistet, welche
+            Informationen zum Gefangenen aufgenommen werden sollen. Diese sind: Name, Stand,
+            Beruf, Alter und wie die Person inhaftiert wurde sowie die Tatumstände und
+            Informationen zu weiteren an der Tat Beteiligten. Die Aussage des Gefangenen soll erst
+            nach der Folter und nicht währenddessen protokolliert werden. Im dritten Teil wird
+            festgehalten, dass nach zweimaligem Verhör den Gefangenen die erste Aussage erneut zur
+            Bestätigung vorgelesen werden soll. Bleibt die Bestätigung aus, folgt erneut die
+            Anwendung der Folter. Es wird angeführt, dass diese entsprechend gewisser Richtlinien
+            angewandt werden muss. Ausserdem sollen die Nachgänger dem Gefangenen nicht die
+            Umstände der Tat vorsagen, da er von sich aus berichten soll. Der vierte Teil setzt
+            sich mit der Pflicht des Schreibers auseinander, wobei die grosse Verantwortung der
+            Schreiber und Nachgänger betont wird. Dementsprechend kämen junge Schreiber auch nur
+            unter Anleitung von älteren in Frage. Der letzte Teil unterrichtet die Nachgänger im
+            Spenden von christlichem Trost sowie darin, wie die Angeklagten zum Ablegen eines
+            Geständnisses zu ermuntern seien.</summary>
           <msContents>
-            <summary>Die Anleitung zum Verhalten der Nachgänger bei Verhören beginnt mit einem Teil
-              zum Umgang mit den Gefangenen. Darin werden die Nachgänger angewiesen, geduldig zu
-              sein. Den Gefangenen sollen die eingegangenen Klagen ohne Nennung der Namen dargelegt
-              und sie zur Aussage aufgefordert werden. Diese soll protokolliert werden. Im Rahmen
-              der Befragung sollen die Nachgänger folgende Fragen klären: Wer, was, wie, wo, wann,
-              womit und mit welcher Absicht die Tat begangen wurde. Weiter wird vorgegeben, dass die
-              Folter erst angewendet werden soll, wenn die Gefangenen bereits von Prädikanten
-              besucht wurden und danach noch immer kein Gestädnis vorliegt. Die Folter soll massvoll
-              geschehen und auch nur, wenn genügend Anzeigen der Tat vorhanden seien. Ansonsten soll
-              weder gefoltert noch verurteilt werden. Im zweiten Teil wird aufgelistet, welche
-              Informationen zum Gefangenen aufgenommen werden sollen. Diese sind: Name, Stand,
-              Beruf, Alter und wie die Person inhaftiert wurde sowie die Tatumstände und
-              Informationen zu weiteren an der Tat Beteiligten. Die Aussage des Gefangenen soll erst
-              nach der Folter und nicht währenddessen protokolliert werden. Im dritten Teil wird
-              festgehalten, dass nach zweimaligem Verhör den Gefangenen die erste Aussage erneut zur
-              Bestätigung vorgelesen werden soll. Bleibt die Bestätigung aus, folgt erneut die
-              Anwendung der Folter. Es wird angeführt, dass diese entsprechend gewisser Richtlinien
-              angewandt werden muss. Ausserdem sollen die Nachgänger dem Gefangenen nicht die
-              Umstände der Tat vorsagen, da er von sich aus berichten soll. Der vierte Teil setzt
-              sich mit der Pflicht des Schreibers auseinander, wobei die grosse Verantwortung der
-              Schreiber und Nachgänger betont wird. Dementsprechend kämen junge Schreiber auch nur
-              unter Anleitung von älteren in Frage. Der letzte Teil unterrichtet die Nachgänger im
-              Spenden von christlichem Trost sowie darin, wie die Angeklagten zum Ablegen eines
-              Geständnisses zu ermuntern seien.</summary>
             <msItem>
               <textLang>Deutsch</textLang>
               <filiation type="current">Eintrag</filiation>
-              <filiation type="original">
-                <origDate from="1700-01-01" to="1700-12-31">Datierung aufgrund der
-                  Schreiberhand</origDate>
-              </filiation>
+              <origDate from="1700-01-01" to="1700-12-31">Datierung aufgrund der
+                Schreiberhand</origDate>
             </msItem>
           </msContents>
           <physDesc>
             <objectDesc>
               <supportDesc>
-                <support>
-                  <material>Papier</material>
-                </support>
+                <support><material>Papier</material></support>
                 <extent/>
               </supportDesc>
             </objectDesc>
           </physDesc>
           <history>
-            <origin> </origin>
+            <origin/>
           </history>
         </msDesc>
       </sourceDesc>
@@ -109,7 +109,7 @@
       <text>
         <body corresp="Sigle1">
           <div>
-            <pb n="433"/>
+            <pb n="433" facs="Ms_L_459_0001.tif"/>
             <head>Wie sich die herren nachgänger <lb/>zuͦ verhalten.</head>
             <p>
               <add place="margin">Underricht, <lb/>wie man sich <lb/>by den gefang<lb break="no"
@@ -129,7 +129,7 @@
               dan uff nit erfolgend bekant<lb break="no"/>nuss mag man mit der marter, jedoch mit
                 mass<lb break="no"/>en <lb/>fürfahren.</p>
             <p><lb/>Wo nit gnugsame anzeigungen einer miss<lb break="no"/>that verhanden, sol man
-              den gefangnen darumb <lb/>nit befraagen und uff hör sagen ald argwohn <pb n="434"/>
+              den gefangnen darumb <lb/>nit befraagen und uff hör sagen ald argwohn <pb n="434" facs="Ms_L_459_0002.tif"/>
               <lb/>niemand gepeyniget werden. Und ob auch uß <lb/>peyn der marter die mißethat
               bekant wurde, <lb/>sol doch dero nit geglaubt nach jemandth da<lb break="no"/>ruff
               verurtheilt werden.</p>
@@ -150,7 +150,7 @@
               verlaugnen, so muͦß man ihne mit der <lb/>pynlichen fraag wider angryffen.
               Unbegührliche <lb/>zwangmittel, die wahrheit zuͦ erzwingen, sol man <lb/>meiden und
               sich der ungewohnlichen marter nit <lb/>gebruchen, dan was gott verborgen haben wil,
-                <pb n="435"/>
+              <pb n="435" facs="Ms_L_459_0003.tif"/>
               <lb/>sol durch unordenliche marter nit herausgezwung<lb break="no"/>en werden.
               <lb/>Man sol auch keinen gfangnen die umbständ <lb/>der mißethat vorsagen, sonder ihne
               die ganze <lb/>sach selbs anzeigen lassen.</p>
@@ -173,7 +173,7 @@
               keine junge schryber zu gebruchen, <lb/>sy seyind dan von elteren angeführt. Ist kurz,
               wie man <lb/>sich gegen den gefangnen zuͦverhalten.</p>
           </div>
-          <pb n="436"/>
+          <pb n="436" facs="Ms_L_459_0004.tif"/>
           <div>
             <head type="subtitle">Wie man den gefangnen <lb/>zuͦsprechen und trösten sol.</head>
             <p>
@@ -203,7 +203,7 @@
               </choice>
               <persName ref="GND_118523929">David</persName> sprechen: <quote>Da ich myne sünden
                   ver<lb break="no"/>schwygen wolte, verschmacktetend mirs myne ge<pb break="no"
-                  n="437"/>beini.</quote><note>Es handelt sich um ein Zitat aus Psalm 32, 3.</note>
+                    n="437" facs="Ms_L_459_0005.tif"/>beini.</quote><note>Es handelt sich um ein Zitat aus Psalm 32, 3.</note>
               Auff die <add place="above">mundtliche</add> bekandtnuss folget dan reüw <lb/>und leid
               über die begangnen sünden.</p>
             <p><lb/>Wo nun die erkandtnuß im herzen, die be<lb break="no"/>kandtnuss mit dem mundt
@@ -225,7 +225,7 @@
                 ref="GND_118557513">Christi</persName>, die sich vor syner ufferständtnuss der<lb
                 break="no"/>selben mit keinem wort gegen ihnen gedacht. <lb/>Wan wir unßer ellend
               zytlich leben betrachtend, <lb/>so findend wir, dz der mentsch underworffen ist <pb
-                n="438"/>
+                n="438" facs="Ms_L_459_0006.tif"/>
               <lb/>allerley trübsalen, großen jahmer, crütz und lyden. <lb/>Unßere erste stimme, wan
               wir gebohren werdend, ist <lb/>weinen.</p>
             <p><lb/>Dass beste leben müßend wir zuͦbringen mit arbeiten <lb/>und stryten und
@@ -254,7 +254,7 @@
             17. Jahrhundert ergibt sich neben der Schreiberhand aus der Erwähnung des Antistes
               <persName ref="GND_102534357">Burkhard Leemann</persName> (1531-1613), auf den die Ausführungen theologischen Inhalts in der
             zweiten Hälfte des Textes zurückgehen.</p> <p>Zur Durchführung von Befragungen entsandte der
-            Rat für gewöhnlich zwei Herren aus seinen eigenen Reihen zu den Gefangenen. Diese
+            Rat für gewöhnlich zwei Vertreter aus seinen eigenen Reihen zu den Gefangenen. Diese
             Abgeordneten wurden als Nachgänger bezeichnet. Alternativ oder zusätzlich zu diesem
             Vorgehen wurden örtliche Vögte und weitere Amtleute sowie gegebenenfalls Angehörige der
             Dorfgemeinschaft um ihre Stellungnahmen ersucht.</p> <p>Über die vorliegende allgemeine
@@ -266,10 +266,10 @@
             Rede zusammengefasst. Über die genauen Fragen der Nachgänger lassen sich deshalb oftmals
             nur Vermutungen anstellen. Zudem wurden die Personalien der Verhörten in diesem Zeitraum
             nicht systematisch erfasst. Eine inquisitorische Standardisierung der Gerichtsprotokolle
-            nach dem Prinzip <q>gebrochenen Blatts</q> erfolgte in Zürich erst im 18. Jahrhundert (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Loetz
+            nach dem Prinzip <q>gebrochenen Blatts</q>, auf dem links die Fragen und rechts die Antworten notiert sind, erfolgte in Zürich erst im 18. Jahrhundert (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Loetz
             2002</ref>, S. 100-101</bibl>). Die Akten der Kundschaften und Nachgänge sind in der Regel
-            Reinschriften und dürften damit einen Prozess der Redaktion durchlaufen haben. Sie
-            können damit nicht ohne Weiteres mit den Aussagen der Befragten gleichgesetzt werden. In
+                Reinschriften und dürften damit einen Prozess der Redaktion durchlaufen haben (vgl. dazu die Untersuchung gegen <persName>Regula Dolder</persName>: <bibl><ref target="https://qzh.sources-online.org/quellenstuecke/QZH_031">QZH 31</ref></bibl>). Sie
+            können auch deshalb nicht ohne Weiteres mit den Aussagen der Befragten gleichgesetzt werden. In
             der vorliegenden Anleitung wird jedoch durchaus die hohe Bedeutung der inhaltlich
             getreuen Wiedergabe der Aussagen und damit verbunden die grosse Verantwortung der
             Schreiber betont.</p>
