@@ -324,8 +324,7 @@
                     <geo>47.3051 8.75831</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.28333_8.75" n="Grüningen, Gruͤningen, Grüeningen, Grüneningen">
-                <placeName type="main">Grüneningen</placeName>
+            <place xml:id="LOC_47.28333_8.75" n="Grüningen, Gruͤningen, Grüeningen">
                 <placeName type="main">Gruͤningen</placeName>
                 <placeName type="main">Grüeningen</placeName>
                 <placeName type="main">Grüningen</placeName>
@@ -421,9 +420,14 @@
                     <geo>47.2235 8.46197</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.31971, 8.61219" n="Küsnacht, Küßnacht">
-                <placeName type="main">Küßnacht</placeName>
+            <place xml:id="LOC_47.31971, 8.61219" n="Küsnacht">
                 <placeName type="main">Küsnacht</placeName>
+            </place>
+            <place xml:id="LOC_47.31971_8.61219" n="Küßnacht">
+                <placeName type="main">Küßnacht</placeName>
+                <location>
+                    <geo>47.31971 8.61219</geo>
+                </location>
             </place>
             <place xml:id="LOC_46.516_6.63282" n="Lausanne, Lausanna">
                 <placeName type="main">Lausanne</placeName>
@@ -656,8 +660,11 @@
                     <geo>46.92739 8.41028</geo>
                 </location>
             </place>
-            <place xml:id="LOC_46_7847_8.64175" n="Uri">
+            <place xml:id="LOC_46.7847_8.64175" n="Uri">
                 <placeName type="main">Uri</placeName>
+                <location>
+                    <geo>46.7847 8.64175</geo>
+                </location>
             </place>
             <place xml:id="LOC_47.34713_8.72091" n="Uster, Ustri">
                 <placeName type="main">Uster</placeName>
