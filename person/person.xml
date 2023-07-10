@@ -1635,13 +1635,8 @@
                 <source>QZH_030</source>
                 <dateOfTheSource>1655</dateOfTheSource>
             </person>
-            <person xml:id="QZH_019_3">
-                <persName type="full">Jesum Christum</persName>
-                <source>QZH_019</source>
-                <dateOfTheSource>1623</dateOfTheSource>
-            </person>
             <person xml:id="GND_118557513">
-                <persName type="full">Jesus Christus, Jesu Christi, Jesus, Christi, Jesu</persName>
+                <persName type="full">Jesus Christus, Jesu Christi, Jesus, Christi, Jesum Christum, Jesu</persName>
             </person>
             <person xml:id="QZH_016_6">
                 <persName type="full">Joachim Kauffman</persName>
@@ -2099,6 +2094,11 @@
                 <persName type="full">Regula Dolder</persName>
                 <source>QZH_031</source>
                 <dateOfTheSource>1655</dateOfTheSource>
+            </person>
+            <person xml:id="QZH_032_8">
+                <persName type="full">Regula Dolder</persName>
+                <source>QZH_032</source>
+                <dateOfTheSource>1700</dateOfTheSource>
             </person>
             <person xml:id="QZH_031_27">
                 <persName type="full">Regula Dolderin</persName>
