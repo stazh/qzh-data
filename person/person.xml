@@ -749,6 +749,11 @@
                 <source>QZH_031</source>
                 <dateOfTheSource>1655</dateOfTheSource>
             </person>
+            <person xml:id="QZH_026_13">
+                <persName type="full">Elsbetha Mund</persName>
+                <source>QZH_026</source>
+                <dateOfTheSource>1561</dateOfTheSource>
+            </person>
             <person xml:id="QZH_026_10">
                 <persName type="full">Elsbetha Mundin</persName>
                 <source>QZH_026</source>
@@ -1408,7 +1413,7 @@
                 <dateOfTheSource>1655</dateOfTheSource>
             </person>
             <person xml:id="GND_117013463">
-                <persName type="full">Hottinger, Johann Jakob, Hottingern, Ottinguer</persName>
+                <persName type="full">Hottinger, Johann Jakob, Ottinguer, Hottingern</persName>
             </person>
             <person xml:id="QZH_027_3">
                 <persName type="full">Hotz</persName>
@@ -1636,7 +1641,7 @@
                 <dateOfTheSource>1655</dateOfTheSource>
             </person>
             <person xml:id="GND_118557513">
-                <persName type="full">Jesus Christus, Jesu Christi, Jesus, Christi, Jesum Christum, Jesu</persName>
+                <persName type="full">Jesus Christus, Christi, Jesu, Jesu Christi, Jesum Christum, Jesus</persName>
             </person>
             <person xml:id="QZH_016_6">
                 <persName type="full">Joachim Kauffman</persName>
@@ -1948,7 +1953,7 @@
                 <dateOfTheSource>1561</dateOfTheSource>
             </person>
             <person xml:id="GND_101117728">
-                <persName type="full">Ott, Johann Baptist, Ott, Joh. Baptist Ott</persName>
+                <persName type="full">Ott, Johann Baptist, Joh. Baptist Ott, Ott</persName>
             </person>
             <person xml:id="QZH_019_1">
                 <persName type="full">Paulus</persName>
@@ -2206,7 +2211,7 @@
                 <dateOfTheSource>1697</dateOfTheSource>
             </person>
             <person xml:id="GND_1089527993">
-                <persName type="full">Scheuchzer, Hans Heinrich, Scheüchtzer, Scheüchtzern, Schutzer</persName>
+                <persName type="full">Scheuchzer, Hans Heinrich, Schutzer, Scheüchtzer, Scheüchtzern</persName>
             </person>
             <person xml:id="GND_1089378815">
                 <persName type="full">Schinz, Johannes, Schintz</persName>
@@ -2372,11 +2377,6 @@
                 <persName type="full">Verena Dolderin</persName>
                 <source>QZH_031</source>
                 <dateOfTheSource>1655</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_026_13">
-                <persName type="full">Verena Mundin</persName>
-                <source>QZH_026</source>
-                <dateOfTheSource>1561</dateOfTheSource>
             </person>
             <person xml:id="QZH_001_18">
                 <persName type="full">Waser</persName>
