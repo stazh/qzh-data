@@ -2100,6 +2100,16 @@
                 <source>QZH_031</source>
                 <dateOfTheSource>1655</dateOfTheSource>
             </person>
+            <person xml:id="QZH_031_89">
+                <persName type="full">Regula Dolder</persName>
+                <source>QZH_031</source>
+                <dateOfTheSource>1655</dateOfTheSource>
+            </person>
+            <person xml:id="QZH_031_91">
+                <persName type="full">Regula Dolder</persName>
+                <source>QZH_031</source>
+                <dateOfTheSource>1655</dateOfTheSource>
+            </person>
             <person xml:id="QZH_032_8">
                 <persName type="full">Regula Dolder</persName>
                 <source>QZH_032</source>
@@ -2362,16 +2372,6 @@
                 <persName type="full">Verena Aescherin</persName>
                 <source>QZH_012</source>
                 <dateOfTheSource>1561-1608</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_031_89">
-                <persName type="full">Verena Dolder</persName>
-                <source>QZH_031</source>
-                <dateOfTheSource>1655</dateOfTheSource>
-            </person>
-            <person xml:id="QZH_031_91">
-                <persName type="full">Verena Dolder</persName>
-                <source>QZH_031</source>
-                <dateOfTheSource>1655</dateOfTheSource>
             </person>
             <person xml:id="QZH_031_73">
                 <persName type="full">Verena Dolderin</persName>
