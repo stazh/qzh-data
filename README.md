@@ -107,34 +107,7 @@ Wird kein eindeutiger Identifier angegeben, wird bei einem Klick auf den Persone
 
 Auf diese Weise hat die Benutzerin oder der Benutzer die Möglichkeit, andere Vorkommen des gleichen Namens zu finden.
 
-
-#### Variante 2: Mit eindeutigem Identifier
-
-Alternativ können Personen mit einem eindeutigen Identifier gekennzeichnet werden. Auf diese Weise kann bei Personen, welche mehrfach in einem Quellenstück oder in mehreren Quellenstücken auftauchen, gekennzeichnet werden, dass es sich jeweils um die gleiche Person handelt.
-
-```xml
-<persName ref="per012634">Heinrich Bullinger</persName>
-```
-
-Es kann sein, dass die gleiche Person in verschiedenen Quellenstücken mit unterschiedlichen Schreibweisen erfasst wurde. In diesem Fall werden in der Webapplikation alle verwendeten Namen für die gleiche Person mit Komma getrennt dargestellt. Zudem wird ein Personensymbol angezeigt:
-
-![][image-7]
-
-Dank dem eindeutigen Identifier wird in der Detailansicht für die Person zudem eine Liste mit „Erwähnungen“ in verschiedenen Quellenstücken angezeigt: 
-
-![][image-8]
-
-
-Wird innerhalb eines Quellenstücks auf den Namen einer Person geklickt, so öffnet sich die Detailansicht für diese Person. Im Gegensatz zur Variante 1 gelangt man nicht zur Personensuche, da Personen mit einem eindeutigen Identifier automatisch gruppiert werden und es somit für die entsprechende Person ohnehin nur einen einzigen Eintrag in der Personensuche gäbe.
-
-Personen mit Identifier erscheinen zudem in der Registeransicht eines einzelnen Quellenstücks:
-
-![][image-9]
-
-
-
-
-#### Variante 3: Mit einem GND-Identifier
+#### Variante 2: Mit einem GND-Identifier
 
 Bekannte Personen können auch mit einem GND Identifier getaggt werden. Es handelt sich dabei um einen bestimmten Identifier, der auch von der Deutschen Nationalbibliothek verwendet wird. 
 
