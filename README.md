@@ -163,30 +163,6 @@ Wird kein eindeutiger Identifier angegeben, wird bei einem Klick auf den Ortsnam
 Auf diese Weise hat die Benutzerin oder der Benutzer die Möglichkeit, andere Vorkommen des gleichen Namens zu finden.
 
 
-
-#### Variante 2: Mit eindeutigem Identifier
-
-Alternativ können Orte mit einem eindeutigen Identifier gekennzeichnet werden. Auf diese Weise kann bei Orten, welche mehrfach in einem Quellenstück oder in mehreren Quellenstücken auftauchen, gekennzeichnet werden, dass es sich jeweils um den gleichen Ort handelt.
-
-```xml
-<placeName ref="loc000065">Zürich</placeName>
-```
-
-Es kann sein, dass der gleiche Ort in verschiedenen Quellenstücken mit unterschiedlichen Schreibweisen erfasst wurde. In diesem Fall werden in der Webapplikation alle verwendeten Namen für den gleichen Ort mit Komma getrennt dargestellt:
-
-![][image-14]
-
-Dank dem eindeutigen Identifier wird in der Detailansicht für den Ort zudem eine Liste mit „Erwähnungen“ in verschiedenen Quellenstücken angezeigt:
-
-![][image-15]
-
-Wird innerhalb eines Quellenstücks auf den Namen eines Ortes geklickt, so öffnet sich die Detailansicht für diesen Ort. Im Gegensatz zur Variante 1 gelangt man nicht zur Ortssuche, da Orte mit einem eindeutigen Identifier automatisch gruppiert werden und es somit für die entsprechenden Orte ohnehin nur einen einzigen Eintrag in der Ortssuche gäbe.
-
-Orte mit Identifier erscheinen in der Registeransicht eines einzelnen Quellenstücks:
-
-![][image-16]
-
-
 #### Variante 3: Mit einem Koordinaten-Identifier
 
 Orte können auch mit einem Koordinaten-Identifier getaggt werden. Dabei werden die beiden Koordinaten-Komponenten „Latitude“ und „Longitude“ im folgenden Format encodiert:
