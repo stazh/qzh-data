@@ -163,7 +163,7 @@ Wird kein eindeutiger Identifier angegeben, wird bei einem Klick auf den Ortsnam
 Auf diese Weise hat die Benutzerin oder der Benutzer die Möglichkeit, andere Vorkommen des gleichen Namens zu finden.
 
 
-#### Variante 3: Mit einem Koordinaten-Identifier
+#### Variante 2: Mit einem Koordinaten-Identifier
 
 Orte können auch mit einem Koordinaten-Identifier getaggt werden. Dabei werden die beiden Koordinaten-Komponenten „Latitude“ und „Longitude“ im folgenden Format encodiert:
 
