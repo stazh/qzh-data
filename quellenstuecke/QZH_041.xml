@@ -126,7 +126,16 @@
                     </div>
                 </body>
                 <back>
-                    <div>
+                    <div><p>Das vorliegende Schreiben ist den Missivenbüchern entnommen. Dabei handelt es sich um eine umfangreiche Serie mit Abschriften der ausgehenden 
+                        Korrespondenz des Zürcher Rates vom 15. Jahrhundert bis zum Ende des Ancien Régime. Die Missivenbücher dokumentieren 
+                        dabei sowohl den diplomatischen Kontakt mit auswärtigen Mächten 
+                        als auch die Kommunikation innerhalb der Zürcher Herrschaft, so zum Beispiel Anweisungen an Vögte und Weibel auf der Landschaft. 
+                        Zu beachten ist ferner, dass <placeName ref="LOC_47.36667_8.55">Zürich</placeName> in seiner 
+                        Eigenschaft als eidgenössischer (und reformierter) Vorort auch offizielle Schreiben im Namen der gesamten Eidgenossenschaft versandte, 
+                        die über die Zürcher Geschichte hinaus von Bedeutung sind. Da oftmals im Rahmen einer Sitzung des Kleinen Rats die Abfassung einer
+                        Missive beschlossen wurde, besteht eine enge inhaltliche Verbindung zwischen dieser Serie und den Ratsmanualen
+                        (<bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=243964">StAZH B II 6 – B II 1060</ref></bibl>). 
+                    </p>
                         <p>Die zwei festgenommenen Männer, <persName ref="GND_1033021792">Kaspar Billeter</persName> und
                                 <persName>Heinrich Wädensweiler</persName> waren am 5.
                             Juli 1795 – dem Tag der Besetzung <placeName ref="LOC_47.24254_8.72342"
@@ -158,16 +167,6 @@
                             Gemeindeversammlungen und Sitzungen, die sich mit spätmittelalterlichen
                             Urkunden und den darin verbrieften Rechten der Landschaft befassten, im
                             Mai 1795 zum Wortführer.</p>
-                        <p>Das vorliegende Schreiben ist den Missivenbüchern entnommen. Dabei handelt es sich um eine umfangreiche Serie mit Abschriften der ausgehenden 
-                            Korrespondenz des Zürcher Rates vom 15. Jahrhundert bis zum Ende des Ancien Régime. Die Missivenbücher dokumentieren 
-                            dabei sowohl den diplomatischen Kontakt mit auswärtigen Mächten 
-                            als auch die Kommunikation innerhalb der Zürcher Herrschaft, so zum Beispiel Anweisungen an Vögte und Weibel auf der Landschaft. 
-                            Zu beachten ist ferner, dass <placeName ref="LOC_47.36667_8.55">Zürich</placeName> in seiner 
-                            Eigenschaft als eidgenössischer (und reformierter) Vorort auch offizielle Schreiben im Namen der gesamten Eidgenossenschaft versandte, 
-                            die über die Zürcher Geschichte hinaus von Bedeutung sind. Da oftmals im Rahmen einer Sitzung des Kleinen Rats die Abfassung einer
-                            Missive beschlossen wurde, besteht eine enge inhaltliche Verbindung zwischen dieser Serie und den Ratsmanualen
-                            (<bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=243964">StAZH B II 6 – B II 1060</ref></bibl>). 
-                        </p>
                         <p>Zu <persName ref="GND_1033021792">Kaspar Billeter</persName> und <persName>Heinrich Wädensweiler</persName> vgl. <bibl><ref
                                     target="https://www.digibern.ch/katalog/historisch-biographisches-lexikon-der-schweiz"
                             >HBLS</ref></bibl> und <bibl>Mörgeli 1995, S. 153-172</bibl>; zu ihrer Flucht nach <placeName ref="loc_46.6587_9.62296">Graubünden</placeName> und den Umgang der dortigen Obrigkeit mit ihnen
