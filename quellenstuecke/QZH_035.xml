@@ -31,7 +31,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4981073"
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=393333"
                             >StAZH C I, Nr. 1850</idno>
                     </msIdentifier>
                     <head>Verpfändung von Schloss und Herschaft Kyburg an die Stadt Zürich</head>
@@ -241,8 +241,8 @@
                             Stadtbücher</ref></bibl>, Bd. 2, S. 99-100, Nr. 127 und 128). Trotzdem dauerte es
                             danach noch rund sechs Jahre, bis die Zürcher das Pfand mit der
                             vorliegenden Urkunde gegen die Bezahlung von 8750 Gulden in Empfang
-                            nehmen konnten.</p>
-                        <p>Nachdem mit <persName ref="GND_1325001708">Friedrich III.</persName> ab 1438 wieder ein Habsburger auf dem Thron
+                            nehmen konnten (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Schuler 1985</ref></bibl>).</p>
+                        <p>Nachdem mit <persName ref="GND_118501615">Albrecht II.</persName> ab 1438 wieder ein Habsburger auf dem Thron
                             sass, musste die Stadt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>
                             die Grafschaft <placeName ref="47.45249_8.7485">Kyburg</placeName> 1442 wieder an die
                             Herzöge von <placeName ref="LOC_47.33333_13.33333">Österreich</placeName> abtreten. Aber bereits 1452 ging die Grafschaft

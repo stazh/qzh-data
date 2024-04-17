@@ -20,7 +20,7 @@
                 <date type="electronic" when="2024-04-18"/>
                 <date type="print" when="2024-04-18"/>
             </publicationStmt>
-            <seriesStmt xml:id="ssrq-sds-fds">
+            <seriesStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
                     <persName>Staatsarchiv des Kantons Zürich</persName>
@@ -31,7 +31,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4981073"
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=346298"
                             >StAZH C IV 1.5.3 a, Nr. 3</idno>
                     </msIdentifier>
                     <head>Erteilung des Marktrechts an die Stadt Kyburg</head>
