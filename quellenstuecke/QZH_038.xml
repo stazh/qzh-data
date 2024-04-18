@@ -99,7 +99,7 @@
         <group>
             <text>
                 <body corresp="Sigle1">
-                    <pb n="1"/> 
+                    <pb n="1" facs="A_16__Nr__25_3__S__1_.tif"/> 
                     <p><lb/>Gnädiger herr burgermeister,
                     <lb/>hochgechte, wohledelgebohrne, gestrenge, fromme, veste, für<lb break="no"/>sichtige
                     und weise <abbr>etc.</abbr>, <abbr>etc</abbr>., 
@@ -142,7 +142,10 @@
                     herr <persName>Weyßers</persName> <add place="left margin">um vergebung der
                     sünden</add> so gebättet, das wir aus dem thon und dem
                     <lb/>nachtruk, mit welchem sie es hersagte, deütlich erkandten, daß
-                    <lb/>sie alles, was sie sagte, recht lebhafft empfande und sich zu<pb break="no" n="2"/>eignete.</seg></p>
+                    <lb/>sie alles, was sie sagte, recht lebhafft empfande und sich zu
+                        <pb n="2">
+                        <pb n="3" facs="A_16__Nr__25_3__S__3_.tif"/>
+                        eignete.</seg></p>
                     <p><seg>Bim weggehen dankte sie uns recht beweglich vor
                     <lb/>die mühe, die wir uns ihret halben gäben und bate uns mit
                     <lb/>dem besten anstand, der ihre gelaßenheit und unterwerffung
@@ -158,8 +161,7 @@
                     <lb/>und in dero namen,
                     <lb/><persName ref="GND_1089336586">Hs Jakob Escher, Leütpriester</persName>,
                     den <origDate when="1770-03-24">24. merzen anno 1770</origDate>.</p>
-                    <pb n="3"/>
-                <pb n="4"/>
+                <pb n="4" facs="A_16__Nr__25_3__S__4_.tif"/>
                 <p><lb/>Bericht
                     <lb/>der kirchendiener zum <placeName ref="LOC_47.3702_8.544">Großen
                     <lb/>Münster</placeName> wegen der <persName>Anna
