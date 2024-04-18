@@ -81,10 +81,8 @@
 		<profileDesc>
 			<textClass default="false">
 				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-					<term ref="key000598">Ausweisung</term>
-					<term ref="key000700">Beaufsichtigung</term>
+					<term ref="key000598">Ausweisung</term>>
 					<term ref="key000590">Delinquenz</term>
-					<term ref="key000958">Flucht</term>
 					<term ref="key004966">Gemeinde</term>
 					<term ref="key000334">Gefängnis</term>
 					<term ref="key003389">Inhaftierung</term>
@@ -92,9 +90,6 @@
 					<term ref="key001001">Ungehorsam</term>
 					<term ref="key000668">Unruhen</term>
 					<term ref="key003025">Urkunde</term>
-					<term ref="key004485">Verfügung</term>
-					<term ref="key005452">Verrat</term>
-					<term ref="key001048">Verschwörung</term>
 				</keywords>
 			</textClass>
 		</profileDesc>
@@ -214,7 +209,7 @@
 							bestreben wird, ihre ver<lb break="no"/>richtungen möglicht zu
 							beförderen.</seg> <seg>Geben den <origDate when="1795-07-03">3ten julii
 								1795</origDate>.</seg></p>
-									<p><lb/><choice><abbr>L: d:</abbr><expan>Locus sigilli</expan></choice>,
+									<p><lb/><choice><abbr>L: s:</abbr><expan>Locus sigilli</expan></choice>,
 							<lb/>canzley der stadt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.</p>
 					</div>
 				</body>
@@ -289,9 +284,9 @@
 							der Landschaft gegen die Stadt beendet.</p>
 						<p>Zu den einzelnen der beteiligten Personen vgl. <bibl><ref
 									target="https://www.digibern.ch/katalog/historisch-biographisches-lexikon-der-schweiz"
-									>HBLS</ref></bibl> und <bibl>Mörgeli 1995, S. 153-172</bibl>;
-							zum Stäfnerhandel generell vgl. <bibl>Böning 1998 </bibl>und
-								<bibl>Mörgeli 1995</bibl>.</p>
+									>HBLS</ref></bibl> und <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Mörgeli 1995</ref>, S. 153-172</bibl>;
+							zum Stäfnerhandel generell vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Graber 2003</ref></bibl>; <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Böning 1998</ref></bibl> und
+								<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Mörgeli 1995</ref></bibl>.</p>
 					</div>
 				</back>
 			</text>
