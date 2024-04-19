@@ -102,8 +102,7 @@
                                     <placeName>Krain</placeName>, graf ze <placeName
                                     ref="LOC_47.25_11.33333">Tyrol</placeName>
                                 <abbr>etc</abbr>, <lb/>tuͦn kunt, das wir ze hilfe und ze pesserung
-                                unsrer stat ze <placeName ref="LOC_47.45249_8.7485"
-                                    >Kyburg</placeName> und von manigvaltiger gebresten und
+                                unsrer stat ze <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> und von manigvaltiger gebresten und
                                 <lb/>notdurft wegen, die in lang zit swerlich angelegen sind, unsern
                                 getrewen, <space unit="characters" quantity="2"/> dem schultheizzen
                                     <space unit="characters" quantity="2"/>, dem rate und <lb/>den
@@ -137,8 +136,8 @@
                                     <supplied resp="lau">ir</supplied> nachkomen fu̍rbas eweklich
                                 daby beliben, an alle irrung und hinderung.</seg>
                             <seg>Und geben in des zuͦ einer ewigen gedechtnuzz disen brief,
-                                versigelten mit unserm ingsigel, <lb/>geben ze <origPlace
-                                    ref="LOC_47.71034_8.63388">Schafhusen</origPlace>
+                                versigelten mit unserm ingsigel, <lb/>geben ze
+                                <placeName ref="LOC_47.71034_8.63388">Schafhusen</placeName>
                                 <origDate when="1370-01-21">an <date when="--01-21">sant <persName
                                             ref="GND_114430704X">Agnesen</persName> tag</date> nach
                                     Crists gebu̍rde dru̍tzehen hundert <lb/>jar, darnach in dem
@@ -160,12 +159,10 @@
                             <lb/> von <placeName ref="LOC_47.33333_13.33333">Österych</placeName>,
                                 <date when="1370">1370</date>.</ab>
                         <ab type="dorsal" hand="hand17c"><lb/>Jahr- und wuchen-merkhten <lb/>
-                            freyheit zu <placeName ref="LOC_47.45249_8.7485"
-                            >Kyburg</placeName>.</ab>
+                            freyheit zu <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName>.</ab>
                         <ab type="dorsal" hand="hand18c"><persName ref="GND_136648320">Herzog
                                 Lüpolden</persName> von <placeName ref="LOC_47.33333_13.33333"
-                                >Österreich</placeName> denen von <placeName
-                                ref="LOC_47.45249_8.7485">Kyburg</placeName> ertheilte <lb/>jahr-
+                                >Österreich</placeName> denen von <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> ertheilte <lb/>jahr-
                             und wuchen-marcktes-freyheit. <date when="1370">1370</date></ab>
                         <!-- Frühere Signatur: Trk. 255. Bn. 1. Nr. 7. -->
                     </div>
@@ -189,7 +186,7 @@
                             Privileg kam das Recht hinzu, zweimal jährlich einen Jahrmarkt und
                             jeweils dienstags einen Wochenmarkt durchzuführen. Diese Rechte blieben
                             bestehen, nachdem die Grafschaft
-                            <placeName ref="47.45249_8.7485">Kyburg</placeName> 1424 vorübergehend und ab 1452
+                            <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> 1424 vorübergehend und ab 1452
                             definitiv an die Stadt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>
                             übergegangen war (<bibl>HLS, <ref
                                     target=" https://hls-dhs-dss.ch/de/articles/000120">Kyburg

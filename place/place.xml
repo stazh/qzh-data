@@ -113,13 +113,6 @@
                     <geo>47.55839 7.57327</geo>
                 </location>
             </place>
-            <place xml:id="LOC_50_14.5" n="Behem, Behemischen">
-                <placeName type="main">Behem</placeName>
-                <placeName type="main">Behemischen</placeName>
-                <location>
-                    <geo>50 14.5</geo>
-                </location>
-            </place>
             <place xml:id="LOC_47.65412_8.65391" n="Benken, Bencken, Benncken">
                 <placeName type="main">Benncken</placeName>
                 <placeName type="main">Bencken</placeName>
@@ -197,12 +190,6 @@
                     <geo>47.35109 8.34214</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.35346_8.32984" n="Bremgarten">
-                <placeName type="main">Bremgarten</placeName>
-                <location>
-                    <geo>47.35346 8.32984</geo>
-                </location>
-            </place>
             <place xml:id="QZH_036_5" n="Bruggwis Bach">
                 <placeName type="main">Bruggwis Bach</placeName>
             </place>
@@ -211,6 +198,14 @@
             </place>
             <place xml:id="QZH_036_29" n="Bu̍rkilo">
                 <placeName type="main">Bu̍rkilo</placeName>
+            </place>
+            <place xml:id="LOC_50_14.5" n="Böhmen, Behem, Behemischen">
+                <placeName type="main">Böhmen</placeName>
+                <placeName type="main">Behem</placeName>
+                <placeName type="main">Behemischen</placeName>
+                <location>
+                    <geo>50 14.5</geo>
+                </location>
             </place>
             <place xml:id="LOC_47.28795_8.76324" n="Büel, Buͤel">
                 <placeName type="main">Büel</placeName>
@@ -248,14 +243,9 @@
                     <geo>48.08078 7.35584</geo>
                 </location>
             </place>
-            <place xml:id="LOC_45.16667_15.5" n="Croacien">
-                <placeName type="main">Croacien</placeName>
-                <location>
-                    <geo>45.16667 15.5</geo>
-                </location>
-            </place>
-            <place xml:id="LOC_43.53974_16.48352" n="Dalmacien">
+            <place xml:id="LOC_43.53974_16.48352" n="Dalmatien, Dalmacien">
                 <placeName type="main">Dalmacien</placeName>
+                <placeName type="main">Dalmatien</placeName>
                 <location>
                     <geo>43.53974 16.48352</geo>
                 </location>
@@ -341,8 +331,9 @@
             <place xml:id="QZH_021_3" n="Endor">
                 <placeName type="main">Endor</placeName>
             </place>
-            <place xml:id="LOC_47.39557_8.17214" n="Ergoͤw">
+            <place xml:id="LOC_47.39557_8.17214" n="Aargau, Ergoͤw">
                 <placeName type="main">Ergoͤw</placeName>
+                <placeName type="main">Aargau</placeName>
                 <location>
                     <geo>47.39557 8.17214</geo>
                 </location>
@@ -586,7 +577,8 @@
                     <geo>48.12375 7.47578</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.54888_8.83073" n="Kefiken">
+            <place xml:id="LOC_47.54888_8.83073" n="Kefikon, Kefiken">
+                <placeName type="main">Kefikon</placeName>
                 <placeName type="main">Kefiken</placeName>
                 <location>
                     <geo>47.54888 8.83073</geo>
@@ -595,23 +587,18 @@
             <place xml:id="QZH_015_12" n="Kellerampt">
                 <placeName type="main">Kellerampt</placeName>
             </place>
-            <place xml:id="LOC_46.75_13.83333" n="Kernden">
+            <place xml:id="LOC_46.75_13.83333" n="Kärnten, Kernden">
                 <placeName type="main">Kernden</placeName>
+                <placeName type="main">Kärnten</placeName>
                 <location>
                     <geo>46.75 13.83333</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.45569_8.74476" n="Kyburg, Kiburg">
+            <place xml:id="LOC_47.45249_8.7485" n="Kyburg, Kiburg">
                 <placeName type="main">Kiburg</placeName>
                 <placeName type="main">Kyburg</placeName>
                 <location>
-                    <geo>47.45569 8.74476</geo>
-                </location>
-            </place>
-            <place xml:id="LOC_47.472720_8.4441" n="Kiburg">
-                <placeName type="main">Kiburg</placeName>
-                <location>
-                    <geo>47.472720 8.4441</geo>
+                    <geo>47.45249 8.7485</geo>
                 </location>
             </place>
             <place xml:id="QZH_036_27" n="Kilchgassen">
@@ -645,17 +632,15 @@
             <place xml:id="QZH_036_55" n="Krigenriett">
                 <placeName type="main">Krigenriett</placeName>
             </place>
-            <place xml:id="QZH_034_9" n="Ku̍nges Wingarten">
-                <placeName type="main">Ku̍nges Wingarten</placeName>
-            </place>
-            <place xml:id="LOC_47.45249_8.7485" n="Kyburg">
-                <placeName type="main">Kyburg</placeName>
+            <place xml:id="LOC_45.16667_15.5" n="Kroatien, Croacien">
+                <placeName type="main">Kroatien</placeName>
+                <placeName type="main">Croacien</placeName>
                 <location>
-                    <geo>47.45249 8.7485</geo>
+                    <geo>45.16667 15.5</geo>
                 </location>
             </place>
-            <place xml:id="47.45249_8.7485" n="Kyburg">
-                <placeName type="main">Kyburg</placeName>
+            <place xml:id="QZH_034_9" n="Ku̍nges Wingarten">
+                <placeName type="main">Ku̍nges Wingarten</placeName>
             </place>
             <place xml:id="LOC_47.31805_8.58401" n="Küsnacht">
                 <placeName type="main">Küsnacht</placeName>
@@ -785,8 +770,9 @@
             <place xml:id="QZH_020_1" n="Neüwen Thurn">
                 <placeName type="main">Neüwen Thurn</placeName>
             </place>
-            <place xml:id="LOC_47.59729_8.78482" n="Nider Niforen">
+            <place xml:id="LOC_47.59729_8.78482" n="Niederneunforn, Nider Niforen">
                 <placeName type="main">Nider Niforen</placeName>
+                <placeName type="main">Niederneunforn</placeName>
                 <location>
                     <geo>47.59729 8.78482</geo>
                 </location>
@@ -833,7 +819,7 @@
             <place xml:id="QZH_003_29" n="Ochssen">
                 <placeName type="main">Ochssen</placeName>
             </place>
-            <place xml:id="LOC_47.33333_13.33333" n="Oͤsterrich, Oͤsterich, Österych, Österreich, Osterrich">
+            <place xml:id="LOC_47.33333_13.33333" n="Österreich, Oͤsterrich, Oͤsterich, Österych, Osterrich">
                 <placeName type="main">Osterrich</placeName>
                 <placeName type="main">Österych</placeName>
                 <placeName type="main">Oͤsterich</placeName>
@@ -912,9 +898,10 @@
             <place xml:id="QZH_020_8" n="Ringschwyler">
                 <placeName type="main">Ringschwyler</placeName>
             </place>
-            <place xml:id="LOC_41.8925_12.48499" n="Romischer, Romischen">
+            <place xml:id="LOC_41.8925_12.48499" n="Rom, Romischer, Romischen">
                 <placeName type="main">Romischen</placeName>
                 <placeName type="main">Romischer</placeName>
+                <placeName type="main">Rom</placeName>
                 <location>
                     <geo>41.8925 12.48499</geo>
                 </location>
@@ -934,6 +921,13 @@
                 <placeName type="main">Sainte-Marie-aux-Mines (Mariakirch) im Elsass</placeName>
                 <location>
                     <geo>48.24649 7.18385</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.71034_8.63388" n="Schaffhausen, Schafhusen">
+                <placeName type="main">Schafhusen</placeName>
+                <placeName type="main">Schaffhausen</placeName>
+                <location>
+                    <geo>47.71034 8.63388</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.66562_8.76984" n="Schlattingen">
@@ -1023,8 +1017,9 @@
                     <geo>46.82964 9.40648</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.47943_8.90722" n="Tenniker">
+            <place xml:id="LOC_47.47943_8.90722" n="Tänikon, Tenniker">
                 <placeName type="main">Tenniker</placeName>
+                <placeName type="main">Tänikon</placeName>
                 <location>
                     <geo>47.47943 8.90722</geo>
                 </location>
@@ -1049,8 +1044,9 @@
                     <geo>47.59384 8.59112</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.25_11.33333" n="Tyrol">
+            <place xml:id="LOC_47.25_11.33333" n="Tirol, Tyrol">
                 <placeName type="main">Tyrol</placeName>
+                <placeName type="main">Tirol</placeName>
                 <location>
                     <geo>47.25 11.33333</geo>
                 </location>
@@ -1060,6 +1056,13 @@
                 <placeName type="main">Tägernauw</placeName>
                 <location>
                     <geo>47.29449 8.75548</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.2367_8.7573" n="Uerikon, Üriken">
+                <placeName type="main">Uerikon</placeName>
+                <placeName type="main">Üriken</placeName>
+                <location>
+                    <geo>47.2367 8.7573</geo>
                 </location>
             </place>
             <place xml:id="QZH_036_14" n="Undergrisch">
@@ -1072,8 +1075,9 @@
                     <geo>46.92739 8.41028</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47_20" n="Ungern, Ungrischen">
+            <place xml:id="LOC_47_20" n="Ungarn, Ungern, Ungrischen">
                 <placeName type="main">Ungrischen</placeName>
+                <placeName type="main">Ungarn</placeName>
                 <placeName type="main">Ungern</placeName>
                 <location>
                     <geo>47 20</geo>
@@ -1199,8 +1203,9 @@
                     <geo>47.28125 8.77341</geo>
                 </location>
             </place>
-            <place xml:id="LOC_45.81444_15.97798" n="Zagrabensis">
+            <place xml:id="LOC_45.81444_15.97798" n="Zagreb, Zagrabensis">
                 <placeName type="main">Zagrabensis</placeName>
+                <placeName type="main">Zagreb</placeName>
                 <location>
                     <geo>45.81444 15.97798</geo>
                 </location>
@@ -1255,12 +1260,6 @@
                 <placeName type="main">Uetikon am See</placeName>
                 <location>
                     <geo>47.2703 8.68171</geo>
-                </location>
-            </place>
-            <place xml:id="LOC_47.2367_8.7573" n="Üriken">
-                <placeName type="main">Üriken</placeName>
-                <location>
-                    <geo>47.2367 8.7573</geo>
                 </location>
             </place>
         </listPlace>
