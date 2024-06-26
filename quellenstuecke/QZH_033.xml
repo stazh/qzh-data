@@ -147,7 +147,7 @@
                     <div>
                         <ab type="chancery_notation"><lb/>
                             <choice>
-                                <abbr>mgr<expan>magister</expan></abbr>
+                                <abbr>mgr</abbr><expan>magister</expan>
                             </choice> curie <lb/>per <persName>Spies</persName></ab>
                         <!-- Heinrich Spies von Thann, Landvogt in den oberen Landen. -->
                     </div>
