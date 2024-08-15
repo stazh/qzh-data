@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quellen zur Zürcher Geschichte</title>
+            <respStmt>
+               <persName>Kilian Graf; Michael Koller; Hans-Peter Ulrich</persName>
+               <resp key="transcript"/>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Murer; Michael Schaffner</persName>
+               <resp key="tagging"/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Staatsarchiv des Kantons Zürich</publisher>
+            <date type="electronic" when="2021-05-01"/>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Territorienbildung der Städte im Spätmittelalter</title>
+            <respStmt>
+               <persName>Staatsarchiv des Kantons Zürich</persName>
+               <resp>Herausgeberschaft</resp>
+            </respStmt>
+            <idno>QZH_047</idno>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5125001"
+                     >STAZH A 124.1, Nr. 18</idno>
+               </msIdentifier>
+               <head>Zeugenaussagen (Kundschaften) betreffend die Blutsgerichtsbarkeit in der Herrschaft Grüningen
+               </head>
+               <msContents>
+                  <summary>Männer aus verschiedenen Dörfern, Weilern und Höfen beschreiben, welche Grenzbeschreibungen der Blutgerichtsbarkeit in der Herrschaft Grüningen sie von ihren Vorfahren gehört und gelernt haben.</summary>
+                  <msItem>
+                     <textLang>Deutsch</textLang>
+                     <filiation type="current">Entwurf (Einzelblatt)</filiation>
+                     <filiation type="original"><origDate when="1438-01-01"/></filiation>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support><material>Papier</material></support>
+                        <extent/>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc> </profileDesc>
+      <profileDesc>
+         <textClass default="false">
+               <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                  <term ref="key000057">Gericht</term>
+                  <term ref="key000305">Grenze</term>
+                  <term ref="key003994">Hochgerichtsbarkeit</term>
+                  <term ref="key003261">Kundschaft</term>
+               </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1" facs="A_124_1__Nr__18__S__1_.tif"/>
+            <p><lb/>Item <persName>Brunner</persName> von <placeName ref="LOC_47.265_8.92851">Lopen</placeName>, ist ob 60 jaren alt, der seit wie sin vater und sin muter,
+               <lb/>das ein weibel <placeName>Altertingen</placeName> sas und het von <placeName>Hus</placeName> von <placeName ref="LOC_47.28333_8.75">Grüeningen</placeName> fangen die<unclear> ___</unclear> <placeName ref="LOC_47.26392_8.95978">Eglingen</placeName>
+               <lb/>von uneren wegen. Aber heren <persName>Frolichert</persName> fangen von <placeName ref="LOC_47.26403_8.94969">Wolftingen</placeName>, och von uneren wegen.
+               <lb/>Aber seit er wie oben, das junker von <placeName ref="LOC_47.25708_8.93678">Diemburch<!-- Dienberg --></placeName> och fangen ward von uneren
+               <lb/>wegen. Aber seit <persName>Brunner</persName>, wie das junker von <placeName ref="LOC_47.25708_8.93678">Diemburch</placeName> stolen hat <unclear>die andran</unclear>
+               <lb/>und <unclear>greif</unclear> ein fogt von <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> zu der farenden hab und triben weg. Aber
+               <lb/>seit er wie vom hus von <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> die <persName>Oberholtzer</persName> fieng von fu̍lis wegen. Aber seit
+               <lb/>er, wie aman von <placeName ref="LOC_47.22538_8.94836">Schmeriken</placeName> <unclear>ein</unclear> <unclear>weilen/weiler</unclear> enbot, wie ein man ferdorben<!-- Geschichte des toten Manns mehrfach überliefert -> z.B. Nr. 17 --> wer,
+               <lb/>der lit an der <placeName ref="LOC_47.31226_8.9636">Hinder Tos</placeName>, das kein luogen, das er danen <unclear>kam</unclear>. Aber seit er, das
+               <lb/>man den wisen fangen hat hinder <unclear>heisch</unclear>.</p>
+               <p><lb/>Item der <persName><unclear>Cuonz</unclear></persName>, ist ab 60 jar alt, der seit, das er heig hort <hi>anen</hi> vom alt
+               <lb/><persName>Strahler</persName> <unclear>___ ___ ___</unclear> das ein weibel ist seßen <placeName>Altertingen</placeName>, der <unclear>___ schab</unclear>,
+               <lb/>der weibel ze <placeName ref="LOC_47.28706_8.92092">Wald</placeName> in hof was und seit als das der <persName>Brunner</persName> seit vo der sach.</p>
+               <p>lb/>Item <persName>Hans Buman</persName>, ist 50 jar alt, der seit das er vom alten <persName>Streler</persName> hort heig, das
+               <lb/>ein weibel <placeName>Altertingen</placeName> sas. Der weibel was gen <placeName ref="LOC_47.28706_8.92092">Wald</placeName> in hof, der doch an <placeName ref="LOC_47.17076_9.21729">Langen-
+               <lb/>egg</placeName> sas, das doch under scheid ist <placeName ref="LOC_47.17076_9.21729">Langenegg</placeName> ist. Aber seit er, das im <persName>Cueny</persName> item
+               <lb/>seit heig, das einer den ander liblos im <placeName ref="LOC_47.28928_8.9424">Oberholtz</placeName> heig tan, von dem todschlagen heben
+               <lb/><unclear>herren</unclear> <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> abgerichtet. Er seit och, das ein <persName>Hansen</persName> im <placeName ref="LOC_47.28928_8.9424">Oberholt</placeName> und sin sun fieng,
+               <lb/>die sprachen ein fu̍li an, das doch unere ward <unclear>zugin.</unclear> Er seit och, das ein ein<!-- Wiederholung? -->
+               <lb/>man ferdorben was <del>und ein her von</del> an der <placeName ref="LOC_47.31226_8.9636">Hinder Tos<!-- Töss --></placeName> <unclear>fer hinder heist</unclear> und ein
+               <lb/>amen<!-- Amman --> von <placeName ref="LOC_47.22538_8.94836">Schmerikon</placeName> unser weibel gen <placeName ref="LOC_47.28706_8.92092">Wald</placeName> enbot, daß er <unclear>doch</unclear>, das der man
+               <lb/><unclear>denen/danen</unclear> <del>ken</del> kein wan min <unclear>herr von <persName ref="GND_120633957">Togenburg</persName> lu̍t funden haten</unclear>. Er seit och
+               <lb/>wie das ein den <persName>Wisman</persName> heig fangen in <placeName>Bonen</placeName>, och hinder heist,<note>Vgl. Dok. Nr. 17: "Er seit ouch von der gefanknûssen wegen, so der <persName>Wisman</persName>
+                  in <placeName>Bonen</placeName> hinderm <placeName ref="47.29362_8.94768">Geheischt</placeName> gefangen ward"</note> och die von <placeName ref="LOC_47.28333_8.75">Grüeningen</placeName>.</p>
+               <p><lb/>Item <persName>Hans Reiman</persName>, ist ob 50 jaren, der seit, er het hort vom alten <persName>sträler</persName>, wie das
+               <lb/>einen <placeName>Altertingen</placeName> sas, der hies der <persName>Schùbhart</persName>, der weibel in hof gen <placeName ref="LOC_47.28706_8.92092">Wald</placeName> was.
+               <lb/>Er seit och, wie <persName>Hans</persName> im <placeName ref="LOC_47.28928_8.9424">Oberholtz</placeName> und sin sunn vom hus von <placeName ref="LOC_47.28333_8.75">Gru̍ningen</placeName> och von fu̍lis wegen,
+               <lb/>das uner, so er seit och wie <persName>Wismann</persName> hinder <placeName>Heist</placeName> in <placeName>Bonen</placeName> fangen ward.</p>
+               <p><lb/>Item <persName>Ru̍gen Gartner</persName> ist ob 50 jaren alt und seit och vom dem man der ferdorben was
+               <lb/>an der <placeName ref="LOC_47.31226_8.9636">Hinder Tos</placeName> und min heren vom <persName ref="GND_120633957">Togenburg</persName> lu̍t funden haten und <del>von</del> hies
+               <lb/>Anse<note>laut anderen Berichten dieses Vorfalls: Amman.</note> von <placeName ref="LOC_47.22538_8.94836">Schmeriken</placeName>, unser weibel von <placeName ref="LOC_47.28706_8.92092">Wald</placeName>, das wir in fersorgen und tanen teten.
+               <lb/>Er seit och, wie das der <persName>Hans</persName> im <placeName ref="LOC_47.28928_8.9424">Oberholtz</placeName> und sin sun och von fu̍lis wegen
+               <lb/><del>das sich</del> fangen werden, och von hus von <placeName ref="LOC_47.28333_8.75">Grueningen</placeName>. Och seit er, wie das der <persName>Wisman</persName>
+               <lb/>gangen ist, och vom hus von <placeName ref="LOC_47.28333_8.75">Grueningen</placeName>, das hinder heist in <placeName>Bonen</placeName>.</p>
+               <p><lb/>Item <persName>Graf</persName> im <placeName>Riet</placeName>, ist ob 50 jar alt, der seit, wie dasem <persName>Hans</persName> im <placeName ref="LOC_47.28928_8.9424">Oberholtz</placeName> und
+               <lb/>sin sun fangen han von fu̍lis wegen und seit wie junker <persName><unclear>Taler</unclear></persName> fangen
+               <lb/>welti, hen do en dran <unclear>de</unclear> grifinen min heren zuo der farden hab, wan er
+               <lb/>stolen het.</p>
+            <pb n="2" facs="A_124_1__Nr__18__S__2_.tif"/>
+            <p><lb/>Item ich hen gen <persName>Stadelmann</persName> 6 schilling umb bendel gen <unclear>aber</unclear><note>Aufzählung.</note> hen ich iren gen<unclear> ...</unclear> Aber hen ich iren
+               <lb/>gen 2 pfund <unclear>geb</unclear> <unclear>groben</unclear> von <placeName ref="LOC_47.37761_8.78338">Sultzberg</placeName> umb tuechli. Aber hen iren gen uß <placeName ref="LOC_47.36667_8.55">Zürich</placeName> aber gen<unclear> </unclear>2 schilling <unclear>__ fib</unclear>-
+               <lb/>Aber hen ich dir gen 7.5 gulden an tuoch, da rok und mantel uf heft <unclear>machet</unclear> <hi>das</hi> dar an
+               <lb/>dar an sol ich dir 12 pfund. 
+               <lb/>Item ich sol <persName>Stadelmann</persName> kinden 15 pfund, nam ich iren in am eygen, dar an hen ich gen
+               <lb/>4 pfund 7 schilling dem fogt. Aber hen ich usgen 5 schilling herrn <persName>Pfister</persName>, fürsprech von<placeName ref="LOC_47.27856_8.84156"><unclear> Du̍rnten</unclear></placeName> <hi>das</hi>
+               <lb/>da ich das guot er fordet mit rech <unclear>pfund/und</unclear> ich hen 16 pfund ferzert in <unclear>bandli </unclear>hab und <unclear>hen</unclear>
+               <lb/>gen dem beby 3 schilling und<persName><unclear> Tutnower</unclear></persName> hen 3 schilling, der reit 2 fert<note>Fuhren</note> gen <placeName ref="LOC_47.3051_8.75831">Gosow</placeName> dem ruf <unclear>man</unclear>
+               <lb/>na, das er zum satz kem und hen dem <persName>Brunner</persName> gen 5 schilling und gen <persName>Tobler</persName> <unclear>refe</unclear> <persName>Tobler</persName>
+               <lb/>gen 5 schilling aber heind ferzert furer sunn und <persName>Stadelmann</persName>, 11 schilling aber hen ich die gen
+               <lb/>... dem <persName>Totnower</persName> 3 schilling, as<note>Als?</note> er mit mir gen <placeName ref="LOC_47.2875_8.85719">Hadlikon</placeName> reit.</p>
+         </div>
+      </body>
+      <back>
+         <div><p>
+            Zu den Grüninger Kundschaften vgl. den Kommentar zu <bibl><ref target="https://qzh.sources-online.org/quellenstuecke/QZH_047">QZH, Nr. 44</ref></bibl>.
+         </p></div>
+      </back>
+   </text>
+</TEI>

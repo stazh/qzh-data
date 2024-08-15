@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quellen zur Zürcher Geschichte</title>
+            <respStmt>
+               <persName>Silvia Barzaghi; David Schlittler; Lea Wettler</persName>
+               <resp key="transcript"/>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Murer; Michael Schaffner</persName>
+               <resp key="tagging"/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Staatsarchiv des Kantons Zürich</publisher>
+            <date type="electronic" when="2021-05-01"/>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Territorienbildung der Städte im Spätmittelalter</title>
+            <respStmt>
+               <persName>Staatsarchiv des Kantons Zürich</persName>
+               <resp>Herausgeberschaft</resp>
+            </respStmt>
+            <idno>QZH_045</idno>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5124357"
+                     >STAZH A 124.1, Nr. 16</idno>
+               </msIdentifier>
+               <head>Zeugenaussagen (Kundschaften) betreffend die Blutsgerichtsbarkeit in der Herrschaft Grüningen
+               </head>
+               <msContents>
+                  <summary>Männer aus verschiedenen Dörfern, Weilern und Höfen beschreiben, welche Grenzbeschreibungen in der Herrschaft Grüningen sie von ihren Vorfahren gehört und gelernt haben.</summary>
+                  <msItem>
+                     <textLang>Deutsch</textLang>
+                     <filiation type="current">Entwurf (Doppelblatt)</filiation>
+                     <filiation type="original"><origDate when="1438-01-01"/></filiation>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support><material>Papier</material></support>
+                        <extent/>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc> </profileDesc>
+      <profileDesc>
+         <textClass default="false">
+            <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+               <term ref="key000057">Gericht</term>
+               <term ref="key000305">Grenze</term>
+               <term ref="key003994">Hochgerichtsbarkeit</term>
+               <term ref="key003261">Kundschaft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1" facs="A_124_1__Nr__16__S__1_.tif"/>
+            <p><lb/>Es zeigend min herrenn von <placeName ref="LOC_47.36667_8.55">Zúrich</placeName> an dis nachbenempte
+               <lb/>frommen lút, daz innen kund und ze wu̍ssen sye und daz von
+               <lb/>iren alt fordren habend gehört, daz die hochen gricht,
+               <lb/>so zuo dem hus <placeName ref="LOC_47.28333_8.75">Gruenigen</placeName> gehörent, anfachent zuo
+               <lb/>dem guott, das man nempt imm <placeName>Jonnengrund</placeName>, <del>unnd von</del>
+               <lb/>daz da litt under <placeName ref="LOC_47.23245_8.8869">Wagen</placeName> her <unclear>al</unclear> und gant von da dannen
+               <lb/>inn daz <placeName ref="LOC_47.29586_8.70724">Asp</placeName>, usser dem <placeName ref="LOC_47.29586_8.70724">Asp</placeName> gantt es inn die <placeName ref="LOC_47.17076_9.21729">Langen
+                  <lb/>Egg</placeName> uff bys gen <placeName>Aechtischwil inn die Linden</placeName>, von dannen
+               <lb/>inn <placeName>Uttinger tobel</placeName>, uß <placeName>Uttinger tobel</placeName> inn den <placeName ref="LOC_47.28454_8.82428">Rotten Stein</placeName>,
+               <lb/>dannen hin inn den <placeName ref="LOC_47.30614_8.96505">Tös Stok</placeName>, von dem<placeName ref="LOC_47.30614_8.96505">Tös Stok</placeName> biß an
+               <lb/><placeName ref="LOC_47.37275_8.87235">Landenberg</placeName> inn den graben.</p>
+               <p><lb/>Item <persName>Heini</persName> von <placeName ref="LOC_47.2751_8.82212">Tafflatten</placeName>, ist by 80 jaren allt, der seyt,
+               <lb/>daz die hochen gricht anvachend inn dem guot, daz da
+               <lb/>heisset der <placeName>Jonengrund</placeName>, stosst zuo einer sitten an <placeName ref="LOC_47.22281_8.90886">Ober
+                  <lb/>Bollingen</placeName> und da danen hin inn daz <placeName ref="LOC_47.29586_8.70724">Asp</placeName> und us dem <placeName ref="LOC_47.29586_8.70724">Asp</placeName>
+               <lb/>die <placeName ref="LOC_47.17076_9.21729">Langenegg</placeName> uff bys gan <placeName>Aechtischwil inn die Linden</placeName>.</p>
+               <p><lb/>Item <persName>Hans Múller</persName> von <placeName ref="LOC_47.26147_8.82971">Kaemoß</placeName> der seyt wie <persName>Heini</persName> von
+               <lb/><placeName ref="LOC_47.2751_8.82212">Taffelten</placeName> geseytt hatt, ist by 70 jaren allt.</p>
+               <p><lb/>Item <persName>Hans Riss</persName>, der alt, von <placeName ref="LOC_47.27942, 8.86162">Oberdúrnten</placeName>, ist by 80 jaren
+               <lb/>alt, der ist hushablich gesin zuo <placeName>Alltertingen</placeName>, der seyt,
+               <lb/>daz die hochen gricht zuo <placeName ref="LOC_47.28333_8.75">Gruenigen</placeName> anfachen by dem
+               <lb/><placeName>Windachten Bom</placeName> an der flue, da dannen inn daz guot, daz
+                  <lb/>da heissett <placeName>Jonnen grund</placeName>, da dannen innn daz <placeName ref="LOC_47.29586_8.70724">Asp</placeName>, da
+               <lb/>dannen inn <placeName ref="LOC_47.17076_9.21729">Langen Egg</placeName> und die <placeName ref="LOC_47.17076_9.21729">Langen Egg</placeName> uff biß
+               <lb/>gan <placeName>Aechtischwil innn die Linden</placeName>, da dannen hin innn
+                  <lb/><del>den <placeName ref="LOC_47.28454_8.82428">Rotten Stein</placeName> vo</del> <placeName>Uttinger Tobel</placeName>, us <placeName>Uttinger
+                     <lb/>Tobel</placeName> innn den <placeName ref="LOC_47.28454_8.82428">Rotten Stein</placeName>, von dannen hin innn
+               <lb/>den <placeName ref="LOC_47.30614_8.96505">Toeß Stok</placeName>, von dem <placeName ref="LOC_47.30614_8.96505">Toes Stok</placeName> gen <placeName ref="LOC_47.37275_8.87235">Landenberg</placeName> inn
+               <lb/>den graben.</p>
+            <pb n="2" facs="A_124_1__Nr__16__S__2_.tif"/>
+               <p><lb/>Item <persName>Heini Wernly</persName> ist by 80 jaren alt, seyt als der
+               <lb/><persName>Riß</persName> geseit hant.</p>
+               <p><lb/>Item <persName>Hans Warttis</persName> seytt wie der <persName>Ryß</persName> geseyt hant
+               <lb/>und ist by 60 jaren alt.</p>
+               <p><lb/>Item <persName>Hans Buocher</persName> von <placeName ref="47.25559_8.85806">Verach</placeName>, ist by fuinfftzig jaren
+               <lb/>alt, seyt als der <persName>Riß</persName> geseit hant.</p>
+               <p><lb/>Item <persName>Petter Kasper</persName> von <placeName ref="LOC_47.27942_8.86162">Oberdúnertten</placeName> seyt wie der
+               <lb/><persName>Rys</persName> geseytt hant.</p>
+               <p><lb/>Item <persName>Ruedy Lang</persName> von <placeName ref="LOC_47.28584_8.84249">Edikon</placeName> seyt, wie der <persName>Riß</persName> geseyt
+               <lb/>hant. Item und so vil me, wie ein man an der hindren <placeName ref="LOC_47.4789_8.70215">Töß</placeName>
+               <lb/>legy, den suochtend ira wol acht man und fundent den
+               <lb/>selben totten man und stiessent inn in einen sak und
+               <lb/>truogend innn gen <placeName ref="LOC_47.28706_8.92092">Wald</placeName> und vergruobent den da selben
+               <lb/>innn den kilchhoff. Er seyt auch, daz er wol weiß,
+               <lb/>daz die <persName>Oberholtzer</persName> geffangen wurdent von einer
+               <lb/><unclear>fuiliß</unclear> wegen und gen <placeName ref="LOC_47.28333_8.75">Gruenigen</placeName> gefuert und von
+               <lb/>einem vogt gestraufft wurdent.</p>
+             <p>
+                <lb/>Item <persName>Ruedi Hotz</persName> <add place="above">von <placeName ref="LOC_47.27942_8.86162">Oberdierntten</placeName></add> seytt, daz er von den allten gehoert
+               <lb/>hab, daz die hochen gricht gangent, wie der <persName>Riß</persName> ge-
+               <lb/>seytt hant.</p>
+            <pb n="3" facs="A_124_1__Nr__16__S__3_.tif"/>
+               <p><lb/>Item <persName>Ruegger Gubelman</persName> von <placeName ref="LOC_47.26898_8.85024">Thann</placeName> seytt, wie der <persName>Riß</persName>
+               <lb/>geseyt hant.</p>
+               <p><lb/>Item und ist sach, daz sin nieman enberen
+               <lb/>wil, so wellend sy darumm ein eyd
+               <lb/>an den helgen schweren, daz soelich ir
+               <lb/>sag, also sye daz sy nie anders gehoert
+               <lb/>habend von iren alt fordren, denn als sy
+               <lb/>geseytt hand.</p>
+            <pb n="4"/>
+         </div>
+      </body>
+      <back>
+         <div><p>
+            Zu den Grüninger Kundschaften vgl. den Kommentar zu <bibl><ref target="https://qzh.sources-online.org/quellenstuecke/QZH_047">QZH, Nr. 44</ref></bibl>.
+         </p></div>
+      </back>
+   </text>
+</TEI>
