@@ -35,7 +35,7 @@
                <head>Zeugenaussagen (Kundschaften) betreffend Gerichtsgrenzen in der Herrschaft Grüningen
                </head>
                <msContents>
-                  <summary>23 Männer aus der Herrschaft Grüningen bezeugen unter Eid die Gerichtsgrenzen, wie sie im in einem alten Verzeichnis ("alt rodel") festgehalten seien. Sie bezeugen ausserdem, dass ihnen niemand bekannt sei, der je diese Gerichtskreise unter der Familie Gessler, als ihren früheren Herren, oder unter den aktuellen Zürcher Herren "gesumpt ald geirt" hätte. </summary>
+                  <summary>23 Männer aus der Herrschaft Grüningen bezeugen unter Eid die Gerichtsgrenzen, wie sie in einem alten Verzeichnis (<q>alt rodel</q>) festgehalten seien. Sie bezeugen ausserdem, dass ihnen niemand bekannt sei, der je diese Gerichtskreise unter der Familie Gessler, als ihren früheren Herren, oder unter den aktuellen Zürcher Herren <q>gesumpt ald geirt</q> hätte. </summary>
                   <msItem>
                      <textLang>Deutsch</textLang>
                      <filiation type="current">Aufzeichnungen (Doppelblatt)</filiation>
@@ -92,7 +92,7 @@
                <lb/><persName>Ruedy Gubelman</persName> von <placeName ref="LOC_47.26898_8.85024">Tann</placeName> ist by 70 jar alt,
                <lb/><persName>Heini Mûrry</persName> von <placeName ref="LOC_47.2946_8.78194">Opptikon</placeName> ist by 70 jar alt,
                <lb/><persName>Ruedy Schûch</persName> von <placeName ref="LOC_47.25839_8.77829">Lûtzelse</placeName> ist by 70 jar alt,
-               <lb/><persName>Ruedy <subst><add place="above">Pfanner</add><del>Pfaffner</del></subst></persName> von <placeName>Erneswil</placeName> ist by 70 jar alt,
+               <lb/><persName>Ruedy <add place="above">Pfanner</add></persName> <del>Pfaffner</del> von <placeName>Erneswil</placeName> ist by 70 jar alt,
                <lb/><persName>Heini <unclear>Rimerhart</unclear></persName> von <placeName ref="LOC_47.27856_8.84156">Tûnnroten</placeName> ist by 60 jar alt,
                <lb/><persName>Hans Schûch</persName> von <placeName ref="LOC_47.25839_8.77829">Lûtzelse</placeName> ist by 60 jar alt,
                <lb/><persName>Lûty Zender</persName> von <placeName ref="LOC_47.27632_8.75851">Bintzikon</placeName> ist by 65 jar alt,
