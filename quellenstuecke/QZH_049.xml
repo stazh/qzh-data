@@ -80,7 +80,7 @@
 	<text>
 		<body>
 			<pb n='1' facs="A_124_1__Nr__20__S__1_.tif"/>
-			<head><placeName>Bintzikon</placeName></head>
+			<head><placeName ref="LOC_47.27632_8.75851">Bintzikon</placeName></head>
 			<p>
 				<lb/><persName>Stoffel Muggly</persName> von <del><placeName ref="LOC_47.23373_8.81893">Kemraten</placeName></del> seit, daz sich vor etwaz jaren gefuegt hat,
 				<lb/>daz einer, hies der <persName>Wismann</persName> uff dem hof inn <placeName>Bonen</placeName>, dar uff jetz <persName>Cueny Obhoeltzer</persName>

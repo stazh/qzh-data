@@ -134,7 +134,7 @@
 			</div>
 			<div>
 				<pb n='4' facs="A_124_1__Nr__25__S__4_.tif"/>
-				<head type="subtitle">Der hoff ze <placeName>Altorffen</placeName></head>
+				<head type="subtitle">Der hoff ze <placeName ref="LOC_47.31279_8.72325">Altorffen</placeName></head>
 			<p>
 				<lb/>Item es spricht <persName>Heintz Giger</persName> von <placeName>Rietlikon</placeName>, das er nie gehört hab
 				<lb/>ligend oder varend guot us súndern, aber die herren genemint nie
