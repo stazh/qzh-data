@@ -35,7 +35,7 @@
 					<head>Zeugenaussagen (Kundschaften) betreffend die Zugehörigkeit des Hofs Im Geheisch zur Herrschaft Grüningen
 					</head>
 					<msContents>
-						<summary>Acht Männer bezeugen die Gerichtszugehörigkeit des Hofs im Geheisch zur Herrschaft Grüningen. Ein Zeuge berichtet von der vergangenen Bergung eines ermordeten Pilgers durch den Vogt von Wald.</summary>
+						<summary>Acht Männer bezeugen die Gerichtszugehörigkeit des Hofs Im Geheisch zur Herrschaft Grüningen. Ein Zeuge berichtet von der vergangenen Bergung eines ermordeten Pilgers durch den Vogt von Wald.</summary>
 						<msItem>
 							<textLang>Deutsch</textLang>
 							<filiation type="current">Aufzeichnungen (Einzelblatt)</filiation>
@@ -81,10 +81,10 @@
 				<lb/><persName>Uely Mûller von Kemmos</persName>, ist uf des hus ze <placeName ref="LOC_47.26698_8.8179">Buobiken</placeName> eigen, seit als <persName>Ruedger
 					<lb/>Cuontz</persName> und daz der hof <placeName>Im Geheisch</placeName> mer dann ein vierdenteil einer guoten
 				<lb/>mil wegs uff dem nechsten in der inwenndig den kreiss der gerichten gelegen syn.
-				<lb/>Er seit ouch, daz er nie anders gehoert noch vernomen hab, denn daz der hof <placeName>im
+				<lb/>Er seit ouch, daz er nie anders gehoert noch vernomen hab, denn daz der hof <placeName ref="LOC_47.29362_8.94768">Im
 					<lb/>Geheisch</placeName> allweg mit allen gerichten in den hof gen <placeName ref="LOC_47.27595_8.91405">Wald</placeName> gedienet und gehoert hab.
-				<lb/>Ouch seit er, daz in dem appenzellerkrieg die, so im
-				<lb/><placeName>Geheisch</placeName> sassen, und die im ampt <placeName ref="LOC_47.28333_8.75">Grueningen</placeName>, sy all mit
+				<lb/>Ouch seit er, daz in dem appenzellerkrieg die, so <placeName ref="LOC_47.29362_8.94768">Im
+				<lb/>Geheisch</placeName> sassen, und die im ampt <placeName ref="LOC_47.28333_8.75">Grueningen</placeName>, sy all mit
 				<lb/>ein ander <subst><del>kriegaten</del><add place="inline">reiseten</add></subst> und brûch gaben und daz sy
 				<lb/>sich da wider nit satzten.</p>
 				<p><lb/><persName>Ruedger Cuontz</persName>,

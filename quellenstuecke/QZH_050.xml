@@ -133,17 +133,17 @@
                <lb/><persName>Casper Schnider</persName> von <placeName>Vegswil</placeName>, ist 50 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als der <persName>Brendly</persName>.
                <lb/><persName>Hofman Gerwer</persName>, ist by 40 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als der <persName>Brendly</persName>.
                <lb/><persName>Cueni Rotenfluo</persName>, ist 35 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als der <persName>Brendly</persName>.</p>
-               <p><lb/>Sy sagent ouch all, <add place="above">dz inen wol wissent sye, dz</add> der hof <placeName>Im Geheisch</placeName>, daruff <persName>Cueny Obhoeltzer</persName>
+               <p><lb/>Sy sagent ouch all, <add place="above">dz inen wol wissent sye, dz</add> der hof <placeName ref="LOC_47.29362_8.94768">Im Geheisch</placeName>, daruff <persName>Cueny Obhoeltzer</persName>
                <lb/>sitzt <del>in der</del> innwendig <del>dem</del> den obgeseiten kreiß mer den ein vierdenteil
                <lb/>einer guoten mil wegs in hochen und kleinnen gerichten sitze.</p>
                <p><lb/>Sy sagent auch all, daz sy von iren vordern und alten gehoert haben,
-               <lb/>daz einer sas uff dem hof <placeName>Im Geheisch</placeName>, etwe vil jaren einem vogt von
+               <lb/>daz einer sas uff dem hof <placeName ref="LOC_47.29362_8.94768">Im Geheisch</placeName>, etwe vil jaren einem vogt von
                   <lb/><placeName ref="LOC_47.28333_8.75">Grueningen</placeName> jerlich ein kalb von liepdaett wegen schenkt. Item am lesten wolt
                   <lb/>derselb daz kalb nit mer geben. Item ein herr von <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> wolt daz haben
                   <lb/>und leit uff den hof von <placeName ref="LOC_47.27595_8.91405">Wald</placeName> 1 pfund ewigs geltz fùr daz kalb. Daz
                   <lb/>selb  geltz gebent sy noch hûtt by tag und nempt man es <choice><abbr>kalbsd</abbr><expan>kalbsdenar</expan></choice>.</p>
                <p><lb/>Sy sagent ouch, daz inen wol wissent sye, daz einer saesse uff dem
-               <lb/>hof <placeName>Im Geheisch</placeName>, hies der <persName>Wisman</persName>, wol zwûrent gevangen <del>war</del> und
+               <lb/>hof <placeName ref="LOC_47.29362_8.94768">Im Geheisch</placeName>, hies der <persName>Wisman</persName>, wol zwûrent gevangen <del>war</del> und
                <lb/>gen <placeName>Grueningen</placeName> gefuert wurde, von des wegen, daz er den voegten nit
                <lb/>woelt gehorsamy tuon. Und wart allweg darzuo gehalten, daz er swerren
                <lb/>und gehorsamy tuon muosset, als ein ander, der in hochen und kleinnen
