@@ -26,7 +26,7 @@
                     <persName>Staatsarchiv des Kantons Zürich</persName>
                     <resp>Herausgeberschaft</resp>
                 </respStmt>
-                <idno>QZH_042</idno>
+                <idno>QZH_043</idno>
             </seriesStmt>
             <sourceDesc>
                 <msDesc>
@@ -169,7 +169,7 @@
                             jeweils dienstags einen Wochenmarkt durchzuführen
                             (<bibl><ref target="hhttps://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=346298">StAZH C IV 1.5.3 a, Nr. 3</ref></bibl>). Diese Rechte blieben
                             bestehen, nachdem die Grafschaft
-                            <placeName ref="47.45249_8.7485">Kyburg</placeName> 1424 vorübergehend und ab 1452
+                            <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> 1424 vorübergehend und ab 1452
                             definitiv an die Stadt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>
                             übergegangen war (<bibl>HLS, <ref
                                 target=" https://hls-dhs-dss.ch/de/articles/000120">Kyburg
