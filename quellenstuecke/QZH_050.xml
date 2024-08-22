@@ -81,18 +81,18 @@
          <div>
             <pb n="1" facs="A_124_1__Nr__21__S__1_.tif"/>
             
-            <head><lb/>Dis ist die kuntschaft, so ze <placeName ref="LOC_47.27595_8.91405">Wald</placeName> ingenomen ist,
+            <head><lb/>Dis ist die kuntschaft, so ze <placeName ref="LOC_47.28706_8.92092">Wald</placeName> ingenomen ist,
                <lb/>als von der hochen gerichten wegen, so zuo der grafschaft <placeName ref="LOC_47.28333_8.75">Grueningen</placeName>
                <lb />gehoerent, und wie wol dis kuntschaft und der alt rodel,
                <lb/>die lagen und kreiss nit gelich nemment, so zichent sich doch die kriess ze G<damage agent="faded ink"><supplied resp="msr">rüningen</supplied></damage></head>
-            <p><lb/><persName>Rudger Cuontz </persName>von <placeName ref="LOC_47.27595_8.91405">Wald</placeName> ist by 50 jar alt und seit, daz er von
+            <p><lb/><persName>Rudger Cuontz </persName>von <placeName ref="LOC_47.28706_8.92092">Wald</placeName> ist by 50 jar alt und seit, daz er von
                <lb/>sinen eltern und vordern gehoert hab, daz die gar <choice><abbr>eigenl</abbr><expan>eigenlich</expan></choice> retten, daz
                <lb/>die hochen gericht, so zuo der <subst><del>herschaft</del><add place="above">grafschaft</add></subst> <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> gehoerren, anfachen
                <lb/>zuo dem <placeName>Windachten Boum</placeName> by der fluo ze <placeName ref="LOC_47.22557_8.82228">Rapreswil</placeName> und gand um
                <lb/>dannen in der <placeName ref="LOC_47.22983_8.83884">Jonen<add place="above">grund</add></placeName>, von der <placeName  ref="LOC_47.22983_8.83884">Jonen<add place="above">grund</add></placeName> in <del>die</del> daz <placeName ref="LOC_47.29586_8.70724">Asp</placeName>, daz <placeName ref="LOC_47.29586_8.70724">Asp</placeName> uf in
                <lb/>die <placeName>Langenegg</placeName>, von dannen gen <placeName>Aechtentswil</placeName> in die <placeName>Linden</placeName>,
                <lb/>usser der <placeName>Linden</placeName> in <placeName>Uttinger tobel</placeName>, <del>von</del> <placeName>Uttinger tobel</placeName> uf bis an den
-               <lb/><placeName>Rotenstein</placeName>, von dem <placeName>Rotenstein</placeName> an den <placeName ref="LOC_47.30614_8.96505">Toessstok</placeName>, <del><add place="above">und waz in den zilen</add></del> von dem <placeName>Toessstok</placeName>
+               <lb/><placeName ref="LOC_47.28454_8.82428">Rotenstein</placeName>, von dem <placeName ref="LOC_47.28454_8.82428">Rotenstein</placeName> an den <placeName ref="LOC_47.30614_8.96505">Toessstok</placeName>, <del><add place="above">und waz in den zilen</add></del> von dem <placeName ref="LOC_47.30614_8.96505">Toessstok</placeName>
                <lb/>bis gen <placeName ref="LOC_47.37209_8.86816">Landenberg</placeName> in den graben, <add place="above">und waz in den zilen snews her in smiltzet</add>, dannenthin gen <placeName ref="LOC_47.33319_8.80982">Kempten</placeName> in
                <lb/>den bach.</p>
             <p><lb/><persName>Heini Wartis</persName> von <placeName>Vegswil</placeName>, ist 70 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als <persName>Ruedger Cuontz</persName>,
@@ -100,7 +100,7 @@
                <lb/><del><persName>Heini Brendly</persName></del>
                <lb/><persName>Peter Gûntersperger</persName> ab <placeName ref="LOC_47.261_8.91057">Gûntersperg</placeName>, der ist by 80 jar alt und
                <lb/><choice><abbr>d</abbr><expan>dicit</expan></choice> als <persName>Ruedger Cuontz</persName>.
-               <lb/><persName>Hans Streller</persName> von <placeName ref="LOC_47.27595_8.91405">Wald</placeName>, ist ob 60 jar alt und <choice><abbr>d</abbr><expan>dicit</expan></choice> als der <persName>Cuontz</persName>.
+               <lb/><persName>Hans Streller</persName> von <placeName ref="LOC_47.28706_8.92092">Wald</placeName>, ist ob 60 jar alt und <choice><abbr>d</abbr><expan>dicit</expan></choice> als der <persName>Cuontz</persName>.
                <lb/><persName>Heini Brunner</persName> von <placeName ref="LOC_47.265_8.92851">Louppen</placeName> ist ob 50 jar alt und <choice><abbr>d</abbr><expan>dicit</expan></choice> als der <persName>Cuontz</persName>.
                <lb/><persName>Hans Buman</persName> usserm <placeName>Underholtz</placeName>, <choice><abbr>d</abbr><expan>dicit</expan></choice> als <persName>Ruedger Cuontz</persName>.
                <table>
@@ -118,13 +118,13 @@
                <row><cell><persName>Egly Cuentzy</persName> von <placeName>Gipfwil</placeName>, ist 45 jar alt,</cell><cell/></row>
                <row><cell><persName>Herman Weber</persName> ab <placeName>Hûschwil</placeName>, ist 40 jar alt,</cell><cell/></row>
                   <row> <cell><persName>Hans Turst</persName> von <placeName ref="LOC_47.30385_8.86546">Bernegg</placeName>, ist 50 jar alt,</cell><cell><choice><abbr>d</abbr><expan>dicit</expan></choice> als <persName>Ruedger Cuontz</persName>.</cell></row>
-                  <row><cell><persName>Ruedy Brendly</persName> von <placeName ref="LOC_47.27595_8.91405">Wald</placeName>, ist ob 50 jar alt,</cell><cell/></row>
+                  <row><cell><persName>Ruedy Brendly</persName> von <placeName ref="LOC_47.28706_8.92092">Wald</placeName>, ist ob 50 jar alt,</cell><cell/></row>
                <row><cell><persName>Uely Furer</persName> ab <placeName>Hûschwil</placeName>, ist by 40 jar alt,</cell><cell/></row></table></p>
             
             <pb n="2" facs="A_124_1__Nr__21__S__2_.tif"/>
             
             <p><lb/><persName>Hans Kumbelly</persName> von <placeName ref="LOC_47.25559_8.85806">Ferrich</placeName> <choice><abbr>d</abbr><expan>dicit</expan></choice>,
-               <lb/><persName>Cueny Cuontz</persName> von <placeName ref="LOC_47.27595_8.91405">Wald</placeName>, ist by 40 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice>
+               <lb/><persName>Cueny Cuontz</persName> von <placeName ref="LOC_47.28706_8.92092">Wald</placeName>, ist by 40 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice>
                <lb/><persName>Cueni Ris</persName> von <placeName ref="LOC_47.27942_8.86162">Obertûnnroten</placeName>, ist ob 30 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice>.</p>
             
             <p><lb/><persName>Heini Brendly</persName> von <placeName ref="LOC_47.28795_8.76324">Buel</placeName>, ist by 80 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als <placeName>Ruedger Cuontz</placeName>,
@@ -140,7 +140,7 @@
                <lb/>daz einer sas uff dem hof <placeName ref="LOC_47.29362_8.94768">Im Geheisch</placeName>, etwe vil jaren einem vogt von
                   <lb/><placeName ref="LOC_47.28333_8.75">Grueningen</placeName> jerlich ein kalb von liepdaett wegen schenkt. Item am lesten wolt
                   <lb/>derselb daz kalb nit mer geben. Item ein herr von <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> wolt daz haben
-                  <lb/>und leit uff den hof von <placeName ref="LOC_47.27595_8.91405">Wald</placeName> 1 pfund ewigs geltz fùr daz kalb. Daz
+                  <lb/>und leit uff den hof von <placeName ref="LOC_47.28706_8.92092">Wald</placeName> 1 pfund ewigs geltz fùr daz kalb. Daz
                   <lb/>selb  geltz gebent sy noch hûtt by tag und nempt man es <choice><abbr>kalbsd</abbr><expan>kalbsdenar</expan></choice>.</p>
                <p><lb/>Sy sagent ouch, daz inen wol wissent sye, daz einer saesse uff dem
                <lb/>hof <placeName ref="LOC_47.29362_8.94768">Im Geheisch</placeName>, hies der <persName>Wisman</persName>, wol zwûrent gevangen <del>war</del> und

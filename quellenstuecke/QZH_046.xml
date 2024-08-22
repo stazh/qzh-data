@@ -98,9 +98,9 @@
                <lb/>von <placeName ref="LOC_47.25708_8.93678">Dienberg</placeName> von diepstal wegen landflûchtig wurde
                <lb/>und griffe ein vogt von <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> zuo der varenden
                <lb/>hab und fuerte die ouch dannen. Er seit öch, wie <persName>Heini
-                  <lb/>Wal</persName>, der were des von <placeName ref="GND_120633957">Toggenburg</placeName> eigen. Der seitt
+                  <lb/>Wal</persName>, der were des von <persName ref="GND_120633957">Toggenburg</persName> eigen. Der seitt
                <lb/>dem <persName>Amman</persName> von <placeName ref="LOC_47.22538_8.94836">Schmerikon</placeName>, wie er bim <placeName ref="LOC_47.30614_8.96505">Toesstok</placeName> ein
-               <lb/>totten man bi der hindern <placeName ref="LOC_47.4789_8.70215">Toess</placeName> funden hette, <del><gap reason="illegible" unit="line" quantity="1.5"/></del>
+               <lb/>totten man bi der hindern <placeName ref="LOC_47.5519_8.55398">Toess</placeName> funden hette, <del><gap reason="illegible" unit="line" quantity="1.5"/></del>
                <lb/>der enbutti gen <placeName ref="LOC_47.28706_8.92092">Wald</placeName> eim weibel,
                  <lb/>daz er den totten man besorgoti <del><gap reason="illegible" unit="line" quantity="0.5"/></del>.
                <lb/>Aber seit er, daz <persName>Hans</persName> im <placeName ref="LOC_47.28928_8.9424">Oberholtz</placeName> und des sûn eim ein
@@ -111,7 +111,7 @@
                <lb/>seit er, daz der <persName>Kundig Cueni</persName> gefangen wurde im <placeName ref="LOC_47.29362_8.94768">Geheischt</placeName>,
                <lb/>gen <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> und da dannen gen <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.</p>
                <p><lb/>Fûrbas seit der <persName>Brunner</persName>, daz die <persName>Oberhoeltzer</persName> syen gesin
-                  <lb/>harkomen lùt und eigen der herschafft <persName ref="GND_1086313437">Toggenburg</persName>
+                  <lb/>harkomen lùt und eigen der herschafft <persName ref="GND_120633957">Toggenburg</persName>
                <lb/>und vor denen syen nie stoess gesin umb die gericht,
                <lb/>won sie demmal, daz si da hin komen syen.</p>
                <p><lb/><persName>Ruegger Cuontz</persName> von <placeName ref="LOC_47.28706_8.92092">Wald</placeName>, ist och ob 60 jaren, der seit
@@ -136,7 +136,7 @@
                <lb/><persName>Heini Brunner</persName> und der <persName>Cuontz</persName> geseit hand und ouch
                <lb/>von des junkherren diepstals wegen seit er ouch also.
                <lb/>Er seit ouch von der gefanknûssen wegen, so der <persName>Wisman</persName>
-               <lb/>in <placeName>Bonen</placeName> hinderm <placeName ref="47.29362_8.94768">Geheischt</placeName> gefangen ward, als der
+               <lb/>in <placeName>Bonen</placeName> hinderm <placeName ref="LOC_47.29362_8.94768">Geheischt</placeName> gefangen ward, als der
                <lb/><persName>Brunner</persName> geseit hahtt, des glich von <persName>Oberhoeltzern</persName>.</p>
                <p><lb/><persName>Hans Reinman</persName>, ist 60 jaren, seit wie er von <persName>Cuenin
                <lb/>Straeler</persName>, selig, gehoert hab, daz einer ze <placeName>Altertingen</placeName>
@@ -146,7 +146,7 @@
                <lb/><persName>Junkherren</persName> von <placeName ref="LOC_47.25708_8.93678">Dienbergin</placeName> diepstal, ist im ouch also
                <lb/>ze wûssen. Im ist öch von des fundnen toten mans
                <lb/>wegen, als ob stahtt, wol ze wússen, och umb des
-               <lb/><persName>Wismans</persName> gefenkúss in <placeName>Bonen</placeName> hinderm <placeName ref="47.29362_8.94768">Geheischt</placeName>,
+               <lb/><persName>Wismans</persName> gefenkúss in <placeName>Bonen</placeName> hinderm <placeName ref="LOC_47.29362_8.94768">Geheischt</placeName>,
                <lb/>ist im wol ze wussen, als ob statt.</p>
                <p><lb/><persName>Ruegga Gartner</persName>, ist ob 50 jaren, der seit vom fundnen
                <lb/>toten man, als <persName>Heini Brunner</persName> geseit hahtt.

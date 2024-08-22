@@ -50,9 +50,6 @@
             <place xml:id="QZH_045_32" n="Aechtischwil innn die Linden">
                 <placeName type="main">Aechtischwil innn die Linden</placeName>
             </place>
-            <place xml:id="loc_47.41814_8.5122" n="Affholtern">
-                <placeName type="main">Affholtern</placeName>
-            </place>
             <place xml:id="LOC_47.41814_8.5122" n="Affoltern, Affholtern">
                 <placeName type="main">Affholtern</placeName>
                 <placeName type="main">Affoltern</placeName>
@@ -94,19 +91,13 @@
                     <geo>47.42889 8.48121</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.31279_8.72325" n="Altdorff">
-                <placeName type="main">Altdorff</placeName>
-                <location>
-                    <geo>47.31279 8.72325</geo>
-                </location>
-            </place>
             <place xml:id="QZH_044_13" n="Alten Oetenbach">
                 <placeName type="main">Alten Oetenbach</placeName>
             </place>
             <place xml:id="QZH_047_29" n="Altertingen">
                 <placeName type="main">Altertingen</placeName>
             </place>
-            <place xml:id="QZH_046_42" n="Altertingen">
+            <place xml:id="QZH_046_41" n="Altertingen">
                 <placeName type="main">Altertingen</placeName>
             </place>
             <place xml:id="QZH_047_2" n="Altertingen">
@@ -118,20 +109,19 @@
             <place xml:id="QZH_047_15" n="Altertingen">
                 <placeName type="main">Altertingen</placeName>
             </place>
-            <place xml:id="QZH_046_33" n="Altertingen">
+            <place xml:id="QZH_046_32" n="Altertingen">
                 <placeName type="main">Altertingen</placeName>
             </place>
             <place xml:id="QZH_046_2" n="Altertingen">
                 <placeName type="main">Altertingen</placeName>
             </place>
-            <place xml:id="LOC_47.30958_8.72029" n="Altorff">
+            <place xml:id="LOC_47.31279_8.72325" n="Altdorff, Altorff, Altorffen">
+                <placeName type="main">Altorffen</placeName>
+                <placeName type="main">Altdorff</placeName>
                 <placeName type="main">Altorff</placeName>
                 <location>
-                    <geo>47.30958 8.72029</geo>
+                    <geo>47.31279 8.72325</geo>
                 </location>
-            </place>
-            <place xml:id="QZH_054_3" n="Altorffen">
-                <placeName type="main">Altorffen</placeName>
             </place>
             <place xml:id="LOC_47.61328_8.68124" n="Andelfingen">
                 <placeName type="main">Andelfingen</placeName>
@@ -146,12 +136,6 @@
                 <location>
                     <geo>45.75 7.25</geo>
                 </location>
-            </place>
-            <place xml:id="QZH_050_10" n="Asp">
-                <placeName type="main">Asp</placeName>
-            </place>
-            <place xml:id="QZH_050_9" n="Asp">
-                <placeName type="main">Asp</placeName>
             </place>
             <place xml:id="LOC_47.29586_8.70724" n="Asp">
                 <placeName type="main">Asp</placeName>
@@ -247,9 +231,6 @@
                     <geo>47.26943 8.42448</geo>
                 </location>
             </place>
-            <place xml:id="QZH_049_1" n="Bintzikon">
-                <placeName type="main">Bintzikon</placeName>
-            </place>
             <place xml:id="LOC_47.27632_8.75851" n="Binzikon, Bintzikon">
                 <placeName type="main">Bintzikon</placeName>
                 <placeName type="main">Binzikon</placeName>
@@ -272,19 +253,19 @@
             <place xml:id="QZH_047_34" n="Bonen">
                 <placeName type="main">Bonen</placeName>
             </place>
-            <place xml:id="QZH_046_50" n="Bonen">
-                <placeName type="main">Bonen</placeName>
-            </place>
             <place xml:id="QZH_047_25" n="Bonen">
                 <placeName type="main">Bonen</placeName>
             </place>
             <place xml:id="QZH_047_26" n="Bonen">
                 <placeName type="main">Bonen</placeName>
             </place>
-            <place xml:id="QZH_046_46" n="Bonen">
+            <place xml:id="QZH_046_45" n="Bonen">
                 <placeName type="main">Bonen</placeName>
             </place>
-            <place xml:id="QZH_046_40" n="Bonen">
+            <place xml:id="QZH_046_49" n="Bonen">
+                <placeName type="main">Bonen</placeName>
+            </place>
+            <place xml:id="QZH_046_39" n="Bonen">
                 <placeName type="main">Bonen</placeName>
             </place>
             <place xml:id="LOC_47.31505_8.46836" n="Bonstetten">
@@ -332,12 +313,6 @@
                     <geo>47.45876 8.43661</geo>
                 </location>
             </place>
-            <place xml:id="QZH_050_44" n="Buel">
-                <placeName type="main">Buel</placeName>
-            </place>
-            <place xml:id="QZH_050_42" n="Buel">
-                <placeName type="main">Buel</placeName>
-            </place>
             <place xml:id="LOC_47.26698_8.8179" n="Buobiken">
                 <placeName type="main">Buobiken</placeName>
                 <location>
@@ -364,18 +339,17 @@
                     <geo>50 14.5</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.26542_8.79663" n="Bùrg">
+            <place xml:id="LOC_47.26542_8.79663" n="Bùrg, Bûrg">
                 <placeName type="main">Bùrg</placeName>
+                <placeName type="main">Bûrg</placeName>
                 <location>
                     <geo>47.26542 8.79663</geo>
                 </location>
             </place>
-            <place xml:id="QZH_048_4" n="Bûrg">
-                <placeName type="main">Bûrg</placeName>
-            </place>
-            <place xml:id="LOC_47.28795_8.76324" n="Büel, Buͤel">
+            <place xml:id="LOC_47.28795_8.76324" n="Büel, Buͤel, Buel">
                 <placeName type="main">Büel</placeName>
                 <placeName type="main">Buͤel</placeName>
+                <placeName type="main">Buel</placeName>
                 <location>
                     <geo>47.28795 8.76324</geo>
                 </location>
@@ -453,10 +427,13 @@
                     <geo>46.6587 9.62296</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.27572_8.85378" n="Du̍nroten">
-                <placeName type="main">Du̍nroten</placeName>
+            <place xml:id="LOC_47.4789_8.70215" n="Töss, Dös, Toͤsser, Tösser">
+                <placeName type="main">Dös</placeName>
+                <placeName type="main">Toͤsser</placeName>
+                <placeName type="main">Töss</placeName>
+                <placeName type="main">Tösser</placeName>
                 <location>
-                    <geo>47.27572 8.85378</geo>
+                    <geo>47.4789 8.70215</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.39052_8.61719" n="Dübendorf, Dübendorff">
@@ -617,19 +594,16 @@
             <place xml:id="QZH_036_15" n="Furtbach">
                 <placeName type="main">Furtbach</placeName>
             </place>
-            <place xml:id="QZH_052_5" n="Geheisch">
-                <placeName type="main">Geheisch</placeName>
-            </place>
-            <place xml:id="47.29362_8.94768" n="Geheischt, Im Geheisch">
-                <placeName type="main">Geheischt</placeName>
-                <placeName type="main">Im Geheisch</placeName>
-            </place>
             <place xml:id="LOC_47.29362_8.94768" n="Im Geheisch, Geheischt">
                 <placeName type="main">Geheischt</placeName>
                 <placeName type="main">Im Geheisch</placeName>
                 <location>
                     <geo>47.29362 8.94768</geo>
                 </location>
+            </place>
+            <place xml:id="47.29362_8.94768" n="Im Geheisch, Geheischt">
+                <placeName type="main">Geheischt</placeName>
+                <placeName type="main">Im Geheisch</placeName>
             </place>
             <place xml:id="LOC_46.20222_6.14569" n="Genf, Genff">
                 <placeName type="main">Genf</placeName>
@@ -672,9 +646,6 @@
                     <geo>47.3051 8.75831</geo>
                 </location>
             </place>
-            <place xml:id="loc_46.6587_9.62296" n="Graubünden">
-                <placeName type="main">Graubünden</placeName>
-            </place>
             <place xml:id="LOC_47.36583_8.67896" n="Greifensee">
                 <placeName type="main">Greifensee</placeName>
                 <location>
@@ -706,12 +677,6 @@
                     <geo>47.28333 8.75</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.28333_8.7" n="Grüningen">
-                <placeName type="main">Grüningen</placeName>
-                <location>
-                    <geo>47.28333 8.7</geo>
-                </location>
-            </place>
             <place xml:id="47.28333_8.75" n="Grüningen">
                 <placeName type="main">Grüningen</placeName>
             </place>
@@ -721,15 +686,13 @@
                     <geo>47.41896 8.72177</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.261_8.91057" n="Gùntersperg, Gúntersperg">
+            <place xml:id="LOC_47.261_8.91057" n="Gùntersperg, Gúntersperg, Gûntersperg">
+                <placeName type="main">Gûntersperg</placeName>
                 <placeName type="main">Gùntersperg</placeName>
                 <placeName type="main">Gúntersperg</placeName>
                 <location>
                     <geo>47.261 8.91057</geo>
                 </location>
-            </place>
-            <place xml:id="QZH_050_24" n="Gûntersperg">
-                <placeName type="main">Gûntersperg</placeName>
             </place>
             <place xml:id="LOC_47.2875_8.85719" n="Hadlinkon, Hadlikon">
                 <placeName type="main">Hadlinkon</placeName>
@@ -892,18 +855,6 @@
                     <geo>47.19127 8.41962</geo>
                 </location>
             </place>
-            <place xml:id="QZH_050_51" n="Im Geheisch">
-                <placeName type="main">Im Geheisch</placeName>
-            </place>
-            <place xml:id="QZH_050_47" n="Im Geheisch">
-                <placeName type="main">Im Geheisch</placeName>
-            </place>
-            <place xml:id="QZH_050_46" n="Im Geheisch">
-                <placeName type="main">Im Geheisch</placeName>
-            </place>
-            <place xml:id="QZH_052_2" n="Im Geheisch">
-                <placeName type="main">Im Geheisch</placeName>
-            </place>
             <place xml:id="QZH_051_1" n="Im Geheisch">
                 <placeName type="main">Im Geheisch</placeName>
             </place>
@@ -919,20 +870,13 @@
             <place xml:id="QZH_044_50" n="Johanns">
                 <placeName type="main">Johanns</placeName>
             </place>
-            <place xml:id="LOC_47.22983_8.83884" n="Jonengrund">
+            <place xml:id="LOC_47.22983_8.83884" n="Jonnengrund, Jonengrund, Jonnen grund">
+                <placeName type="main">Jonnen grund</placeName>
+                <placeName type="main">Jonnengrund</placeName>
                 <placeName type="main">Jonengrund</placeName>
                 <location>
                     <geo>47.22983 8.83884</geo>
                 </location>
-            </place>
-            <place xml:id="QZH_045_16" n="Jonengrund">
-                <placeName type="main">Jonengrund</placeName>
-            </place>
-            <place xml:id="QZH_045_28" n="Jonnen grund">
-                <placeName type="main">Jonnen grund</placeName>
-            </place>
-            <place xml:id="QZH_045_3" n="Jonnengrund">
-                <placeName type="main">Jonnengrund</placeName>
             </place>
             <place xml:id="LOC_47.29359_8.74442" n="Jungholtz">
                 <placeName type="main">Jungholtz</placeName>
@@ -956,16 +900,16 @@
             <place xml:id="QZH_015_12" n="Kellerampt">
                 <placeName type="main">Kellerampt</placeName>
             </place>
-            <place xml:id="LOC_47.33319_8.80982" n="Kempten">
-                <placeName type="main">Kempten</placeName>
-                <location>
-                    <geo>47.33319 8.80982</geo>
-                </location>
-            </place>
             <place xml:id="LOC_47.4472_8.70443" n="Kempten">
                 <placeName type="main">Kempten</placeName>
                 <location>
                     <geo>47.4472 8.70443</geo>
+                </location>
+            </place>
+            <place xml:id="LOC_47.33319_8.80982" n="Kempten">
+                <placeName type="main">Kempten</placeName>
+                <location>
+                    <geo>47.33319 8.80982</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.23373_8.81893" n="Kemraten">
@@ -979,12 +923,6 @@
                 <placeName type="main">Kärnten</placeName>
                 <location>
                     <geo>46.75 13.83333</geo>
-                </location>
-            </place>
-            <place xml:id="LOC_47.45569_8.74476" n="Kiburg">
-                <placeName type="main">Kiburg</placeName>
-                <location>
-                    <geo>47.45569 8.74476</geo>
                 </location>
             </place>
             <place xml:id="LOC_47.45249_8.7485" n="Kyburg, Kiburg, Kyburch">
@@ -1045,9 +983,6 @@
             <place xml:id="QZH_034_9" n="Ku̍nges Wingarten">
                 <placeName type="main">Ku̍nges Wingarten</placeName>
             </place>
-            <place xml:id="47.45249_8.7485" n="Kyburg">
-                <placeName type="main">Kyburg</placeName>
-            </place>
             <place xml:id="LOC_47.31805_8.58401" n="Küsnacht">
                 <placeName type="main">Küsnacht</placeName>
                 <location>
@@ -1064,12 +999,6 @@
             <place xml:id="45.66667_9.5" n="Lamparten">
                 <placeName type="main">Lamparten</placeName>
             </place>
-            <place xml:id="LOC_47.37275_8.87235" n="Landenberg">
-                <placeName type="main">Landenberg</placeName>
-                <location>
-                    <geo>47.37275 8.87235</geo>
-                </location>
-            </place>
             <place xml:id="LOC_47.37209_8.86816" n="Landenberg">
                 <placeName type="main">Landenberg</placeName>
                 <location>
@@ -1079,15 +1008,15 @@
             <place xml:id="QZH_044_37" n="Landoltzaker">
                 <placeName type="main">Landoltzaker</placeName>
             </place>
-            <place xml:id="QZH_050_11" n="Langenegg">
-                <placeName type="main">Langenegg</placeName>
-            </place>
             <place xml:id="LOC_47.17076_9.21729" n="Langen Egg, Langenegg">
                 <placeName type="main">Langenegg</placeName>
                 <placeName type="main">Langen Egg</placeName>
                 <location>
                     <geo>47.17076 9.21729</geo>
                 </location>
+            </place>
+            <place xml:id="QZH_050_11" n="Langenegg">
+                <placeName type="main">Langenegg</placeName>
             </place>
             <place xml:id="QZH_044_43" n="Langriet">
                 <placeName type="main">Langriet</placeName>
@@ -1282,16 +1211,15 @@
                     <geo>47.22281 8.90886</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.27942_8.86162" n="Oberdúnertten, Oberdierntten">
+            <place xml:id="LOC_47.27942_8.86162" n="Oberdúrnten, Oberdúnertten, Oberdierntten, Obertûnnroten, Ober Tûnnroten">
+                <placeName type="main">Oberdúrnten</placeName>
+                <placeName type="main">Ober Tûnnroten</placeName>
                 <placeName type="main">Oberdúnertten</placeName>
                 <placeName type="main">Oberdierntten</placeName>
+                <placeName type="main">Obertûnnroten</placeName>
                 <location>
                     <geo>47.27942 8.86162</geo>
                 </location>
-            </place>
-            <place xml:id="LOC_47.27942, 8.86162" n="Oberdúrnten, Ober Tûnnroten">
-                <placeName type="main">Oberdúrnten</placeName>
-                <placeName type="main">Ober Tûnnroten</placeName>
             </place>
             <place xml:id="LOC_47.3699_8.5425" n="Obere Brücke, Münsterbrücke, Ober Bruggen">
                 <placeName type="main">Obere Brücke</placeName>
@@ -1301,15 +1229,15 @@
                     <geo>47.3699 8.5425</geo>
                 </location>
             </place>
-            <place xml:id="QZH_036_2" n="Oberholtz">
-                <placeName type="main">Oberholtz</placeName>
-            </place>
             <place xml:id="LOC_47.28928_8.9424" n="Oberholtz, Oberholt">
                 <placeName type="main">Oberholtz</placeName>
                 <placeName type="main">Oberholt</placeName>
                 <location>
                     <geo>47.28928 8.9424</geo>
                 </location>
+            </place>
+            <place xml:id="QZH_036_2" n="Oberholtz">
+                <placeName type="main">Oberholtz</placeName>
             </place>
             <place xml:id="QZH_054_22" n="Oberhusen">
                 <placeName type="main">Oberhusen</placeName>
@@ -1327,9 +1255,6 @@
                     <geo>48.46222 7.48194</geo>
                 </location>
             </place>
-            <place xml:id="QZH_050_41" n="Obertûnnroten">
-                <placeName type="main">Obertûnnroten</placeName>
-            </place>
             <place xml:id="QZH_003_29" n="Ochssen">
                 <placeName type="main">Ochssen</placeName>
             </place>
@@ -1339,10 +1264,7 @@
                     <geo>47.23925 8.72314</geo>
                 </location>
             </place>
-            <place xml:id="QZH_055_32" n="Optikon">
-                <placeName type="main">Optikon</placeName>
-            </place>
-            <place xml:id="LOC_47.2946_8.78194" n="Optinkon, Optikon, Opptikon">
+            <place xml:id="LOC_47.2946_8.78194" n="Optikon, Optinkon, Opptikon">
                 <placeName type="main">Optinkon</placeName>
                 <placeName type="main">Opptikon</placeName>
                 <placeName type="main">Optikon</placeName>
@@ -1434,9 +1356,6 @@
                     <geo>47.4341 8.46874</geo>
                 </location>
             </place>
-            <place xml:id="QZH_056_21" n="Regensperg">
-                <placeName type="main">Regensperg</placeName>
-            </place>
             <place xml:id="LOC_46.82704_9.4076" n="Reichenau in Graubünden">
                 <placeName type="main">Reichenau in Graubünden</placeName>
                 <location>
@@ -1450,19 +1369,19 @@
                     <geo>47.52807 8.74843</geo>
                 </location>
             </place>
+            <place xml:id="QZH_054_35" n="Riet">
+                <placeName type="main">Riet</placeName>
+            </place>
             <place xml:id="QZH_047_42" n="Riet">
                 <placeName type="main">Riet</placeName>
             </place>
             <place xml:id="QZH_050_30" n="Riet">
                 <placeName type="main">Riet</placeName>
             </place>
-            <place xml:id="QZH_054_35" n="Riet">
-                <placeName type="main">Riet</placeName>
-            </place>
             <place xml:id="QZH_054_4" n="Rietlikon">
                 <placeName type="main">Rietlikon</placeName>
             </place>
-            <place xml:id="QZH_046_51" n="Riett">
+            <place xml:id="QZH_046_50" n="Riett">
                 <placeName type="main">Riett</placeName>
             </place>
             <place xml:id="QZH_036_20" n="Riettwis">
@@ -1491,23 +1410,18 @@
                     <geo>41.8925 12.48499</geo>
                 </location>
             </place>
-            <place xml:id="QZH_050_18" n="Rotenstein">
+            <place xml:id="LOC_47.28454_8.82428" n="Rotten Stein, Rotenstein">
                 <placeName type="main">Rotenstein</placeName>
-            </place>
-            <place xml:id="QZH_050_17" n="Rotenstein">
-                <placeName type="main">Rotenstein</placeName>
+                <placeName type="main">Rotten Stein</placeName>
+                <location>
+                    <geo>47.28454 8.82428</geo>
+                </location>
             </place>
             <place xml:id="QZH_044_11" n="Rotenweg">
                 <placeName type="main">Rotenweg</placeName>
             </place>
             <place xml:id="QZH_044_10" n="Rotenweg">
                 <placeName type="main">Rotenweg</placeName>
-            </place>
-            <place xml:id="LOC_47.28454_8.82428" n="Rotten Stein">
-                <placeName type="main">Rotten Stein</placeName>
-                <location>
-                    <geo>47.28454 8.82428</geo>
-                </location>
             </place>
             <place xml:id="QZH_050_43" n="Ruedger Cuontz">
                 <placeName type="main">Ruedger Cuontz</placeName>
@@ -1700,12 +1614,6 @@
                     <geo>47.26898 8.85024</geo>
                 </location>
             </place>
-            <place xml:id="QZH_044_31" n="Tann">
-                <placeName type="main">Tann</placeName>
-            </place>
-            <place xml:id="QZH_044_32" n="Tann">
-                <placeName type="main">Tann</placeName>
-            </place>
             <place xml:id="LOC_47.29449_8.75548" n="Tägernau, Tägernauw, Tegernow">
                 <placeName type="main">Tegernow</placeName>
                 <placeName type="main">Tägernau</placeName>
@@ -1739,18 +1647,6 @@
                     <geo>47.30614 8.96505</geo>
                 </location>
             </place>
-            <place xml:id="QZH_050_20" n="Toessstok">
-                <placeName type="main">Toessstok</placeName>
-            </place>
-            <place xml:id="GND_120633957" n="Toggenburg">
-                <placeName type="main">Toggenburg</placeName>
-            </place>
-            <place xml:id="LOC_47.5519_8.55398" n="Toß">
-                <placeName type="main">Toß</placeName>
-                <location>
-                    <geo>47.5519 8.55398</geo>
-                </location>
-            </place>
             <place xml:id="QZH_044_6" n="Toͤstobel">
                 <placeName type="main">Toͤstobel</placeName>
             </place>
@@ -1774,30 +1670,26 @@
                     <geo>47.25 11.33333</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.4789_8.70215" n="Töss, Dös, Toͤsser, Tösser, Töß, Tössin, Toess">
+            <place xml:id="LOC_47.5519_8.55398" n="Töß, Toß, Tössin, Toess">
                 <placeName type="main">Tössin</placeName>
-                <placeName type="main">Dös</placeName>
-                <placeName type="main">Toͤsser</placeName>
-                <placeName type="main">Töss</placeName>
-                <placeName type="main">Tösser</placeName>
+                <placeName type="main">Toß</placeName>
                 <placeName type="main">Toess</placeName>
                 <placeName type="main">Töß</placeName>
                 <location>
-                    <geo>47.4789 8.70215</geo>
+                    <geo>47.5519 8.55398</geo>
                 </location>
             </place>
-            <place xml:id="QZH_054_7" n="Túffental">
-                <placeName type="main">Túffental</placeName>
-            </place>
-            <place xml:id="LOC_47.3002_8.70408" n="Tûffental">
+            <place xml:id="LOC_47.3002_8.70408" n="Tûffental, Túffental">
                 <placeName type="main">Tûffental</placeName>
+                <placeName type="main">Túffental</placeName>
                 <location>
                     <geo>47.3002 8.70408</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.27856_8.84156" n="Tùnnrothen, Dùrnten, Tûnnroten, Du̍rnten">
+            <place xml:id="LOC_47.27856_8.84156" n="Du̍nroten, Tùnnrothen, Dùrnten, Tûnnroten, Du̍rnten">
                 <placeName type="main">Tûnnroten</placeName>
                 <placeName type="main">Dùrnten</placeName>
+                <placeName type="main">Du̍nroten</placeName>
                 <placeName type="main">Du̍rnten</placeName>
                 <placeName type="main">Tùnnrothen</placeName>
                 <location>
@@ -1811,7 +1703,7 @@
                     <geo>47.2367 8.7573</geo>
                 </location>
             </place>
-            <place xml:id="QZH_056_33" n="Uff Dorff">
+            <place xml:id="QZH_056_36" n="Uff Dorff">
                 <placeName type="main">Uff Dorff</placeName>
             </place>
             <place xml:id="QZH_036_14" n="Undergrisch">
@@ -1870,13 +1762,13 @@
             <place xml:id="QZH_045_9" n="Uttinger tobel">
                 <placeName type="main">Uttinger tobel</placeName>
             </place>
+            <place xml:id="QZH_045_10" n="Uttinger tobel">
+                <placeName type="main">Uttinger tobel</placeName>
+            </place>
             <place xml:id="QZH_050_16" n="Uttinger tobel">
                 <placeName type="main">Uttinger tobel</placeName>
             </place>
             <place xml:id="QZH_050_15" n="Uttinger tobel">
-                <placeName type="main">Uttinger tobel</placeName>
-            </place>
-            <place xml:id="QZH_045_10" n="Uttinger tobel">
                 <placeName type="main">Uttinger tobel</placeName>
             </place>
             <place xml:id="LOC_47.22421_8.98263" n="Utznach">
@@ -1893,7 +1785,7 @@
                     <geo>50.35909 3.52506</geo>
                 </location>
             </place>
-            <place xml:id="QZH_056_23" n="Vallenden Brunnen">
+            <place xml:id="QZH_056_26" n="Vallenden Brunnen">
                 <placeName type="main">Vallenden Brunnen</placeName>
             </place>
             <place xml:id="QZH_050_45" n="Vegswil">
@@ -1946,9 +1838,6 @@
                 <location>
                     <geo>47.27595 8.91405</geo>
                 </location>
-            </place>
-            <place xml:id="QZH_049_33" n="Wald">
-                <placeName type="main">Wald</placeName>
             </place>
             <place xml:id="LOC_47.28706_8.92092" n="Wald">
                 <placeName type="main">Wald</placeName>
@@ -2115,29 +2004,17 @@
                     <geo>47.36667 8.55</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.36667_8.5" n="Zûrich">
-                <placeName type="main">Zûrich</placeName>
-                <location>
-                    <geo>47.36667 8.5</geo>
-                </location>
-            </place>
             <place xml:id="LOC_47.23129_8.70336" n="Zûrichse">
                 <placeName type="main">Zûrichse</placeName>
                 <location>
                     <geo>47.23129 8.70336</geo>
                 </location>
             </place>
-            <place xml:id="47.41667, 8.66667" n="Zürich">
-                <placeName type="main">Zürich</placeName>
-            </place>
             <place xml:id="LOC_47.38572_8.56687" n="Zürichberg">
                 <placeName type="main">Zürichberg</placeName>
                 <location>
                     <geo>47.38572 8.56687</geo>
                 </location>
-            </place>
-            <place xml:id="QZH_052_3" n="im Geheisch">
-                <placeName type="main">im Geheisch</placeName>
             </place>
             <place xml:id="LOC_47.374444_8.541111" n="Oetenbach, Ötenbach, Öttenbach">
                 <placeName type="main">Öttenbach</placeName>
