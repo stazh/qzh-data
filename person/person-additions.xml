@@ -36,12 +36,16 @@
         <persName ref="GND_102534357">Leemann, Burkhard</persName>
         <placeName ref="GND_136648320">Leopold IV.</placeName>
         <persName ref="GND_118614185">Sigismund</persName>
+        <persName ref="GND_118614185">Sigismund von Luxemburg</persName>
         <persName ref="GND_1089383738">Tobler, Georg Christoph</persName>
         <persName ref="GND_1089450052">Vögeli, Hans Heinrich</persName>
         <persName ref="GND_1089336586">Escher, Hans Jakob</persName>
         <persName ref="GND_1089568401">Orelli, Felix von</persName>
         <persName ref="GND_1033021792">Billeter, Kaspar</persName>
         <persName ref="GND_1089110189">Nehracher, Heinrich</persName>
-
+        <persName ref="GND_120633957">Toggenburger</persName>
+        <persName ref="GND_120633957">Toggenburg, Grafen von</persName>
+        <persName ref="GND_118826891">Kyburg, Grafen von</persName>
+       <persName ref="GND_118501615">Albrecht II, König</persName>
     </text>
 </TEI>

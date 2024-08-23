@@ -85,7 +85,7 @@
                <lb/>als von der hochen gerichten wegen, so zuo der grafschaft <placeName ref="LOC_47.28333_8.75">Grueningen</placeName>
                <lb />gehoerent, und wie wol dis kuntschaft und der alt rodel,
                <lb/>die lagen und kreiss nit gelich nemment, so zichent sich doch die kriess ze G<damage agent="faded ink"><supplied resp="msr">rüningen</supplied></damage></head>
-            <p><lb/><persName>Rudger Cuontz </persName>von <placeName ref="LOC_47.28706_8.92092">Wald</placeName> ist by 50 jar alt und seit, daz er von
+            <p><lb/><persName>Rudger Cuontz</persName>von <placeName ref="LOC_47.28706_8.92092">Wald</placeName> ist by 50 jar alt und seit, daz er von
                <lb/>sinen eltern und vordern gehoert hab, daz die gar <choice><abbr>eigenl</abbr><expan>eigenlich</expan></choice> retten, daz
                <lb/>die hochen gericht, so zuo der <subst><del>herschaft</del><add place="above">grafschaft</add></subst> <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> gehoerren, anfachen
                <lb/>zuo dem <placeName>Windachten Boum</placeName> by der fluo ze <placeName ref="LOC_47.22557_8.82228">Rapreswil</placeName> und gand um
@@ -127,7 +127,7 @@
                <lb/><persName>Cueny Cuontz</persName> von <placeName ref="LOC_47.28706_8.92092">Wald</placeName>, ist by 40 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice>
                <lb/><persName>Cueni Ris</persName> von <placeName ref="LOC_47.27942_8.86162">Obertûnnroten</placeName>, ist ob 30 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice>.</p>
             
-            <p><lb/><persName>Heini Brendly</persName> von <placeName ref="LOC_47.28795_8.76324">Buel</placeName>, ist by 80 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als <placeName>Ruedger Cuontz</placeName>,
+            <p><lb/><persName>Heini Brendly</persName> von <placeName ref="LOC_47.28795_8.76324">Buel</placeName>, ist by 80 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als <persName>Ruedger Cuontz</persName>,
                <lb/>dann umb den windachten boum, den hat er nit gehoert nennnen.</p>
             <p><lb/><persName>Ruedy Langenrûtten</persName> von <placeName ref="LOC_47.28795_8.76324">Buel</placeName>, ist 60 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als der <persName>Brendly</persName>.
                <lb/><persName>Casper Schnider</persName> von <placeName>Vegswil</placeName>, ist 50 jar alt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als der <persName>Brendly</persName>.
@@ -144,10 +144,10 @@
                   <lb/>selb  geltz gebent sy noch hûtt by tag und nempt man es <choice><abbr>kalbsd</abbr><expan>kalbsdenar</expan></choice>.</p>
                <p><lb/>Sy sagent ouch, daz inen wol wissent sye, daz einer saesse uff dem
                <lb/>hof <placeName ref="LOC_47.29362_8.94768">Im Geheisch</placeName>, hies der <persName>Wisman</persName>, wol zwûrent gevangen <del>war</del> und
-               <lb/>gen <placeName>Grueningen</placeName> gefuert wurde, von des wegen, daz er den voegten nit
+               <lb/>gen <placeName ref="LOC_47.28333_8.75">Grueningen</placeName> gefuert wurde, von des wegen, daz er den voegten nit
                <lb/>woelt gehorsamy tuon. Und wart allweg darzuo gehalten, daz er swerren
                <lb/>und gehorsamy tuon muosset, als ein ander, der in hochen und kleinnen
-               <lb/>gerichten sesshaft ist, daz daz von minem herren von <persName>Toggenburg</persName> noch
+               <lb/>gerichten sesshaft ist, daz daz von minem herren von <persName ref="GND_120633957">Toggenburg</persName> noch
                <lb/>nieman andern nie gewert wart.</p>
          </div>
       </body>

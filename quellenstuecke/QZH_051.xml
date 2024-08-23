@@ -77,11 +77,11 @@
       <body>
          <div>
             <pb n="1" facs="A_124_1__Nr__22.tif"/>
-            <p><lb/><persName>Stoffel Muggly</persName> <choice><abbr>d</abbr><expan>dicit</expan></choice>, daz im wol wissent sye, daz der hof <placeName>Im Geheisch</placeName>,
+            <p><lb/><persName>Stoffel Muggly</persName> <choice><abbr>d</abbr><expan>dicit</expan></choice>, daz im wol wissent sye, daz der hof <placeName ref="LOC_47.29362_8.94768">Im Geheisch</placeName>,
                <lb/>dar uff <persName>Cuoni Oberhoeltzer</persName> gevangen ist, <add place="above">mer dann</add> <del>lxj</del> einer <subst><del>halben</del><add place="above">viertden teil einer</add></subst> mil weg<subst><del>g</del><add place="inline">s</add></subst> inwendig
                <lb/>den kreiß ligge, als der rodel innhalt.</p>
-            <p><lb/><persName>Hans Heintz</persName> von <placeName ref="LOC_47.2367_8.7573">Uerikon</placeName> <choice><abbr>d</abbr><expan>dicit</expan></choice>, daz im wol wissent ist, daz der hof <placeName ref="LOC_47.29362_8.94768">Im
-               <lb/>Geheisch</placeName> gar umb ein guoten weg lit, innwendig den kreiß, als
+            <p><lb/><persName>Hans Heintz</persName> von <placeName ref="LOC_47.2367_8.7573">Uerikon</placeName> <choice><abbr>d</abbr><expan>dicit</expan></choice>, daz im wol wissent ist, daz der hof im
+               <lb/><placeName ref="LOC_47.29362_8.94768">Geheisch</placeName> gar umb ein guoten weg lit, innwendig den kreiß, als
                <lb/>der rodel innhalt.</p>
             <p><lb/>Item <unclear>Zimer</unclear>, <choice><abbr>d</abbr><expan>dicit</expan></choice> als <persName>Stoffel Muggly</persName>.</p>
             <p><lb/><persName>Hans Leman</persName>, undervogt, <choice><abbr>d</abbr><expan>dicit</expan></choice> als <persName>Stoffel Muggly</persName>.</p>

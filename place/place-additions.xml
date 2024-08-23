@@ -15,6 +15,7 @@
         <placeName ref="LOC_46_2">Frankreich</placeName>
         <placeName ref="LOC_47.57117_8.65006">Dorf</placeName>
         <placeName ref="LOC_47.4789_8.70215">Töss</placeName>
+        <placeName ref="LOC_47.4789_8.70215">Töss, Kloster</placeName>
         <placeName ref="LOC_47.2235_8.46197">Knonau</placeName>
         <placeName ref="LOC_47.26943_8.42448">Bickwil</placeName>
         <placeName ref="LOC_47.22523_8.51104">Kappel</placeName>
@@ -77,5 +78,11 @@
          <placeName ref="LOC_47.59729_8.78482">Niederneunforn</placeName>
          <placeName ref="LOC_47.47943_8.90722">Tänikon</placeName>
          <placeName ref="LOC_47.2367_8.7573">Uerikon</placeName>
+         <placeName ref="LOC_47.27942_8.86162">Oberdürnten</placeName>
+         <placeName ref="LOC_47.27856_8.84156">Dürnten</placeName>
+         <placeName ref="LOC_47.45041_8.52993">Rümlang</placeName>
+         <placeName ref="LOC_47.22557_8.82228">Rapperwil</placeName>
+         <placeName ref="LOC_47.31279_8.72325">Mönchaltorf</placeName>
+         <placeName ref="LOC_45.66667_9.5">Lombardei</placeName>
     </text>
 </TEI>
