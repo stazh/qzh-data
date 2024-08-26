@@ -22,6 +22,10 @@
                         <desc xml:lang="deu">Alkohol</desc>
                         <gloss>Chemische Verbindung, Genussmittel</gloss>
                     </category>
+                    <category xml:id="key000207">
+                        <desc xml:lang="deu">Amt</desc>
+                        <gloss>Dienst, Amtsstelle, Amtsgewalt</gloss>
+                    </category>
                     <category xml:id="key005358">
                         <desc xml:lang="deu">Armenversorgung</desc>
                         <gloss>Versorgung der Armen</gloss>
@@ -29,6 +33,10 @@
                     <category xml:id="key111118">
                         <desc xml:lang="deu">Arbeitsunfähigkeit</desc>
                         <gloss>Durch gesundheitliche Gründe verursachter Verlust der Fähigkeit, eine Arbeit auszuüben</gloss>
+                    </category>
+                    <category xml:id="key004175">
+                        <desc xml:lang="deu">Ausgaben</desc>
+                        <gloss>von Geld</gloss>
                     </category>
                     <category xml:id="key005343">
                         <desc xml:lang="deu">Ausserehelicher Geschlechtsverkehr</desc>
@@ -38,6 +46,10 @@
                         <desc xml:lang="deu">Ausweisung</desc>
                         <gloss>Verweis aus einem Gebiet bzw. in ein Gebiet</gloss>
                     </category>
+                    <category xml:id="key000490">
+                        <desc xml:lang="deu">Bauwesen</desc>
+                        <gloss>Bautätigkeit, die dem kollektiven oder individuellen, öffentlichen oder privaten Bedarf dient</gloss>
+                        </category>
                     <category xml:id="key000581">
                         <desc xml:lang="deu">Bettel</desc>
                         <gloss>Hilfsbedürftiger, von Almosen lebender Mensch</gloss>
@@ -58,6 +70,14 @@
                         <desc xml:lang="deu">Brauchtum</desc>
                         <gloss>Gewohnheit, Sitte</gloss>
                     </category>
+                    <category xml:id="key005369">
+                        <desc xml:lang="deu">Buchführung</desc>
+                        <gloss>Rechnungsführung</gloss>
+                        </category>
+                    <category xml:id="key000499">
+                        <desc xml:lang="deu">Bürgschaft</desc>
+                        <gloss>Haftung, Garantie, Gewähr</gloss>
+                    </category>
                     <category xml:id="key000184">
                         <desc xml:lang="deu">Bussen</desc>
                         <gloss>Geldstrafe für eine Normverletzung</gloss>
@@ -72,6 +92,7 @@
                     </category>
                     <category xml:id="key000479">
                         <desc xml:lang="deu">Dienstpflicht</desc>
+                        <gloss>Verpflichtung zur Arbeitsleistung</gloss>
                     </category>
                     <category xml:id="key111116">
                         <desc xml:lang="deu">Drohung</desc>
@@ -84,6 +105,10 @@
                     <category xml:id="key000611">
                         <desc xml:lang="deu">Ehebruch</desc>
                         <gloss>Verletzung der in der Ehe gelobten Treue</gloss>
+                    </category>
+                    <category xml:id="key000061">
+                        <desc xml:lang="deu">Ehegenossame</desc>
+                        <gloss>Vereinbarungen zwischen Herrschaften, in denen diese ihren Eigenleuten wechselseitig Ehefreiheit einräumten</gloss>
                     </category>
                     <category xml:id="key004344">
                         <desc xml:lang="deu">Ehegericht</desc>
@@ -105,9 +130,17 @@
                         <desc xml:lang="deu">Erbrecht</desc>
                         <gloss>Rechtsnormen, die den Übergang des Vermögens eines Verstorbenen (Erblasser) auf andere Personen (Erben) regeln</gloss>
                     </category>
+                    <category xml:id="key000183">
+                        <desc xml:lang="deu">Fall</desc>
+                        <gloss>Todfall, das dem Grund- oder Leibherrn von der fahrenden Habe des Leibeigenen zufallende Stück</gloss>
+                    </category>
                     <category xml:id="key000816">
                         <desc xml:lang="deu">Familie</desc>
                         <gloss>Gruppe aller miteinander (bluts)verwandten Personen</gloss>
+                    </category>
+                    <category xml:id="key004536">
+                        <desc xml:lang="deu">Finanzen</desc>
+                        <gloss>Finanzverwaltung</gloss>
                     </category>
                     <category xml:id="key004380">
                         <desc xml:lang="deu">Fluchen/Schwören</desc>
@@ -124,9 +157,17 @@
                         <desc xml:lang="deu">Frauengut</desc>
                         <gloss>Vermögen der Ehefrau, das sie in die Ehe einbringt</gloss>
                     </category>
+                    <category xml:id="key003290">
+                        <desc xml:lang="deu">Freizügigkeit</desc>
+                        <gloss>Recht auf den freien Wegzug bzw. Wohnsitzwechsel</gloss>
+                    </category>
                     <category xml:id="key000325">
                         <desc xml:lang="deu">Fremder</desc>
                         <gloss>Person, die nicht dem eigenen Rechtskreis angehört und bei verminderter Rechtsfähigkeit Beschränkungen im Alltag und Erwerbsleben erfährt</gloss>
+                    </category>
+                    <category xml:id="key000506">
+                        <desc xml:lang="deu">Friedbruch</desc>
+                        <gloss>Bruch eines gebotenen Friedens</gloss>
                     </category>
                     <category xml:id="key003009">
                         <desc xml:lang="deu">Gebet</desc>
@@ -136,16 +177,16 @@
                         <desc xml:lang="deu">Gefängnis</desc>
                         <gloss>Ort, in dem Personen physisch festgehalten werden und üblicherweise eine Reihe an persönlichen Freiheiten verlieren</gloss>
                     </category>
-                    <category xml:id="key003389">
-                        <desc xml:lang="deu">Gefangenschaft</desc>
-                        <gloss>Gefängnisstrafe</gloss>
-                    </category>
                     <category xml:id="key003648">
                         <desc xml:lang="deu">Geistlichkeit</desc>
                     </category>
                     <category xml:id="key004489">
                         <desc xml:lang="deu">Geld</desc>
                         <gloss>Geldbetrag</gloss>
+                    </category>
+                    <category xml:id="key000854">
+                        <desc xml:lang="deu">Geldhändler</desc>
+                        <gloss>Geldwechsler, Geldverleiher</gloss>
                     </category>
                     <category xml:id="key004966">
                         <desc xml:lang="deu">Gemeinde</desc>
@@ -199,6 +240,10 @@
                         <desc xml:lang="deu">Inhaftierung</desc>
                         <gloss>Gefängnisstrafe</gloss>
                     </category>
+                    <category xml:id="key000755">
+                        <desc xml:lang="deu">Juden</desc>
+                        <gloss>Personen jüdischen Glaubens</gloss>
+                    </category>
                     <category xml:id="key004196">
                         <desc xml:lang="deu">Kinder/Jugendliche</desc>
                         <gloss>Noch nicht erwachsener Mensch bzw. ein Erwachsener aus Sicht der Eltern</gloss>
@@ -235,6 +280,10 @@
                         <desc xml:lang="deu">Krankheiten</desc>
                         <gloss>Gegensatz zu Gesundheit</gloss>
                     </category>
+                    <category xml:id="key000440">
+                        <desc xml:lang="deu">Kredit</desc>
+                        <gloss>Darlehen</gloss>
+                    </category>
                     <category xml:id="key003261">
                         <desc xml:lang="deu">Kundschaft</desc>
                         <gloss>Rechtsauskünfte durch Zeugen</gloss>
@@ -248,12 +297,20 @@
                         <gloss>Abhängigkeitsverhältnis gegenüber dem Leibherrn</gloss>
                     </category>
                     <category xml:id="key000212">
-                        <desc xml:lang="deu">Lohn</desc>
-                        <gloss>Entschädigung für einen geleistete Arbeit</gloss>
+                        <desc xml:lang="deu">Löhne</desc>
+                        <gloss>Entschädigung für geleistete Arbeit</gloss>
+                    </category>
+                    <category xml:id="key000793">
+                        <desc xml:lang="deu">Markt</desc>
+                        <gloss>Verkaufseinrichtung, Marktplatz, Marktort</gloss>
                     </category>
                     <category xml:id="key005411">
                         <desc xml:lang="deu">Medizinische Versorgung</desc>
                         <gloss>Gesundheitswesen</gloss>
+                    </category>
+                    <category xml:id="key000047">
+                        <desc xml:lang="deu">Mühlen</desc>
+                        <gloss>Anlage zum Mahlen von Getreide oder zum Zerkleinern anderer Rohstoffe</gloss>
                     </category>
                     <category xml:id="key005473">
                         <desc xml:lang="deu">Nachgang</desc>
@@ -290,6 +347,14 @@
                     <category xml:id="key111117">
                         <desc xml:lang="deu">Psychische Krankheit</desc>
                         <gloss>Erkrankung im mentalen Bereich</gloss>
+                    </category>
+                    <category xml:id="key000574">
+                        <desc xml:lang="deu">Rechnungswesen</desc>
+                        <gloss>Rechnungsführung und -prüfung; Finanzverwaltung</gloss>
+                    </category>
+                    <category xml:id="key005331">
+                        <desc xml:lang="deu">Reisen</desc>
+                        <gloss>Fortbewegung über eine grössere Entfernung</gloss>
                     </category>
                     <category xml:id="key005471">
                         <desc xml:lang="deu">Revolution</desc>
@@ -350,6 +415,10 @@
                         <desc xml:lang="deu">Unruhen</desc>
                         <gloss>Widerstand gegen die Obrigkeit</gloss>
                     </category>
+                    <category xml:id="key000187">
+                        <desc xml:lang="deu">Unterhalt</desc>
+                        <gloss>Unterhaltskosten</gloss>
+                    </category>
                     <category xml:id="key000480">
                         <desc xml:lang="deu">Urfehde</desc>
                         <gloss>Verzicht auf Rache</gloss>
@@ -362,13 +431,25 @@
                         <desc xml:lang="deu">Vergewaltigung</desc>
                         <gloss>Sexueller Missbrauch</gloss>
                     </category>
+                    <category xml:id="key000204">
+                        <desc xml:lang="deu">Verwaltung</desc>
+                        <gloss>	Tätigkeit, die bestimmte Lebensbereiche nach vorgegebenen Regeln gestaltet und ordnet, andererseits auch die Einrichtung, die diese Tätigkeit ausübt</gloss>
+                    </category>
                     <category xml:id="key000036">
                         <desc xml:lang="deu">Vogtei</desc>
                         <gloss>Verwaltungsbezirk, in dem ein Vogt als Vertreter der weltlichen Landesherrschaft die wichtigtsten hoheitlichen Kompetenzen wie etwa Hoch- und/oder Niedergericht, Militär- und Polizeiwesen, Verwaltung der obrigkeitlichen Besitzungen und Rechte wahrnahm. Die Aufgabenbereiche in den Vogteien variierten je nach der Organisation der Landesverwaltung.</gloss>
                     </category>
+                    <category xml:id="key000249">
+                        <desc xml:lang="deu">Wald</desc>
+                        <gloss>Aus Bäumen bestehende grossflächige Pflanzenformation</gloss>
+                    </category>
                     <category xml:id="key000606">
                         <desc xml:lang="deu">Wegrecht</desc>
                         <gloss>Recht ungehindert durch fremden Besitz zu gehen oder zu fahren</gloss>
+                    </category>
+                    <category xml:id="key001101">
+                        <desc xml:lang="deu">Wehrdienst</desc>
+                        <gloss>Verpflichtung zum Kriegsdienst</gloss>
                     </category>
                     <category xml:id="key000758">
                         <desc xml:lang="deu">Wirtshaus</desc>
@@ -381,6 +462,10 @@
                     <category xml:id="key004865">
                         <desc xml:lang="deu">Zauberei</desc>
                         <gloss>Tätigkeit einer Hexe bzw. eines Zauberers</gloss>
+                    </category>
+                    <category xml:id="key000154">
+                        <desc xml:lang="deu">Zinsen</desc>
+                        <gloss>Viele Arten von Abgaben besitzes-, personen- und herrschaftsrechtlicher Provenienz (Natural- und Geldabgaben)</gloss>
                     </category>
                 </taxonomy>
             </classDecl>

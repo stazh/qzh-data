@@ -74,7 +74,7 @@
         <profileDesc>
             <textClass default="false">
                 <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-                    <term ref="key003208">Amt</term>
+                    <term ref="key000207">Amt</term>
                     <term ref="key004175">Ausgaben</term>
                     <term ref="key000490">Bauwesen</term>
                     <term ref="key005369">Buchführung</term>
@@ -847,8 +847,8 @@
                                 <placeName ref="LOC_47.4341_8.46874">Regensdorf</placeName> –
                             angelegt. Die Quellenlage ist zu unsicher, um genaue Angaben zu Zeit und
                             Anlass des Baus der Burg und Stadt zu machen, wahrscheinlich ist aber,
-                            dass beide in Zusammenhang mit dem Höhepunkt der Macht der <persName
-                                ref="GND_133563375">Freiherren von Regensberg</persName> entstanden,
+                            dass beide in Zusammenhang mit dem Höhepunkt der Macht der Freiherren von 
+                              <persName ref="GND_133563375">Regensberg</persName> entstanden,
                             um deren Position gegenüber den <persName ref="GND_118826891"
                                 >Kyburgern</persName>, <persName ref="GND_118544233"
                                 >Habsburgern</persName> und <persName ref="GND_1210891239"

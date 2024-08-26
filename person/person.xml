@@ -1463,11 +1463,6 @@
                 <source>QZH_001</source>
                 <dateOfTheSource>1706</dateOfTheSource>
             </person>
-            <person xml:id="GND_133563375">
-                <persName type="full">Freiherren von Regensberg</persName>
-                <source>QZH_056</source>
-                <dateOfTheSource>1542</dateOfTheSource>
-            </person>
             <person xml:id="GND_119244829">
                 <persName type="full">Friedrich IV.</persName>
                 <source>QZH_035</source>
@@ -4378,7 +4373,7 @@
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
             <person xml:id="GND_1210891239">
-                <persName type="full">Rapperswilern</persName>
+                <persName type="full">Rapperswil, Grafen von, Rapperswilern</persName>
                 <source>QZH_056</source>
                 <dateOfTheSource>1542</dateOfTheSource>
             </person>
@@ -4426,6 +4421,11 @@
                 <persName type="full">Regeln Dolder</persName>
                 <source>QZH_031</source>
                 <dateOfTheSource>1655</dateOfTheSource>
+            </person>
+            <person xml:id="GND_133563375">
+                <persName type="full">Regensberg, Freiherren von, Regensberg, Freiherren von Regensberg</persName>
+                <source>QZH_056</source>
+                <dateOfTheSource>1542</dateOfTheSource>
             </person>
             <person xml:id="QZH_031_46">
                 <persName type="full">Regul</persName>
