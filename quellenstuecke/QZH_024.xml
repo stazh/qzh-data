@@ -8,7 +8,7 @@
         <fileDesc>
             <titleStmt>
                 <respStmt>
-                    <persName>Katja Rehmann. Mit einem Kommentar von Michael Schaffner</persName>
+                    <persName>Katja Rehmann</persName>
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
@@ -59,7 +59,7 @@
                         </objectDesc>
                     </physDesc>
                     <history>
-                        <origin/>
+                        <origin><origDate when="1560-06-26"/></origin>
                     </history>
                 </msDesc>
             </sourceDesc>
