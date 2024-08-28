@@ -75,8 +75,8 @@
             </objectDesc>
           </physDesc>
           <history>
-            <origin/>
-          </history>
+                        <origin><origDate from="1700-01-01" to="1700-12-31"/></origin>
+                    </history>
         </msDesc>
       </sourceDesc>
     </fileDesc>

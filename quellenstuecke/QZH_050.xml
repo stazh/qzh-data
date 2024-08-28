@@ -51,7 +51,7 @@
                </objectDesc>
             </physDesc>
             <history>
-               <origin/>
+               <origin><origDate when="1438-01-01"/></origin>
             </history>
          </msDesc>
       </sourceDesc>
