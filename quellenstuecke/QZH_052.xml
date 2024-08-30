@@ -39,7 +39,7 @@
 						<msItem>
 							<textLang>Deutsch</textLang>
 							<filiation type="current">Aufzeichnungen (Einzelblatt)</filiation>
-							<filiation type="original"><origDate when="1438-01-01"/></filiation>
+							<filiation type="original"><origDate from="1438-01-01" to="1438-12-31">ca.</origDate></filiation>
 						</msItem>
 					</msContents>
 					<physDesc>
@@ -51,7 +51,7 @@
 						</objectDesc>
 					</physDesc>
 					<history>
-						<origin><origDate when="1438-01-01"/></origin>
+						<origin><origDate from="1438-01-01" to="1438-12-31">ca.</origDate></origin>
 					</history>
 				</msDesc>
 			</sourceDesc>
@@ -112,7 +112,7 @@
 		</body>
 		<back>
 			<div><p>
-				Zu den Grüninger Kundschaften vgl. den Kommentar zu <bibl><ref target="https://qzh.sources-online.org/quellenstuecke/QZH_047">QZH, Nr. 44</ref></bibl>.
+				Zu den Grüninger Kundschaften vgl. den Kommentar zu <bibl><ref target="https://qzh.sources-online.org/quellenstuecke/QZH_044">QZH, Nr. 44</ref></bibl>.
 			</p></div>
 		</back>
 	</text>
