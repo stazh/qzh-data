@@ -197,7 +197,7 @@ Siehe Kapitel unterhalb: „Vor der Veröffentlichung von neuen Versionen: Über
 
 
 
-### Erfassen und Anzeigen von Schlagworten
+### Erfassen und Anzeigen von Schlagwörtern
 
 Schlagworte werden innerhalb der TEI-XML’s referenziert:
 
