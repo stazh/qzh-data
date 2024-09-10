@@ -78,7 +78,7 @@ Anhand dieser Angabe wird in der TEI-Publisher Webapplikation die Liste der Filt
 
 ### Erfassen und Anzeigen von Personen
 
-Es sind drei Varianten vorgesehen, um Personen in den Quellenstücken zu kennzeichnen:
+Es sind zwei Varianten vorgesehen, um Personen in den Quellenstücken zu kennzeichnen:
 
 #### Variante 1: Ohne Identifier
 ```xml
