@@ -127,7 +127,7 @@ Zusätzlich wird bei dieser Variante in der Detailansicht für eine Person ein L
 
 #### Weitere Personennamen erfassen, welche nicht in den Quellenstücken vorkommen
 
-Es kann vorkommen, dass es weitere Schreibweisen für Personennamem gibt, ohne dass diese Schreibweise in einem Quellenstück erwähnt ist. In diesen Fall können zusätzliche Personennamen in die Datei `person/person-additions.xml` eingetragen werden. Hinweis: Ein Eintrag in diese Datei macht nur für Personen Sinn, die bereits unter einer anderen Schreibweise in einem oder mehreren Quellenstücken vorhanden sind und über einen Identifier verfügen.
+Es kann vorkommen, dass es weitere Schreibweisen für Personennamen gibt, ohne dass diese Schreibweise in einem Quellenstück erwähnt ist. In diesen Fall können zusätzliche Personennamen in die Datei `person/person-additions.xml` eingetragen werden. Hinweis: Ein Eintrag in diese Datei macht nur für Personen Sinn, die bereits unter einer anderen Schreibweise in einem oder mehreren Quellenstücken vorhanden sind und über einen Identifier verfügen.
 
 Änderungen an dieser Datei werden nicht direkt auf der Webapplikation sichtbar. Zuerst muss dazu erneut die Übersicht mit allen Personen generiert werden (dort fliessen dann die Änderungen mitein).
 
