@@ -298,7 +298,7 @@ Auf der linken Bildschirmseite wird die Datei-Hierarchie angezeigt. Hier navigie
 
 ![][image-24]
 
-Nach einem Klick auf „Eval“ wird die generierte XML-Datein mit den Personen am unteren Bildschirmrand ausgegeben:
+Nach einem Klick auf „Eval“ wird die generierte XML-Datei mit den Personen am unteren Bildschirmrand ausgegeben:
 
 ![][image-25]
 
