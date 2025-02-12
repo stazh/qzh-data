@@ -39,7 +39,7 @@
                   <msItem>
                      <textLang>Deutsch</textLang>
                      <filiation type="current">Entwurf (Einzelblatt)</filiation>
-                     <filiation type="original"><origDate from="1436-01-01" to="1439-12-31">ca.</origDate></filiation>
+                     <filiation type="original"><origDate from="1436-01-01" to="1439-12-31"></origDate></filiation>
                   </msItem>
                </msContents>
                <physDesc>
@@ -51,7 +51,7 @@
                   </objectDesc>
                </physDesc>
                <history>
-                  <origin><origDate from="1436-01-01" to="1439-12-31">ca.</origDate></origin>
+                  <origin><origDate when="1436"></origDate></origin>
                </history>
             </msDesc>
          </sourceDesc>
