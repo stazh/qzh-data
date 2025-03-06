@@ -361,7 +361,7 @@ Nach einem Klick auf „Eval“ wird die generierte Liste mit den Orten am unter
 
 ![][image-30]
 
-Dieser ausgegebene Text sollte kopiert, und anschliessend in der Datei `place/place.xml` eingefügt werden:
+Dieser ausgegebene Text sollte kopiert und anschliessend in der Datei `place/place.xml` eingefügt werden:
 
 ![][image-31]
 
