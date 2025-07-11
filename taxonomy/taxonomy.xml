@@ -42,6 +42,10 @@
                         <desc xml:lang="deu">Ausserehelicher Geschlechtsverkehr</desc>
                         <gloss>Ausserehelicher oder unehelicher Beischlaf</gloss>
                     </category>
+                    <category xml:id="key003398">
+                        <desc xml:lang="deu">Aussteuer</desc>
+                        <gloss>In die Ehe eingebrachtes Gut</gloss>
+                    </category>
                     <category xml:id="key000598">
                         <desc xml:lang="deu">Ausweisung</desc>
                         <gloss>Verweis aus einem Gebiet bzw. in ein Gebiet</gloss>
@@ -126,6 +130,10 @@
                         <desc xml:lang="deu">Ehrverletzung</desc>
                         <gloss>Handlung oder Worte, welche die Ehre verletzen</gloss>
                     </category>
+                     <category xml:id="key000179">
+                        <desc xml:lang="deu">Eid</desc>
+                        <gloss>Feierliche Versicherung der Wahrheit oder feierliches Versprechen</gloss>
+                    </category>
                     <category xml:id="key000597">
                         <desc xml:lang="deu">Erbrecht</desc>
                         <gloss>Rechtsnormen, die den Übergang des Vermögens eines Verstorbenen (Erblasser) auf andere Personen (Erben) regeln</gloss>
@@ -141,6 +149,10 @@
                     <category xml:id="key004536">
                         <desc xml:lang="deu">Finanzen</desc>
                         <gloss>Finanzverwaltung</gloss>
+                    </category>
+                    <category xml:id="key000536">
+                        <desc xml:lang="deu">Fischerei</desc>
+                        <gloss>Das Fangen von Fischen (und Krebsen) in Gewässern und die dazu gehörenden Vorrichtungen und Instrumente.</gloss>
                     </category>
                     <category xml:id="key004380">
                         <desc xml:lang="deu">Fluchen/Schwören</desc>
@@ -200,6 +212,10 @@
                         <desc xml:lang="deu">Gericht</desc>
                         <gloss>Gerichtswesen, Rechtspflege</gloss>
                     </category>
+                    <category xml:id="key000715">
+                        <desc xml:lang="deu">Gewässer</desc>
+                        <gloss>In der Natur fliessendes oder stehendes Wasser</gloss>
+                    </category>
                     <category xml:id="key000149">
                         <desc xml:lang="deu">Gottesdienst</desc>
                         <gloss>Gemeinschaftliche religiöse Feier zur Verehrung Gottes (in der Kirche)</gloss>
@@ -244,6 +260,10 @@
                         <desc xml:lang="deu">Juden</desc>
                         <gloss>Personen jüdischen Glaubens</gloss>
                     </category>
+                    <category xml:id="key000369">
+                        <desc xml:lang="deu">Kauf</desc>
+                        <gloss>Kaufgeschäft</gloss>
+                    </category>
                     <category xml:id="key004196">
                         <desc xml:lang="deu">Kinder/Jugendliche</desc>
                         <gloss>Noch nicht erwachsener Mensch bzw. ein Erwachsener aus Sicht der Eltern</gloss>
@@ -263,6 +283,10 @@
                     <category xml:id="key005339">
                         <desc xml:lang="deu">Konversion</desc>
                         <gloss>Glaubenswechsel, Religionswechsel</gloss>
+                    </category>
+                    <category xml:id="key004706">
+                        <desc xml:lang="deu">Konzession</desc>
+                        <gloss>Erlaubnis, Bewilligung</gloss>
                     </category>
                     <category xml:id="key111112">
                         <desc xml:lang="deu">Körperliche Behinderung</desc>
@@ -308,6 +332,10 @@
                         <desc xml:lang="deu">Medizinische Versorgung</desc>
                         <gloss>Gesundheitswesen</gloss>
                     </category>
+                    <category xml:id="key000112">
+                        <desc xml:lang="deu">Morgengabe</desc>
+                        <gloss>Geschenk an die Frau (oder an den Mann) am Morgen nach der Hochzeit</gloss>
+                    </category>
                     <category xml:id="key000047">
                         <desc xml:lang="deu">Mühlen</desc>
                         <gloss>Anlage zum Mahlen von Getreide oder zum Zerkleinern anderer Rohstoffe</gloss>
@@ -323,6 +351,10 @@
                     <category xml:id="key003292">
                         <desc xml:lang="deu">Nutzungskonflikt</desc>
                         <gloss>Streit um die Nutzung von Weiden, Wiesen, Wäldern etc.</gloss>
+                    </category>
+                    <category xml:id="key000335">
+                        <desc xml:lang="deu">Nutzungsrecht</desc>
+                        <gloss>Recht an Nutzung natürlicher Ressourcen einer Gemeinschaft, Genossenschaft oder Nachbarschaft.</gloss>
                     </category>
                     <category xml:id="key000012">
                         <desc xml:lang="deu">Offnung</desc>
@@ -360,6 +392,10 @@
                         <desc xml:lang="deu">Revolution</desc>
                         <gloss>Umwälzung der politischen und gesellschaftlichen Verhältnisse</gloss>
                     </category>
+                    <category xml:id="key004022">
+                        <desc xml:lang="deu">Satzung</desc>
+                        <gloss>Für einzelne Territorien (Gemeinden, Herrschaften etc.) oder Themen (Markt) geltendes Recht</gloss>
+                    </category>
                     <category xml:id="key005333">
                         <desc xml:lang="deu">Schwangerschaft</desc>
                         <gloss>Zustand des Schwangerseins</gloss>
@@ -367,6 +403,10 @@
                     <category xml:id="key000058">
                         <desc xml:lang="deu">Schulden</desc>
                         <gloss>Geldsumme, die ausgeliehen wird</gloss>
+                    </category>
+                    <category xml:id="key000565">
+                        <desc xml:lang="deu">Schutz</desc>
+                        <gloss>(Territoriale) Herrschaftsgewalt einer Obrigkeit über Personen und Sachen, unter anderem abzielend auf die Bewahrung der rechtlichen Ordnung und des Rechtsfriedens nach innen und nach aussen, in der Regel verbunden mit Gerichtshoheit, Zwangsbefugnis, Pfändungsrecht etc.</gloss>
                     </category>
                     <category xml:id="key111119">
                         <desc xml:lang="deu">Seelsorge</desc>
@@ -403,6 +443,10 @@
                         <desc xml:lang="deu">Totgeburt</desc>
                         <gloss>Geburt eines während der Schwangerschaft oder im Verlauf der Geburt gestorbenen Kindes</gloss>
                     </category>
+                    <category xml:id="key005446">
+                        <desc xml:lang="deu">Umweltschutz</desc>
+                        <gloss>Schutz der Umwelt</gloss>
+                    </category>
                     <category xml:id="key005447">
                         <desc xml:lang="deu">Uneheliche Geburt</desc>
                         <gloss>Geburt eines Kindes, das nicht in einer Ehe gezeugt wird</gloss>
@@ -431,6 +475,10 @@
                         <desc xml:lang="deu">Vergewaltigung</desc>
                         <gloss>Sexueller Missbrauch</gloss>
                     </category>
+                    <category xml:id="key004423">
+                        <desc xml:lang="deu">Verkündigung</desc>
+                        <gloss>Verfahren, das darauf abzielt, der Öffentlichkeit eine Rechtshandlung durch amtliche mündliche Bekanntmachung oder durch Aushang in der vorgeschriebenen Form zur Kenntnis zu bringen</gloss>
+                    </category>
                     <category xml:id="key000204">
                         <desc xml:lang="deu">Verwaltung</desc>
                         <gloss>Tätigkeit, die bestimmte Lebensbereiche nach vorgegebenen Regeln gestaltet und ordnet, andererseits auch die Einrichtung, die diese Tätigkeit ausübt</gloss>
@@ -438,6 +486,10 @@
                     <category xml:id="key000036">
                         <desc xml:lang="deu">Vogtei</desc>
                         <gloss>Verwaltungsbezirk, in dem ein Vogt als Vertreter der weltlichen Landesherrschaft die wichtigtsten hoheitlichen Kompetenzen wie etwa Hoch- und/oder Niedergericht, Militär- und Polizeiwesen, Verwaltung der obrigkeitlichen Besitzungen und Rechte wahrnahm. Die Aufgabenbereiche in den Vogteien variierten je nach der Organisation der Landesverwaltung.</gloss>
+                    </category>
+                    <category xml:id="key000997">
+                        <desc xml:lang="deu">Vormundschaft</desc>
+                        <gloss>Amt, Recht und Pflichten eines Vormunds.</gloss>
                     </category>
                     <category xml:id="key000249">
                         <desc xml:lang="deu">Wald</desc>
