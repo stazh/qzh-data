@@ -78,6 +78,14 @@
                         <desc xml:lang="deu">Buchführung</desc>
                         <gloss>Rechnungsführung</gloss>
                         </category>
+                        <category xml:id="key000173">
+                        <desc xml:lang="deu">Bündnis</desc>
+                        <gloss>Vereinigung</gloss>
+                        </category>
+                        <category xml:id="key000263">
+                        <desc xml:lang="deu">Burgrecht</desc>
+                        <gloss>Bündnis einer Stadt mit einem Adeligen, einem Gotteshaus, einer Gemeinde oder einer anderen Stadt</gloss>
+                    </category>
                     <category xml:id="key000499">
                         <desc xml:lang="deu">Bürgschaft</desc>
                         <gloss>Haftung, Garantie, Gewähr</gloss>
@@ -189,6 +197,10 @@
                         <desc xml:lang="deu">Gefängnis</desc>
                         <gloss>Ort, in dem Personen physisch festgehalten werden und üblicherweise eine Reihe an persönlichen Freiheiten verlieren</gloss>
                     </category>
+                     <category xml:id="key004629">
+                        <desc xml:lang="deu">Geistliches Gericht</desc>
+                        <gloss>Geistliches Gericht über kirchliche Personen und kirchliche Angelegenheiten</gloss>
+                    </category>
                     <category xml:id="key003648">
                         <desc xml:lang="deu">Geistlichkeit</desc>
                     </category>
@@ -219,6 +231,10 @@
                     <category xml:id="key000149">
                         <desc xml:lang="deu">Gottesdienst</desc>
                         <gloss>Gemeinschaftliche religiöse Feier zur Verehrung Gottes (in der Kirche)</gloss>
+                    </category>
+                    <category xml:id="key005395">
+                        <desc xml:lang="deu">Grabstätte</desc>
+                        <gloss>Begräbnisstätte</gloss>
                     </category>
                     <category xml:id="key000305">
                         <desc xml:lang="deu">Grenze</desc>
@@ -256,6 +272,10 @@
                         <desc xml:lang="deu">Inhaftierung</desc>
                         <gloss>Gefängnisstrafe</gloss>
                     </category>
+                    <category xml:id="key000150">
+                        <desc xml:lang="deu">Jahrzeit</desc>
+                        <gloss>Zum Gedächtnis Verstorbener jährlich gelesene Seelenmesse, zum Teil mit Almosen verbunden</gloss>
+                    </category>
                     <category xml:id="key000755">
                         <desc xml:lang="deu">Juden</desc>
                         <gloss>Personen jüdischen Glaubens</gloss>
@@ -263,6 +283,10 @@
                     <category xml:id="key000369">
                         <desc xml:lang="deu">Kauf</desc>
                         <gloss>Kaufgeschäft</gloss>
+                    </category>
+                    <category xml:id="key003752">
+                        <desc xml:lang="deu">Kelnhof</desc>
+                        <gloss>Vor allem im Früh- und Hochmittelalter Sitz des Grundherrn oder seines lokalen Verwalters (Meier, Keller) in einem Hofverband</gloss>
                     </category>
                     <category xml:id="key004196">
                         <desc xml:lang="deu">Kinder/Jugendliche</desc>
@@ -316,9 +340,17 @@
                         <desc xml:lang="deu">Landgericht</desc>
                         <gloss>Ursprünglich das für eine Grafschaft zuständige Hochgericht eines Grafen; das Gericht, in dem Landrecht gesprochen wird, dessen Entwicklung entsprechend dem unterschiedlichen Aufbau der territorialen Gerichts- und Verwaltungsorganisation divergiert; als Gegenbegriff zu Stadtgericht das ausserhalb der Stadt zuständige Gericht; im Plural Landesgerichte auch Sammelbezeichnung für die innerhalb eines Landes tätigen Gerichte</gloss>
                     </category>
+                    <category xml:id="key000022">
+                        <desc xml:lang="deu">Lehen</desc>
+                        <gloss>Die Rechtsform des Lehn- bzw. Leiherechts kann die unterschiedlichsten Gegenstände erfassen, so dass Lehen ein Gut oder ein (Nutzungs-)Recht irgendwelcher Art bezeichnet, das dem Nutzungsberechtigten (Lehensmann, Amtsträger usw.) unmittelbar, dem Verleihenden aber mittelbar rechtlich zugeordnet ist und für dessen Überlassung der Nutzungsberechtigte dem Verleihenden eine Gegenleistung, teilweise auch nur als Anerkennungsgebühr, erbringt.</gloss>
+                    </category>
                     <category xml:id="key000084">
                         <desc xml:lang="deu">Leibeigenschaft</desc>
                         <gloss>Abhängigkeitsverhältnis gegenüber dem Leibherrn</gloss>
+                    </category>
+                    <category xml:id="key000818">
+                        <desc xml:lang="deu">Leibgeding</desc>
+                        <gloss>Lebenslanges Nutzungsrecht an einer Sache oder einem Kapital</gloss>
                     </category>
                     <category xml:id="key000212">
                         <desc xml:lang="deu">Löhne</desc>
