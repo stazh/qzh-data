@@ -120,14 +120,10 @@
     <profileDesc>
       <textClass default="false">
         <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-          <term ref="key000116">Altersversorgung</term>
-          <term ref="key003308">Archiv</term>
+          <term ref="key003308">Archivgeschichte</term>
           <term ref="key005367">Beschlagnahmung</term>
-          <term ref="key000133">Bürgermeister</term>
-          <term ref="key005072">Eigentum</term>
           <term ref="key000165">Garten</term>
           <term ref="key003648">Geistlichkeit</term>
-          <term ref="key004489">Geld</term>
           <term ref="key000600">Geleit</term>
           <term ref="key000350">Getreide</term>
           <term ref="key004009">Kirchengut</term>
@@ -136,13 +132,10 @@
           <term ref="key005404">Konzil</term>
           <term ref="key000882">Nahrungsmittel</term>
           <term ref="key003732">Orden</term>
-          <term ref="key000364">Rat</term>
           <term ref="key000222">Renten</term>
           <term ref="key001117">Schiedsspruch</term>
-          <term ref="key003346">Stift</term>
           <term ref="key000122">Urbar</term>
           <term ref="key000817">Vertrag</term>
-          <term ref="key005019">Verzicht</term>
           <term ref="key000129">Wein</term>
         </keywords>
       </textClass>

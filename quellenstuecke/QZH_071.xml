@@ -76,7 +76,7 @@
             <textClass default="false">
                 <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
                     <term ref="key000207">Amt</term>
-                    <term ref="key000173">Kloster</term>
+                    <term ref="key000010">Kloster</term>
                     <term ref="key000658">Reformation</term>
                 </keywords>
             </textClass>

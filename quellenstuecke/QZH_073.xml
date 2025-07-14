@@ -6,7 +6,7 @@
             <titleStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
-                    <persName>Tessa Gerber. Mit einem Kommentar von Sarah Murer und Michael
+                    <persName>Anina Steinmann. Mit einem Kommentar von Michael
                         Schaffner</persName>
                     <resp key="transcript"/>
                 </respStmt>
@@ -30,7 +30,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294">C II 12, Nr. 1015</idno>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4769618">C II 12, Nr. 1015</idno>
                     </msIdentifier>
                     <head>Ordnung der Stadt Zürich betreffend Reorganisation der Verwaltung des Amts Rüti</head>
                     <msContents>
@@ -72,6 +72,7 @@
                     <term ref="key000490">Bauwesen</term>
                     <term ref="key005369">Buchführung</term>
                     <term ref="key004536">Finanzen</term>
+                    <term ref="key000010">Kloster</term>
                     <term ref="key000212">Löhne</term>
                     <term ref="key000574">Rechnungswesen</term>
                     <term ref="key000187">Unterhalt</term>
@@ -148,7 +149,7 @@
           <pb n="2" facs="C_II_12__Nr__1015__S__2_.tif"/>
        <div>
       <p>
-       <lb/>in die <del><gap reason="illegible"/></del> gmein hußhaltung und die pfistereyg
+       <lb/>in die <del><gap reason="illegible" quantity="1" unit="cm"/></del> gmein hußhaltung und die pfistereyg
        <lb/>dienen söllind mit der erlüterung, daß von
        <lb/>solchem holtz einem amptman für den feller-,
        <lb/>schytter-, ufmacher- und fhurlohn von

@@ -3301,9 +3301,6 @@
                     <geo>47.58764 8.29365</geo>
                 </location>
             </place>
-            <place xml:id="QZH_079_33" n="Zu̍rich">
-                <placeName type="main">Zu̍rich</placeName>
-            </place>
             <place xml:id="LOC_47.23129_8.70336" n="Zûrichse, Zu̍richse, Zürichsee">
                 <placeName type="main">Zu̍richse</placeName>
                 <placeName type="main">Zürichsee</placeName>
@@ -3344,9 +3341,6 @@
                 <location>
                     <geo>47.33634 8.83327</geo>
                 </location>
-            </place>
-            <place xml:id="47.41667_8.66667" n="Zürich">
-                <placeName type="main">Zürich</placeName>
             </place>
             <place xml:id="LOC_47.38572_8.56687" n="Zürichberg">
                 <placeName type="main">Zürichberg</placeName>

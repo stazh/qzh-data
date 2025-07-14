@@ -26,6 +26,10 @@
                         <desc xml:lang="deu">Amt</desc>
                         <gloss>Dienst, Amtsstelle, Amtsgewalt</gloss>
                     </category>
+                    <category xml:id="key003308">
+                        <desc xml:lang="deu">Archivgeschichte</desc>
+                        <gloss>Geschichte von Einrichtungen, die der systematischen Sammlung, Aufbewahrung und Erschliessung von Schrift-, Ton- und Bildträgern dienen.</gloss>
+                    </category>
                     <category xml:id="key005358">
                         <desc xml:lang="deu">Armenversorgung</desc>
                         <gloss>Versorgung der Armen</gloss>
@@ -53,6 +57,10 @@
                     <category xml:id="key000490">
                         <desc xml:lang="deu">Bauwesen</desc>
                         <gloss>Bautätigkeit, die dem kollektiven oder individuellen, öffentlichen oder privaten Bedarf dient</gloss>
+                        </category>
+                        <category xml:id="key005367">
+                        <desc xml:lang="deu">Beschlagnahmung</desc>
+                        <gloss>Vermögenseinzug</gloss>
                         </category>
                     <category xml:id="key000581">
                         <desc xml:lang="deu">Bettel</desc>
@@ -134,6 +142,10 @@
                         <desc xml:lang="deu">Ehescheidung</desc>
                         <gloss>Auflösung der Ehe</gloss>
                     </category>
+                    <category xml:id="key000946">
+                        <desc xml:lang="deu">Ehre</desc>
+                        <gloss>Verhaltensleitender Code und komplexes kommunikatives Regelsystem</gloss>
+                    </category>
                     <category xml:id="key000285">
                         <desc xml:lang="deu">Ehrverletzung</desc>
                         <gloss>Handlung oder Worte, welche die Ehre verletzen</gloss>
@@ -189,6 +201,10 @@
                         <desc xml:lang="deu">Friedbruch</desc>
                         <gloss>Bruch eines gebotenen Friedens</gloss>
                     </category>
+                    <category xml:id="key000165">
+                        <desc xml:lang="deu">Garten</desc>
+                        <gloss>Gartenanlage zur Zierde oder zur Nutzung</gloss>
+                    </category>
                     <category xml:id="key003009">
                         <desc xml:lang="deu">Gebet</desc>
                         <gloss>An Gott gerichtete (festgelegte) Worte</gloss>
@@ -212,6 +228,10 @@
                         <desc xml:lang="deu">Geldhändler</desc>
                         <gloss>Geldwechsler, Geldverleiher</gloss>
                     </category>
+                    <category xml:id="key000600">
+                        <desc xml:lang="deu">Geleit</desc>
+                        <gloss>Begleitung bzw. Schutz von Reisenden</gloss>
+                    </category>
                     <category xml:id="key004966">
                         <desc xml:lang="deu">Gemeinde</desc>
                         <gloss>Gemeinde, Nachbarschaft, Gemeinschaft der Hofgenossen; evtl. Gemeindeversammlung</gloss>
@@ -220,9 +240,17 @@
                         <desc xml:lang="deu">Gemeiner Nutzen</desc>
                         <gloss>Gesamtwohl, allgemeines Bestes</gloss>
                     </category>
+                    <category xml:id="key000350">
+                        <desc xml:lang="deu">Getreide</desc>
+                        <gloss>Samen grasartiger Pflanzen für Brot oder Mehlspeisen</gloss>
+                    </category>
                     <category xml:id="key000057">
                         <desc xml:lang="deu">Gericht</desc>
                         <gloss>Gerichtswesen, Rechtspflege</gloss>
+                    </category>
+                    <category xml:id="key003037">
+                        <desc xml:lang="deu">Gerichtsverfahren</desc>
+                        <gloss>Rechtsstreit, der vor Gericht verhandelt wird</gloss>
                     </category>
                     <category xml:id="key000715">
                         <desc xml:lang="deu">Gewässer</desc>
@@ -296,6 +324,14 @@
                         <desc xml:lang="deu">Kindstötung</desc>
                         <gloss>Vorsätzliche Tötung eines Kindes</gloss>
                     </category>
+                    <category xml:id="key004009">
+                        <desc xml:lang="deu">Kirchengut</desc>
+                        <gloss>Der Kirche gehörendes Land</gloss>
+                    </category>
+                    <category xml:id="key003322">
+                        <desc xml:lang="deu">Kirchenrecht</desc>
+                        <gloss>	Gesamtheit der Normen, welche die christlichen Grosskirchen für ihre Mitglieder erlassen</gloss>
+                    </category>
                     <category xml:id="key000789">
                         <desc xml:lang="deu">Kirchweih</desc>
                         <gloss>Fest an einer Weihe des Kirchengebäudes oder an einer Feier für den Patron der Kirche</gloss>
@@ -311,6 +347,10 @@
                     <category xml:id="key004706">
                         <desc xml:lang="deu">Konzession</desc>
                         <gloss>Erlaubnis, Bewilligung</gloss>
+                    </category>
+                    <category xml:id="key005404">
+                        <desc xml:lang="deu">Konzil</desc>
+                        <gloss>Versammlung hoher geistlicher Würdenträger, Kirchenversammlung</gloss>
                     </category>
                     <category xml:id="key111112">
                         <desc xml:lang="deu">Körperliche Behinderung</desc>
@@ -332,9 +372,17 @@
                         <desc xml:lang="deu">Kredit</desc>
                         <gloss>Darlehen</gloss>
                     </category>
+                    <category xml:id="key000266">
+                        <desc xml:lang="deu">Krieg</desc>
+                        <gloss>Bewaffnete Auseinandersetzung</gloss>
+                    </category>
                     <category xml:id="key003261">
                         <desc xml:lang="deu">Kundschaft</desc>
                         <gloss>Rechtsauskünfte durch Zeugen</gloss>
+                    </category>
+                    <category xml:id="key004414">
+                        <desc xml:lang="deu">Landwirtschaft</desc>
+                        <gloss>Bestellung von Land, Tierhaltung etc.</gloss>
                     </category>
                     <category xml:id="key000337">
                         <desc xml:lang="deu">Landgericht</desc>
@@ -364,6 +412,10 @@
                         <desc xml:lang="deu">Medizinische Versorgung</desc>
                         <gloss>Gesundheitswesen</gloss>
                     </category>
+                    <category xml:id="key006460">
+                        <desc xml:lang="deu">Militär</desc>
+                        <gloss>Gesamtheit der Streitkräfte eines Landes</gloss>
+                    </category>
                     <category xml:id="key000112">
                         <desc xml:lang="deu">Morgengabe</desc>
                         <gloss>Geschenk an die Frau (oder an den Mann) am Morgen nach der Hochzeit</gloss>
@@ -372,6 +424,10 @@
                         <desc xml:lang="deu">Mühlen</desc>
                         <gloss>Anlage zum Mahlen von Getreide oder zum Zerkleinern anderer Rohstoffe</gloss>
                     </category>
+                     <category xml:id="key000497">
+                        <desc xml:lang="deu">Mündlichkeit</desc>
+                        <gloss>Gegensatz zu Schriftlichkeit, gesprochene Sprache</gloss>
+                    </category>
                     <category xml:id="key005473">
                         <desc xml:lang="deu">Nachgang</desc>
                         <gloss>Offizialverfahren bei einem Normverstoss, der von Amtes wegen (ex officio) verfolgt wird, gerichtliche Untersuchung</gloss>
@@ -379,6 +435,10 @@
                     <category xml:id="key000882">
                         <desc xml:lang="deu">Nahrungsmittel</desc>
                         <gloss>Lebensmittel</gloss>
+                        </category>
+                        <category xml:id="key000151">
+                        <desc xml:lang="deu">Niedergerichtsbarkeit</desc>
+                        <gloss>Gebiet, in dem der Rechtsinhaber (oft der Grundherr) neben der niederen Gerichtsbarkeit auch die Herrschaft über die Flur sowie die Schirmherrschaft über die Herrschaftsleute innehatte.</gloss>
                     </category>
                     <category xml:id="key003292">
                         <desc xml:lang="deu">Nutzungskonflikt</desc>
@@ -391,6 +451,10 @@
                     <category xml:id="key000012">
                         <desc xml:lang="deu">Offnung</desc>
                         <gloss>Aufzeichnung der Rechte und Pflichten der Angehörigen eines Grundherrn</gloss>
+                    </category>
+                    <category xml:id="key003732">
+                        <desc xml:lang="deu">Orden</desc>
+                        <gloss>Religiöse Vereinigung</gloss>
                     </category>
                     <category xml:id="key000441">
                         <desc xml:lang="deu">Pfand</desc>
@@ -416,9 +480,21 @@
                         <desc xml:lang="deu">Rechnungswesen</desc>
                         <gloss>Rechnungsführung und -prüfung; Finanzverwaltung</gloss>
                     </category>
+                    <category xml:id="key000468">
+                        <desc xml:lang="deu">Rechtsgewohnheit</desc>
+                        <gloss>Überliefertes Recht, das sich aus alter Gewohnheit herleiten lässt und als rechtmässig betrachtet wird</gloss>
+                    </category>
+                    <category xml:id="key000658">
+                        <desc xml:lang="deu">Reformation</desc>
+                        <gloss>Religiöse Reformbewegung, die zur Bildung der protestantischen Kirchen führte</gloss>
+                    </category>
                     <category xml:id="key005331">
                         <desc xml:lang="deu">Reisen</desc>
                         <gloss>Fortbewegung über eine grössere Entfernung</gloss>
+                    </category>
+                    <category xml:id="key000222">
+                        <desc xml:lang="deu">Renten</desc>
+                        <gloss>Regelmässig anfallendes Einkommen</gloss>
                     </category>
                     <category xml:id="key005471">
                         <desc xml:lang="deu">Revolution</desc>
@@ -428,9 +504,17 @@
                         <desc xml:lang="deu">Satzung</desc>
                         <gloss>Für einzelne Territorien (Gemeinden, Herrschaften etc.) oder Themen (Markt) geltendes Recht</gloss>
                     </category>
-                    <category xml:id="key005333">
-                        <desc xml:lang="deu">Schwangerschaft</desc>
-                        <gloss>Zustand des Schwangerseins</gloss>
+                    <category xml:id="key000023">
+                        <desc xml:lang="deu">Schenkung</desc>
+                        <gloss>Vertrag, in dem eine Person aus freien Stücken einer andern etwas schenkt</gloss>
+                    </category>
+                    <category xml:id="key001117">
+                        <desc xml:lang="deu">Schiedsspruch</desc>
+                        <gloss>Schlichtung eines Konfliktes durch ein schiedsrichterliches Urteil</gloss>
+                    </category>
+                    <category xml:id="key000471">
+                        <desc xml:lang="deu">Schriftlichkeit</desc>
+                        <gloss>Allgemein die geschriebene Sprache sowie die Schriftkultur, die Tradierung von schriftlicher Kommunikation und Informationsspeicherung</gloss>
                     </category>
                     <category xml:id="key000058">
                         <desc xml:lang="deu">Schulden</desc>
@@ -440,14 +524,22 @@
                         <desc xml:lang="deu">Schutz</desc>
                         <gloss>(Territoriale) Herrschaftsgewalt einer Obrigkeit über Personen und Sachen, unter anderem abzielend auf die Bewahrung der rechtlichen Ordnung und des Rechtsfriedens nach innen und nach aussen, in der Regel verbunden mit Gerichtshoheit, Zwangsbefugnis, Pfändungsrecht etc.</gloss>
                     </category>
+                    <category xml:id="key005333">
+                        <desc xml:lang="deu">Schwangerschaft</desc>
+                        <gloss>Zustand des Schwangerseins</gloss>
+                    </category>
                     <category xml:id="key111119">
                         <desc xml:lang="deu">Seelsorge</desc>
+                    </category>
+                     <category xml:id="key000955">
+                        <desc xml:lang="deu">Sodomie</desc>
+                        <gloss>Historische Bezeichnung für Homosexualität, Geschlechtsverkehr mit Tieren und andere Formen der nicht reproduktiven Sexualität</gloss>
                     </category>
                     <category xml:id="key003559">
                         <desc xml:lang="deu">Spital</desc>
                         <gloss>Spital, Kranken-, Armen- und Pfrundhaus</gloss>
                     </category>
-                    <category xml:id="key003346">
+                    <category xml:id="key000273">
                         <desc xml:lang="deu">Steuern</desc>
                         <gloss>Öffentliche Abgabe, Steuer, Zoll etc.</gloss>
                     </category>
@@ -495,6 +587,14 @@
                         <desc xml:lang="deu">Unterhalt</desc>
                         <gloss>Unterhaltskosten</gloss>
                     </category>
+                    <category xml:id="key000911">
+                        <desc xml:lang="deu">Unzucht</desc>
+                        <gloss>Sexualverhalten, das gegen die sittliche und moralische Norm verstösst</gloss>
+                    </category>
+                    <category xml:id="key000122">
+                        <desc xml:lang="deu">Urbar</desc>
+                        <gloss>Verzeichnis über Güter, Abgaben, Rechte etc.</gloss>
+                    </category>
                     <category xml:id="key000480">
                         <desc xml:lang="deu">Urfehde</desc>
                         <gloss>Verzicht auf Rache</gloss>
@@ -511,10 +611,22 @@
                         <desc xml:lang="deu">Verkündigung</desc>
                         <gloss>Verfahren, das darauf abzielt, der Öffentlichkeit eine Rechtshandlung durch amtliche mündliche Bekanntmachung oder durch Aushang in der vorgeschriebenen Form zur Kenntnis zu bringen</gloss>
                     </category>
+                    <category xml:id="key000292">
+                        <desc xml:lang="deu">Verleumdung</desc>
+                        <gloss>Üble Nachrede, welche die Ehre oder den Ruf einer Person verletzt</gloss>
+                    </category>
+                    <category xml:id="key000817">
+                        <desc xml:lang="deu">Vertrag</desc>
+                        <gloss>Übereinkunft</gloss>
+                    </category>
                     <category xml:id="key000204">
                         <desc xml:lang="deu">Verwaltung</desc>
                         <gloss>Tätigkeit, die bestimmte Lebensbereiche nach vorgegebenen Regeln gestaltet und ordnet, andererseits auch die Einrichtung, die diese Tätigkeit ausübt</gloss>
                     </category>
+                    <category xml:id="key000298">
+                        <desc xml:lang="deu">Vieh</desc>
+                        <gloss>	Nutzvieh</gloss>
+                        </category>
                     <category xml:id="key000036">
                         <desc xml:lang="deu">Vogtei</desc>
                         <gloss>Verwaltungsbezirk, in dem ein Vogt als Vertreter der weltlichen Landesherrschaft die wichtigtsten hoheitlichen Kompetenzen wie etwa Hoch- und/oder Niedergericht, Militär- und Polizeiwesen, Verwaltung der obrigkeitlichen Besitzungen und Rechte wahrnahm. Die Aufgabenbereiche in den Vogteien variierten je nach der Organisation der Landesverwaltung.</gloss>
@@ -522,6 +634,10 @@
                     <category xml:id="key000997">
                         <desc xml:lang="deu">Vormundschaft</desc>
                         <gloss>Amt, Recht und Pflichten eines Vormunds.</gloss>
+                    </category>
+                    <category xml:id="key000902">
+                        <desc xml:lang="deu">Waffen</desc>
+                        <gloss>Objekt, um anzugreifen oder sich zu verteidigen</gloss>
                     </category>
                     <category xml:id="key000249">
                         <desc xml:lang="deu">Wald</desc>
@@ -535,6 +651,14 @@
                         <desc xml:lang="deu">Wehrdienst</desc>
                         <gloss>Verpflichtung zum Kriegsdienst</gloss>
                     </category>
+                    <category xml:id="key000048">
+                        <desc xml:lang="deu">Weiderecht</desc>
+                        <gloss>Alkoholisches Getränk</gloss>
+                    </category>
+                    <category xml:id="key000129">
+                        <desc xml:lang="deu">Wein</desc>
+                        <gloss>Alkoholisches Getränk</gloss>
+                    </category>
                     <category xml:id="key000758">
                         <desc xml:lang="deu">Wirtshaus</desc>
                         <gloss>Betrieb, in dem Getränke oder Speisen zum sofortigen Verzehr verkauft werden und zum Teil Beherbergung angeboten wird</gloss>
@@ -546,6 +670,14 @@
                     <category xml:id="key004865">
                         <desc xml:lang="deu">Zauberei</desc>
                         <gloss>Tätigkeit einer Hexe bzw. eines Zauberers</gloss>
+                    </category>
+                    <category xml:id="key000519">
+                        <desc xml:lang="deu">Zaun</desc>
+                        <gloss>Struktur, die einen Raum umschliesst</gloss>
+                    </category>
+                    <category xml:id="key000049">
+                        <desc xml:lang="deu">Zehnten</desc>
+                        <gloss>Abgabe des zehnten Teils wirtschaftlicher Erträge und Einkünfte</gloss>
                     </category>
                     <category xml:id="key000154">
                         <desc xml:lang="deu">Zinsen</desc>

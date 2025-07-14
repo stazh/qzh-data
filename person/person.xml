@@ -5026,6 +5026,11 @@
                 <source>QZH_054</source>
                 <dateOfTheSource>1436-1439</dateOfTheSource>
             </person>
+            <person xml:id="GND_118773720">
+                <persName type="full">Heinrich III.</persName>
+                <source>QZH_087</source>
+                <dateOfTheSource>1795</dateOfTheSource>
+            </person>
             <person xml:id="QZH_087_42">
                 <persName type="full">Heinrich Kilchsperger</persName>
                 <source>QZH_087</source>
@@ -8236,6 +8241,11 @@
                 <source>QZH_040</source>
                 <dateOfTheSource>1795</dateOfTheSource>
             </person>
+            <person xml:id="GND_11860371X">
+                <persName type="full">Rudolf von Habsburg, Habsburg, Rudolf von, Rudolffen</persName>
+                <source>QZH_083</source>
+                <dateOfTheSource>1435</dateOfTheSource>
+            </person>
             <person xml:id="QZH_070_27">
                 <persName type="full">Rudolf von Tobel</persName>
                 <source>QZH_070</source>
@@ -8245,11 +8255,6 @@
                 <persName type="full">Rudolff Kielen</persName>
                 <source>QZH_067</source>
                 <dateOfTheSource>1444</dateOfTheSource>
-            </person>
-            <person xml:id="GND_11860371X">
-                <persName type="full">Rudolffen</persName>
-                <source>QZH_083</source>
-                <dateOfTheSource>1435</dateOfTheSource>
             </person>
             <person xml:id="QZH_049_42">
                 <persName type="full">Rudy Buman</persName>

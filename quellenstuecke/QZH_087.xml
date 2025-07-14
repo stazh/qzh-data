@@ -90,9 +90,10 @@
         <profileDesc>
             <textClass default="false">
                 <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-                    <term ref="key000057">Gericht</term>
                         <term ref="key000305">Grenze</term>
-                        <term ref="key003261">Kundschaft</term>
+                        <term ref="key000266">Krieg</term>
+                        <term ref="key006460">Militär</term>
+                        <term ref="key000902">Waffen</term>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -211,13 +212,13 @@
                         </div>
                     <div>
                         <head type="subtitle">Rathgëben</head>
-                        <p><del>M. <persName ref="GND_1069778303">Ruͦdolff Stoltz</persName></del>,
+                        <p><del>M. <persName ref="GND_1069778303">Ruͦdolff Stoltz</persName>,</del>
                             <lb/>junker <del>herr lanndtvogt</del> <persName>Hanns Cuͦnradt Escher</persName>, alter
                             <lb/>landtvogt zuͦ <placeName ref="LOC_47.47333_8.30592">Baden</placeName>,
                             <lb/><add place="inline">m. <persName ref="GND_1053582994">Heinrich Bräm</persName></add>
                             <lb/>vom cleinen rath.</p>
                         <p><lb/>Junker <persName>Hanns Cuͦnradt Wirtz</persName>,
-                            <lb/><del>m. <persName>Heinrich Bräm</persName></del>,
+                            <lb/><del>m. <persName>Heinrich Bräm</persName>,</del>
                             <lb/><persName ref="GND_1140154702"><!-- Zuordnung GND unsicher (mur) -->Adrian Ziegler</persName>, <lb/>von burgern ald groß <lb/>rath, und all <num value="4">vier</num> <lb/>jeder
                             selb annder.</p>
                         <p><lb/><persName>Hanns Ludwig Holzhalb</persName>, schryber, selb annder,
@@ -261,12 +262,12 @@
                     <div>
                         <head type="subtitle">Wynlüth <num value="3">iij</num> man</head>
                         <p><lb/><persName>Mathys Wyß</persName>, <lb/><persName>Caspar Landolt</persName>, <lb/>jeder ein halbarten.
-                            <add place="below"><lb/><persName>Hanns Růdolff Mößli</persName>, ein schlachtschwert.</add>
+                            <lb/><add place="below"><persName>Hanns Růdolff Mößli</persName>, ein schlachtschwert.</add>
                         </p>
                     </div>
                     <pb n="8" facs="A_231__Nr__3__fol__04_v_.tif"/>
                     <div>
-                        <head type="subtitle">Schmid, schärer und bader <num>iij</num> man</head>
+                        <head type="subtitle">Schmid, schärer und bader <num value="3">iij</num> man</head>
                         <p><lb/><persName>Jörg Trichtinger</persName>, ein spieß,
                             <lb/><persName>Hans Zubler</persName>, <lb/><persName>Niclous Waßer</persName>, <lb/>jeder ein halbarten.</p>
                     </div>
@@ -285,7 +286,7 @@
                         </p>
                     </div>
                     <div>
-                        <head type="subtitle">Metzger ij man </head>
+                        <head type="subtitle">Metzger <num value="2">ij</num> man </head>
                         <p><lb/><persName>Heinrich Kilchsperger</persName>, 
                             <lb/><persName>Hans Růdolff Steinbrüchel</persName>, 
                             <lb/>jeder ein
@@ -304,7 +305,7 @@
                         </p>
                     </div>
                     <div>
-                        <head type="subtitle">Schnyder, kürsiner, tůchscherer <lb/>gebend <num value="2">iij</num> man</head>
+                        <head type="subtitle">Schnyder, kürsiner, tůchscherer <lb/>gebend <num value="3">iij</num> man</head>
                         <p><lb/><persName>Hans Münch</persName>, büchse 
                             <lb/><persName>Caspar Eichorn</persName>, <lb/><persName>Ůlrich von Wyl</persName>, <lb/>beide halbarten.</p>
                     </div>
@@ -380,7 +381,7 @@
                             <lb/><persName>Hanns von Helbling</persName>, ein spieß.</p>
                     </div>
                     <div>
-                        <head type="subtitle"><placeName ref="LOC_47.20622_8.69686">Richtischwyl</placeName> gitt <num>iiij</num> man</head>
+                        <head type="subtitle"><placeName ref="LOC_47.20622_8.69686">Richtischwyl</placeName> gitt <num value="4">iiij</num> man</head>
                         <p><lb/><persName>Jacob Ůlman</persName>, ein büchs,
                             <persName>Cleinhanns Schnyder</persName>, <lb/><persName>Christen Teiller</persName>, <lb/><persName>Ůli Strickler</persName>,
                             <lb/>jeder ein spieß.
@@ -416,7 +417,7 @@
                         <p><lb/><persName>Růdolff Landolt</persName>, ein halbarten</p>
                     </div>
                     <div>
-                        <head type="subtitle"><placeName ref="LOC_47.30934_8.52127">Adlischwyl</placeName> gitt j man</head> 
+                        <head type="subtitle"><placeName ref="LOC_47.30934_8.52127">Adlischwyl</placeName> gitt <num value="1">j</num> man</head> 
                         <p><lb/><persName>Jagli Wälti</persName>, ein halbarten</p>
                     </div>
                     <div>
@@ -431,11 +432,11 @@
                         <p><lb/><persName>Heinrich Lybenstein</persName>, ein büchs</p>
                     </div>
                     <div>
-                        <head><placeName ref="LOC_47.36201_8.51497">Wiedicken</placeName> gitt j man</head>
+                        <head><placeName ref="LOC_47.36201_8.51497">Wiedicken</placeName> gitt <num value="1">j</num> man</head>
                         <p><lb/><persName>Hanns Hemicken</persName>, ein halbarten</p>
                     </div>
                     <div>
-                        <head type="subtitle"><placeName ref="LOC_47.38946_8.48533">Altstetten</placeName> gitt j man</head>
+                        <head type="subtitle"><placeName ref="LOC_47.38946_8.48533">Altstetten</placeName> gitt <num value="1">j</num> man</head>
                         <p><lb/><persName>Baschi Volkart</persName>, ein halbarten</p>
                     </div>
                     <pb n="14" facs="A_231__Nr__3__fol__07_v_.tif"/>
@@ -463,7 +464,7 @@
                         </p>
                     </div>
                     <div>
-                        <head type="subsubtitle"><placeName ref="LOC_47.30147_8.45094">Hedingen</placeName> gitt j man</head>
+                        <head type="subsubtitle"><placeName ref="LOC_47.30147_8.45094">Hedingen</placeName> gitt <num value="1">j</num> man</head>
                         <p><lb/><persName>Růdolff Fryg</persName>, ein harnast und spieß</p>
                     </div>
                     <div>
@@ -477,7 +478,7 @@
                         <p><lb/><persName>Ůli Hußer</persName>, ein harnast und spieß</p>
                     </div>
                     <div>
-                        <head type="subsubtitle"><placeName ref="LOC_47.35515_8.44256">Birmenstorff</placeName> und <lb/><placeName ref="LOC_47.38507_8.42581">Urdorff</placeName> gend iij man</head>
+                        <head type="subsubtitle"><placeName ref="LOC_47.35515_8.44256">Birmenstorff</placeName> und <lb/><placeName ref="LOC_47.38507_8.42581">Urdorff</placeName> gend <num value="3">iij</num> man</head>
                         <p><add place="below"><lb/><persName>Hanns Volckhart</persName> von <placeName ref="LOC_47.35515_8.44256">Birmenstorff</placeName>, ein büchs,
                             <lb/><persName>Jeörg Lupfer</persName> von <placeName ref="LOC_47.35515_8.44256">Birmenstorff</placeName>, ein spieß,
                             <lb/><persName>Cleinheini Hůber</persName> von <placeName ref="LOC_47.38507_8.42581">Urdorff</placeName>, ein spieß</add>
@@ -962,7 +963,7 @@
                             </p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.19942_9.00735">Benncken</placeName> iiij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.19942_9.00735">Benncken</placeName> <num value="4">iiij</num> man</head>
                             <p><persName>Hanns Houpt</persName>, <lb/><persName>Jacob von Ouw</persName>, <lb/>jeder ein büchs
                                 <lb/></p>
                             <p><persName>Junghanns Albrecht</persName>, ein harnast, <lb/><persName>Melchior Meister</persName>, <lb/>
@@ -970,12 +971,12 @@
                             </p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.66515_8.6179">Tachßen</placeName> ij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.66515_8.6179">Tachßen</placeName> <num value="2">ij</num> man</head>
                             <p><persName>Daniel Sattler</persName>, <lb/><persName>Jacob Rorer</persName>, <lb/>jeder ein spieß
                             </p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.67074_8.63542">Ůwißen</placeName> vj man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.67074_8.63542">Ůwißen</placeName> <num value="6">vj</num> man</head>
                             <p><persName>Jacob Bertschi</persName>, <lb/><persName>Bernhardin Koch</persName>, <lb/><persName>Hanns Jacob Zuber</persName>,
                                 <lb/>jeder ein büchs
                             </p>
@@ -987,7 +988,7 @@
                         </div>
                         <pb n="29"/>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.6839_8.62995">Flůrlingen</placeName> iiij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.6839_8.62995">Flůrlingen</placeName> <num value="4">iiij</num> man</head>
                             <p><persName>Hanns Schuepper</persName>, <persName>Jörgen son</persName>, <lb/><persName>Heinrich Billing</persName>, <lb/>jeder
                                 ein büchs
                             </p>
@@ -996,11 +997,11 @@
                             </p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.69054_8.64357">Fhürtalen</placeName> j man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.69054_8.64357">Fhürtalen</placeName> <num value="1">j</num> man</head>
                             <p><lb/><persName>Hanns Gäbhart</persName>, ein halbarten</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.68399_8.66086">Langwißen</placeName> ij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.68399_8.66086">Langwißen</placeName> <num value="2">ij</num> man</head>
                             <p><lb/><persName>Marx Schnyder</persName>, ein spieß,
                                 <lb/><persName>Heinrich Wipf</persName>, ein halbarten
                             </p>
@@ -1008,7 +1009,7 @@
                         <div>
                             <head type="subtitle"><placeName ref="LOC_47.4113_8.72125">Illnouwer</placeName> <del>ein</del>
                                 theil im obern <lb/>ampt</head>
-                            <head type="subsubtitle"><placeName ref="LOC_47.39016_8.69085">Volkentschwyl</placeName> v man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.39016_8.69085">Volkentschwyl</placeName> <num value="5">v</num> man</head>
                             <p><lb/><persName>Junghanns Dietrich</persName>, <lb/><persName>Jünghans Rümbeli</persName>, <persName>Clin<lb break="no"/>hannßen son</persName>,
                                 <lb/><persName>Ůli Ochsner</persName> zů <placeName ref="LOC_47.38323_8.67608">Zynicken</placeName>, <lb/>der jung, <lb/>jeder ein
                                 harnast <lb/>und spieß
@@ -1018,38 +1019,38 @@
                             </p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.38387_8.71763">Gůttetschwyl</placeName> iij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.38387_8.71763">Gůttetschwyl</placeName> <num value="3">iij</num> man</head>
                             <p><lb/><persName>Hanns Wolgemůtt</persName>, <persName>Jörgen son</persName>, <lb/><persName>Jörg Güttinger</persName>, <lb/><persName>Caspar
                                 Temperli</persName>, <lb/>jeder ein spieß <lb/>und ein halbarten
                             </p>
                         </div>
                         <pb n="30"/>
                         <div>
-                            <head n="subsubtitle"><placeName ref="LOC_47.4307_8.67284">Tagelschwanngen</placeName> ij man</head>
+                            <head n="subsubtitle"><placeName ref="LOC_47.4307_8.67284">Tagelschwanngen</placeName> <num value="2">ij</num> man</head>
                             <p><lb/><persName>Hanns Wegman</persName>, eigner person oder ein söldner <lb/>mit einem harnast
                                 und spieß
                             </p>
                             <p><lb/><persName>Oßwald Schmid</persName>, ein harnast und halbarten</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.44299, 8.67362">Lindouw</placeName> ij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.44299, 8.67362">Lindouw</placeName> <num value="2">ij</num> man</head>
                             <p><lb/><persName>Heini Widmer</persName>, <lb/><persName>Oßwald Moroff</persName>, <lb/>jeder ein harnast und <lb/>
                                 spieß
                             </p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.431679_8.686272">Ryken</placeName> ij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.431679_8.686272">Ryken</placeName> <num value="2">ij</num> man</head>
                             <p><lb/><persName>Heini Kůn der jung</persName>, ein büchs,
                                 <lb/><persName>Heini Buman</persName>, ein spieß
                             </p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.44345_8.69961">Grastal</placeName> ij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.44345_8.69961">Grastal</placeName> <num value="2">ij</num> man</head>
                             <p><lb/><persName>Mathys Cůn</persName>, der küeffer, ein büchs,
                                 <lb/><persName>Jagli Chůn, Hanßen son</persName>, ein harnast und spieß</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.45652_8.69428">Wintenberg</placeName> ij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.45652_8.69428">Wintenberg</placeName> <num value="2">ij</num> man</head>
                             <p><lb/><persName>Ůlrich Ochßner, Joßen son</persName>, <lb/><persName>Heini Ochßner</persName>, <lb/>jeder ein
                                     spieß
                             </p>
@@ -1065,7 +1066,7 @@
                             <p><lb/><persName>Heini Wyß</persName> von <placeName ref="LOC_47.47802_8.66482">Strubicken</placeName>, ein harnast unnd <lb/>spieß</p>
                         </div>
                         <div>
-                                <head type="subsubtitle"><placeName ref="LOC_">Brütten</placeName> v man</head>
+                                <head type="subsubtitle"><placeName ref="LOC_47.47482_8.6724">Brütten</placeName> <num value="5">v</num> man</head>
                             <p><lb/>Herr <persName>Schwiderus Baltenschwyler</persName>, eigner person <lb/>oder ein söldner
                             geben, mit einer büchs</p>
                             <p><lb/><persName>Hanns Steffen</persName>, küeffers son, <lb/><persName>Oßwald Baltensperger, <lb/>
@@ -1077,33 +1078,33 @@
                            <pb n="31"/>
                         </div>
                         <div>
-                            <head type="subtitle"><del><placeName ref="LOC_47.45039_8.71954">Kämlotten</placeName> j man</del></head>
+                            <head type="subtitle"><del><placeName ref="LOC_47.45039_8.71954">Kämlotten</placeName> <num value="1">j</num> man</del></head>
                         <p><lb/><del><persName>Ůlrich Ochsner</persName>, ein spieß</del>
                             </p>
                         </div>
                         <div>
-                            <head type="subtitle"><del><placeName ref="LOC_47.46252_8.71408">Roßberg</placeName> j man</del></head>
+                            <head type="subtitle"><del><placeName ref="LOC_47.46252_8.71408">Roßberg</placeName> <num value="1">j</num> man</del></head>
                             <p><lb/><del><persName>Felix Würgler</persName>, ein harnast und spieß</del>
                           </p>
                         </div>
                         <div>
-                            <head type="subtitle"><placeName ref="LOC_47.42425_8.72421">Lugkhußen</placeName> j man</head> 
+                            <head type="subtitle"><placeName ref="LOC_47.42425_8.72421">Lugkhußen</placeName> <num value="1">j</num> man</head> 
                         <p><lb/><persName>Hans Binder</persName>, eigner person oder ein söldner <lb/>mit einem harnast und
                             spieß</p>
                         </div>
                         <div>
-                            <head type="subtitle"><placeName ref="LOC_47.41236_8.69758">Bißicken</placeName> iiij man</head> 
+                            <head type="subtitle"><placeName ref="LOC_47.41236_8.69758">Bißicken</placeName> <num value="4">iiij</num> man</head> 
                             <p><lb/><persName>Mathys Chůn</persName>, des puren son, ein büchs, 
                                 <lb/><persName>Felix Chůn</persName>, <lb/><persName>Bernhart Moroff</persName>, <lb/>jeder ein spieß
                            </p>
                         <p><lb/><persName>Cristen Moroff</persName>, der schnyder, ein halbarten</p>
                         </div>
                         <div>
-                            <head type="subtitle"><placeName ref="LOC_47.42142_8.69151">Moßberg</placeName> j man</head>  
+                            <head type="subtitle"><placeName ref="LOC_47.42142_8.69151">Moßberg</placeName> <num value="1">j</num> man</head>  
                             <p><lb/><persName>Ůlrich Keller, genannt Moroff</persName>, ein halbarten</p>
                         </div>
                         <div>
-                            <head type="subtitle"><placeName ref="LOC_47.435_8.71723">Ottigken</placeName> iiij man</head>  
+                            <head type="subtitle"><placeName ref="LOC_47.435_8.71723">Ottigken</placeName> <num value="4">iiij</num> man</head>  
                             <p><lb/><persName>Jörg Müller, genannt Heggi</persName>, <lb/><persName>Hans Wylamman</persName> oder syn son, 
                             <lb/>jeder ein har<lb break="no"/>nast und <lb/>spieß
                            </p>
@@ -1116,51 +1117,51 @@
                             <lb/>darunder ist volgende abtheilung, <lb/>namblich:</head>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.59447_8.67826">Anndelfingen</placeName> gitt ij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.59447_8.67826">Anndelfingen</placeName> gitt <num value="2">ij</num> man</head>
                             <p><lb/><persName>Heinrich Knöpfli</persName>, <lb/><persName>Hans Heinrich Engelfirn</persName>, <lb/>jeder ein
                                     halbarten</p>
                         </div>
                             <pb n="32"/>
                         <div>
-                            <head  type="subsubtitle"><placeName ref="LOC_47.60058_8.68362">Clein Anndelfingen</placeName> ij man</head> 
+                            <head  type="subsubtitle"><placeName ref="LOC_47.60058_8.68362">Clein Anndelfingen</placeName> <num value="2">ij</num> man</head> 
                             <p><lb/><persName>Dyas Wolfer</persName>, <lb/><persName>Ůlrich Eigenheer</persName>, <lb/>jeder ein
                                     spieß
                             </p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.58827_8.73281">Güetighußen</placeName> j man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.58827_8.73281">Güetighußen</placeName> <num value="1">j</num> man</head>
                         <p><lb/><persName>Peter Haßler</persName>, ein halbarten</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.57822_8.7512"><!-- seit 1878 Thalheim a. d. Thur (mur) -->Torlicken</placeName> j man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.57822_8.7512"><!-- seit 1878 Thalheim a. d. Thur (mur) -->Torlicken</placeName> <num value="1">j</num> man</head>
                             <p><lb/><persName>Cleinhanns Schmid</persName>, ein halbarten</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.57943_8.7181">Niderwyl</placeName> j man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.57943_8.7181">Niderwyl</placeName> <num value="1">j</num> man</head>
                             <p><lb/><persName>Felix Schoub</persName>, ein halbarten</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.5823_8.69148">Adlicken</placeName> j man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.5823_8.69148">Adlicken</placeName> <num value="1">j</num> man</head>
                             <p><lb/><persName>Benedict Waser</persName>, ein büchs</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.57641_8.67007">Huemlicken</placeName> j man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.57641_8.67007">Huemlicken</placeName> <num value="1">j</num> man</head>
                                         <p><lb/><persName>Galli Schneittler</persName>, ein spieß</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.57285_8.64781">Dorff</placeName> j man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.57285_8.64781">Dorff</placeName> <num value="1">j</num> man</head>
                             <p><lb/><persName>Jagli Räbman</persName>, ein halbarten</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.57608_8.60633">Flaach</placeName> ij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.57608_8.60633">Flaach</placeName> <num value="2">ij</num> man</head>
                         <p><lb/><persName>Hanns Vatterlouß</persName>, <persName>Pauli Meyer</persName>, <lb/>jeder ein büchs</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.57482_8.62579">Vollcken</placeName> j man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.57482_8.62579">Vollcken</placeName> <num value="1">j</num> man</head>
                         <p><persName>Christen Buri</persName>, ein halbarten <lb/></p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.61175_8.72781">Oßingen</placeName> gitt für sich selbs <lb/>v man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.61175_8.72781">Oßingen</placeName> gitt für sich selbs <lb/><num value="5">v</num> man</head>
                             <p><lb/><persName>Isaac Hußrath</persName>, ein büchs</p>
                             <p><lb/><persName>Ůli Kübler</persName>, <lb/><persName>Hanns Koch</persName>, der jung, <lb/><persName>Benedict Bunti</persName>, der
                             jung, <lb/>jeder ein spieß
@@ -1169,34 +1170,34 @@
                         </div>
                             <pb n="33"/>
                         <div>
-                            <head type="subsubtitle">Sodënne <placeName ref="LOC_47.63244_8.76851">Guntelingen</placeName> j man</head>
+                            <head type="subsubtitle">Sodënne <placeName ref="LOC_47.63244_8.76851">Guntelingen</placeName> <num value="1">j</num> man</head>
                             <p><lb/><persName>Alexannder Senn</persName>, ein spieß</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.62203_8.77821">Waltelingen</placeName> j man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.62203_8.77821">Waltelingen</placeName> <num value="1">j</num> man</head>
                         <p><persName>Michel Fritschi</persName>, ein halbarten</p>
                         </div>
                         <div>
-                            <head type="subtitle"><placeName ref="LOC_47.64002_8.77932">Stammheim</placeName> gitt vj man</head>
+                            <head type="subtitle"><placeName ref="LOC_47.64002_8.77932">Stammheim</placeName> gitt <num value="6">vj</num> man</head>
                             <p><lb/>Also abtheilt, nammblich:</p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.63244_8.79963">Oberstammheim</placeName> iij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.63244_8.79963">Oberstammheim</placeName> <num value="3">iij</num> man</head>
                             <p><lb/><persName>Jacob Fridrich</persName>, der müller, ein büchs</p>
                             <p><lb/><persName>Jörg Wirt</persName>, ein harnast, <lb/><persName>Simon Fryg</persName>, <lb/>jeder ein
                                     spieß
                             </p>
                         </div>
                         <div>
-                            <head type="subsubtitle"><placeName ref="LOC_47.63921_8.79064"><!-- Unterstammheim in ref (mur) -->Niderstammheim</placeName> iij man</head>
+                            <head type="subsubtitle"><placeName ref="LOC_47.63921_8.79064"><!-- Unterstammheim in ref (mur) -->Niderstammheim</placeName> <num value="3">iij</num> man</head>
                             <p><lb/><persName>Ůli Furtmüller</persName>, ein harnast und schlachtschwert</p>
-                            <p><lb/><persName>Augustin Küesther</persName><note><p> eine mögliche Lesart wäre „Küescher“ und
+                            <p><lb/><persName>Augustin Küesther</persName><note><p> eine mögliche Lesart wäre <q>Küescher</q> und
                                     (unwahrscheinlich) <q>Künsther</q>.</p></note>, der beck, <lb/>
                             <persName>Jacob Gaßer</persName>, <lb/>jeder ein spieß
                          </p>
                         </div>
                         <div>
-                            <head type="subtitle"><placeName ref="LOC_47.49715_8.86523"><!-- Elgg in ref (mur) -->Ellgoüw</placeName> vj man</head>
+                            <head type="subtitle"><placeName ref="LOC_47.49715_8.86523"><!-- Elgg in ref (mur) -->Ellgoüw</placeName> <num value="6">vj</num> man</head>
                             <p><lb/><persName>Hanns Wyßhaupt</persName>, ein büchs</p>
                             <p><lb/><persName>Hanns Ludi, genannt Kalli</persName>, <lb/><persName>Hanns Ludi, Jacoben son</persName>, 
                             <lb/><persName>Andereß Wetzel</persName>, all dreyg mit <lb/>harnast und <lb/>spießen
@@ -1205,11 +1206,11 @@
                         </div>
                             <pb n="34"/>
                         <div>
-                            <head type="subtitle"><placeName ref="LOC_47.49715_8.86523"><!-- Elgg in ref (mur) -->Ellgoüwer</placeName> Höff <placeName>Stächli Pundt</placeName> j man</head>
+                            <head type="subtitle"><placeName ref="LOC_47.49715_8.86523"><!-- Elgg in ref (mur) -->Ellgoüwer</placeName> Höff <placeName>Stächli Pundt</placeName> <num value="1">j</num> man</head>
                             <p><lb/><persName>Hanns Petter</persName> von <placeName ref="LOC_47.46447_8.84682">Oberschlatt</placeName>, ein spieß</p>
                         </div>
                         <div>
-                            <head type="subtitle"><placeName ref="LOC_47.41182_8.64516"><!-- Wangen bei Brüttisellen in ref (mur) -->Wanngen</placeName> j man</head>
+                            <head type="subtitle"><placeName ref="LOC_47.41182_8.64516"><!-- Wangen bei Brüttisellen in ref (mur) -->Wanngen</placeName> <num value="1">j</num> man</head>
                             <p><lb/><persName>Hanns Boßhart</persName>, ein harnast und spieß
                             </p>
                            </div>
@@ -1227,11 +1228,12 @@
                 </body>
                 <back>
                     <div>
-                        <p>Das Libell wird durchgehend von einer Hand geschrieben. Eine zweite Hand
-                            verfasst Korrekturen und Nachträge. Die im Text selbst genannte
-                            Notwendigkeit, (durch Tod) ausgefallene Kriegsleute zu ersetzen, ist
-                            offenbar einige Male eingetreten, so dass damit gerechnet werden kann,
-                            dass die Mobilmachung einige Zeit aufrechterhalten wurde.</p>
+                        <p>Es handelt sich bei dem vorliegend edierten Libell im Format 22.0 x 32.5 um ein Züricherisches Defensionale, mit dem zwei Fähnlein von insgesamt 500 Mann aus dem ganzen Gebiet des Zürcher Stadtstaats für Verteidigungs- und Grenzsicherungsaufgaben an der baslerisch-französischen und bernisch-französischen Grenze im Konflikt zwischen König <persName ref="GND_118773720">Heinrich III.</persName> und der katholischen Liga unter den Guisen aufgeboten werden.</p> 
+
+<p>Die Krieger werden von Ort zu Ort einzeln mit ihrer jeweiligen Bewaffnung und manchmal auch mit ihren Berufen oder Amtstiteln aufgezählt. Auch wenn nicht alle Gemeinden der Zürcher Landschaft Erwähnung finden, darf das Defensionale doch als vollständig gelten, da mit der Aufstellung das im Text definierte Soll von 500 Soldaten erreicht wurde. Es ist vor diesem Hintergrund davon auszugehen, dass diejenigen Gemeinden, die im Defensionale keine Erwähnung finden, bei diesem Auszug keine Männer zu stellen hatten.</p>
+
+<p>Das Defensionale von 1588 ist dem zürcherischen Archiv vermutlich in der zweiten Hälfte des 20. Jahrhunderts durch Ausleihe entfremdet worden. Im Jahr 2024 gelangte das Defensionale durch eine Schenkung wiederum an das Staatsarchiv. 
+</p>
                     </div>
                 </back>
             </text>
