@@ -2823,6 +2823,11 @@
                 <source>QZH_047</source>
                 <dateOfTheSource>1436-1439</dateOfTheSource>
             </person>
+            <person xml:id="GND_1089191162">
+                <persName type="full">Grafen von Homberg, Homberc</persName>
+                <source>QZH_084</source>
+                <dateOfTheSource>1519</dateOfTheSource>
+            </person>
             <person xml:id="QZH_068_5">
                 <persName type="full">Grafen von Toggenburg</persName>
                 <source>QZH_068</source>
@@ -5528,11 +5533,6 @@
             </person>
             <person xml:id="GND_119464632">
                 <persName type="full">Holzhalb, Leonhard, Holtzhalb, Lienhart Holtzhalb</persName>
-            </person>
-            <person xml:id="GND_1089191162">
-                <persName type="full">Homberc</persName>
-                <source>QZH_084</source>
-                <dateOfTheSource>1519</dateOfTheSource>
             </person>
             <person xml:id="QZH_030_15">
                 <persName type="full">Honegger</persName>
@@ -9900,9 +9900,7 @@
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
             <person xml:id="GND_118637533">
-                <persName type="full">Zwingli, Ulrich, Zwinglins, Zwingli</persName>
-                <source>QZH_014</source>
-                <dateOfTheSource>1615</dateOfTheSource>
+                <persName type="full">Zwingli, Ulrich, Zwinglins, Zwingli, Huldrych Zwingli</persName>
             </person>
             <person xml:id="QZH_099_17">
                 <persName type="full">de Beggenhoven</persName>

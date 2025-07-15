@@ -31,7 +31,7 @@
                     <msIdentifier>
                         <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5243189">TAI 2.37; ZBZ III N 135</idno>
                     </msIdentifier>
-                    <head>Von Clarheit unnd gewüsse oder unbetrogliche des worts gottes, von <persName ref="GND_118637533">Huldrychen Zwingli</persName> gethon und beschriben zuo Zürich im M. D. XXII jar.</head>
+                    <head>Von Clarheit unnd gewüsse oder unbetrogliche des worts gottes, von Huldrychen Zwingli gethon und beschriben zuo Zürich im M. D. XXII jar.</head>
                     <msContents>
                         <msItem>
                             <textLang>Deutsch</textLang>
@@ -74,7 +74,7 @@
   <group>
    <text>
     <body corresp="Sigle1">
-     <div><p><ref target="https://suche.staatsarchiv.djiktzh.ch/Dateien/320/D1603057.mp3">Eine Vertonung der Predigt Huldrych Zwinglis kann hier abgerufen werden</ref>.</p></div>
+     <div><p>Eine Vertonung der Predigt <persName ref="GND_118637533">Huldrych Zwingli</persName>s <ref target="https://suche.staatsarchiv.djiktzh.ch/Dateien/320/D1603057.mp3">kann hier abgerufen werden</ref>.</p></div>
     </body>
     
     
