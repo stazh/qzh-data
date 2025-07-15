@@ -64,7 +64,7 @@
 					</physDesc>
 					<history>
 						<origin/>
-					<origin><origDate from="1485-01-01" to="1485-12-31"></origDate></origin>
+					<origin><origDate when="1485"/></origin>
 					</history>
 				</msDesc>
 			</sourceDesc>
@@ -136,7 +136,7 @@
 							hoffrodels zuͦ <placeName ref="LOC_47.27942_8.86162">Ober
 								Duͤrten</placeName>
 							<abbr>etc</abbr>. <lb/>Warend hie bi der edel <persName>Ruͦdolf von
-								Bechburc</persName>, ritter, und <persName>Henirich von
+								Bechburc </persName>, ritter, und <persName>Henirich von
 								Ebinoͤch</persName>, <lb/>aman zuͦ <placeName
 								ref="LOC_47.36583_8.67896">Grifense</placeName> und ander
 							gloubwirdig lüts <abbr>etc</abbr>. </seg>
@@ -362,7 +362,8 @@
 							>Grüningen</placeName> in der ZB Zürich (<bibl>Ms L 442</bibl>). Robert Hoppeler datiert den eigentlichen Text auf
 						circa 1485 (<bibl><ref
 								target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-								>SSRQ ZH AF I/2</ref>, <ref
+								>SSRQ ZH AF I/2
+							</ref></bibl>,<bibl><ref
 								target="https://www.ssrq-sds-fds.ch/online/ZH_AF_I_2/index.html#p_503"
 								>S. 503</ref></bibl>). Diese Datierung ergibt sich aus den
 						Amtszeiten des genannten <persName>Abts Markus von <placeName
