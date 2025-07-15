@@ -104,7 +104,7 @@
 			<text>
 				<body>
 				    <pb n="92r" facs="F_II_a_185__fol__91_v-92_r_.tif"/>
-					<!-- kollationiert msr, Kommentar und Regest noch aktualisieren! -->
+					<!-- kollationiert msr -->
 					<head>Abgschriftt mins her von <placeName ref="LOC_47.2592_8.849"
 							>Ru̍tis</placeName> hoff rodel zuͦ <placeName ref="LOC_47.27942_8.86162"
 							>Ober Du̍rten</placeName></head>
@@ -317,8 +317,8 @@
 				<back>
 					<div><p>Offnungen (hier <q>Hofstattrodel</q>) sind Rechtsquellen aus dem ländlichen
 						Raum aus der Zeit des Spätmittelalters und der Frühen Neuzeit. Sie dienten
-						der Festsetzung von Rechtsnormen zur Lösung von Konflikten zwischen den
-						Bewohnern einer Ortschaft und deren Herrschaft. Die Bestimmungen kamen an
+						der Festsetzung von Rechtsnormen zur Lösung von Konflikten zwischen der
+						Bevölkerung einer Ortschaft und deren Herrschaft. Die Bestimmungen kamen an
 						der in der Regel zweimal jährlich stattfindenden, als Ding oder Täding
 						bezeichneten Gerichtsversammlung zur Anwendung und wurden dort gleichzeitig
 						periodisch erneuert. In den verschiedenen Artikeln des vorliegenden
@@ -343,12 +343,12 @@
 						Hofstattrodel von <placeName ref="LOC_47.27942_8.86162"
 							>Oberdürnten</placeName> enthält es auch Abschriften der Dingstattrödel
 						von <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>/<placeName
-							ref="LOC_47.27632_8.75851">Binzikon</placeName> und der Hofstattrödel zu
+							ref="LOC_47.27632_8.75851">Binzikon</placeName> und der Hofstattrödel von
 							<placeName ref="LOC_47.31279_8.72325">Mönchaltorf</placeName>,
 							<placeName ref="LOC_47.28706_8.92092">Wald</placeName>, <placeName
 							ref="LOC47.33122_8.92052">Fischenthal</placeName>, <placeName
-							ref="LOC_47.3264_8.79779">Wetzikon</placeName> und <placeName
-							ref="47.346069_8.864176">Haus Greifenberg</placeName> (<placeName
+							ref="LOC_47.3264_8.79779">Wetzikon</placeName> und des <placeName
+							ref="47.346069_8.864176">Hauses Greifenberg</placeName> (<placeName
 							ref="47.33709_8.85645">Bäretswil</placeName>). Im Gegensatz zu einigen
 						anderen im Bergerbuch festgehaltenen Offnungen (<placeName
 							ref="LOC_47.28333_8.75">Grüningen</placeName>/<placeName
@@ -369,7 +369,7 @@
 						Amtszeiten des genannten <persName>Abts Markus von <placeName
 								ref="LOC_47.2592_8.849">Rüti</placeName></persName> einerseits und
 						des Landvogts <persName>Hans Widmer</persName> von <placeName
-							ref="LOC_47.28333_8.75">Grüningen</placeName> andererseits. </p>
+							ref="LOC_47.28333_8.75">Grüningen</placeName> andererseits.</p>
 					<p>Den ausführlichen Bestimmungen über Nutzungs- und Grundstückrechte im Hofstattrodel von
 							<placeName ref="LOC_47.27942_8.86162">Oberdürnten</placeName> lagen
 						offenbar Streitigkeiten zwischen den Bewohnerinnen und Bewohnern der
@@ -415,7 +415,7 @@
 								target="https://hls-dhs-dss.ch/de/articles/018117/2002-06-18/">Jörg
 								Berger</ref></bibl>; <bibl><ref
 								target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-								>IWQZH</ref></bibl>, Nr. 205; zur Editionssituation der Zürcher
+								>IWQZH</ref>, Nr. 205</bibl>; zur Editionssituation der Zürcher
 						Offnungen im Allgemeinen vgl. <bibl><ref
 								target="https://suche.staatsarchiv.djiktzh.ch/Dateien/304/D1523837.pdf"
 								>StAZH A 97</ref></bibl></p></div>

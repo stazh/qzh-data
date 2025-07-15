@@ -99,11 +99,6 @@
                 <source>QZH_056</source>
                 <dateOfTheSource>1542</dateOfTheSource>
             </person>
-            <person xml:id="GND_1140154702">
-                <persName type="full">Adrian Ziegler</persName>
-                <source>QZH_087</source>
-                <dateOfTheSource>1795</dateOfTheSource>
-            </person>
             <person xml:id="QZH_012_11">
                 <persName type="full">Agatha Zoller</persName>
                 <source>QZH_012</source>
@@ -1181,7 +1176,7 @@
                 <dateOfTheSource>1436-1439</dateOfTheSource>
             </person>
             <person xml:id="GND_142913324">
-                <persName type="full">Bräm</persName>
+                <persName type="full">Bräm, Hans, Bräm</persName>
                 <source>QZH_085</source>
                 <dateOfTheSource>1572</dateOfTheSource>
             </person>
@@ -1945,11 +1940,6 @@
                 <source>QZH_087</source>
                 <dateOfTheSource>1795</dateOfTheSource>
             </person>
-            <person xml:id="GND_143658468">
-                <persName type="full">Cůnradt Großman, Großman</persName>
-                <source>QZH_087</source>
-                <dateOfTheSource>1795</dateOfTheSource>
-            </person>
             <person xml:id="QZH_087_94">
                 <persName type="full">Cůnradt Lütoldt</persName>
                 <source>QZH_087</source>
@@ -2119,11 +2109,6 @@
                 <persName type="full">Elisabethen von Rosenow</persName>
                 <source>QZH_064</source>
                 <dateOfTheSource>1357</dateOfTheSource>
-            </person>
-            <person xml:id="GND_140327096">
-                <persName type="full">Elizabeth</persName>
-                <source>QZH_099</source>
-                <dateOfTheSource>1275</dateOfTheSource>
             </person>
             <person xml:id="QZH_064_7">
                 <persName type="full">Elsbeth</persName>
@@ -2352,11 +2337,6 @@
                 <persName type="full">Felix Kůn</persName>
                 <source>QZH_087</source>
                 <dateOfTheSource>1795</dateOfTheSource>
-            </person>
-            <person xml:id="GND_1089573405">
-                <persName type="full">Felix Lindinner</persName>
-                <source>QZH_060</source>
-                <dateOfTheSource>1483</dateOfTheSource>
             </person>
             <person xml:id="QZH_087_211">
                 <persName type="full">Felix Marteler</persName>
@@ -2678,11 +2658,6 @@
                 <source>QZH_020</source>
                 <dateOfTheSource>1668</dateOfTheSource>
             </person>
-            <person xml:id="GND_125937341X">
-                <persName type="full">Gerold Grebeln</persName>
-                <source>QZH_062</source>
-                <dateOfTheSource>1625-1676</dateOfTheSource>
-            </person>
             <person xml:id="GND_118538527">
                 <persName type="full">Geryen, Georgii</persName>
                 <source>QZH_064</source>
@@ -2863,6 +2838,11 @@
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
             </person>
+            <person xml:id="GND_125937341X">
+                <persName type="full">Grebel, Gerold, Gerold Grebeln</persName>
+                <source>QZH_062</source>
+                <dateOfTheSource>1625-1676</dateOfTheSource>
+            </person>
             <person xml:id="QZH_054_25">
                 <persName type="full">Griss</persName>
                 <source>QZH_054</source>
@@ -2877,6 +2857,11 @@
                 <persName type="full">Grossman Hagnower</persName>
                 <source>QZH_054</source>
                 <dateOfTheSource>1436-1439</dateOfTheSource>
+            </person>
+            <person xml:id="GND_143658468">
+                <persName type="full">Grossmann, Konrad, Cůnradt Großman, Großman</persName>
+                <source>QZH_087</source>
+                <dateOfTheSource>1795</dateOfTheSource>
             </person>
             <person xml:id="QZH_087_331">
                 <persName type="full">Groß Heinrich Schnetzler</persName>
@@ -2902,11 +2887,6 @@
                 <persName type="full">Gumprechten</persName>
                 <source>QZH_042</source>
                 <dateOfTheSource>1329</dateOfTheSource>
-            </person>
-            <person xml:id="GND_102478996">
-                <persName type="full">Guyßen</persName>
-                <source>QZH_087</source>
-                <dateOfTheSource>1795</dateOfTheSource>
             </person>
             <person xml:id="GND_128511745">
                 <persName type="full">Gwerb, Rudolf, Ruͦdolf Gwerb</persName>
@@ -3613,11 +3593,6 @@
             </person>
             <person xml:id="QZH_062_15">
                 <persName type="full">Hannß Heinrich Wasern</persName>
-                <source>QZH_062</source>
-                <dateOfTheSource>1625-1676</dateOfTheSource>
-            </person>
-            <person xml:id="GND_1074540360">
-                <persName type="full">Hannß Heinrichen Müllers,, Hannß Heinrich Müllers</persName>
                 <source>QZH_062</source>
                 <dateOfTheSource>1625-1676</dateOfTheSource>
             </person>
@@ -5096,11 +5071,6 @@
                 <source>QZH_087</source>
                 <dateOfTheSource>1795</dateOfTheSource>
             </person>
-            <person xml:id="GND_138054185">
-                <persName type="full">Heinrich Roͤist</persName>
-                <source>QZH_060</source>
-                <dateOfTheSource>1483</dateOfTheSource>
-            </person>
             <person xml:id="QZH_040_21">
                 <persName type="full">Heinrich Ryffel</persName>
                 <source>QZH_040</source>
@@ -5310,6 +5280,11 @@
                 <persName type="full">Henirich von Ebinoͤch</persName>
                 <source>QZH_084</source>
                 <dateOfTheSource>1519</dateOfTheSource>
+            </person>
+            <person xml:id="GND_102478996">
+                <persName type="full">Henri I., Herzog von Guise, Guyßen</persName>
+                <source>QZH_087</source>
+                <dateOfTheSource>1795</dateOfTheSource>
             </person>
             <person xml:id="QZH_035_6">
                 <persName type="full">Henricus Ffye</persName>
@@ -6585,11 +6560,6 @@
                 <source>QZH_044</source>
                 <dateOfTheSource>1436-1439</dateOfTheSource>
             </person>
-            <person xml:id="GND_115599266">
-                <persName type="full">Johanny Heinrichn Rahn</persName>
-                <source>QZH_062</source>
-                <dateOfTheSource>1625-1676</dateOfTheSource>
-            </person>
             <person xml:id="GND_770091512">
                 <persName type="full">Johans</persName>
                 <source>QZH_043</source>
@@ -6866,6 +6836,11 @@
             <person xml:id="GND_143680544">
                 <persName type="full">Kambli, Hans, Kambli, Hans Kambli</persName>
             </person>
+            <person xml:id="GND_120082268">
+                <persName type="full">Karl III., Herzog von Lothringen, Lotringen</persName>
+                <source>QZH_087</source>
+                <dateOfTheSource>1795</dateOfTheSource>
+            </person>
             <person xml:id="GND_123182441">
                 <persName type="full">Karly vonn Ägry, Carl von Aegeri</persName>
                 <source>QZH_056</source>
@@ -7124,6 +7099,11 @@
                 <source>QZH_014</source>
                 <dateOfTheSource>1615</dateOfTheSource>
             </person>
+            <person xml:id="GND_1089573405">
+                <persName type="full">Lindinner, Felix, Felix Lindinner</persName>
+                <source>QZH_060</source>
+                <dateOfTheSource>1483</dateOfTheSource>
+            </person>
             <person xml:id="QZH_087_203">
                 <persName type="full">Lontz Kernen</persName>
                 <source>QZH_087</source>
@@ -7131,11 +7111,6 @@
             </person>
             <person xml:id="QZH_087_93">
                 <persName type="full">Lorentz Stapfer</persName>
-                <source>QZH_087</source>
-                <dateOfTheSource>1795</dateOfTheSource>
-            </person>
-            <person xml:id="GND_120082268">
-                <persName type="full">Lotringen</persName>
                 <source>QZH_087</source>
                 <dateOfTheSource>1795</dateOfTheSource>
             </person>
@@ -7645,6 +7620,11 @@
             <person xml:id="GND_143657992">
                 <persName type="full">Müller, Georg, Müller</persName>
             </person>
+            <person xml:id="GND_1074540360">
+                <persName type="full">Müller, Hans Heinrich, Hannß Heinrichen Müllers,, Hannß Heinrich Müllers</persName>
+                <source>QZH_062</source>
+                <dateOfTheSource>1625-1676</dateOfTheSource>
+            </person>
             <person xml:id="QZH_036_5">
                 <persName type="full">Münchwilers</persName>
                 <source>QZH_036</source>
@@ -8017,6 +7997,11 @@
                 <persName type="full">Rahn, Hans Rudolf, Rahn</persName>
                 <source>QZH_015</source>
                 <dateOfTheSource>1613-1614</dateOfTheSource>
+            </person>
+            <person xml:id="GND_115599266">
+                <persName type="full">Rahn, Johann Heinrich, Johanny Heinrichn Rahn</persName>
+                <source>QZH_062</source>
+                <dateOfTheSource>1625-1676</dateOfTheSource>
             </person>
             <person xml:id="QZH_062_5">
                 <persName type="full">Rahnen</persName>
@@ -8611,11 +8596,6 @@
                 <source>QZH_067</source>
                 <dateOfTheSource>1444</dateOfTheSource>
             </person>
-            <person xml:id="GND_1069778303">
-                <persName type="full">Ruͦdolff Stoltz</persName>
-                <source>QZH_087</source>
-                <dateOfTheSource>1795</dateOfTheSource>
-            </person>
             <person xml:id="GND_1025206975">
                 <persName type="full">Ruͦdolffen, graven von Werdenberg, Ruͦdolff von Werdenberg, Rudolf von Werdenberg, Ruͦdolf, Graͧff von Werdemberg</persName>
             </person>
@@ -8653,6 +8633,11 @@
                 <persName type="full">Rägula Dolderin</persName>
                 <source>QZH_031</source>
                 <dateOfTheSource>1655</dateOfTheSource>
+            </person>
+            <person xml:id="GND_138054185">
+                <persName type="full">Röist, Heinrich, Heinrich Roͤist</persName>
+                <source>QZH_060</source>
+                <dateOfTheSource>1483</dateOfTheSource>
             </person>
             <person xml:id="QZH_044_30">
                 <persName type="full">Rüdy</persName>
@@ -9043,6 +9028,11 @@
                 <source>QZH_056</source>
                 <dateOfTheSource>1542</dateOfTheSource>
             </person>
+            <person xml:id="GND_1069778303">
+                <persName type="full">Stolz, Rudolf, Ruͦdolff Stoltz</persName>
+                <source>QZH_087</source>
+                <dateOfTheSource>1795</dateOfTheSource>
+            </person>
             <person xml:id="QZH_020_2">
                 <persName type="full">Straaßer</persName>
                 <source>QZH_020</source>
@@ -9168,6 +9158,11 @@
                 <source>QZH_087</source>
                 <dateOfTheSource>1795</dateOfTheSource>
             </person>
+            <person xml:id="GND_143659413">
+                <persName type="full">Thomann, Kaspar, Tomman</persName>
+                <source>QZH_087</source>
+                <dateOfTheSource>1795</dateOfTheSource>
+            </person>
             <person xml:id="QZH_087_205">
                 <persName type="full">Thomman Kornbucheler</persName>
                 <source>QZH_087</source>
@@ -9200,11 +9195,6 @@
             </person>
             <person xml:id="GND_120633957">
                 <persName type="full">Toggenburger, Toggenburg, Grafen von, Togenburg, Toggenburg</persName>
-            </person>
-            <person xml:id="GND_143659413">
-                <persName type="full">Tomman</persName>
-                <source>QZH_087</source>
-                <dateOfTheSource>1795</dateOfTheSource>
             </person>
             <person xml:id="QZH_047_35">
                 <persName type="full">Totnower</persName>
@@ -9874,6 +9864,11 @@
             <person xml:id="GND_1019762608">
                 <persName type="full">Zeller, Peter, Zeller</persName>
             </person>
+            <person xml:id="GND_1140154702">
+                <persName type="full">Ziegler, Adrian, Adrian Ziegler</persName>
+                <source>QZH_087</source>
+                <dateOfTheSource>1795</dateOfTheSource>
+            </person>
             <person xml:id="QZH_054_69">
                 <persName type="full">Ziner</persName>
                 <source>QZH_054</source>
@@ -9933,6 +9928,11 @@
                 <persName type="full">von Steiner</persName>
                 <source>QZH_040</source>
                 <dateOfTheSource>1795</dateOfTheSource>
+            </person>
+            <person xml:id="GND_140327096">
+                <persName type="full">von Wetzikon, Elisabeth, Elizabeth</persName>
+                <source>QZH_099</source>
+                <dateOfTheSource>1275</dateOfTheSource>
             </person>
             <person xml:id="QZH_044_45">
                 <persName type="full">Üli</persName>

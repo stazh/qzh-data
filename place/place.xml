@@ -436,8 +436,11 @@
                     <geo>47.42173 8.63263</geo>
                 </location>
             </place>
-            <place xml:id="LOC_" n="Brütten">
+            <place xml:id="LOC_47.47482_8.6724" n="Brütten">
                 <placeName type="main">Brütten</placeName>
+                <location>
+                    <geo>47.47482 8.6724</geo>
+                </location>
             </place>
             <place xml:id="LOC_47.548_8.62744" n="Buch am Irchel">
                 <placeName type="main">Buch am Irchel</placeName>
@@ -457,7 +460,7 @@
                     <geo>47.30764 8.81222</geo>
                 </location>
             </place>
-            <place xml:id="QZH_085_50" n="Burghalde">
+            <place xml:id="QZH_085_49" n="Burghalde">
                 <placeName type="main">Burghalde</placeName>
             </place>
             <place xml:id="LOC_47.52197_8.54049" n="Bülach, Bu̍llach, Bu̍lach">
@@ -639,9 +642,6 @@
                 <location>
                     <geo>47.57117 8.65006</geo>
                 </location>
-            </place>
-            <place xml:id="QZH_085_44" n="Dorflinde">
-                <placeName type="main">Dorflinde</placeName>
             </place>
             <place xml:id="LOC_46.6587_9.62296" n="Graubünden, Drei Bünde">
                 <placeName type="main">Drei Bünde</placeName>
@@ -1115,8 +1115,8 @@
                     <geo>47.46882 8.49032</geo>
                 </location>
             </place>
-            <place xml:id="47.346069_8.864176" n="Haus Greifenberg">
-                <placeName type="main">Haus Greifenberg</placeName>
+            <place xml:id="47.346069_8.864176" n="Hauses Greifenberg">
+                <placeName type="main">Hauses Greifenberg</placeName>
             </place>
             <place xml:id="LOC_47.17489_8.6286" n="Haßlow">
                 <placeName type="main">Haßlow</placeName>
@@ -1472,9 +1472,6 @@
                 <location>
                     <geo>47.387139 8.57533</geo>
                 </location>
-            </place>
-            <place xml:id="47.15973_9.04546" n="Klosters von Schänis">
-                <placeName type="main">Klosters von Schänis</placeName>
             </place>
             <place xml:id="LOC_47.2697_8.47406" n="Knonaueramt, Knonauw">
                 <placeName type="main">Knonaueramt</placeName>
@@ -2294,7 +2291,7 @@
                     <geo>47.53414 8.56841</geo>
                 </location>
             </place>
-            <place xml:id="QZH_085_51" n="Rosengarten">
+            <place xml:id="QZH_085_50" n="Rosengarten">
                 <placeName type="main">Rosengarten</placeName>
             </place>
             <place xml:id="QZH_087_135" n="Rotenblatt">
@@ -2409,12 +2406,13 @@
                     <geo>47.71034 8.63388</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.15973_9.04546" n="Schennis, Schaͤnnis, Schenis, Scheinis, Schenniß">
+            <place xml:id="LOC_47.15973_9.04546" n="Schennis, Schaͤnnis, Schenis, Scheinis, Schenniß, Schänis">
                 <placeName type="main">Schennis</placeName>
                 <placeName type="main">Schenis</placeName>
                 <placeName type="main">Schenniß</placeName>
                 <placeName type="main">Scheinis</placeName>
                 <placeName type="main">Schaͤnnis</placeName>
+                <placeName type="main">Schänis</placeName>
                 <location>
                     <geo>47.15973 9.04546</geo>
                 </location>

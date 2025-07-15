@@ -270,7 +270,7 @@ Nachtrag von anderer Hand: Am 6. Februar 1572 urteilt das Zürcher Ratsgericht, 
                      man söl im synen <lb/>worttenn als wol gloubenn als irenn.</p>
                   <!--Aussage Heini Schunnenberger und Hans Heinrich Gibel-->
                   <p><lb/>Unnd harruf <persName>Heynni Schunenberger</persName>
-                     <lb/>unnd <persName>Hanns Heynnrich Gibel</persName> sich ver <pb n="8" facs="A_123_3__Nr__36__S__08_.tif"/><lb break="no"/>anntworttenn 
+                     <lb/>unnd <persName>Hanns Heynnrich Gibel</persName> sich ver<pb n="8" facs="A_123_3__Nr__36__S__08_.tif" break="no"/>anntworttenn 
                      lassen glych wie vor, sy <lb/>wüssent nüt, das sy
                      sömbliche wort <lb/>grett söltenndt hann. Doch es möcht <lb/>eynner us
                      fyenndtschafft fil uff sy wellen <lb/>trächenn, das sy nüt darvon wustenndt.
@@ -332,14 +332,13 @@ Nachtrag von anderer Hand: Am 6. Februar 1572 urteilt das Zürcher Ratsgericht, 
                   <pb n="11" facs="A_123_3__Nr__36__S__11_.tif"/>
                   <pb n="12" facs="A_123_3__Nr__36__S__12_.tif"/>
                   <p>
-                     <!--Dorsuale Notiz-->
-                     <add place="verso"><lb/>Wyssung für unnser gnedig herren <lb/>burgermeyster
+                     <!--Dorsualnotiz-->
+                     <add place="verso">Wyssung für unnser gnedig herren <lb/>burgermeyster
                         unnd raath der <lb/>statt <placeName ref="LOC_47.36667_8.55"
                            >Zürrich</placeName></add></p>
                   <p>
                      <!--Registraturtitel-->
-                     <add place="verso"
-                        ><lb/>Schält-Handlung
+                     <add place="verso">Schält-Handlung
                         zwüschen <persName>Verena Schärerin</persName> und <persName>Anna
                            Kellerin</persName>, am <lb/>einen; dann <persName>Hans Wys</persName>
                         und mithaftten von <placeName ref="LOC_47.34713_8.72091">Uster</placeName>,
@@ -374,7 +373,7 @@ Nachtrag von anderer Hand: Am 6. Februar 1572 urteilt das Zürcher Ratsgericht, 
                            target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1399583"
                            >StAZH B II 2, fol. 111r</ref></bibl>, Edition: <bibl><ref
                            target="https://rechtsquellen.sources-online.org/ZH_NF_II_3/SSRQ_ZH_NF_II_3_008"
-                           >SSRQ ZH NF II/3, N.r 8</ref></bibl>). </p>
+                           >SSRQ ZH NF II/3, Nr. 8</ref></bibl>). </p>
                   <!-- Gerichtswesen Zürich/Greifensee -->
                   <p>Die hochgerichtliche Zugehörigkeit der Vogtei <placeName
                         ref="LOC_47.36583_8.67896">Greifensee</placeName> blieb umstritten, bis sie
@@ -441,7 +440,7 @@ Nachtrag von anderer Hand: Am 6. Februar 1572 urteilt das Zürcher Ratsgericht, 
                               target="https://rechtsquellen.sources-online.org/ZH_NF_II_3/SSRQ_ZH_NF_II_3_093">SSRQ ZH NF
                            II/3, Nr. 93</ref></bibl>). Das in dieser Quelle genannte Gericht in
                         <placeName ref="LOC_47.34713_8.72091">Uster</placeName> fand unter der
-                        <placeName>Dorflinde</placeName> statt und war für <placeName
+                        Dorflinde statt und war für <placeName
                         ref="LOC_47.3456_8.7123">Kirchuster</placeName>, <placeName
                         ref="LOC_47.34526_8.70833">Wil</placeName>, <placeName
                         ref="LOC_47.34422_8.73166">Oberuster</placeName> und <placeName
