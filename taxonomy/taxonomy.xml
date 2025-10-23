@@ -54,6 +54,10 @@
                         <desc xml:lang="deu">Ausweisung</desc>
                         <gloss>Verweis aus einem Gebiet bzw. in ein Gebiet</gloss>
                     </category>
+                    <category xml:id="key003587">
+                        <desc xml:lang="deu">Bauern</desc>
+                        <gloss>Landwirtschaftlich Tätige</gloss>
+                        </category>
                     <category xml:id="key000490">
                         <desc xml:lang="deu">Bauwesen</desc>
                         <gloss>Bautätigkeit, die dem kollektiven oder individuellen, öffentlichen oder privaten Bedarf dient</gloss>
