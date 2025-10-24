@@ -75,7 +75,7 @@
 			<text>
 				<body>
 					<div> 
-						<pb n="1"/>
+						<pb n="1" facs="A_27_3_7__Nr__39__S__1_.tif"/>
 						<head type="subtitle">I.</head>
 						<head>Diß sind zue <placeName ref="LOC_47.62843_8.396">Grießenn</placeName> im kilchhoff gweßenn</head>
 						<p>
@@ -128,7 +128,7 @@
 						<lb/><persName>Gratias Kramer</persName> von <placeName>Greßlickenn</placeName>
 							</p>
 					</div>
-						<pb n="2"/>
+						<pb n="2" facs="A_27_3_7__Nr__39__S__2__.tif"/>
 					<div>
 						<head type="subtitle"><placeName ref="LOC_47.45152_8.58491">Klotenn</placeName></head>
 						<p>
@@ -136,13 +136,13 @@
 							</p>
 					</div>
 					<div>
-						<pb n="3"/>
+						<pb n="3" facs="A_27_3_7__Nr__39__S__3_.tif"/>
 					</div>
-						<pb n="4"/>
+						<pb n="4" facs="A_27_3_7__Nr__39__S__4_.tif"/>
 				<div>
 					<ab type="dorsal"><lb/>Verzeichnus deren, so zu <placeName ref="LOC_47.62843_8.396">Grießenn</placeName> im kirchhof gwesen.</ab>
 							</div>
-						<pb n="5"/>
+						<pb n="5" facs="A_27_3_7__Nr__39__S__5_.tif"/>
 					<div>
 						<head type="subtitle">II.</head>
 						<table>
@@ -180,9 +180,9 @@
 							<lb/><persName>Heinrich</persName>,
 						<lb/><persName>Cuenrat Heller</persName></p>
 					</div>
-						<div><pb n="6"/></div>
+						<div><pb n="6" facs="A_27_3_7__Nr__39__S__6_.tif"/></div>
 					<div>
-						<pb n="7"/>
+						<pb n="7" facs="A_27_3_7__Nr__39__S__7_.tif"/>
 						
 						<head type="subtitle">III.</head>
 						<head type="subtitle"><placeName ref="LOC_47.5919_8.49845">Hüntwangen</placeName></head>
@@ -209,10 +209,10 @@
 						<p><lb/><num value="4">iiij</num> sind umkomenn.</p>
 					</div>
 					<div>
-						<pb n="8"/>
+						<pb n="8" facs="A_27_3_7__Nr__39__S__8_.tif"/>
 					</div>
 					<div>
-						<pb n="9"/>
+						<pb n="9" facs="A_27_3_7__Nr__39__S__9_.tif"/>
 						<head type="subtitle"><placeName ref="LOC_47.58956_8.47121">Wasterchingen</placeName></head>
 						<p>
 						<lb/><persName>Hans Röteli</persName><!-- nicht Föteli, msr -->,
@@ -242,9 +242,9 @@
 						<lb/><persName>Andres Wigacher</persName></p>
 						<p><lb/><num value="4">iiij</num> sind umkomenn.</p>
 					</div>
-						<div><pb n="10"/></div>
+						<div><pb n="10" facs="A_27_3_7__Nr__39__S__10_.tif"/></div>
 					<div>
-						<pb n="11"/>
+						<pb n="11" facs="A_27_3_7__Nr__39__S__11_.tif"/>
 						<head type="subtitle">IV.</head>
 						<head type="subtitle"><placeName ref="LOC_47.61313_8.5435">Raffts</placeName></head>
 						<p><lb/><persName>Heini Höffli</persName>,
@@ -275,7 +275,7 @@
 						<lb/><persName>Conrat Schnider</persName></p>
 					</div>
 					<div>
-						<pb n="12"/>
+						<pb n="12" facs="A_27_3_7__Nr__39__S__12_.tif"/>
 					</div>
 				</body>
 				<back>
