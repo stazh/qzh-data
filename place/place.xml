@@ -1,4 +1,3 @@
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="places" type="Ort">
     <teiHeader>
         <fileDesc>
@@ -443,7 +442,7 @@
                     <geo>47.47482 8.6724</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.548_8.62744" n="Buch am Irchel, Buech am Irchel">
+            <place xml:id="LOC_47.548_8.62744" n="Buech am Irchel, Buch am Irchel">
                 <placeName type="main">Buch am Irchel</placeName>
                 <placeName type="main">Buech am Irchel</placeName>
                 <location>
@@ -465,7 +464,7 @@
             <place xml:id="QZH_085_49" n="Burghalde">
                 <placeName type="main">Burghalde</placeName>
             </place>
-            <place xml:id="LOC_47.52197_8.54049" n="Bu̍llach, Bu̍lach, Bülach">
+            <place xml:id="LOC_47.52197_8.54049" n="Bülach, Bu̍llach, Bu̍lach">
                 <placeName type="main">Bu̍lach</placeName>
                 <placeName type="main">Bülach</placeName>
                 <placeName type="main">Bu̍llach</placeName>
@@ -560,7 +559,7 @@
                     <geo>47.60058 8.68362</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.45152_8.58491" n="Kloten, Clotten, Klotenn">
+            <place xml:id="LOC_47.45152_8.58491" n="Kloten, Klotenn, Clotten">
                 <placeName type="main">Clotten</placeName>
                 <placeName type="main">Klotenn</placeName>
                 <placeName type="main">Kloten</placeName>
@@ -723,7 +722,7 @@
                     <geo>47.26392 8.95978</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.57335_8.52607" n="Eglisau, Eglisou, Eglisouw, Eglisow">
+            <place xml:id="LOC_47.57335_8.52607" n="Eglisau, Eglisow, Eglisou, Eglisouw">
                 <placeName type="main">Eglisau</placeName>
                 <placeName type="main">Eglisouw</placeName>
                 <placeName type="main">Eglisou</placeName>
@@ -996,15 +995,17 @@
             <place xml:id="QZH_079_82" n="Greifenberg">
                 <placeName type="main">Greifenberg</placeName>
             </place>
-            <place xml:id="QZH_100_11" n="Greßlickenn">
+            <place xml:id="LOC_47.55661_8.60544" n="Gräslikon, Greßlickenn">
                 <placeName type="main">Greßlickenn</placeName>
+                <placeName type="main">Gräslikon</placeName>
+                <location>
+                    <geo>47.55661 8.60544</geo>
+                </location>
             </place>
-            <place xml:id="QZH_100_20" n="Grießen">
-                <placeName type="main">Grießen</placeName>
-            </place>
-            <place xml:id="LOC_47.62843_8.396" n="Griessen, Grießenn">
+            <place xml:id="LOC_47.62843_8.396" n="Griessen, Grießenn, Grießen">
                 <placeName type="main">Grießenn</placeName>
                 <placeName type="main">Griessen</placeName>
+                <placeName type="main">Grießen</placeName>
                 <location>
                     <geo>47.62843 8.396</geo>
                 </location>
@@ -1957,7 +1958,7 @@
                     <geo>47.3699 8.5425</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.47576_8.51896" n="Oberglatt, Oberglat">
+            <place xml:id="LOC_47.47576_8.51896" n="Oberglat, Oberglatt">
                 <placeName type="main">Oberglatt</placeName>
                 <placeName type="main">Oberglat</placeName>
                 <location>
@@ -2899,7 +2900,7 @@
             <place xml:id="QZH_056_36" n="Uff Dorff">
                 <placeName type="main">Uff Dorff</placeName>
             </place>
-            <place xml:id="LOC_47.67074_8.63542" n="Uhwiesen, Ůwißen, Uewißenn">
+            <place xml:id="LOC_47.67074_8.63542" n="Uhwiesen, Uewißenn, Ůwißen">
                 <placeName type="main">Uhwiesen</placeName>
                 <placeName type="main">Ůwißen</placeName>
                 <placeName type="main">Uewißenn</placeName>
@@ -3138,7 +3139,7 @@
             <place xml:id="QZH_054_31" n="Wechsel">
                 <placeName type="main">Wechsel</placeName>
             </place>
-            <place xml:id="LOC_47.42022_8.43644" n="Weiningen, Wyningen, Winingenn">
+            <place xml:id="LOC_47.42022_8.43644" n="Winingenn, Weiningen, Wyningen">
                 <placeName type="main">Weiningen</placeName>
                 <placeName type="main">Wyningen</placeName>
                 <placeName type="main">Winingenn</placeName>
@@ -3185,8 +3186,11 @@
                     <geo>47.34526 8.70833</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.60714, 8.51199" n="Wil">
+            <place xml:id="LOC_47.60714_8.51199" n="Wil">
                 <placeName type="main">Wil</placeName>
+                <location>
+                    <geo>47.60714 8.51199</geo>
+                </location>
             </place>
             <place xml:id="LOC_47.65209_8.67662" n="Wildenspũch">
                 <placeName type="main">Wildenspũch</placeName>

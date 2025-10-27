@@ -62,7 +62,7 @@
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Aufzeichnung (Heft, 36 Seiten, mit eingelegtem Blatt mit Nachträgen)</filiation>
-                            <filiation type="original"><origDate when="1795-07-03"/></filiation>
+                            <filiation type="original"><origDate when="1588-01-06"/></filiation>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -74,7 +74,7 @@
                         </objectDesc>
                     </physDesc>
                     <history>
-                        <origin/>
+                       <origin><origDate when="1588-01-06"></origDate></origin>
                     </history>
                 </msDesc>
             </sourceDesc>

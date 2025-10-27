@@ -31,7 +31,7 @@
 				<msDesc>
 					<msIdentifier>
 						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=610620"
-							>STAZH A 97.7, Nr. 7</idno>
+							>StAZH A 97.7, Nr. 7</idno>
 					</msIdentifier>
 					<head>Hofrecht von Wald</head>
 					<msContents>
@@ -63,7 +63,7 @@
 						</objectDesc>
 					</physDesc>
 					<history>
-						<origin/>
+						<origin><origDate when="1435-06-01"/></origin>
 					</history>
 				</msDesc>
 			</sourceDesc>
