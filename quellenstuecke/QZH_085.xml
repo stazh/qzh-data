@@ -53,7 +53,7 @@ Nachtrag von anderer Hand: Am 6. Februar 1572 urteilt das Zürcher Ratsgericht, 
                   </objectDesc>
                </physDesc>
                <history>
-                  <origin/>
+                  <origin><origDate from="1572-01-02" to="1572-02-06"></origDate></origin>
                </history>
             </msDesc>
          </sourceDesc>

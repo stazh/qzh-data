@@ -63,8 +63,7 @@
 						</objectDesc>
 					</physDesc>
 					<history>
-						<origin/>
-					<origin><origDate from="1485-01-01" to="1485-12-31"></origDate></origin>
+					<origin><origDate from="1485-01-01" to="1485-12-31">ca., Original</origDate></origin>
 					</history>
 				</msDesc>
 			</sourceDesc>
