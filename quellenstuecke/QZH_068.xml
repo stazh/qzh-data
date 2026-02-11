@@ -83,7 +83,7 @@
          <pb n="571" facs="B_I_278__S__571_.tif"/>
          <head><lb/>Pro <choice><abbr>qnqe</abbr><expan>quinque</expan></choice> zeumis vini in <placeName ref="LOC_47.50564_8.72413">Winterthur</placeName></head>
       <p>
-                            <seg><lb/>Ich, <placeName>Hans von Klingenberg</placeName>,
+                            <seg><lb/>Ich, <persName>Hans von Klingenberg</persName>,
                                     <abbr>hr</abbr> ze <placeName ref="LOC_47.76471_8.81902"
                                     >Twiel</placeName>, ritter, tuͦn kunt <lb/>allen den, die disen
                                 brieff ansehent oder hörrent lesen:</seg>
@@ -184,7 +184,7 @@
                                     <abbr>vorg</abbr>
                                     <expan>vorgenannte</expan>
                                 </choice>
-                                <placeName>Hans von Klingenberg</placeName>, <lb/>ritter, ze offem
+                                <persName>Hans von Klingenberg</persName>, <lb/>ritter, ze offem
                                 urkund der warheyt und einer <lb/>gezu̍gnisse diser sach min eigen
                                 insigel offen gehenkt <lb/>an disen brieff, <choice>
                                     <abbr>dat</abbr>
