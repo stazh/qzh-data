@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Anina Steinmann</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Anina Steinmann</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2026-05-01"/><!-- bei @when wird zum Schluss das finale Publikationsdatum eingetragen -->
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_109</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5191097">STAZH A 66, Nr. 2</idno>
+                    </msIdentifier>
+                    <head>Satzung und Ordnung für die Unterschreiberkanzlei</head>
+                    <msContents>
+                        <summary>Die Schreiber der Unterschreiberkanzlei schwören den Räten ihre Treue und Verschwiegenheit und verpflichten sich, an Ratstagen jeweils um 13 Uhr in der Kanzlei zu erscheinen, um anfallende Schreibarbeiten zu erledigen.
+                            Beim halbjährlichen Ratswechsel sollen zwei Kanzlisten ausgewählt werden, die für die Nachgänge der neuen Räte verantwortlich sind (jon: welche den Nachgängern als Schreiber zu dienen haben). Auch der Bauschreiber ist Teil des Kanzleiwesens und muss seine Unterlagen in der Unterschreiberei abliefern.
+                            Alle Schreiber sind ausserdem dazu angehalten, sich im Schreiben verschiedener Schriftarten und Sprachen zu üben, wozu ihnen nützliche Bücher bereitgestellt werden. Aufgezählt werden schliesslich die (jon: Zuletzt folgt eine Auflistung der) Stelleninhaber des Bauschreibers, des 
+                            Baurechnungsschreibers, der Nachgangsschreiber, der (Ofen-)Gschau-Schreiber sowie der Stadtknechte für das Jahr 1680.</summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Aufzeichnungen</filiation>
+                            <filiation type="original"><origDate when="1680"/>
+                            </filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1680"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc/> 
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000383">Kanzlei</term>
+                    <term ref="key000051">Schreiber</term>
+                    <term ref="key000204">Verwaltung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text>
+                <body>
+                    <div>
+                        <pb n="1"/>
+                        <head>
+                            <lb/>Satz- und ordnungen
+                            <lb/>der
+                            <lb/>statt-underschryberey, <!-- bewusst kein Abstand nach "statt-"? -->
+                            <lb/>darauf die herren cantzlisten ihr hand-gelübt
+                            <lb/>zu thun habend.
+                        </head>
+                        <p n="1">
+                            <lb/>Sollen die <choice><abbr>hr</abbr><expan>herren</expan></choice> cantzlisten die verschwigenheit und tröüw der
+                            <lb/>gestalten beobachten, daß sie nichts aus der cantzley, de<del rend="strikethrough ">m</del><add rend="overwritten">n</add> raths<lb break="no"/>manualien
+                            oder anderen oberkeitlichen schrifften, actis oder hand<lb break="no"/>lungen
+                            auszühind, offenbahrind oder anderwerts communicierind,
+                            <lb/>daraus schad oder verwys kommen möchte, sondern in allweg
+                            <lb/>unserer <choice><abbr>gn</abbr><expan>gnädigen</expan></choice> herren dienst und der cantzley ehr befürderen
+                            <lb/>und den schaden wenden. <!-- allg.: kein Verweis auf veränderte Schrift bei manualien, actis oder communicierind o.Ä.? -->
+                        </p>
+                        <p n="2">
+                            <lb/>Sollen sie wenigst an allen raths-tagen <time when="13:00:00">nach mittag umb ein
+                            <lb/>uhren</time> sich in der cantzley anmelden und erwarten, was für
+                            <lb/>oberkeitliche geschefft und befelch zu verfertigen und zu verrichten,
+                            <lb/>es were dann sach, daß jemand wegen vorfallender nachgängen<!-- Falte nur auf Foto, oder auch im Original? Dann evtl. erwähnen? -->,
+                            <lb/>verordnungen oder eigner ehhaffter geschefften zuruk gehalten
+                            <lb/>und zu erscheinen gehinderet wurde.
+                        </p>
+                        <p n="3">
+                            <lb/>Zu allen halben jahren, wan der noüwe rath sitzt und nöüwe <choice><abbr>hh</abbr><expan>herren</expan></choice>
+                            <lb/>nachgänger erwehlt werden, solle man aus den herren cantzlisten
+                            <lb/>zween qualificierte und fleissige nachgang-schreiber erkiesen, welche
+                            <lb/>den herren nachgängeren eroffnet werden und fleissig zu allen nach<lb break="no"/>gängen
+                            berüefft, auch schuldig seyn sollen, denselben mit allem fleiss
+                            <lb/>und tröüwen abzuwarten, hingegen sie bei anderen verord<lb break="no"/>nungen
+                            und vorfallenheiten auch den ersten zugang haben.
+                        </p>
+                        <p n="4">
+                            <lb/>Der schryber bei den buw-spänen soll ein glid diser cantzley
+                            <lb/>und deroselben ordnungen underworffen, darnebent verbunden
+                            <lb/>seyn, wan er einem buw spahn nicht selbst abwarten kan, einen
+                            <lb/>anderen uß diser cantzley an seine statt zustellen. Auch alle
+                            <lb/>sprüch, verträg und handlungen, zu disem dienst gehörende, in
+                            <lb/>eine besonderbare trukhen der underschreiberey zu legen.
+                        </p>
+                        <pb n="2"/>
+                        <p n="5">
+                            <lb/>Die <choice><abbr>hh</abbr><expan>herren</expan></choice> cantzlisten, so müessige zeit haben, sollen sich zu der
+                            <lb/>registratur der manualen, der sprüchen und handlungen,
+                            <lb/>dessgleichen zum abschreiben der abscheiden, pündten, urbarien,
+                            <lb/>landtsfridlichen und anderer nutzbaren sachen (worzu unsere
+                            <lb/>gnädige herren aus ihrer miltigkeit eine ergetzlichkeit verordnet
+                            <lb/>haben) gebrauchen lassen und zu solchem end sich eines schönen,
+                            <lb/>leslichen und anständigen buchstabens, so wol in der versal
+                            <lb/>und cantzley- als der current-schrifft befleissen. Es solle
+                            <lb/>ihnen auch nicht gewehret seyn, zun<!-- m? denke auch eher n (jon)--> zeiten schöne nutzliche au<lb break="no"/>thores,
+                            sonderlich politicos, <add place="above">zu lesen,</add><del rend="strikethrough">und</del> in der lateynen<!-- latynen -->, frantzösischen,
+                            <lb/>italianischen und teütschen sprachen (welche einem cantzlisten sehr
+                            <lb/>nothwendig und anständig sind) sich zu üeben und daraus lo<lb break="no"/>cos
+                            communes zuzühen, worzu dann alle nothwendige subsidia
+                            <lb/>und büecher werden beigeschafft werden.
+                        </p>
+                        <p n="6">
+                            <lb/>Im übrigen solle es bei der cantzley wol her<!-- har? --> gebrachten alten
+                            <lb/>üebungen, gebreüchen und gewohnheiten fürbas unverenderlich
+                            <lb/>verblyben und niemand darwider einige nöüwerung zu suchen
+                            <lb/>sich understehen.
+                        </p>
+                    </div>
+                        <div>
+                            <table>
+                                <head>Buw-schryber ist und verbleibt.</head>
+                                <row>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Hans Heinrich Wertmüller</persName>, im <placeName>Rennweg</placeName>.</cell>
+                                </row>
+                            </table>
+                                <table>
+                                    <head>Nachgang-schrybere <date from="1679-12-27" to="1680-12-27">von natal biß baptist 1680</date>.</head>
+                                <row>
+                                    <cell><lb/><supplied resp="asn"><date from="1679-12-27" to="1680-06-23">natal</date></supplied></cell> <!-- Überschneidung 27.12.? -->
+                                    <cell><lb/><date from="1680-06-24" to="1680-12-27">baptist</date>.</cell>
+                                </row>
+                                    <row>
+                                        <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>David Holtzhalb</persName>.</cell>
+                                        <cell><lb/><choice><abbr>herr<!-- hr --></abbr><expan>herr</expan></choice> <persName ref="119464632">Lienhardt Holtzhalb</persName>.</cell>
+                                    </row>
+                                    <row>
+                                        <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Hans Heinrich Bodmer</persName>.</cell>
+                                        <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName ref="1053582994">Heinrich Bräm</persName>.</cell>
+                                    </row>
+                                </table>
+                            <table>
+                                <head>Buwrechnung schryber.</head>
+                                <row>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> umb gelt schryber</cell>
+                                    <cell><lb/><persName>Hans Rudolf Hirtzel</persName>.</cell> <!-- evtl. nur eine Zelle? und Umbgelt als ein Wort? gem. Idiotikon ist Umgeld eine Steuer/Abgabe-->
+                                </row>
+                            </table>
+                            <table>
+                                <head>Geschauw-schryber.</head>
+                                <row>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Leonhart Holtzhalb</persName>.</cell>
+                                </row>
+                            </table>
+                            <pb n="3"/>
+                            <table>
+                                <row>
+                                    <cell/>
+                                    <cell><lb/>ofen-gschau-schryber.</cell>
+                                    <cell><lb/>stattknecht.</cell>
+                                </row>
+                                <row>
+                                    <cell><lb/>im <placeName>Niderdorff</placeName>.</cell>
+                                    <cell><lb/><persName>David Holtzhalb</persName>.</cell>
+                                    <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Conrad Zimbermann</persName>.</cell>
+                                </row>
+                                <row>
+                                    <cell><lb/><placeName>Lindenthor</placeName>.</cell>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Caspar <del rend="strikethrough">Caspar</del> Wolff</persName>.</cell>
+                                    <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Heinrich Grosma<supplied resp="asn">nn</supplied></persName></cell>
+                                </row>
+                                <row>
+                                    <cell><lb/><placeName>Nöüwmarckt</placeName>.</cell>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName ref="1089572506">Hans Jacob Wolff</persName></cell>
+                                    <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Alexander Diebolt</persName>.</cell>
+                                </row>
+                                <row>
+                                    <cell><lb/>uff <placeName>dorff</placeName>.</cell>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Johannes Rahn</persName>.</cell>
+                                    <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Christoph Freüdwyler</persName></cell>
+                                </row>
+                                <row>
+                                    <cell><lb/><placeName>Münsterhoff</placeName>.</cell>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Heinrich Bräm</persName>.</cell>
+                                    <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Jacob Zimbermann</persName>.</cell>
+                                </row>
+                                <row>
+                                    <cell><lb/><placeName>alt Kornhausplatz</placeName>.</cell>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Lienhardt
+                                    <lb/>Holtzhalb</persName>.</cell>
+                                    <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Heinrich Senn</persName>.</cell>
+                                </row>
+                                <row>
+                                    <cell><lb/><placeName>Rënnwäg</placeName>.</cell>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Heinrich Bodmer</persName>.</cell>
+                                    <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Heinrich Senn</persName>.</cell>
+                                </row>
+                            </table>
+                        </div>
+                    <div>
+                        <ab type="dorsal">
+                            <lb/>Projectierte
+                            <lb/>satz- und ordnungen
+                            <lb/>der underschryberey
+                            <lb/><choice><abbr>a<hi rend="sup">o</hi></abbr><expan>anno</expan></choice> <date when="1680">1680</date>.
+                        </ab>
+                    </div>
+                </body>
+                <back>
+                    <div>
+                        <p>Unterschreiber zu dieser Zeit: Beat Holzhalb; es ist seine Handschrift (vgl. 1680/1 Ratsmanuale des Natalrats des Unterschreibers (StAZH B II 589))</p>
+                    </div>
+                </back>
+            </text>
+        </group>
+    </text>
+</TEI>

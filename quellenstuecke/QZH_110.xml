@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Jonathan Hauller</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Jonathan Hauller</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2026-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_110</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5191097"
+                            >STAZH A 66, Nr. 3</idno>
+                    </msIdentifier>
+                    <head>Ratschlag wegen der Einrichtung der Stadtschreiber- und Unterschreiberkanzlei</head>
+                    <msContents>
+                        <summary><p>Aufgrund von Missständen im Kanzleiwesen hatte der Grosse Rat eine Kommission ernannt, welche den vorliegenden Ratschlag zur zukünftigen Besetzung und Einrichtung der Kanzleien verfasste.
+                        Die Kommission gliederte ihre Empfehlungen in fünf Punkte: Stattschreiberstelle, Unterschreiberstelle, Substitute, Anzahl Kanzlisten, Kanzleidirektorium.</p>
+                        <p>Die Stattschreiberstelle soll sechs Jahre lang von derselben Person besetzt werden, welche in dieser Zeit keine Vogteien, Ämter oder sonstige Ehrenstellen übernehmen darf. Die Entschädigung soll
+                        gemäss einer Regelung von 1634 erfolgen. Bei nachfolgenden Vergaben der Stattschreiberstelle darf der Rat diese Vorgaben nach Bedarf anpassen.</p>
+                        <p>Die Unterschreiberstelle soll bei ihrer bisherigen Bestallung (an eine Anstellung gebundene Aufgaben, Pflichtenheft) verbleiben, jedoch soll der neue Unterschreiber eigene Räumlichkeiten erhalten.</p>
+                        <p>Die Kommission konnte sich nicht darauf einigen, ob die Substitute der Schreiber nur aus den Statt- und Unterschreiberkanzleien rekrutiert werden sollen oder auch aus anderen Kanzleien und
+                        überlässt diese Frage zur Verhandlung im Grossen Rat. Sie vertritt hingegen die Meinung, dass die bisherige Bestallung und Entlöhnung der Substitute solle beibehalten werden.</p>
+                        <p>Die Beratschlagung über eine Erhöhung der auf den beiden Kanzleien beschäftigten Personen weist die Kommission ebenso an den Grossen Rat zurück.</p>
+                        <p>Zuletzt empfiehlt die Kommission die Einführung eines Direktoriums, welches die Abläufe auf den Kanzleien überwachen und geeignetes Personal suchen soll.</p>
+                        </summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Aufzeichnungen</filiation>
+                            <filiation type="original"><origDate from="1692-06-16" to="1692-06-17"></origDate>
+                            </filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate from="1692-06-16" to="1692-06-17"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000383">Kanzlei</term>
+                    <term ref="key000051">Schreiber</term>
+                    <term ref="key000204">Verwaltung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text>
+                <body>
+                   <div>
+                       <pb n="1"/> <!-- TIF hinterlegen -->
+                       <p>
+                           <lb/>Nach demme mein <choice><abbr>gn</abbr><expan>gnädigen</expan></choice> herren räth und burger bei anlaaß
+                           <lb/>der in der cantzley <hi rend="font_change">vac</hi>ierend stehender statt- und underschreiber<lb break="no"/>stellen
+                           nothwendig befunden, einen ehren außschuß zu dem end
+                           <lb/>zeverordnen, damit derselbe über die eint- und andere
+                           <lb/>mißbraüch und dero nothwendige verbeßerung einen reiffen
+                           <lb/>rathschlag abfaßen thüge.
+                       </p>
+                       <p>
+                           <lb/>Hat <choice><abbr>hochged</abbr><expan>hochgedachter</expan></choice> ehrenaußschuß in geflißener nachforschung sich
+                           <lb/>underschidenlicher bereits vor demme über eben disere materi
+                           <lb/>wolbedächtlich zu papeir gebrachter rathschlägen erinneret
+                           <lb/>und dieselbe, absonderlich <del rend="strikethrough" hand="laterHand">eine</del> <add hand="laterHand" place="above" rend="pencil">der</add> erkantnuß<add hand="laterHand" rend="pencil" place="inline">en</add> vom <date when="1665-01-07">7ten <hi rend="font_change">januarii</hi>
+                               <lb/>1665</date> <add place="left_margin" type="sign" rend="laterHand">und <date when="1677">1677</date></add>, und einen rathschlag vom <date when="1667-01-15">15ten <hi rend="font_change">januarii</hi> 1667</date> abläsen                           
+                           <lb/>laßen; auß allem aber befunden, daß es an der so noth<lb break="no"/>wendigen
+                           beobachtung derselben erwunden.
+                       </p>
+                       <p>
+                           <lb/>Und weilen nun die darauß entstandene ohnordnungen
+                           <lb/>nit ohnzeitiges nachdencken verursachet, wie alles zu gedeylicher
+                           <lb/>einrichtung der cantzleyen, als welliche gleichsamm die seel eines
+                           <lb/>stands sind, und dero ruhmliche und hochersprießliche aüffnung
+                           <lb/>verleitet werden könne, ist folgendes ohnmaßgebliche gutachten
+                           <lb/>abgefaßet worden, benantlich:
+                       </p>
+                       <p>
+                           <lb/>Daß bevorderst die stattschreiber stell umb des stands ehr,
+                           <lb/>villfaltigen nutzens und allerhand wichtiger <hi rend="font_change">motiv</hi>en willen
+                           <lb/>auff <date dur-iso="P6Y">sechs jahr</date> lang wenigstens in der meinung gerichtet
+                           <lb/>werden könte, daß nammlich der jehnige, wellicher vermitlest
+                           <lb/>einer freyen und ledigen wahl darzu glangen wird, verpflichtet
+                           <lb/>und behaftet sein solle, innet diserem <hi rend="font_change">termin</hi> mit seinen cantzley
+                           <lb/>diensten ohnverenderet abzewarten und <del rend="blackened" quantity="3.3" unit="cm"><gap/></del><add place="above">keinen zugang</add>, weder
+                           <lb/>auff einige vogtey, ampt nach andere ehrenstell, was nammens
+                           <lb/>selbige seige, <del rend="blackened" quantity="1.9" unit="cm"><gap/></del><add place="above">haben solle</add>. <seg>Und weilen innzwüschent die ver<lb break="no"/>ordnete
+                           herren in der hoffnung stehen, daß die wahl auff eine
+                           <lb/>wol<hi rend="font_change">qualific</hi>ierte persohn fallen werde, hielten dieselbe
+                       <pb n="2"/>
+                           <lb/>darfür, daß sollichen fahls dem erwehlten die ergetzlichkeit
+                           <lb/>der <hi rend="font_change">competenz</hi> von <choice><abbr><hi rend="font_change">ao</hi></abbr><expan>anno</expan></choice> <date when="1634">1634</date> in ansehung diser sechsjährigen
+                           <lb/>verbindtlichkeit wol gedeyen, darbei aber meinen <choice><abbr>gn</abbr><expan>gnädigen</expan></choice> herren
+                           <lb/>überlaßen werden <del rend="strikethrough">könte</del> solte, bei künftig- vorfallenden
+                           <lb/><hi rend="font_change">vacanz</hi>en diser bestallung halber, je nach beschaffenheit der
+                           <lb/>sachen und des <hi rend="font_change">subjecti</hi>, jederweilen ohngebundene <hi rend="font_change">dispo<lb break="no"/>sition</hi>
+                           zehaben.</seg>
+                       </p>
+                       <p>
+                           <lb/>So vill demmenach den underschreiberstell belanget, findet
+                           <lb/>man, daß darbei nit gar vill geschäft vorfallen, folglich
+                           <lb/>derjehnige, so das glück darzu haben wird, sich der alten biß<lb break="no"/>harigen
+                           bestallung wol vernüegen, inzwüschent aber ihme,
+                           <lb/>nach der bereits in alten rathschlägen enthaltener gutbe<lb break="no"/>findtnuß,
+                           mit fürderlicher gelägenheit eine eigne herberg
+                           <lb/>gesucht und dardurch die bei denen abenderungen besor<lb break="no"/>gende
+                           verlurst der eint und anderen sachen und die ver<lb break="no"/>wirrung
+                           derselben abgehebt werden könte.
+                       </p>
+                       <p>
+                           <lb/>Und weilen dritens an der wahl <hi rend="font_change">qualific</hi>ierter <hi rend="font_change">substitu</hi><lb break="no"/>ten
+                           ein merckliches gelegen, als auß wellichen die statt-
+                           <lb/>und underschreiber stellen bei denen <hi rend="font_change">vacanz</hi>en ergentzt werden;
+                           <lb/>inzwüschent die herren verordnete verspüren, daß derselben
+                           <lb/>halber ohngleiche gedancken und meinungen auff die ban
+                           <lb/>kommen möchten, haben dieselbe dem ledigen hochoberkeit<lb break="no"/>lichen
+                           gutbefinden überlaßen, obe selbige, dem harkommen
+                           <lb/><add place="left-margin">und hinvorigen rathschlägen</add> gemeß, allein auß der statt- und underschryber cantzley oder
+                           <lb/>aber auch auß anderen cantzleyen besetzt werden solle. In
+                           <lb/>der ohnmaßgäblichen meinung jedoch, dass, so vill die bestallung
+                           <lb/>betrift, die jehnige, so erwehlt werden, sich als junge <hi rend="font_change">subjec</hi>te
+                           <lb/>und persohnen, wegen habenden zugangs in den rath und geleg<lb break="no"/>enheit,
+                           sich nutzlich und mit hoffnung fehrneren befürderung
+                           <lb/>zeüeben, des bißharigen einkommens und bestallung ver<lb break="no"/>nüegen
+                           solten.
+                       </p>
+                       <pb n="3"/>
+                       <p>
+                           <lb/>Viertens haben ehrengedachte herren ihre gedancken auff die
+                           <lb/>dißmahlige anzahl der cantzlisten beider cantzleyen gerichtet
+                           <lb/>und zu oberkeitlichem nachdencken übergeben, obe die gegen<lb break="no"/>wërtige
+                           anzahl derselben annach fehrner behalten oder nach
+                           <lb/>obgedachten rathschlägen, je nach der eint- ald anderen noth<lb break="no"/>wendigkeit,
+                           auff <num value="6">6</num> oder <num value="8">8</num> persohnen gerichtet werden könne.
+                           <seg><lb/>Und also disere <hi rend="font_change">materi</hi>, wegen allerhand vorfallender
+                           <lb/>bedencken von nachdencken mehrerer zeit befunden, mynen
+                           <lb/><choice><abbr>gn</abbr><expan>gnädigen</expan></choice> herren innzwüschent anheim stellende, obe disere
+                           <lb/>verordnung, oder eine mehrere, mit etwas hochoberkeitlicher
+                           <lb/>andeütung der hierbei habenden <hi rend="font_change">intention</hi>, mit disen wichtigen
+                           <lb/>puncten mit reifferem nachsinnen eigentlich zu überleggen
+                           <lb/>und hernach hinderbringen könte.</seg>
+                       </p>
+                       <p>
+                           <lb/>Endtlich solte ein höchstnuzliches <hi rend="font_change">directorium</hi> der cantzley ver<lb break="no"/>ordnet;
+                           durch daßelbe ein geflißenes auffsehen auff beide cantz<lb break="no"/>leyen
+                           und ihre verrichtungen gehalten; gedeyliche <hi rend="font_change">examina</hi>
+                           <lb/>der persohnen, so nach befürderung e<damage agent="hole"><supplied resp="jon">r</supplied></damage>trachten, vorgenommen;
+                           <lb/>nach dem exempel anderer ständen inn- und außert der eydt<lb break="no"/>g<supplied resp="jon">e</supplied>no<supplied resp="jon">ssen</supplied>schaft
+                           taugenliche <hi rend="font_change">archivarii</hi>, <hi rend="font_change">registratores</hi> und andere
+                           <lb/>cantzley bediente erkieset; umb desto mehreren anmuthung
+                           <lb/>willen aber denen cantzlisten die bereits durch vill erkantnußen
+                           <lb/>gewidmete landschreiberey <hi rend="font_change">prærogativ</hi>en, und was weither der<lb break="no"/>gleichen
+                           sein möchte, in eine beständige beobachtung gezogen
+                           <lb/>werden könten.
+                       </p>
+                       <p>
+                           <lb/>Es wird aber alles hochgedacht meinen <choice><abbr>gn</abbr><expan>gnädigen</expan></choice> herren räth
+                           <lb/>und burger lediglich überlaßen.
+                       </p>
+                       <p>
+                           <lb/>Actum <del rend="strikethrough">fry</del><date from="1692-06-16" to="1692-06-17">donstags und freytags den 16ten und
+                               <lb/>17ten <hi rend="font_change">junii</hi> 1692</date>.
+                       </p>
+                    </div>
+                    <div>
+                        <table>
+                               <row>
+                                   <cell><lb/><choice><abbr>Prnt</abbr><expan>Præsentibus</expan></choice></cell>
+                                   <cell><lb/>herr burgermeister <persName ref="GND_118853635">Hein<lb break="no"/>rich
+                                       Escher</persName>.</cell>
+                                   <cell><lb/>herr rathsherr <persName>Rahn</persName>.</cell>
+                               </row>
+                               <row>
+                                   <cell/>
+                                   <cell><lb/>herr statthalter <persName>Heß</persName>.</cell>
+                                   <cell><lb/>herr landtvogt <persName>Holtz<lb break="no"/>halb</persName>.</cell>
+                               </row>
+                               <row>
+                                   <cell/>
+                                   <cell><lb/>herr <del rend="overwritten">ob</del><add rend="overwritten">s</add>eckelmeister <persName>Waser</persName>.</cell>
+                                   <cell><lb/>juncker amptmann
+                                       <lb/><persName>Escher</persName>.</cell>
+                               </row>
+                               <row>
+                                   <cell/>
+                                   <cell><lb/>herr obmann <persName>Muralt</persName>.</cell>
+                                   <cell><lb/>herr landtvogt <persName>Wolff</persName>.</cell>
+                               </row>
+                           </table>
+                       <p>
+                           <lb/>stattschreiber <unclear>my</unclear>
+                       </p>
+                    </div>
+                       <div>
+                           <ab type="dorsal">
+                            <lb/>Rathschlag
+                            <lb/>wegen einrichtung der
+                            <lb/>beiden statt und under<lb break="no"/>schreiber
+                            cantzleyen.
+                        </ab>
+                       </div>
+                        <div>
+                            <ab type="dorsal">
+                            <lb/><date when="1692">1692</date>.
+                        </ab>
+                        </div>
+                        <div>
+                            <ab type="dorsal">
+                            <lb/>Vom <date from="1692-06-16" to="1692-06-17">16. und 17 <hi rend="font_change">junii</hi> 1692</date>.
+                        </ab>
+                        </div>
+                        <div>
+                            <ab type="dorsal">
+                            <lb/>Was darüber erkent, ist in
+                            <lb/>statschreibers <hi rend="font_change">manuali sub</hi>
+                            <lb/><date when="1692-06-18">18 <hi rend="font_change">junii</hi> 1692</date> zefinden.
+                        </ab>
+                        </div>
+                </body>
+                <back>
+                    <div>
+                        <p>ndixn</p>
+                        <p></p> <!-- keine neuen Zeilen mit lb, pro Punkt/Argument ein Paragraph (<p/>). -->
+                    </div>
+                </back>
+
+            </text>
+        </group>
+    </text>
+</TEI>
