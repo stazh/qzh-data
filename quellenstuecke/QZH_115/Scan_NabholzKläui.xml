@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Scan_NabholzKläui</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Editionsstücke_QZH</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+            <title type="main">Scan_NabholzKläui</title>
+               <idno type="Transkribus">14287720</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="3897" lry="2481" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="2481px" url="113735197.jpg" width="3897px"/>
+         <graphic height="2481px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=SNZXMZHOSIFAMQMPZDOOJADD" width="3897px"/>
+         <zone points="576,265 1886,265 1886,2255 576,2255" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="980,239 1451,239 1451,322 980,322" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="1003,306 1436,306 1436,393 1003,393" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="611,384 1869,384 1869,473 611,473" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="567,452 1861,452 1861,507 567,507" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="574,491 1861,491 1861,559 574,559" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="567,531 1866,531 1866,590 567,590" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="570,578 1870,578 1870,632 570,632" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="574,609 1861,609 1861,674 574,674" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+            <zone points="574,647 1864,647 1864,708 574,708" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="575,687 1867,687 1867,762 575,762" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="574,726 1874,726 1874,793 574,793" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="574,767 1870,767 1870,827 574,827" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="578,808 1870,808 1870,876 578,876" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="570,858 1872,858 1872,912 570,912" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="575,886 1870,886 1870,957 575,957" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="577,930 1874,930 1874,991 577,991" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="582,986 1217,986 1217,1058 582,1058" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="614,1058 1867,1058 1867,1149 614,1149" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="578,1113 1870,1113 1870,1181 578,1181" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="574,1162 1870,1162 1870,1228 574,1228" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+            <zone points="574,1211 1867,1211 1867,1284 574,1284" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+            <zone points="577,1274 1874,1274 1874,1328 577,1328" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+            <zone points="577,1306 1878,1306 1878,1378 577,1378" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+            <zone points="582,1357 1870,1357 1870,1427 582,1427" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+            <zone points="582,1406 1874,1406 1874,1472 582,1472" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+            <zone points="582,1454 1874,1454 1874,1523 582,1523" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+            <zone points="577,1505 1874,1505 1874,1568 577,1568" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+            <zone points="582,1550 1872,1550 1872,1633 582,1633" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+            <zone points="582,1602 1874,1602 1874,1667 582,1667" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+            <zone points="582,1651 1875,1651 1875,1716 582,1716" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+            <zone points="582,1700 1872,1700 1872,1762 582,1762" rendition="Line" xml:id="facs_1_tr_1_tl_31"/>
+            <zone points="582,1747 1878,1747 1878,1835 582,1835" rendition="Line" xml:id="facs_1_tr_1_tl_32"/>
+            <zone points="585,1794 1870,1794 1870,1875 585,1875" rendition="Line" xml:id="facs_1_tr_1_tl_33"/>
+            <zone points="582,1849 1882,1849 1882,1914 582,1914" rendition="Line" xml:id="facs_1_tr_1_tl_34"/>
+            <zone points="582,1908 1877,1908 1877,1963 582,1963" rendition="Line" xml:id="facs_1_tr_1_tl_35"/>
+            <zone points="588,1947 1882,1947 1882,2008 588,2008" rendition="Line" xml:id="facs_1_tr_1_tl_36"/>
+            <zone points="588,1996 1880,1996 1880,2072 588,2072" rendition="Line" xml:id="facs_1_tr_1_tl_37"/>
+            <zone points="582,2044 1874,2044 1874,2100 582,2100" rendition="Line" xml:id="facs_1_tr_1_tl_38"/>
+            <zone points="585,2101 1880,2101 1880,2156 585,2156" rendition="Line" xml:id="facs_1_tr_1_tl_39"/>
+            <zone points="587,2145 1882,2145 1882,2208 587,2208" rendition="Line" xml:id="facs_1_tr_1_tl_40"/>
+            <zone points="588,2187 1878,2187 1878,2257 588,2257" rendition="Line" xml:id="facs_1_tr_1_tl_41"/>
+         </zone>
+         <zone points="2277,249 3582,249 3582,2247 2277,2247" rendition="TextRegion" xml:id="facs_1_tr_2">
+            <zone points="2272,216 3575,216 3575,296 2272,296" rendition="Line" xml:id="facs_1_tr_2_tl_1"/>
+            <zone points="2277,280 3575,280 3575,338 2277,338" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
+            <zone points="2280,336 3575,336 3575,393 2280,393" rendition="Line" xml:id="facs_1_tr_2_tl_3"/>
+            <zone points="2280,393 3577,393 3577,440 2280,440" rendition="Line" xml:id="facs_1_tr_2_tl_4"/>
+            <zone points="2273,434 3575,434 3575,478 2273,478" rendition="Line" xml:id="facs_1_tr_2_tl_5"/>
+            <zone points="2280,476 3575,476 3575,540 2280,540" rendition="Line" xml:id="facs_1_tr_2_tl_6"/>
+            <zone points="2286,531 3578,531 3578,585 2286,585" rendition="Line" xml:id="facs_1_tr_2_tl_7"/>
+            <zone points="2280,585 3575,585 3575,642 2280,642" rendition="Line" xml:id="facs_1_tr_2_tl_8"/>
+            <zone points="2283,622 3578,622 3578,682 2283,682" rendition="Line" xml:id="facs_1_tr_2_tl_9"/>
+            <zone points="2283,673 3565,673 3565,734 2283,734" rendition="Line" xml:id="facs_1_tr_2_tl_10"/>
+            <zone points="2277,718 3572,718 3572,783 2277,783" rendition="Line" xml:id="facs_1_tr_2_tl_11"/>
+            <zone points="2283,772 3575,772 3575,835 2283,835" rendition="Line" xml:id="facs_1_tr_2_tl_12"/>
+            <zone points="2280,826 3575,826 3575,882 2280,882" rendition="Line" xml:id="facs_1_tr_2_tl_13"/>
+            <zone points="2283,874 3575,874 3575,923 2283,923" rendition="Line" xml:id="facs_1_tr_2_tl_14"/>
+            <zone points="2277,923 3568,923 3568,977 2277,977" rendition="Line" xml:id="facs_1_tr_2_tl_15"/>
+            <zone points="2280,968 3572,968 3572,1025 2280,1025" rendition="Line" xml:id="facs_1_tr_2_tl_16"/>
+            <zone points="2280,1020 3570,1020 3570,1076 2280,1076" rendition="Line" xml:id="facs_1_tr_2_tl_17"/>
+            <zone points="2277,1068 3572,1068 3572,1120 2277,1120" rendition="Line" xml:id="facs_1_tr_2_tl_18"/>
+            <zone points="2280,1113 3570,1113 3570,1172 2280,1172" rendition="Line" xml:id="facs_1_tr_2_tl_19"/>
+            <zone points="2272,1168 3570,1168 3570,1216 2272,1216" rendition="Line" xml:id="facs_1_tr_2_tl_20"/>
+            <zone points="2277,1216 3564,1216 3564,1277 2277,1277" rendition="Line" xml:id="facs_1_tr_2_tl_21"/>
+            <zone points="2280,1271 3575,1271 3575,1320 2280,1320" rendition="Line" xml:id="facs_1_tr_2_tl_22"/>
+            <zone points="2280,1315 3570,1315 3570,1372 2280,1372" rendition="Line" xml:id="facs_1_tr_2_tl_23"/>
+            <zone points="2272,1360 3565,1360 3565,1419 2272,1419" rendition="Line" xml:id="facs_1_tr_2_tl_24"/>
+            <zone points="2280,1412 3562,1412 3562,1469 2280,1469" rendition="Line" xml:id="facs_1_tr_2_tl_25"/>
+            <zone points="2280,1459 3572,1459 3572,1524 2280,1524" rendition="Line" xml:id="facs_1_tr_2_tl_26"/>
+            <zone points="2280,1514 3562,1514 3562,1565 2280,1565" rendition="Line" xml:id="facs_1_tr_2_tl_27"/>
+            <zone points="2280,1560 3575,1560 3575,1614 2280,1614" rendition="Line" xml:id="facs_1_tr_2_tl_28"/>
+            <zone points="2277,1610 3567,1610 3567,1661 2277,1661" rendition="Line" xml:id="facs_1_tr_2_tl_29"/>
+            <zone points="2280,1661 3564,1661 3564,1716 2280,1716" rendition="Line" xml:id="facs_1_tr_2_tl_30"/>
+            <zone points="2277,1706 3567,1706 3567,1757 2277,1757" rendition="Line" xml:id="facs_1_tr_2_tl_31"/>
+            <zone points="2272,1755 3570,1755 3570,1809 2272,1809" rendition="Line" xml:id="facs_1_tr_2_tl_32"/>
+            <zone points="2273,1802 3568,1802 3568,1856 2273,1856" rendition="Line" xml:id="facs_1_tr_2_tl_33"/>
+            <zone points="2273,1852 3564,1852 3564,1906 2273,1906" rendition="Line" xml:id="facs_1_tr_2_tl_34"/>
+            <zone points="2277,1900 3568,1900 3568,1955 2277,1955" rendition="Line" xml:id="facs_1_tr_2_tl_35"/>
+            <zone points="2268,1950 3568,1950 3568,1999 2268,1999" rendition="Line" xml:id="facs_1_tr_2_tl_36"/>
+            <zone points="2280,2002 3570,2002 3570,2054 2280,2054" rendition="Line" xml:id="facs_1_tr_2_tl_37"/>
+            <zone points="2272,2049 3572,2049 3572,2109 2272,2109" rendition="Line" xml:id="facs_1_tr_2_tl_38"/>
+            <zone points="2277,2098 3568,2098 3568,2153 2277,2153" rendition="Line" xml:id="facs_1_tr_2_tl_39"/>
+            <zone points="2273,2147 3565,2147 3565,2195 2273,2195" rendition="Line" xml:id="facs_1_tr_2_tl_40"/>
+            <zone points="2272,2194 3570,2194 3570,2267 2272,2267" rendition="Line" xml:id="facs_1_tr_2_tl_41"/>
+         </zone>
+      </surface>
+      <surface lrx="3897" lry="2481" ulx="0" uly="0" xml:id="facs_2">
+         <graphic height="2481px" url="113735148.jpg" width="3897px"/>
+         <graphic height="2481px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=VKXRISCFVOVUXYJAOTSESPJQ" width="3897px"/>
+         <zone points="558,291 1860,291 1860,2287 558,2287" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="564,252 1854,252 1854,325 564,325" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="557,323 1852,323 1852,384 557,384" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="564,372 1849,372 1849,427 564,427" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="561,418 1856,418 1856,478 561,478" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="567,474 1849,474 1849,526 567,526" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="561,523 1852,523 1852,585 561,585" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="561,570 1856,570 1856,624 561,624" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="557,619 1852,619 1852,674 557,674" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="557,668 1856,668 1856,728 557,728" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="556,720 1852,720 1852,769 556,769" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="552,774 1856,774 1856,819 552,819" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="556,816 1854,816 1854,871 556,871" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="557,866 1849,866 1849,925 557,925" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="552,916 1848,916 1848,968 552,968" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+            <zone points="561,964 1851,964 1851,1020 561,1020" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+            <zone points="561,1014 1848,1014 1848,1064 561,1064" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+            <zone points="557,1060 1849,1060 1849,1113 557,1113" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+            <zone points="557,1113 1851,1113 1851,1172 557,1172" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+            <zone points="557,1164 1849,1164 1849,1212 557,1212" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+            <zone points="559,1209 1851,1209 1851,1269 559,1269" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+            <zone points="557,1256 1849,1256 1849,1311 557,1311" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+            <zone points="561,1306 1848,1306 1848,1357 561,1357" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+            <zone points="561,1355 1848,1355 1848,1406 561,1406" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+            <zone points="556,1404 1846,1404 1846,1454 556,1454" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
+            <zone points="557,1451 1849,1451 1849,1516 557,1516" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
+            <zone points="557,1503 1849,1503 1849,1557 557,1557" rendition="Line" xml:id="facs_2_tr_1_tl_26"/>
+            <zone points="552,1555 1851,1555 1851,1604 552,1604" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+            <zone points="561,1601 1851,1601 1851,1661 561,1661" rendition="Line" xml:id="facs_2_tr_1_tl_28"/>
+            <zone points="556,1658 1849,1658 1849,1708 556,1708" rendition="Line" xml:id="facs_2_tr_1_tl_29"/>
+            <zone points="552,1698 1852,1698 1852,1755 552,1755" rendition="Line" xml:id="facs_2_tr_1_tl_30"/>
+            <zone points="557,1748 1854,1748 1854,1796 557,1796" rendition="Line" xml:id="facs_2_tr_1_tl_31"/>
+            <zone points="548,1802 1849,1802 1849,1856 548,1856" rendition="Line" xml:id="facs_2_tr_1_tl_32"/>
+            <zone points="552,1851 1843,1851 1843,1895 552,1895" rendition="Line" xml:id="facs_2_tr_1_tl_33"/>
+            <zone points="557,1898 1844,1898 1844,1947 557,1947" rendition="Line" xml:id="facs_2_tr_1_tl_34"/>
+            <zone points="552,1947 1846,1947 1846,1994 552,1994" rendition="Line" xml:id="facs_2_tr_1_tl_35"/>
+            <zone points="552,1994 1849,1994 1849,2049 552,2049" rendition="Line" xml:id="facs_2_tr_1_tl_36"/>
+            <zone points="552,2043 1849,2043 1849,2101 552,2101" rendition="Line" xml:id="facs_2_tr_1_tl_37"/>
+            <zone points="552,2086 1848,2086 1848,2142 552,2142" rendition="Line" xml:id="facs_2_tr_1_tl_38"/>
+            <zone points="552,2138 1846,2138 1846,2199 552,2199" rendition="Line" xml:id="facs_2_tr_1_tl_39"/>
+            <zone points="556,2186 1838,2186 1838,2242 556,2242" rendition="Line" xml:id="facs_2_tr_1_tl_40"/>
+            <zone points="552,2239 1844,2239 1844,2304 552,2304" rendition="Line" xml:id="facs_2_tr_1_tl_41"/>
+         </zone>
+         <zone points="2197,312 3546,312 3546,2375 2197,2375" rendition="TextRegion" xml:id="facs_2_tr_2">
+            <zone points="2246,286 3542,286 3542,379 2246,379" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
+            <zone points="2251,362 3536,362 3536,444 2251,444" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
+            <zone points="2254,408 3538,408 3538,483 2254,483" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
+            <zone points="2247,460 3536,460 3536,541 2247,541" rendition="Line" xml:id="facs_2_tr_2_tl_4"/>
+            <zone points="2242,505 3536,505 3536,575 2242,575" rendition="Line" xml:id="facs_2_tr_2_tl_5"/>
+            <zone points="2247,556 3533,556 3533,619 2247,619" rendition="Line" xml:id="facs_2_tr_2_tl_6"/>
+            <zone points="2246,604 3533,604 3533,673 2246,673" rendition="Line" xml:id="facs_2_tr_2_tl_7"/>
+            <zone points="2238,645 3531,645 3531,723 2238,723" rendition="Line" xml:id="facs_2_tr_2_tl_8"/>
+            <zone points="2236,705 3530,705 3530,777 2236,777" rendition="Line" xml:id="facs_2_tr_2_tl_9"/>
+            <zone points="2230,762 3526,762 3526,827 2230,827" rendition="Line" xml:id="facs_2_tr_2_tl_10"/>
+            <zone points="2230,809 3530,809 3530,876 2230,876" rendition="Line" xml:id="facs_2_tr_2_tl_11"/>
+            <zone points="2231,856 3525,856 3525,923 2231,923" rendition="Line" xml:id="facs_2_tr_2_tl_12"/>
+            <zone points="2233,899 3525,899 3525,980 2233,980" rendition="Line" xml:id="facs_2_tr_2_tl_13"/>
+            <zone points="2228,946 3520,946 3520,1019 2228,1019" rendition="Line" xml:id="facs_2_tr_2_tl_14"/>
+            <zone points="2225,998 3523,998 3523,1068 2225,1068" rendition="Line" xml:id="facs_2_tr_2_tl_15"/>
+            <zone points="2223,1045 3516,1045 3516,1123 2223,1123" rendition="Line" xml:id="facs_2_tr_2_tl_16"/>
+            <zone points="2215,1105 3515,1105 3515,1168 2215,1168" rendition="Line" xml:id="facs_2_tr_2_tl_17"/>
+            <zone points="2212,1152 3512,1152 3512,1216 2212,1216" rendition="Line" xml:id="facs_2_tr_2_tl_18"/>
+            <zone points="2218,1186 3508,1186 3508,1264 2218,1264" rendition="Line" xml:id="facs_2_tr_2_tl_19"/>
+            <zone points="2218,1238 3515,1238 3515,1313 2218,1313" rendition="Line" xml:id="facs_2_tr_2_tl_20"/>
+            <zone points="2216,1290 3512,1290 3512,1363 2216,1363" rendition="Line" xml:id="facs_2_tr_2_tl_21"/>
+            <zone points="2220,1324 3510,1324 3510,1409 2220,1409" rendition="Line" xml:id="facs_2_tr_2_tl_22"/>
+            <zone points="2210,1378 3512,1378 3512,1461 2210,1461" rendition="Line" xml:id="facs_2_tr_2_tl_23"/>
+            <zone points="2213,1420 3504,1420 3504,1513 2213,1513" rendition="Line" xml:id="facs_2_tr_2_tl_24"/>
+            <zone points="2210,1471 3504,1471 3504,1565 2210,1565" rendition="Line" xml:id="facs_2_tr_2_tl_25"/>
+            <zone points="2213,1534 3492,1534 3492,1617 2213,1617" rendition="Line" xml:id="facs_2_tr_2_tl_26"/>
+            <zone points="2215,1573 3495,1573 3495,1653 2215,1653" rendition="Line" xml:id="facs_2_tr_2_tl_27"/>
+            <zone points="2205,1614 3500,1614 3500,1708 2205,1708" rendition="Line" xml:id="facs_2_tr_2_tl_28"/>
+            <zone points="2207,1669 3502,1669 3502,1752 2207,1752" rendition="Line" xml:id="facs_2_tr_2_tl_29"/>
+            <zone points="2205,1726 3497,1726 3497,1809 2205,1809" rendition="Line" xml:id="facs_2_tr_2_tl_30"/>
+            <zone points="2207,1768 3500,1768 3500,1852 2207,1852" rendition="Line" xml:id="facs_2_tr_2_tl_31"/>
+            <zone points="2218,1822 3500,1822 3500,1904 2218,1904" rendition="Line" xml:id="facs_2_tr_2_tl_32"/>
+            <zone points="2199,1862 3495,1862 3495,1948 2199,1948" rendition="Line" xml:id="facs_2_tr_2_tl_33"/>
+            <zone points="2195,1909 3490,1909 3490,2004 2195,2004" rendition="Line" xml:id="facs_2_tr_2_tl_34"/>
+            <zone points="2195,1955 3486,1955 3486,2049 2195,2049" rendition="Line" xml:id="facs_2_tr_2_tl_35"/>
+            <zone points="2202,2005 3490,2005 3490,2100 2202,2100" rendition="Line" xml:id="facs_2_tr_2_tl_36"/>
+            <zone points="2195,2060 3487,2060 3487,2147 2195,2147" rendition="Line" xml:id="facs_2_tr_2_tl_37"/>
+            <zone points="2189,2104 3492,2104 3492,2195 2189,2195" rendition="Line" xml:id="facs_2_tr_2_tl_38"/>
+            <zone points="2190,2155 3486,2155 3486,2242 2190,2242" rendition="Line" xml:id="facs_2_tr_2_tl_39"/>
+            <zone points="2187,2205 3474,2205 3474,2293 2187,2293" rendition="Line" xml:id="facs_2_tr_2_tl_40"/>
+            <zone points="2189,2260 3487,2260 3487,2340 2189,2340" rendition="Line" xml:id="facs_2_tr_2_tl_41"/>
+            <zone points="2187,2314 2525,2314 2525,2397 2187,2397" rendition="Line" xml:id="facs_2_tr_2_tl_42"/>
+         </zone>
+      </surface>
+      <surface lrx="3897" lry="2481" ulx="0" uly="0" xml:id="facs_3">
+         <graphic height="2481px" url="113735198.jpg" width="3897px"/>
+         <graphic height="2481px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=LQNVORVTYLJILJSPDFRDQTQC" width="3897px"/>
+         <zone points="576,289 1880,289 1880,2279 576,2279" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="576,266 1871,266 1871,328 576,328" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="579,321 1866,321 1866,380 579,380" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+            <zone points="586,374 1866,374 1866,426 586,426" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+            <zone points="586,421 1873,421 1873,478 586,478" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="579,475 1866,475 1866,527 579,527" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="582,522 1873,522 1873,576 582,576" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+            <zone points="573,571 1869,571 1869,618 573,618" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="576,618 1871,618 1871,675 576,675" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="576,674 1254,674 1254,736 576,736" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="620,739 1488,739 1488,785 620,785" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="620,780 1297,780 1297,856 620,856" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="752,917 1705,917 1705,979 752,979" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="755,984 1700,984 1700,1042 755,1042" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="1011,1047 1436,1047 1436,1116 1011,1116" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="613,1135 1869,1135 1869,1188 613,1188" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="576,1183 1873,1183 1873,1228 576,1228" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="573,1219 1873,1219 1873,1267 573,1267" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="569,1259 1869,1259 1869,1307 569,1307" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="576,1302 1873,1302 1873,1347 576,1347" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="576,1338 1866,1338 1866,1388 576,1388" rendition="Line" xml:id="facs_3_tr_1_tl_20"/>
+            <zone points="568,1382 1876,1382 1876,1421 568,1421" rendition="Line" xml:id="facs_3_tr_1_tl_21"/>
+            <zone points="576,1421 1871,1421 1871,1463 576,1463" rendition="Line" xml:id="facs_3_tr_1_tl_22"/>
+            <zone points="576,1463 1873,1463 1873,1507 576,1507" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+            <zone points="576,1499 1865,1499 1865,1543 576,1543" rendition="Line" xml:id="facs_3_tr_1_tl_24"/>
+            <zone points="576,1540 1873,1540 1873,1592 576,1592" rendition="Line" xml:id="facs_3_tr_1_tl_25"/>
+            <zone points="576,1577 1873,1577 1873,1630 576,1630" rendition="Line" xml:id="facs_3_tr_1_tl_26"/>
+            <zone points="576,1620 1865,1620 1865,1662 576,1662" rendition="Line" xml:id="facs_3_tr_1_tl_27"/>
+            <zone points="576,1661 1876,1661 1876,1705 576,1705" rendition="Line" xml:id="facs_3_tr_1_tl_28"/>
+            <zone points="584,1698 772,1698 772,1755 584,1755" rendition="Line" xml:id="facs_3_tr_1_tl_29"/>
+            <zone points="612,1780 1876,1780 1876,1837 612,1837" rendition="Line" xml:id="facs_3_tr_1_tl_30"/>
+            <zone points="586,1837 1866,1837 1866,1884 586,1884" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+            <zone points="576,1884 1866,1884 1866,1944 576,1944" rendition="Line" xml:id="facs_3_tr_1_tl_32"/>
+            <zone points="568,1946 1876,1946 1876,1992 568,1992" rendition="Line" xml:id="facs_3_tr_1_tl_33"/>
+            <zone points="576,1982 1866,1982 1866,2036 576,2036" rendition="Line" xml:id="facs_3_tr_1_tl_34"/>
+            <zone points="576,2028 1865,2028 1865,2077 576,2077" rendition="Line" xml:id="facs_3_tr_1_tl_35"/>
+            <zone points="576,2078 1873,2078 1873,2130 576,2130" rendition="Line" xml:id="facs_3_tr_1_tl_36"/>
+            <zone points="579,2130 1866,2130 1866,2186 579,2186" rendition="Line" xml:id="facs_3_tr_1_tl_37"/>
+            <zone points="586,2179 1873,2179 1873,2232 586,2232" rendition="Line" xml:id="facs_3_tr_1_tl_38"/>
+            <zone points="576,2227 1866,2227 1866,2276 576,2276" rendition="Line" xml:id="facs_3_tr_1_tl_39"/>
+         </zone>
+         <zone points="2209,304 3555,304 3555,2333 2209,2333" rendition="TextRegion" xml:id="facs_3_tr_2">
+            <zone points="2263,295 3551,295 3551,382 2263,382" rendition="Line" xml:id="facs_3_tr_2_tl_1"/>
+            <zone points="2258,349 3551,349 3551,426 2258,426" rendition="Line" xml:id="facs_3_tr_2_tl_2"/>
+            <zone points="2253,388 3548,388 3548,468 2253,468" rendition="Line" xml:id="facs_3_tr_2_tl_3"/>
+            <zone points="2258,449 3553,449 3553,524 2258,524" rendition="Line" xml:id="facs_3_tr_2_tl_4"/>
+            <zone points="2256,496 3546,496 3546,573 2256,573" rendition="Line" xml:id="facs_3_tr_2_tl_5"/>
+            <zone points="2246,555 3543,555 3543,626 2246,626" rendition="Line" xml:id="facs_3_tr_2_tl_6"/>
+            <zone points="2246,599 3541,599 3541,675 2246,675" rendition="Line" xml:id="facs_3_tr_2_tl_7"/>
+            <zone points="2254,643 3538,643 3538,723 2254,723" rendition="Line" xml:id="facs_3_tr_2_tl_8"/>
+            <zone points="2248,679 3538,679 3538,770 2248,770" rendition="Line" xml:id="facs_3_tr_2_tl_9"/>
+            <zone points="2251,739 3537,739 3537,819 2251,819" rendition="Line" xml:id="facs_3_tr_2_tl_10"/>
+            <zone points="2245,780 3537,780 3537,868 2245,868" rendition="Line" xml:id="facs_3_tr_2_tl_11"/>
+            <zone points="2240,843 3537,843 3537,914 2240,914" rendition="Line" xml:id="facs_3_tr_2_tl_12"/>
+            <zone points="2236,873 3535,873 3535,964 2236,964" rendition="Line" xml:id="facs_3_tr_2_tl_13"/>
+            <zone points="2236,938 3530,938 3530,1015 2236,1015" rendition="Line" xml:id="facs_3_tr_2_tl_14"/>
+            <zone points="2243,989 3527,989 3527,1068 2243,1068" rendition="Line" xml:id="facs_3_tr_2_tl_15"/>
+            <zone points="2236,1037 3530,1037 3530,1116 2236,1116" rendition="Line" xml:id="facs_3_tr_2_tl_16"/>
+            <zone points="2236,1078 3528,1078 3528,1165 2236,1165" rendition="Line" xml:id="facs_3_tr_2_tl_17"/>
+            <zone points="2233,1132 3530,1132 3530,1217 2233,1217" rendition="Line" xml:id="facs_3_tr_2_tl_18"/>
+            <zone points="2230,1183 3527,1183 3527,1259 2230,1259" rendition="Line" xml:id="facs_3_tr_2_tl_19"/>
+            <zone points="2230,1222 3524,1222 3524,1305 2230,1305" rendition="Line" xml:id="facs_3_tr_2_tl_20"/>
+            <zone points="2225,1274 3517,1274 3517,1365 2225,1365" rendition="Line" xml:id="facs_3_tr_2_tl_21"/>
+            <zone points="2228,1323 3520,1323 3520,1411 2228,1411" rendition="Line" xml:id="facs_3_tr_2_tl_22"/>
+            <zone points="2223,1385 3517,1385 3517,1460 2223,1460" rendition="Line" xml:id="facs_3_tr_2_tl_23"/>
+            <zone points="2223,1427 3517,1427 3517,1506 2223,1506" rendition="Line" xml:id="facs_3_tr_2_tl_24"/>
+            <zone points="2223,1476 3514,1476 3514,1548 2223,1548" rendition="Line" xml:id="facs_3_tr_2_tl_25"/>
+            <zone points="2220,1522 3515,1522 3515,1607 2220,1607" rendition="Line" xml:id="facs_3_tr_2_tl_26"/>
+            <zone points="2217,1563 3512,1563 3512,1646 2217,1646" rendition="Line" xml:id="facs_3_tr_2_tl_27"/>
+            <zone points="2220,1620 3509,1620 3509,1714 2220,1714" rendition="Line" xml:id="facs_3_tr_2_tl_28"/>
+            <zone points="2220,1664 3510,1664 3510,1755 2220,1755" rendition="Line" xml:id="facs_3_tr_2_tl_29"/>
+            <zone points="2204,1721 3504,1721 3504,1804 2204,1804" rendition="Line" xml:id="facs_3_tr_2_tl_30"/>
+            <zone points="2220,1754 3506,1754 3506,1851 2220,1851" rendition="Line" xml:id="facs_3_tr_2_tl_31"/>
+            <zone points="2210,1811 3502,1811 3502,1900 2210,1900" rendition="Line" xml:id="facs_3_tr_2_tl_32"/>
+            <zone points="2212,1866 3501,1866 3501,1946 2212,1946" rendition="Line" xml:id="facs_3_tr_2_tl_33"/>
+            <zone points="2212,1907 3502,1907 3502,2002 2212,2002" rendition="Line" xml:id="facs_3_tr_2_tl_34"/>
+            <zone points="2207,1964 3502,1964 3502,2044 2207,2044" rendition="Line" xml:id="facs_3_tr_2_tl_35"/>
+            <zone points="2205,2008 3504,2008 3504,2093 2205,2093" rendition="Line" xml:id="facs_3_tr_2_tl_36"/>
+            <zone points="2205,2057 3497,2057 3497,2139 2205,2139" rendition="Line" xml:id="facs_3_tr_2_tl_37"/>
+            <zone points="2205,2106 3494,2106 3494,2197 2205,2197" rendition="Line" xml:id="facs_3_tr_2_tl_38"/>
+            <zone points="2199,2140 3493,2140 3493,2245 2199,2245" rendition="Line" xml:id="facs_3_tr_2_tl_39"/>
+            <zone points="2199,2197 3499,2197 3499,2297 2199,2297" rendition="Line" xml:id="facs_3_tr_2_tl_40"/>
+            <zone points="2201,2254 3493,2254 3493,2331 2201,2331" rendition="Line" xml:id="facs_3_tr_2_tl_41"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_tr_1" type="">
+               <lb n="N001"/>Stauser Verkommmis.
+               <lb n="N002"/>1481 Dexember 22.
+               <lb n="N003"/>1. Verbot gewaltsamer Cberfälle auf Miteidgenossen oder deren Bundesgenossen.
+               <lb n="N004"/>2. Schut- eines allfällig überfallenen Ortes durch die andern. 3. Strafe der Cbel
+               <lb n="N005"/>täter entweder dureh die heimatlichen Gerichte oder durch diejenigen am latort
+               <lb n="N006"/>4. Verbot egefahrlicherd Gemeindeversammlungen oder Ausammenrottung ohne
+               <lb n="N007"/>Erlaubnis der Obrigkeit. 5. Verbot, die Untertanen eines andern Ortes aufruwie¬
+               <lb n="N008"/>seln. 6. Bei Aufständen von Untertanen Vermittlung durch die andern Orte
+               <lb n="N009"/>7—8. Bestätigung des Sempacher und des Pfalkenbriefes. Die Bünde sollen alle
+               <lb n="N010"/>5 Jahre beschworen und dabei die drei Verkommnisse verlesen werden. 9. Geld
+               <lb n="N011"/>und Brandschat-ung, das in künftigen Kriegen gewonnem wird, soll unter die Orte
+               <lb n="N012"/>nach Marchsahl ihrer Truppen verteilt werden. 10. An eroberten Gebieten und
+               <lb n="N013"/>klerrschaftsrechten haben alle Orte gleichen Anteil, ebenso an allfälligem Lösegeld
+               <lb n="N014"/>kür zurüekgegebene Froberungen. I1. Am den unter Punkt 9 genannten Einnahmen
+               <lb n="N015"/>haben auch die Tugewandten Orte Anteil, an den unter Punkt 10 genannten Er¬
+               <lb n="N016"/>werbungen nur die 8 Alten Orte. 12. Die Bestimmungen des Verkommnisses dürfen
+               <lb n="N017"/>den evigen Bünden keinen Eintrag tun.
+               <lb n="N018"/>In dem namen des vatters, des sunes und des heiligen geistes,
+               <lb n="N019"/>amen. Wir burgermeister, die schultheillen, amman, rätte, burger,
+               <lb n="N020"/>lanndtlütte und gemeinden gemeinlich diser hienach geméltten
+               <lb n="N021"/>stetten und lenndern, namlich von Türrich, Bern, lutsern, Cre,
+               <lb n="N022"/>Swyta, Uuderwalden ob und nid dem Keruwald, von Lug mit dem
+               <lb n="N023"/>ulfern ampt, so dartrü gehört, und von Glarüll, als die acht ortte
+               <lb n="N024"/>der Eitgenollchafft, bekennent offennlich und thünd kund allen
+               <lb n="N025"/>denen, die disen brief vemmer ausechent oder hörent lesen. Nach
+               <lb n="N026"/>dem und denn wir durch krafft unnser evigen geswornen pünden.
+               <lb n="N027"/>die denn durch gnad und hilff des evigen gottes unnsern vordern
+               <lb n="N028"/>säliger gedächtnüff und unns bitshar 2h güttem frid, glück und hei
+               <lb n="N029"/>erschollen, evigklich süsamen verbunden sind und unns xbstat mit
+               <lb n="N030"/>wachender fürsorg alles das ah betrachten und fürsenemen, damit
+               <lb n="N031"/>vorab dieselben unuser evigen pünde dester krefftigklicher be¬
+               <lb n="N032"/>schirmpt und ünnser aller lannd und lütt in güttem frid, rüw und
+               <lb n="N033"/>semach behalkten werdent, haben wir mit gütter villent, einhel¬
+               <lb n="N034"/>ligem ratte und nuksbarer vorbetrachtung unns diser nachgeméltten
+               <lb n="N035"/>sachen, stucken und artiekeln, die also by unnsern eren und gütten
+               <lb n="N036"/>trüwen für uns und unnser evigen nachkommen fürbashin evigklich
+               <lb n="N037"/>segeneinanndern unversert, war und skätte se haltten, mit ein¬
+               <lb n="N038"/>anndern gütlich vereinbart und die xwüschend unns abgeredt, ge¬
+               <lb n="N039"/>lüttert und beslollen, wie hienach volget und eigelich begrifken
+               <lb n="N040"/>staut. (1) Des ersten, das unnder unns den vorgenanten acht ortten
+               <lb n="N041"/>Türrich, Bern, Luisern, Tre, Swyta. Cunderwalden, Aug und Clarüll
+            </ab>
+            <ab facs="#facs_1_tr_2" type="">
+               <lb n="N001"/>weder durch sich selbs noch durch unnser unuderthanen, burger,
+               <lb n="N002"/>lanndtlütte oder durch nieman annders, nieman den aundern mit
+               <lb n="N003"/>eignem gewalt frävelich übersiechen, noch sunst in keinen weg
+               <lb n="N004"/>weder an lib noch an güt, an stetten, lannden noch lütten, an
+               <lb n="N005"/>sinen unndertanen, burgern, lanndtlütten noch an denen, s0 inen
+               <lb n="N006"/>mit evigen pünden gevanndt sind oder zü versprechen stand,
+               <lb n="N007"/>Aheinerley schadens noch unlustes, vemam dem anndern das sin 26
+               <lb n="N008"/>nemen, se nöttigen oder die sinen absetrengen in kein wyse nit
+               <lb n="N009"/>fürnemen noch das se thünd unnderstan sol. (2) Uud ob veman
+               <lb n="N010"/>unnder unus den vorgenanken acht ortten semeinlieh oder in
+               <lb n="N011"/>sonnders, darvor gott evigblichen sye, veman dem anndern an dem
+               <lb n="N012"/>sinen oder an den sinen oder an denen, wie dervor gelüttert 1st,
+               <lb n="N013"/>sblichs wie obstat xüfügte, fürneme oder darwider tätte, damit denn
+               <lb n="N014"/>sélichs verkommen und unnser aller evigen geswornen pünde
+               <lb n="N015"/>krekftigklich beschirmpt werdent und wir alle miteinanndern dest
+               <lb n="N016"/>fürer in brüderlicher trüw, frid, rüw und gemach belibent; welhem
+               <lb n="N017"/>ortt oder den sinen, als vorstät, denn dik¬ unnder unns ye begegnet.
+               <lb n="N018"/>da söllent und véllent wir übrigen ortt alle gemeinlich dasselbe
+               <lb n="N019"/>ortt und die sinen, wie vorstät, s0 also genöttiget werdent, vor
+               <lb n="N020"/>sblicher gewaltsammi und überbracht ungehindert aller sach mit
+               <lb n="N021"/>gütten trüven schirmen, schütsen und hanndthaben, on alle ge¬
+               <lb n="N022"/>verde. (3) Uud ob unnder unns einicherler sunndriger personen.,
+               <lb n="N023"/>eine oder mer, dheinest sélich überbrach, ukfrür oder gewalt¬
+               <lb n="N024"/>sammi, als obstat, gegen veman unuder unns oder den unnsern
+               <lb n="N025"/>oder denen, wie vor gelüttert ist, one recht fürnement oder be¬
+               <lb n="N026"/>giengent, wer oder von welhem ortte unnder unns, die voch wärint,
+               <lb n="N027"/>die söllent, so diek das beschicht, von stund an nach irem ver
+               <lb n="N028"/>dienen und gestalt der sach darumb von iren herren und obern
+               <lb n="N029"/>one alle hindernüll und widerred gestraufft werden, doch vor¬
+               <lb n="N030"/>behaltten, ob vemam der unnsern unnder unns in des anndern ge¬
+               <lb n="N031"/>richten oder gepietten einicherley frävel begienge oder uffrür
+               <lb n="N032"/>machte, mag man daselbs die getätter annemen und die se umb
+               <lb n="N033"/>sblich frävel und büswirdig sachen nach deslelben orttes und der
+               <lb n="N034"/>gerichtten daselbs, da sélichs ve ah aytten beschieht, recht und
+               <lb n="N035"/>harkommenheit strauffen und rechtverktigen, ungefarlich. (4) Wir
+               <lb n="N036"/>sind ouch übereinkommen und habent gesetat, das ouch fürbashin
+               <lb n="N037"/>unnder unns und in unuser Eitgenollchafft, weder in stetten noch
+               <lb n="N038"/>in lénndern, nieman dbeinerley sunnderbarer gefarlicher gemein¬
+               <lb n="N039"/>den, samlungen oder anträg, davon dann veman schaden, ukkrür
+               <lb n="N040"/>oder unfüg erstan möchten, weder heimlich noch offennlich für¬
+               <lb n="N041"/>nemen noch thün sol one willen und erlouben siner herren und
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_tr_1" type="">
+               <lb n="N001"/>obern, namlieh Eürrichi eins burgermeisters und der rätten, von
+               <lb n="N002"/>Bern des schultheillen und der rätten, von Lutsern eins schult¬
+               <lb n="N003"/>heillen, derrätten und hunndertten, von Cre, Swyta., Uunderwalden,
+               <lb n="N004"/>Lug und von Glarüll der amman, der rätten und ir gemeinden
+               <lb n="N005"/>daselbs; und ob darüber veman unuder unns dheinerler sélicher
+               <lb n="N006"/>gefarlicher gemeinden, besammlung oder ankräg, als vorstätt,
+               <lb n="N007"/>sethünde fürneme, dartrü hilff oder rätt tätte, der und dieselben
+               <lb n="N008"/>söllen als dann nach irem verdienen gestracks und on verhindern
+               <lb n="N009"/>von iren herren und obern gestraufft werden. (5) Wir haben ouch mit
+               <lb n="N010"/>sunderheit rwüschent unns abgeredt und beschlollen, das fürbashin
+               <lb n="N011"/>in unnser Eitgenollchafft und unuder unns by eyd und by eren
+               <lb n="N012"/>miemant dem anndern die sinen rü ungehorsammi ukkwysen 801
+               <lb n="N013"/>bider ir herren und obern se sinde, noch vemam die sinen ab¬
+               <lb n="N014"/>rüchen oder unnderstän widerwärktig se machen, dadureh die ab¬
+               <lb n="N015"/>trinig oder ungehorsamm werden méchtten. (6) Uud ob veman
+               <lb n="N016"/>unnder unns die sinen widerwärktig sin wölkten oder ungehorsamm
+               <lb n="N017"/>wurden, dieselben séllent wir ein aundern mit gütten trüpen
+               <lb n="N018"/>fürderlieh helkken iren herren wider gehorsamm machen nach lut
+               <lb n="N019"/>und durch krafft unnser geswornen pundtbriefen. (7) Uud als dann
+               <lb n="N020"/>in dem brieve, so vortaytten nach dem stritte au Sempach des
+               <lb n="N021"/>jères, do mam 2allt von Cristi unnsers herren gepurt tusent drü¬
+               <lb n="N022"/>hunndert drünndnüntnig jär, durch unnser vordern säliger ge¬
+               <lb n="N023"/>dächtnüll, wie man sich in Eriegen und reisen haltten s6lle, s0 wir
+               <lb n="N024"/>mit unnsern offnen pannern ru veld riechent, ektlich artiekel ge¬
+               <lb n="N025"/>seizt und beschlollen worden sind, habent wir xü merer lüttrung
+               <lb n="N026"/>unns und unnsern nachkommen 2u güt in diser ewigen verkomnus
+               <lb n="N027"/>abgeredt, besehlollen und denselben artickel also gesetat: war wir
+               <lb n="N028"/>von Aishin mit unnsern offnen pannern oder vennlinen ukf unnser
+               <lb n="N029"/>Vhsent niechen werdent, gemeinlieh oder unnder unns dbein statt
+               <lb n="N030"/>oder lannd sunnderlich, alle die, so dann mit den pannern oder
+               <lb n="N031"/>vennlinen xiechent, die söllent ouch by einanndern beliben als
+               <lb n="N032"/>biderblüt, wie unuser vordern ve dahar gethan hand. Was not inen
+               <lb n="N033"/>oder unns joch begegnet, es 87 in gevächten oder anndern an¬
+               <lb n="N034"/>Frykken, wie dann derselb und annder sachen und artiekel in dem
+               <lb n="N035"/>obgemeltten brief, nach dem Sempacher stritte gemacht, wikter und
+               <lb n="N036"/>eigentlicher begrikken sind ete., (8) haben wir fürer gesetat und
+               <lb n="N037"/>bschlollen, das vorab derselb brief und ouch der brief, so vor
+               <lb n="N038"/>taytten durch unnser vordern sälig ouch gemacht ist worden von
+               <lb n="N039"/>priestern und annder sachen wegen in dem jar des herren tusent
+               <lb n="N040"/>drühunndert und sübentnig jar, mit allen iren puneten, stucken.
+               <lb n="N041"/>sachen und artiekeln, wie und in aller mäs, das dieselben beid
+            </ab>
+            <ab facs="#facs_2_tr_2" type="">
+               <lb n="N001"/>brief innhalttend und begrykkent, fürbashin unversert in santsen
+               <lb n="N002"/>gütten krefften bliben und vest gehaltten, und das daby zd eviger
+               <lb n="N003"/>gedächtnülle dieselben beid brief und ouch dise fründtlich enige
+               <lb n="N004"/>verkomnüll nü von hin, so diek wir unnser evige pünde swerent,
+               <lb n="N005"/>allenthalben unnder unns in allen ortten offennlich vor unnsern
+               <lb n="N006"/>gemeinden gelesen und geoffnet werden söllend. End damit alt und
+               <lb n="N007"/>junng unnser aller geswornen pünde dest fürer in gedächtnüs
+               <lb n="N008"/>behaltten mögend, und den vilkent nachsekommen, s0 haben wir
+               <lb n="N009"/>angesechen und geordnet, das die fürbas hin 2h euigen aytken und
+               <lb n="N010"/>allweg in allen ortten von fünfk jaren ah fünffen mit seschwornen
+               <lb n="N011"/>eyden ernüwret werden söllent. (9) Vir habent ouch xwüschent
+               <lb n="N012"/>unns lutter beschlollen und abgeredt, vo und als diek wir fürbashin
+               <lb n="N013"/>gegen pemanm zu Kriegen oder reisen Koment, was danm güttes,
+               <lb n="N014"/>gelttes oder branndtschätsen in sélichen Friegen oder reisen, in
+               <lb n="N015"/>stritten oder gevächten, dheinest mit der hilft gottes von unns
+               <lb n="N016"/>erobret werdent, das sélichis nach der summ und antaal der lütten,
+               <lb n="N017"/>80 vegklichs ortt, statt und lennder unnder unns in sélichem 2ug
+               <lb n="N018"/>oder gevächt gehept hatt, den personen nach glichlich seteilet
+               <lb n="N019"/>werden 801. (10) Ob aber wir lannd, lütt, stekt oder schloll, ains.
+               <lb n="N020"/>rennt, 26I1 oder annder herrlicheit in sélichen Kriegen erobretten
+               <lb n="N021"/>oder inement, die séllent unuder unns den ortten nach, als von
+               <lb n="N022"/>altter har, glichlich und fründtlich geteylet verden. Und ob wir
+               <lb n="N023"/>sbliche ingenommen lannd, stett, schloll, ains, rennt, 2611 odler
+               <lb n="N024"/>herrlicheit dheinest in tädingswyse wider au lésen gäbent urb
+               <lb n="N025"/>einicherley summ gelttes, des sve dann wenig oder vil, dallelb gelt
+               <lb n="N026"/>sol ouch unnder unns ortt von stetten und lannden glichlich wer
+               <lb n="N027"/>den geteilt, fründtlich und on geverde. (11) Wir haben ouch ge¬
+               <lb n="N028"/>lüttert und hierinne eigentlich beschlollen, das dise fründtlich und
+               <lb n="N029"/>ewig verkomnüll unns die vilgenanten ortt und stett und ouch alle
+               <lb n="N030"/>die, so in unnser Eütgenollchafft mit unns reisent, ouch unnser
+               <lb n="N031"/>unnderthänen, burger, lanndtlütt und die, so mit unns in evigen
+               <lb n="N032"/>pünden sind und unns rü versprechen stand, berüren sol und darinn
+               <lb n="N033"/>begriffen sin, ubgenommen stett, schloll, lannd und lütt, ains, rennt.
+               <lb n="N034"/>201l und herrschafften, die söllent unns orkten von sketten undl
+               <lb n="N035"/>lenndern, als vorstat, rügehören und unnder unns geteilet werden.
+               <lb n="N036"/>(12) Uund in diser fründtlichen evigen verkomnüfl behaltten wir
+               <lb n="N037"/>unus selber vor, das ditx alles, wie vor erlütkert ist, unuser aller
+               <lb n="N038"/>evigen pünden unvergriffenlich und unschäcklieh sin sol, und das
+               <lb n="N039"/>daby denselben unnsern pünden zu krefften und beschirmung dit¬
+               <lb n="N040"/>euig verkommüll nach allem irem innhalt unversert gehaltten wer¬
+               <lb n="N041"/>den sol, getrüwlich und one alle geverde. — Und des alles 21
+               <lb n="N042"/>5 Verfassungsgeschichte
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <ab facs="#facs_3_tr_1" type="">
+               <lb n="N001"/>wärem, veskem und vemerwerendem urkund, so haben wir obge¬
+               <lb n="N002"/>nannten acht ortt Türrich, Bern, Lutsern, Ure, Swyta, Uunder¬
+               <lb n="N003"/>walden, Eug und von Glarüll unnser aller von stetten und lenn¬
+               <lb n="N004"/>dern insigel für unns und unnser evig nachkommen offennlich
+               <lb n="N005"/>thün henchen an diser brief acht, die von wort xü wort glich by¬
+               <lb n="N006"/>send und vegblichem ortt unnder unns einer geben ist uft den
+               <lb n="N007"/>nechsten sampstag nach sant Thomans tag des heiligen 2wölft¬
+               <lb n="N008"/>botten, als man sallt von der gepurt Cristi unusers herren tusend
+               <lb n="N009"/>vlerhunndert achtzig und ein järe.
+               <lb n="N010"/>Original: Staatsarchiv Türich, Stadt u. Fand Nr. 879.
+               <lb n="N011"/>Druck: Eidg. Abschiede Bd. 3 Abt. 1 S.696
+               <lb n="N012"/>Ewiger Bund von Freiburg und Solothurn
+               <lb n="N013"/>mit den acht Orten der Eidgenossenschaft.
+               <lb n="N014"/>1481 Dexember 22.
+               <lb n="N015"/>1. Gegenseitiges Fülfsversprechen. 2. Die Flülfsverpklichtung von Freiburg und
+               <lb n="N016"/>Solothurn entspricht derjenigen der übrigen Orte. 3. Gleiche V'erpklichtung der
+               <lb n="N017"/>eidgenéssischen Orte gegenüber Freiburg und Solothurn wie segen die übrigen
+               <lb n="N018"/>Bundesglieder. 4. Umkreis innerhalb dessen die Hülfsverpklichtung bindend ist.
+               <lb n="N019"/>5. Bei plétslichem Angrifk gelten die bisherigen Gepflogenheiten. 6. An Erobe¬
+               <lb n="N020"/>rungen von Land und Herrschaftsrechten haben alle Orte gleichen Anteil. 7. Erledi
+               <lb n="N021"/>Eung von Streitigkeiten mit Freiburg und Solothurn durch Schiedsgericht. 8. Gegen¬
+               <lb n="N022"/>seitiger feiler Kauf. 9. Freiburg und Solothurn schlielen ohne Tustimmung der
+               <lb n="N023"/>Mehrheit der Eidgenossen keine neuen Bündnisse ab. 10. Bei Streitigkeiten von
+               <lb n="N024"/>Freiburg und Solothurn mit auswärtigen Gegnern sind sie verpklichtet, die Ver
+               <lb n="N025"/>mittlung der Eidgenossen anzunehmen. 11. Die Rechte des Reichs sowie die
+               <lb n="N026"/>lokalen Rechte und Gewohnheiten werden vorbehalten. 12. Anderung bei Ein¬
+               <lb n="N027"/>stimmigkeit möglich. 13. Bei Erneuerung der enigen Bünde soll dieser Bundes
+               <lb n="N028"/>brief verlesen werden. 14. ALe bisherigen Bündnisse und Abmachungen bleiben
+               <lb n="N029"/>vorbehalten.
+               <lb n="N030"/>In gottes nammen, amen. Nann von dem valle des ersten mensehen
+               <lb n="N031"/>durch lenngi der jären und verenndrunge des 2yttes die sinnlichei
+               <lb n="N032"/>der vernunfft hinschlichet und deshalb not ist, rü unnderrichtung
+               <lb n="N033"/>und eviger gedächtnüll den künfftigen die ding und sachen, die
+               <lb n="N034"/>dann unserstérlich evig bliben söllent, der gerügknüß geschrifft¬
+               <lb n="N035"/>licher warheit zu bevelchen, darumb so bünden wir der burger
+               <lb n="N036"/>meister, die schultheillen, ammannen, rätte, burger, landtlüt und
+               <lb n="N037"/>ganta gemeinden von Türrich, Bern, Lutsern, Cre, Swyta. Cunder¬
+               <lb n="N038"/>walden ob und nid dem Kernwalde, von Lug mit dem ullern ampt,
+               <lb n="N039"/>so dartrü gehört, und von Glarüs, als die acht ortte der Eit¬
+            </ab>
+            <ab facs="#facs_3_tr_2" type="">
+               <lb n="N001"/>senollchafft, an eim, und wir die schultheillen, rätt, burger und
+               <lb n="N002"/>Fante gemeinden der stekten von Eryburg in Ochilannde und von
+               <lb n="N003"/>Solottorn, am anndern teil allen und vegblichen menschen, die disen
+               <lb n="N004"/>gegenwirttigen brief in bünfftigen aytten vemmer ausechent, lesent
+               <lb n="N005"/>oder hérent lesen, das wir mit güttem herksen betrachtet haben
+               <lb n="N006"/>sölliche trüp, liebe und fründtliche einhelligbeit, damit dann unn¬
+               <lb n="N007"/>ser altfordern säliger gedächtnüll in allen iren nötten, geschäfften
+               <lb n="N008"/>und sachen getrüw hilff, lib und güt sesammen seseksen vewelten
+               <lb n="N009"/>miteinanndern harkommen sind, dasselb ze beharren und se tröst
+               <lb n="N010"/>unnsern lannden und lätten semliche liebe und fründtschafft rc
+               <lb n="N011"/>merren, s0 haben wir ditx euig getrün fründtschafft und büntnüts
+               <lb n="N012"/>mit einanndern ingangen und gemachet, sekrent, machent und ver¬
+               <lb n="N013"/>bindent unns wissentlich mit disem brief für unns und all unnser
+               <lb n="N014"/>evigen nachkommen in meinung und wie dann das hienach von
+               <lb n="N015"/>vortt xu vortt eigentlichen begrikken stät. Dem ist also: (1) Des
+               <lb n="N016"/>ersten, das wir einaundern getrüvlich behollken und berautten sin
+               <lb n="N017"/>Söllent und völlent mit unnserm lib und güt und wider mengblichen,
+               <lb n="N018"/>80 unns an lannden, an lütten, an lib, an güt, an eren, an fryhelt
+               <lb n="N019"/>und an unnserm loblichen altten harkommen von hin unnderstan
+               <lb n="N020"/>werdent rn bebrencken, Erieg oder schaden -ürefügen an alle hin¬
+               <lb n="N021"/>dernüff und geverde, also und mit séllichen rechtten gedingen: (2)
+               <lb n="N022"/>Ob wir die obgenanten acht orit gemeinlich oder dhein ortt unnder
+               <lb n="N023"/>unns sunuderlich fürbashin mit vemann 2u Erieg Eement und wir
+               <lb n="N024"/>die vorgenanten unuser getrünen lieben eitgenollen von Eryburg
+               <lb n="N025"/>und Soloktorn durch unnser botten oder versiglet brief umb hilff
+               <lb n="N026"/>manen werdent, als diek das beschicht, séllent sy unns angends und
+               <lb n="N027"/>fürderlieh mit iren pannern oder vénnlinen, wie wir des ve be¬
+               <lb n="N028"/>serent, ir hilff und die iren schieken und das thün mit gütten
+               <lb n="N029"/>trüven in irem eignen costen; und was und wie vil sy unus ve sh
+               <lb n="N030"/>xytten schiebent, des söllen wir unns von inen gütlich benügen.
+               <lb n="N031"/>(3) Desglich ob wir die vorgenanten stett Fryburg oder Solottorn
+               <lb n="N032"/>fürbashin ouch mit vemann rü Erieg Kement und wir, als vorstat.
+               <lb n="N033"/>die vorgenanten unnser getrüwen lieben eitgenollen der acht ortten
+               <lb n="N034"/>umb hilff unns se thünd durch unnser botten oder versiglet brief
+               <lb n="N035"/>manen werdent, das sy unns als denn ouch fürderlich mit den iren
+               <lb n="N036"/>rn hilft kommen söllent uff iren eigenen costen, so diek das nöt
+               <lb n="N037"/>wirt, in disen hienach geméltten 2ylen und Ereysen. (4) Des ersten
+               <lb n="N038"/>von unnser der obgenanten von Eryburg wegen anxevachen dureh
+               <lb n="N039"/>die Fraufschafft von Eryers, so wyt und verr die gät, und dadannen
+               <lb n="N040"/>bita gan Orung, von Drung gan Milden, von bilden gan Stäffys,
+               <lb n="N041"/>von Stäffys gan Crancort, und dadannen unts ib obrist an Murtten¬
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
