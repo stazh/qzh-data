@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName><!-- Name der Transkriptor:in --></persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName><!-- Name der Tagger:in --></persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2026-05-01"/><!-- bei @when wird zum Schluss das finale Publikationsdatum eingetragen -->
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_tbd</idno><!-- QZH-Nummerierung -->
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5191097">STAZH Signatur</idno><!-- Signatur -->
+                    </msIdentifier>
+                    <head><!-- Titel --></head>
+                    <msContents>
+                        <summary><!-- Regest --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Aufzeichnungen</filiation>
+                            <filiation type="original"><origDate when="1645"/><!-- bei @when korrektes Datum eintragen -->
+                            </filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1645"/></origin><!-- bei @when korrektes Datum eintragen -->
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                  <term></term><!-- terms noch einfüllen -->
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text>
+                <body>
+                   <div>
+                       <pb n="1"/>
+                       <p>
+                           Strängen, fürsichtigen, ersamman und wissem [sic], gnedigen, lieben herren. Ich anbüt üwer ersam 
+                           wisheit min undertennig, willig dienst, und waz ich vermag mit lib und mit gut, sig üwer wisheit 
+                           alwegen vor an bereit. Gnedigen, lieben heren, ich füg üwer wisheit ze wüssenn, daz die biderbenn 
+                           lüt ze Murtten vast genöttet werdend von dem hertzogen; den der hertzog zu innen grabenn hät ann ir 
+                           bolwerck, daz sy mit steinnen zämen werffend. Zu dem so hät er den bestenn thurnn inn fier schützen 
+                           nider geschossenn, öch ander thürnn, und ir muren vast zurschossenn, daz wir irenn vast übel sorgend.
+Liebenn heren, so hand uinsser eignossen von Bernn uinß im zusatz und die von Friburg gebetten, daz wir zü innen züchen wellend, 
+so wellentz über daz wasser und sich legeren zü uinsseren vigendenn. Daz habend wir abgeschlagen mit dennen wortten: wir wellend 
+uinsser heren wartenn und ann sy nüt handlenn, und rättend innen öch, daz sy keinnerley für nämend, untz uinsser herren körnend – 
+so wellend wir nüt dester minder ein trüw uffsächen uffenn sy habenn, und ib innen neiswaz begegny, es sy tag oder nacht, innen 
+trülichen züzüchen und lib und gut zü innen setzenn. Also versieh ich mich, sy gangen im nach. Harum, gnedigen heren, fürdrend üch 
+mit züchen, daz ir nüt die hindristenn sigend; denn heind keinnen zwiffel: die lüt sind all uinsser eigen, und schetzet man wol uff 
+drüy mall als vil lüt, als vor Granssy; aber arschreck nieman: wir weind sy mit der gotz hilff all artödenn. Sy mögend uinß nüt 
+andrünnen, so hand wir mit innen ze schlachen nach allem wu[n]sch. Nüt me, denn: der ewig gott und sin wirdigy mutter und als
+himelssher die gebend üch gelük zu üwerem uszug und behftttend uinß, daz ir uinß all mit grossenn eren und fröidenn anpfachend. Amman.
+Gebenn uff mendag nach uinssers heren frolichems tag inn der sibenden stu[n]d nach mittag im 76. jar.
+üwar aller williger Hans Waldman, höptman ze Friburg etc.
+
+Denn strengen, fürsichtigen, ersamman und wissenn burgermeister und rätt der stat Zürich, minen gnedigen, lieben herren.
+
+                       </p>
+                   </div>
+                </body>
+                <back>
+                    <div>
+                        <p><!-- Kommentartext --></p>
+                    </div>
+                </back>
+            </text>
+        </group>
+    </text>
+</TEI>
