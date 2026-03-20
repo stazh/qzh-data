@@ -10,7 +10,7 @@
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
-                    <persName><!-- Name der Tagger:in --></persName>
+                    <persName>Svenja Müller<!-- Name der Tagger:in --></persName>
                     <resp key="tagging"/>
                 </respStmt>
             </titleStmt>
@@ -24,20 +24,20 @@
                     <persName>Staatsarchiv des Kantons Zürich</persName>
                     <resp>Herausgeberschaft</resp>
                 </respStmt>
-                <idno>QZH_tbd</idno><!-- QZH-Nummerierung -->
+                <idno>QZH_114</idno><!-- QZH-Nummerierung -->
             </seriesStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5191097">STAZH Signatur</idno><!-- Signatur -->
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=4613406">StAZH A 29.1, Nr. 5.2</idno><!-- Signatur -->
                     </msIdentifier>
-                    <head><!-- Titel --></head>
+                    <head>Brief von Hans Waldmann an Bürgermeister und Rat der Stadt Zürich über die Belagerung von Murten<!-- Titel --></head>
                     <msContents>
                         <summary><!-- Regest --></summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Aufzeichnungen</filiation>
-                            <filiation type="original"><origDate when="1645"/><!-- bei @when korrektes Datum eintragen -->
+                            <filiation type="original"><origDate when="1476-06-17"/><!-- bei @when korrektes Datum eintragen -->
                             </filiation>
                         </msItem>
                     </msContents>
@@ -50,7 +50,7 @@
                         </objectDesc>
                     </physDesc>
                     <history>
-                        <origin><origDate when="1645"/></origin><!-- bei @when korrektes Datum eintragen -->
+                        <origin><origDate when="1476-06-17"/></origin><!-- bei @when korrektes Datum eintragen -->
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -66,7 +66,8 @@
         <profileDesc>
             <textClass default="false">
                 <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-                  <term></term><!-- terms noch einfüllen -->
+                    <term ref="key000266">Krieg</term>
+                    <term ref="key003016">Militär</term><!-- terms noch einfüllen -->
                 </keywords>
             </textClass>
         </profileDesc>
@@ -83,14 +84,14 @@
                         <lb/>willig dienst, und waz ich vermag mit lib und mit gut,
                         <lb/>sig üwer wisheit alwegen vor an bereit. Gnedigen, lieben 
                         <lb/>heren, ich füg üwer wisheit ze wüssenn, daz die bider<lb break="no"/>benn 
-                        lüt ze Murtten vast genöttet werdend von dem 
+                           lüt ze <placeName ref="LOC_46.93591_7.14296">Murtten</placeName> vast genöttet werdend von dem 
                         <lb/>hertzogen; den der hertzog zu innen grabenn hät 
                         <lb/>ann ir bolwerck, daz sy mit steinnen zämen werffend. 
                         <lb/>Zu dem so hät er den bestenn thurnn inn fier schützen 
                         <lb/>nider geschossenn, öch ander thürnn, und ir muren vast 
                         <lb/>zurschossenn, daz wir irenn vast übel sorgend. Liebenn 
-                        <lb/>heren, so hand uinsser eignossen von Bernn uinß im zusatz 
-                        <lb/>und die von <placeName>Friburg</placeName> gebetten, daz wir zü innen züchen 
+                           <lb/>heren, so hand uinsser eignossen von <placeName ref="LOC_46.94809_7.44744">Bernn</placeName> uinß im zusatz 
+                           <lb/>und die von <placeName ref="LOC_46.80237_7.15128">Friburg</placeName> gebetten, daz wir zü innen züchen 
                         <lb/>wellend, so wellentz über daz wasser und sich legeren 
                         <lb/>zü uinsseren vigendenn. Daz habend wir abgeschlagen 
                         <lb/>mit dennen wortten: wir wellend uinsser heren wartenn 
@@ -104,7 +105,7 @@
                         <lb/>züchen, daz ir nüt die hindristenn sigend; denn heind 
                         <lb/>keinnen zwiffel: die lüt sind all uinsser eigen, und 
                         <lb/>schetzet man wol uff drüy mall als vil lüt, als 
-                        <lb/>vor Granssy; aber arschreck nieman: wir weind sy <pb n="2"/> 
+                           <lb/>vor <placeName ref="LOC_46.59208_6.4658">Granssy</placeName>; aber arschreck nieman: wir weind sy <pb n="2"/> 
                         mit der gotz hilff all artödenn. Sy mögend uinß 
                         <lb/>nüt andrünnen, so hand wir mit innen ze schlachen nach 
                         <lb/>allem wu[n]sch. Nüt me, denn: der ewig gott und sin 
@@ -114,12 +115,12 @@
                         Amman. Gebenn uff mendag nach 
                         <lb/>uinssers heren frolichems tag inn der sibenden stu[n]d 
                         <lb/>nach mittag im 76. jar.</p>
-<p>üwar aller williger Hans Waldman, 
-<lb/>höptman ze Friburg etc.</p>
+                       <p>üwar aller williger <persName ref="GND_118855344">Hans Waldman</persName>, 
+                           <lb/>höptman ze <placeName ref="LOC_46.80237_7.15128">Friburg</placeName> etc.</p>
 
 <p>Denn strengen, fürsichtigen, ersamman und 
 <lb/>wissenn burgermeister und rätt der 
-<lb/>stat Zürich, minen gnedigen, lieben herren.
+    <lb/>stat <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minen gnedigen, lieben herren.
 
                        </p>
                    </div>
