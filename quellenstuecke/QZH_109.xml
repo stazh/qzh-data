@@ -85,7 +85,7 @@
                         <head>
                             <lb/>Satz- und ordnungen
                             <lb/>der
-                            <lb/>statt-underschryberey, <!-- bewusst kein Abstand nach "statt-"? -->
+                            <lb/>statt-underschryberey,
                             <lb/>darauf die herren cantzlisten ihr hand-gelübt
                             <lb/>zu thun habend.
                         </head>
@@ -96,13 +96,13 @@
                             auszühind, offenbahrind oder anderwerts communicierind,
                             <lb/>daraus schad oder verwys kommen möchte, sondern in allweg
                             <lb/>unserer <choice><abbr>gn</abbr><expan>gnädigen</expan></choice> herren dienst und der cantzley ehr befürderen
-                            <lb/>und den schaden wenden. <!-- allg.: kein Verweis auf veränderte Schrift bei manualien, actis oder communicierind o.Ä.? -->
+                            <lb/>und den schaden wenden.
                         </p>
                         <p n="2">
                             <lb/>Sollen sie wenigst an allen raths-tagen <time when="13:00:00">nach mittag umb ein
                             <lb/>uhren</time> sich in der cantzley anmelden und erwarten, was für
                             <lb/>oberkeitliche geschefft und befelch zu verfertigen und zu verrichten,
-                            <lb/>es were dann sach, daß jemand wegen vorfallender nachgängen<!-- Falte nur auf Foto, oder auch im Original? Dann evtl. erwähnen? -->,
+                            <lb/>es were dann sach, daß jemand wegen vorfallender nachgängen,
                             <lb/>verordnungen oder eigner ehhaffter geschefften zuruk gehalten
                             <lb/>und zu erscheinen gehinderet wurde.
                         </p>
@@ -133,15 +133,15 @@
                             <lb/>haben) gebrauchen lassen und zu solchem end sich eines schönen,
                             <lb/>leslichen und anständigen buchstabens, so wol in der versal
                             <lb/>und cantzley- als der current-schrifft befleissen. Es solle
-                            <lb/>ihnen auch nicht gewehret seyn, zun<!-- m? denke auch eher n (jon)--> zeiten schöne nutzliche au<lb break="no"/>thores,
-                            sonderlich politicos, <add place="above">zu lesen,</add><del rend="strikethrough">und</del> in der lateynen<!-- latynen -->, frantzösischen,
+                            <lb/>ihnen auch nicht gewehret seyn, zun zeiten schöne nutzliche au<lb break="no"/>thores,
+                            sonderlich politicos, <add place="above">zu lesen,</add><del rend="strikethrough">und</del> in der latynen, frantzösischen,
                             <lb/>italianischen und teütschen sprachen (welche einem cantzlisten sehr
                             <lb/>nothwendig und anständig sind) sich zu üeben und daraus lo<lb break="no"/>cos
                             communes zuzühen, worzu dann alle nothwendige subsidia
                             <lb/>und büecher werden beigeschafft werden.
                         </p>
                         <p n="6">
-                            <lb/>Im übrigen solle es bei der cantzley wol her<!-- har? --> gebrachten alten
+                            <lb/>Im übrigen solle es bei der cantzley wol her gebrachten alten
                             <lb/>üebungen, gebreüchen und gewohnheiten fürbas unverenderlich
                             <lb/>verblyben und niemand darwider einige nöüwerung zu suchen
                             <lb/>sich understehen.
@@ -155,10 +155,10 @@
                                 </row>
                             </table>
                                 <table>
-                                    <head>Nachgang-schrybere <date from="1679-12-27" to="1680-12-27">von natal biß baptist 1680</date>.</head>
+                                    <head>Nachgang-schrybere <date from="1679-12-28" to="1680-12-27">von natal biß baptist 1680</date>.</head>
                                 <row>
-                                    <cell><lb/><supplied resp="asn"><date from="1679-12-27" to="1680-06-23">natal</date></supplied></cell> <!-- Überschneidung 27.12.? -->
-                                    <cell><lb/><date from="1680-06-24" to="1680-12-27">baptist</date>.</cell>
+                                    <cell><lb/><supplied resp="asn"><date from="1679-12-28" to="1680-06-24">natal</date></supplied></cell>
+                                    <cell><lb/><date from="1680-06-25" to="1680-12-27">baptist</date>.</cell>
                                 </row>
                                     <row>
                                         <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>David Holtzhalb</persName>.</cell>
@@ -172,8 +172,7 @@
                             <table>
                                 <head>Buwrechnung schryber.</head>
                                 <row>
-                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> umb gelt schryber</cell>
-                                    <cell><lb/><persName>Hans Rudolf Hirtzel</persName>.</cell> <!-- evtl. nur eine Zelle? und Umbgelt als ein Wort? gem. Idiotikon ist Umgeld eine Steuer/Abgabe-->
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> umbgelt schryber <persName>Hans Rudolf Hirtzel</persName>.</cell>
                                 </row>
                             </table>
                             <table>
