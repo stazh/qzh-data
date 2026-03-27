@@ -15,7 +15,8 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>Staatsarchiv des Kantons Zürich</publisher>
-                <date type="electronic" when="2024-10-10"/> <!--Publikationsdatum ergänzen -->
+                <date type="electronic" when="2024-10-10"/>
+                <!--Publikationsdatum ergänzen -->
                 <date type="print" when="2024-10-10"/>
             </publicationStmt>
             <seriesStmt xml:id="ssrq-sds-fds">
@@ -142,8 +143,9 @@
         <profileDesc>
             <textClass default="false">
                 <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-                    <term ref="key000266">Krieg</term> <!-- Hier die Schlagwörter ergänzen -->
-                   
+                    <term ref="key000266">Krieg</term>
+                    <!-- Hier die Schlagwörter ergänzen: Bündnis;  -->
+
                 </keywords>
             </textClass>
         </profileDesc>
@@ -152,7 +154,7 @@
         <body>
             <div>
                 <pb/>
-                <lb/>In dem namen des vatters, des sunes und des heiligen geistes, amen. Wir
+               <p><lb/>In dem namen des vatters, des sunes und des heiligen geistes, amen. Wir
                 burgermeister, die schultheissen, amman, raͤtte, burger, lanndtlütte und gemeinden
                 gemeinlich diser hienach gemeͣltten stetten und lenndern, namlich von <placeName
                     ref="LOC_47.36667_8.55">-Zürrich</placeName>, <placeName
@@ -176,135 +178,208 @@
                 guͦtten trüwen für uns und unnser ewigen nachkommen fürbashin ewigklich
                 gegeneinanndern unversert, war und staͤtte zehaltten, miteinanndern <lb/>gütlich
                 vereinbart und die zwüschent unns abgeredt, gelüttert und beslossen, wie hienach
-                volget und eigelich begriffen staut. <seg n="1">Des ersten, das unnder unns, den vorgenanten
-                acht ortten <placeName ref="LOC_47.36667_8.55">-Zürrich</placeName>, <placeName
-                    ref="_LOC_46.94809_7.44744">Bern</placeName>, <placeName
-                    ref="LOC_47.05048_8.30635">Lutzern</placeName>, <placeName
-                    ref="LOC_46.7847_8.64175">Ure</placeName>, <placeName ref="LOC_47.02076_8.65414"
-                    >Swytz</placeName>, <placeName ref="LOC_46.92739_8.41028"
-                    >Unnderwalden</placeName>, <placeName ref="LOC_47.17242_8.51745">Zug</placeName>
-                und <placeName ref="LOC_47.04057_9.06804">Glarüss</placeName>, weder <lb/>durch sich
-                selbs noch durch unnser unnderthanen, burger, lanndtlütte oder durch nieman annders,
-                nieman den anndern mit eignem gewalt fraͤvelich überziechen noch sunst in keinen
-                weg, weder an lib noch an guͦt, an stetten, lannden noch lütten, an sinen unnder<lb
-                    break="no"/>tanen, burgern, lanndtlütten noch an denen, so inen mit ewigen
-                pünden gewanndt sind oder zuͦ versprechen stand, dheinerley schadens noch unlustes,
-                yeman dem anndern das sin zenemen, ze noͤttigen oder die sinen abzetrengen in kein
-                wyse nit fürnemen noch das ze thuͦnd <lb/>unnderstan sol.</seg><seg n="2"> Und ob yeman unnder unns,
-                den vorgenanten acht ortten gemeinlich oder insonnders, darvor gott ewigklichen sye,
-                yeman dem anndern an dem sinen oder an den sinen oder an denen, wie darvor gelüttert
-                ist, soͤlichs wie obstat zufügte, fürneme oder darwider <lb/>taͤtte, damit denn
-                soͤlichs verkommen und unnser aller ewigen geswornen pünde krefftigklich beschirmpt
-                werdent und wir alle miteinanndern dest fu̍rer in brüderlicher trüw, frid, ruͦw und
-                gemach belibent. Welhem ortt oder den sinen, als vorstaͧt, denn ditz unnder unns ye
-                begegnet, <lb/>da soͤllent und woͤllent wir übrigen ortt alle gemeinlich dasselbe
-                ortt und die sinen, wie vorstaͧt, so also genoͤttiget werdent, vor soͤlicher
-                gewaltsamm und überbracht ungehindert aller sach mit guͦtten trüwen schirmen,
-                schützen und hanndthaben, on alle geverde.</seg> <seg n="3"> Und <lb/>ob unnder unns einicherley
-                sunndriger personen, eine oder mer, dheinest soͤlich überbrach, uffruͦr oder
-                gewaltsammi, als obstat, gegen yeman unnder unns oder den unnsern oder denen, wie
-                vor gelüttert ist, one recht fürnement oder begiengent, wer oder von welhem ortte
-                <lb/>unnder unns, die yoch waͤrint, die soͤllent, so dick das beschicht, von stund
-                an nach irem verdienen und gestalt der sach darumb von iren herren und obern one
-                alle hindernüss und widerred gestraufft werden, doch vorbehaltten, ob yeman der
-                unnsern unnder unns in des <lb/> anndern gerichten oder gepietten einicherley
-                fraͤvel begienge oder uffruͦr machte, mag man daselbs die getaͤtter annemen und die
-                ye umb soͤlich fraͤvel und buͦswirdig sachen nach desselben orttes und der
-                gerichtten daselbs, da soͤlichs ye zu zytten beschicht, recht und harkommen<lb
-                    break="no"/>heit strauffen und rechtverttigen, ungefarlich.</seg> <seg n="4"> Wir sind ouch
-                übereinkommen und habent gesetzt, das ouch fürbashin unnder unns und in unnser
-                eitgenosschafft, weder in stetten noch in leͣnndern nieman dbeinerley sunnderbarer
-                gefarlicher gemeinden, samlungen oder antraͤg, <lb/>davon dann yeman schaden,
-                uffruͦr oder unfuͦg erstan moͤchten, weder heimlich noch offennlich fürnemen noch
-                thün sol one willen und erlouben siner herren und obern, namlich <placeName
-                    ref="LOC_47.36667_8.55">-Zürrich</placeName> eins burgermeisters und der
-                raͤtten, von <placeName ref="_LOC_46.94809_7.44744">Bern</placeName> des
-                schultheissen und der raͤtten, von <lb/><placeName ref="LOC_47.05048_8.30635"
-                    >Lutzern</placeName> eins schultheissen, der raͤtten und hunndertten, von
-                    <placeName ref="LOC_46.7847_8.64175">Ure</placeName>, <placeName
-                    ref="LOC_47.02076_8.65414">Swytz</placeName>, <placeName
-                    ref="LOC_46.92739_8.41028">Underwalden</placeName>, <placeName
-                    ref="LOC_47.17242_8.51745">Zug</placeName> und von <placeName
-                    ref="LOC_47.04057_9.06804">Glarüss</placeName> der amman, der raͤtten und ir
-                gemeinden daselbs. Und ob darüber yeman unnder unns dheinerley soͤlicher gefarlicher
-                gemeinden, besammlung oder antraͤg, als vorstaͧtt, <lb/>zethuͦnde fürneme, dartzuͦ
-                hilff oder raͧtt taͤtte, der und dieselben soͤllen als denn nach irem verdienen
-                gestracks und on verhindern von iren herren und obern gestraufft werden.</seg><seg n="5"> Wir haben
-                ouch mit sunderheit zwüschent unns abgeredt und beschlossen, das fürbashin <lb/>in
-                unnser eitgenosschafft und unnder unns by eyd und by eren niemant dem anndern die
-                sinen zuͦ ungehorsammi uffwysen sol wider ir herren und obern ze sinde, noch yeman
-                die sinen abzüchen oder unnderstaͧn widerwaͤrttig ze machen, dadurch die abtrinig
-                oder ungehorsamm <lb/>werden moͤchtten.</seg><seg n="6"> Und ob yeman unnder unns die sinen
-                widerwaͤrttig sin woͤllten oder ungehorsamm wurden, dieselben soͤllent wir ein
-                anndern mit guͦtten trüwen fürderlich helffen iren herren wider gehorsamm machen
-                nach lut und durch krafft unnser geswornen pundtbriefen.</seg><seg n="7"> <lb/>Und als dann in dem
-                brieve, so vortzytten nach dem stritte zuͦ Sempach des jaͧres, do man zallt von
-                Cristi unnsers herren gepurt <date when-custom="1393">tusent drühunndert
-                    drüundnüntzig jaͧr</date>, durch unnser vordern saͤliger gedaͤchtnüss, wie man
-                sich in kriegen und reisen haltten soͤlle, so wir mit <lb/>unnsern offnen pannern
-                zuͦ veld ziechent, ettlich artickel gesetzt und beschlossen worden sind, habent wir
-                zuͦ merer lüttrung unns und unnsern nachkommen zuͦ guͦt in diser ewigen verkomnis
-                abgeredt, beschlossen und denselben artickel also gesetzt, war wir von dishin mit
-                unnsern <lb/>offnen pannern oder vennlinen uff unnser vygent ziechen werdent,
-                gemeinlich oder unnder unns dhein statt oder lannd
-                <!-- hier kommasetzung nicht ganz klar-->, sunnderlich, alle die, so dann mit den
-                pannern oder vennlinen ziechent, die soͤllent ouch by einanndern beliben als
-                biderblüt, wie unnser vordern ye dahar <lb/>gethan hand. Was not inen oder unns joch
-                begegnet, es sy in gevaͤchten oder anndern an angryffen, wie dann derselb und annder
-                sachen und artickel in dem obgemeltten brief nach dem Sempacher stritte gemacht,
-                witter und eigentlicher begriffen sind etc.,</seg><seg n="8"> haben wir fürer gesetzt <lb/>und
-                bschlossen, das vorab derselb brief und ouch der brief, so vorzytten durch unnser
-                vordern saͤlig ouch gemacht ist worden von priestern und annder sachen wegen in dem
-                jar des herren tusent drühunndert und sübentzig jar, mit allen iren puncten,
-                stucken, sachen und <lb/>artickeln, wie und in aller maͧs, das dieselben beid brief
-                innhalttend und begryffent, fürbashin unversert in gantzen guͦtten krefften bliben
-                und vest gehaltten, und das daby zuͦ ewiger gedaͤchtnüsse dieselben beid brief und
-                ouch dise fründtlich ewige verkomnüss nuͦ von hin, <lb/>so dick wir unnser ewigen
-                pünde swerent, allenthalben unnder unns in allen ortten offennlich vor unnsern
-                gemeinden gelesen und geoffnet werden soͤllend. Und damit alt und junng unnser aller
-                geswornen pünde destfürer in gedaͤchtnüs behaltten moͤgend, <lb/>und den wissent
-                nachzekommen, so haben wir angesechen und geordnet, das die fürbas hin zuͦ ewigen
-                zytten und allweg in allen ortten von fünff jaren zuͦ fünffen mit geschwornen eyden
-                ernüwret werden soͤllent.</seg><seg n="9"> Wir habent ouch zwüschent unns lutter <lb/>beschlossen und
-                abgeredt, wo und als dick wir fürbashin gegen yemann zuͦ kriegen oder reisen koment,
-                was dann guͦttes, gelttes oder branndtschaͤtzen in soͤlichen kriegen oder reisen, in
-                stritten oder gevaͤchten, dheinest mit der hilff gottes von unns erobret werdent,
-                das <lb/>solichs nach der summ und antzal der lütten, so yegklichs ortt, statt und
-                lennder unnder unns in soͤlichem zug oder gevaͤcht gehept hatt, den personen nach
-                glichlich geteylet werden.</seg><seg n="10"> Ob aber wir lannd, lütt, stett oder schloss, zins, rennt,
-                zoͤll oder annder herrlicheit <lb/>in soͤlichen Kriegen erobretten oder inement, die
-                soͤllent unuder unns den ortten nach als von altter har glichlich und fründtlich
-                geteylet verden. Und ob wir soͤliche ingenommen lannd, stett, schloss, zins, rennt,
-                zoͤll oder herrlicheit dheinest in taͤdingswyse <lb/>wider zuͦ loͤsen gaͤbent umb
-                einicherley summ gelttes, des sye dann wenig oder vil, dasselb gelt sol ouch unnder
-                unns ortt von stetten und lannden glichlich werden geteilt, fründtlich und on
-                geverde.</seg><seg n="11"> Wir haben ouch gelüttert und hierinne eigentlich beschlossen, das dise
-                fründtlich <lb/> und ewig verkomnüss unns die vilgenanten ortt und stett und ouch
-                alle die, so in unnser eitgenosschafft mit unns reisent, ouch unnser unnderthaͧnen,
-                burger, lanndtlütt und die, so mit unns in ewigen pünden sind und unns zuͦ
-                versprechen stand, berüren sol und darinn begriffen sin, <lb/>usgenommen stett,
-                schloss, lannd und lütt, zins, rennt zoͤll und herrschafften, die soͤllent unns
-                ortten von stetten und lenndern, als vorstat, zuͦgehoͤren und unnder unns geteilet
-                werden.</seg><seg n="12"> Unnd in diser fründtlichen ewigen verkomnüss behaltten wir unns selber vor,
-                das ditz alles, <lb/>wie vor erlüttert ist, unnser aller ewigen pünden
-                unvergriffenlich und unschaͤdlich sin sol, und das daby denselben unnsern pünden zuͦ
-                krefften und beschirmung ditz ewig verkommüss nach allem irem innhalt unversert
-                gehaltten werden sol, getrüwlich und one alle geveͣrde. Und <lb/>des alles zuͦ
-                waͧrem, vestem und yemerwerendem urkund, so haben wir obgenannten acht ortt
-                    <placeName ref="LOC_47.36667_8.55">-Zürrich</placeName>, <placeName
-                    ref="_LOC_46.94809_7.44744">Bern</placeName>, <placeName
-                    ref="LOC_47.05048_8.30635">Lutzern</placeName>, <placeName
-                    ref="LOC_46.7847_8.64175">Ure</placeName>, <placeName ref="LOC_47.02076_8.65414"
-                    >Swytz</placeName>, <placeName ref="LOC_46.92739_8.41028"
-                    >Unnderwalden</placeName>, <placeName ref="LOC_47.17242_8.51745">Zug</placeName>
-                und von <placeName ref="LOC_47.04057_9.06804">Glarüss</placeName> unnser aller von
-                stetten und lenndern insigel für unns und unnser ewig nachkommen offennlich thuͦn
-                <lb/>hencken an diser brief acht, die von wort zuͦ wort glich wysend und yegklichem
-                ortt unnder unns einer geben ist <date when-custom="1481-12-22">uff den nechsten
-                    sampstag nach sant Thomans tag des heiligen zwoͤlftbotten, als man zallt von der
-                    gepurt Cristi unnsers herren tusend vierhunndert <lb/>achtzig und ein jaͧre.
-                </date></seg></div>
+                volget und eigelich begriffen staut. <seg n="1">Des ersten, das unnder unns, den
+                    vorgenanten acht ortten <placeName ref="LOC_47.36667_8.55">-Zürrich</placeName>,
+                        <placeName ref="_LOC_46.94809_7.44744">Bern</placeName>, <placeName
+                        ref="LOC_47.05048_8.30635">Lutzern</placeName>, <placeName
+                        ref="LOC_46.7847_8.64175">Ure</placeName>, <placeName
+                        ref="LOC_47.02076_8.65414">Swytz</placeName>, <placeName
+                        ref="LOC_46.92739_8.41028">Unnderwalden</placeName>, <placeName
+                        ref="LOC_47.17242_8.51745">Zug</placeName> und <placeName
+                        ref="LOC_47.04057_9.06804">Glarüss</placeName>, weder <lb/>durch sich selbs
+                    noch durch unnser unnderthanen, burger, lanndtlütte oder durch nieman annders,
+                    nieman den anndern mit eignem gewalt fraͤvelich überziechen noch sunst in keinen
+                    weg, weder an lib noch an guͦt, an stetten, lannden noch lütten, an sinen
+                        unnder<lb break="no"/>tanen, burgern, lanndtlütten noch an denen, so inen
+                    mit ewigen pünden gewanndt sind oder zuͦ versprechen stand, dheinerley schadens
+                    noch unlustes, yeman dem anndern das sin zenemen, ze noͤttigen oder die sinen
+                    abzetrengen in kein wyse nit fürnemen noch das ze thuͦnd <lb/>unnderstan
+                    sol.</seg><seg n="2"> Und ob yeman unnder unns, den vorgenanten acht ortten
+                    gemeinlich oder insonnders, darvor gott ewigklichen sye, yeman dem anndern an
+                    dem sinen oder an den sinen oder an denen, wie darvor gelüttert ist, soͤlichs
+                    wie obstat zufügte, fürneme oder darwider <lb/>taͤtte, damit denn soͤlichs
+                    verkommen und unnser aller ewigen geswornen pünde krefftigklich beschirmpt
+                    werdent und wir alle miteinanndern dest fu̍rer in brüderlicher trüw, frid, ruͦw
+                    und gemach belibent. Welhem ortt oder den sinen, als vorstaͧt, denn ditz unnder
+                    unns ye begegnet, <lb/>da soͤllent und woͤllent wir übrigen ortt alle gemeinlich
+                    dasselbe ortt und die sinen, wie vorstaͧt, so also genoͤttiget werdent, vor
+                    soͤlicher gewaltsamm und überbracht ungehindert aller sach mit guͦtten trüwen
+                    schirmen, schützen und hanndthaben, on alle geverde.</seg>
+                <seg n="3"> Und <lb/>ob unnder unns einicherley sunndriger personen, eine oder mer,
+                    dheinest soͤlich überbrach, uffruͦr oder gewaltsammi, als obstat, gegen yeman
+                    unnder unns oder den unnsern oder denen, wie vor gelüttert ist, one recht
+                    fürnement oder begiengent, wer oder von welhem ortte <lb/>unnder unns, die yoch
+                    waͤrint, die soͤllent, so dick das beschicht, von stund an nach irem verdienen
+                    und gestalt der sach darumb von iren herren und obern one alle hindernüss und
+                    widerred gestraufft werden, doch vorbehaltten, ob yeman der unnsern unnder unns
+                    in des <lb/> anndern gerichten oder gepietten einicherley fraͤvel begienge oder
+                    uffruͦr machte, mag man daselbs die getaͤtter annemen und die ye umb soͤlich
+                    fraͤvel und buͦswirdig sachen nach desselben orttes und der gerichtten daselbs,
+                    da soͤlichs ye zu zytten beschicht, recht und harkommen<lb break="no"/>heit
+                    strauffen und rechtverttigen, ungefarlich.</seg>
+                <seg n="4"> Wir sind ouch übereinkommen und habent gesetzt, das ouch fürbashin
+                    unnder unns und in unnser eitgenosschafft, weder in stetten noch in leͣnndern
+                    nieman dbeinerley sunnderbarer gefarlicher gemeinden, samlungen oder antraͤg,
+                    <lb/>davon dann yeman schaden, uffruͦr oder unfuͦg erstan moͤchten, weder
+                    heimlich noch offennlich fürnemen noch thün sol one willen und erlouben siner
+                    herren und obern, namlich <placeName ref="LOC_47.36667_8.55"
+                        >-Zürrich</placeName> eins burgermeisters und der raͤtten, von <placeName
+                        ref="_LOC_46.94809_7.44744">Bern</placeName> des schultheissen und der
+                    raͤtten, von <lb/><placeName ref="LOC_47.05048_8.30635">Lutzern</placeName> eins
+                    schultheissen, der raͤtten und hunndertten, von <placeName
+                        ref="LOC_46.7847_8.64175">Ure</placeName>, <placeName
+                        ref="LOC_47.02076_8.65414">Swytz</placeName>, <placeName
+                        ref="LOC_46.92739_8.41028">Underwalden</placeName>, <placeName
+                        ref="LOC_47.17242_8.51745">Zug</placeName> und von <placeName
+                        ref="LOC_47.04057_9.06804">Glarüss</placeName> der amman, der raͤtten und ir
+                    gemeinden daselbs. Und ob darüber yeman unnder unns dheinerley soͤlicher
+                    gefarlicher gemeinden, besammlung oder antraͤg, als vorstaͧtt, <lb/>zethuͦnde
+                    fürneme, dartzuͦ hilff oder raͧtt taͤtte, der und dieselben soͤllen als denn
+                    nach irem verdienen gestracks und on verhindern von iren herren und obern
+                    gestraufft werden.</seg><seg n="5"> Wir haben ouch mit sunderheit zwüschent unns
+                    abgeredt und beschlossen, das fürbashin <lb/>in unnser eitgenosschafft und
+                    unnder unns by eyd und by eren niemant dem anndern die sinen zuͦ ungehorsammi
+                    uffwysen sol wider ir herren und obern ze sinde, noch yeman die sinen abzüchen
+                    oder unnderstaͧn widerwaͤrttig ze machen, dadurch die abtrinig oder ungehorsamm
+                    <lb/>werden moͤchtten.</seg><seg n="6"> Und ob yeman unnder unns die sinen
+                    widerwaͤrttig sin woͤllten oder ungehorsamm wurden, dieselben soͤllent wir ein
+                    anndern mit guͦtten trüwen fürderlich helffen iren herren wider gehorsamm machen
+                    nach lut und durch krafft unnser geswornen pundtbriefen.</seg><seg n="7">
+                    <lb/>Und als dann in dem brieve, so vortzytten nach dem stritte zuͦ Sempach des
+                    jaͧres, do man zallt von Cristi unnsers herren gepurt <date when-custom="1393"
+                        >tusent drühunndert drüundnüntzig jaͧr</date>, durch unnser vordern saͤliger
+                    gedaͤchtnüss, wie man sich in kriegen und reisen haltten soͤlle, so wir mit
+                    <lb/>unnsern offnen pannern zuͦ veld ziechent, ettlich artickel gesetzt und
+                    beschlossen worden sind, habent wir zuͦ merer lüttrung unns und unnsern
+                    nachkommen zuͦ guͦt in diser ewigen verkomnis abgeredt, beschlossen und
+                    denselben artickel also gesetzt, war wir von dishin mit unnsern <lb/>offnen
+                    pannern oder vennlinen uff unnser vygent ziechen werdent, gemeinlich oder unnder
+                    unns dhein statt oder lannd <!-- hier kommasetzung nicht ganz klar-->,
+                    sunnderlich, alle die, so dann mit den pannern oder vennlinen ziechent, die
+                    soͤllent ouch by einanndern beliben als biderblüt, wie unnser vordern ye dahar
+                    <lb/>gethan hand. Was not inen oder unns joch begegnet, es sy in gevaͤchten oder
+                    anndern an angryffen, wie dann derselb und annder sachen und artickel in dem
+                    obgemeltten brief nach dem Sempacher stritte gemacht, witter und eigentlicher
+                    begriffen sind etc.,</seg><seg n="8"> haben wir fürer gesetzt <lb/>und
+                    bschlossen, das vorab derselb brief und ouch der brief, so vorzytten durch
+                    unnser vordern saͤlig ouch gemacht ist worden von priestern und annder sachen
+                    wegen in dem jar des herren tusent drühunndert und sübentzig jar, mit allen iren
+                    puncten, stucken, sachen und <lb/>artickeln, wie und in aller maͧs, das
+                    dieselben beid brief innhalttend und begryffent, fürbashin unversert in gantzen
+                    guͦtten krefften bliben und vest gehaltten, und das daby zuͦ ewiger
+                    gedaͤchtnüsse dieselben beid brief und ouch dise fründtlich ewige verkomnüss nuͦ
+                    von hin, <lb/>so dick wir unnser ewigen pünde swerent, allenthalben unnder unns
+                    in allen ortten offennlich vor unnsern gemeinden gelesen und geoffnet werden
+                    soͤllend. Und damit alt und junng unnser aller geswornen pünde destfürer in
+                    gedaͤchtnüs behaltten moͤgend, <lb/>und den wissent nachzekommen, so haben wir
+                    angesechen und geordnet, das die fürbas hin zuͦ ewigen zytten und allweg in
+                    allen ortten von fünff jaren zuͦ fünffen mit geschwornen eyden ernüwret werden
+                    soͤllent.</seg><seg n="9"> Wir habent ouch zwüschent unns lutter
+                    <lb/>beschlossen und abgeredt, wo und als dick wir fürbashin gegen yemann zuͦ
+                    kriegen oder reisen koment, was dann guͦttes, gelttes oder branndtschaͤtzen in
+                    soͤlichen kriegen oder reisen, in stritten oder gevaͤchten, dheinest mit der
+                    hilff gottes von unns erobret werdent, das <lb/>solichs nach der summ und antzal
+                    der lütten, so yegklichs ortt, statt und lennder unnder unns in soͤlichem zug
+                    oder gevaͤcht gehept hatt, den personen nach glichlich geteylet
+                    werden.</seg><seg n="10"> Ob aber wir lannd, lütt, stett oder schloss, zins,
+                    rennt, zoͤll oder annder herrlicheit <lb/>in soͤlichen Kriegen erobretten oder
+                    inement, die soͤllent unuder unns den ortten nach als von altter har glichlich
+                    und fründtlich geteylet verden. Und ob wir soͤliche ingenommen lannd, stett,
+                    schloss, zins, rennt, zoͤll oder herrlicheit dheinest in taͤdingswyse <lb/>wider
+                    zuͦ loͤsen gaͤbent umb einicherley summ gelttes, des sye dann wenig oder vil,
+                    dasselb gelt sol ouch unnder unns ortt von stetten und lannden glichlich werden
+                    geteilt, fründtlich und on geverde.</seg><seg n="11"> Wir haben ouch gelüttert
+                    und hierinne eigentlich beschlossen, das dise fründtlich <lb/> und ewig
+                    verkomnüss unns die vilgenanten ortt und stett und ouch alle die, so in unnser
+                    eitgenosschafft mit unns reisent, ouch unnser unnderthaͧnen, burger, lanndtlütt
+                    und die, so mit unns in ewigen pünden sind und unns zuͦ versprechen stand,
+                    berüren sol und darinn begriffen sin, <lb/>usgenommen stett, schloss, lannd und
+                    lütt, zins, rennt zoͤll und herrschafften, die soͤllent unns ortten von stetten
+                    und lenndern, als vorstat, zuͦgehoͤren und unnder unns geteilet
+                    werden.</seg><seg n="12"> Unnd in diser fründtlichen ewigen verkomnüss behaltten
+                    wir unns selber vor, das ditz alles, <lb/>wie vor erlüttert ist, unnser aller
+                    ewigen pünden unvergriffenlich und unschaͤdlich sin sol, und das daby denselben
+                    unnsern pünden zuͦ krefften und beschirmung ditz ewig verkommüss nach allem irem
+                    innhalt unversert gehaltten werden sol, getrüwlich und one alle geveͣrde. Und
+                    <lb/>des alles zuͦ waͧrem, vestem und yemerwerendem urkund, so haben wir
+                    obgenannten acht ortt <placeName ref="LOC_47.36667_8.55">-Zürrich</placeName>,
+                        <placeName ref="_LOC_46.94809_7.44744">Bern</placeName>, <placeName
+                        ref="LOC_47.05048_8.30635">Lutzern</placeName>, <placeName
+                        ref="LOC_46.7847_8.64175">Ure</placeName>, <placeName
+                        ref="LOC_47.02076_8.65414">Swytz</placeName>, <placeName
+                        ref="LOC_46.92739_8.41028">Unnderwalden</placeName>, <placeName
+                        ref="LOC_47.17242_8.51745">Zug</placeName> und von <placeName
+                        ref="LOC_47.04057_9.06804">Glarüss</placeName> unnser aller von stetten und
+                    lenndern insigel für unns und unnser ewig nachkommen offennlich thuͦn
+                    <lb/>hencken an diser brief acht, die von wort zuͦ wort glich wysend und
+                    yegklichem ortt unnder unns einer geben ist <date when-custom="1481-12-22">uff
+                        den nechsten sampstag nach sant Thomans tag des heiligen zwoͤlftbotten, als
+                        man zallt von der gepurt Cristi unnsers herren tusend vierhunndert
+                        <lb/>achtzig und ein jaͧre.</date></seg></p></div>
         </body>
-       
+        <back>
+            <div> 
+                <p>Das Stanser Verkommnis ist eine
+                Vereinbarung über die Friedenssicherung zwischen den acht eidgenössischen Orten
+                Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug und Glarus. Zusammen mit dem
+                gleichzeitigen Bündnisvertrag mit Freiburg und Solothurn (vgl. StAZH C I 380 )
+                beendete die Vereinbarung die innere Krise der 1470er Jahre. Gegensätzliche
+                Interessen der Städte- und Länderorte in der Eidgenossenschaft hatten schon seit
+                längerem zu Konflikten geführt, diese hatten sich aber im Zusammenhang mit den
+                Burgunderkriegen 1474-1477 verschärft und 1477 zum sogenannten Burgrecht-Streit
+                geführt, bei dem die Länderorte ein Rechtsverfahren gegen das Burgrecht der Städte
+                eröffneten. Nach lange erfolglosen Verhandlungen einigten sich die Orte an der
+                Stanser Tagsatzung vom 18. bis 22. Dezember 1481 schliesslich. Dass Niklaus von Flüe
+                an den Verhandlungen beteiligt war, ist zwar belegt, doch wurde die Rolle von
+                «Bruder Klaus» wohl bereits in der zeitgenössischen Chronistik legendarisch überhöht
+                (Stettler 2004, S. 298-300).</p> 
+               <p> Inhaltlich bestätigt das Stanser Verkommnis die
+                Bestimmungen des Pfaffenbriefs (1370) und des Sempacherbriefs (1393), verurteilt
+                «mutwillige Gewalt» und verbietet Versammlungen, die nicht ordnungsgemäss einberufen
+                wurden. Weiter verpflichtet es die Orte zur gegenseitigen Hilfeleistung bei
+                Ungehorsam von Untertanen. Es folgen Bestimmungen über die Teilung der Kriegsbeute,
+                so sollen die beteiligten Orte gleichen Anteil an eroberten Gebieten und
+                Herrschaftsrechten haben und Kriegsbeute soll proportional zur Grösse der
+                beteiligten Truppen verteilt werden (Walder 1994, S. 166).</p> 
+                <p>In der Historiographie
+                werden die Verträge von Stans seit 1481 sehr unterschiedlich bewertet. Gemäss
+                Bernhard Stettler ist das Stanser Verkommnis am besten als Ausdruck eines
+                politischen Pragmatismus zu verstehen. Die Gesandten der eidgenössischen Orte hatten
+                eingesehen, dass ein «auch nur halbwegs erträgliches Zusammenleben für die Städte-
+                wie auch Länderorte existenznotwendig war». Die Länderorte hatten durchgesetzt, dass
+                der Städtebund aufgelöst wurde, während Freiburg und Solothurn Sinne der Städte in
+                die Eidgenossenschaft aufgenommen wurden, wenn auch als Zuzüger minderen Rechts
+                (Stettler 2004, S. 306-307).</p> <p>Das vorliegende Exemplar ist eines von acht
+                überlieferten Ausfertigungen des Stanser Verkommnisses, wovon je eines in den
+                Staatsarchiven der Kantone Zürich, Bern, Schwyz, Obwalden, Nidwalden (unbesiegelte
+                Originalausfertigung) und Zug sowie im Bürgerarchiv des Kantons Zug und im
+                Landesarchiv des Kantons Glarus aufbewahrt wird. Die Exemplare für Luzern und Uri
+                sind verloren. Nach der endgültigen Einigung an der Tagsatzung von Stans wurde nicht
+                Stans selbst, sondern die Kanzlei in Luzern mit der Herstellung der Urkunden
+                beauftragt. Für die aufwändige Arbeit – neben dem Stanser Verkommnis wurden in
+                derselben Zeit auch mehrere Ausfertigungen der Verträge mit Freiburg und Solothurn
+                hergestellt – wurden sowohl eigene Schreiber als auch solche aus benachbarten Orten
+                engagiert. Trotz der unterschiedlichen Schreiber sind alle überlieferten Exemplare
+                bis auf kleinere orthografische Abweichungen und die Ausgestaltung der Initialen
+                bemerkenswert ähnlich. Es diente wohl ein offizieller Entwurf als Vorlage für alle
+                Ausfertigungen (Leisibach/King 1981, S. 11-12).</p> <p>Josef Leisibach identifiziert als
+                Schreiber einerseits den Landschreiber von Obwalden für die Exemplare in Bern und
+                Obwalden und andererseits den Landschreiber von Schwyz für die Exemplare in Schwyz
+                und Glarus. Ein wahrscheinlich in Luzern tätiger, von Leisibach als «Zürcher
+                Schreiber» betitelter Schreiber fertigte das Zürcher Exemplar. Als prominente
+                Schreiber stechen die beiden berühmten Chronisten Melchior Russ der Jüngere
+                (unbesiegeltes Nidwaldner Exemplar) und Diebold Schilling (Zuger Exemplar) hervor.
+                Beide waren seit 1479 als Schreiber beziehungsweise Schreibergehilfen in der
+                Luzerner Kanzlei tätig. Schilling selbst berichtet in seiner Chronik von seiner
+                Beteiligung an der Tagsatzung von Stans 1481 (Leisibach/King 1981, S. 12-14).</p> <p>Die
+                Luzerner Kanzlei übernahm auch die Verantwortung für die Organisation der
+                aufwändigen und kostspieligen Besieglung der Urkunden, für die die acht Exemplare in
+                die jeweiligen Orte getragen werden mussten. Im Abschied von Stans finden sich
+                Anweisungen darüber, dass jeweils der kürzeste Weg zu den Orten eigeschlagen werden
+                sollte. Die hohen Kosten der Schreibarbeit und Botengänge trugen die eidgenössischen
+                Orte jeweils selbst (Leisibach/King 1981, S. 14-15).</p> <p>Zu den politischen
+                Hintergründen des Stanser Verkommnisses vgl. Stettler 2004; Walder 1994; HLS; zur
+                Ausfertigung und Überlieferung vgl. Leisibach/King 1981.</p> </div>
+        </back>
     </text>
 </TEI>
