@@ -29,9 +29,8 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=££££££">STAZH A
-                     27.98 (Trucke 52, Bündel 11, Nr. 12.6) (26. Juni 1661,)</idno>
-                  <!-- VE in AIS erstellen, damit hier Link eingefügt werden kann -->
+                  <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5351943">STAZH A
+                     27.98 (Trucke 52, Bündel 11, Nr. 12.6)</idno>
                </msIdentifier>
                <head>Bericht des Scharfrichters Jakob Volmar über die wegen Hexereiverdachts verhaftete Barbara Melliker</head>
                <msContents>
@@ -72,9 +71,9 @@
       <profileDesc>
          <textClass default="false">
             <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-               <term ref="key000945">Hexerei</term>
-               <term ref="key000334">Gefängnis</term>
                <term ref="key003369">Folter</term>
+               <term ref="key000334">Gefängnis</term>
+               <term ref="key000945">Hexerei</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -83,8 +82,7 @@
    <text>
       <body>
          <div>
-            <pb facs="A_27_97__Trucke_52__Buendel_11__Nr__12_6__S__1_.tif"/>
-            <!-- Digitalisat bestellt -->
+            <pb facs="A_27_98__Trucke_52__Bündel_11__Nr__12_6___S__1_.tif"/>
             <p>
                <lb/>Actum den <date when="1661-06-24">24ten Juny <lb/>1661</date>
                <lb/>Beide <choice>
@@ -122,7 +120,7 @@
       <back>
          <p>Der Fall von Barbara Melliker illustriert die späte Phase der Hexereiverfolgung im Zürcher Herrschaftsgebiet.
             Bemerkenswert ist, dass sie trotz Geständnis des Beischlafs mit dem
-            Teufel nicht zum Tode verurteilt wurde. Wie aus dem weiteren Akten hervorgeht, wurde das gefundene <q>Hexenmal</q> in den weiteren
+            Teufel nicht zum Tode verurteilt wurde. Wie aus dem Akten hervorgeht, wurde das gefundene <q>Hexenmal</q> in den weiteren
             Verhören nicht mehr erwähnt oder belastend thematisiert (vgl. Kommentar zu <ref
                target="https://qzh.sources-online.org/quellenstuecke/QZH_103">QZH 103</ref>).</p>
 

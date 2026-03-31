@@ -29,20 +29,17 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=££££££">STAZH A
-                     27.98 (Trucke 52, Bündel 11, Nr. 12.10) (ca. August 1661)</idno>
-                  <!-- VE in AIS erstellen, damit hier Link eingefügt werden kann -->
+                  <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5351943">STAZH A
+                     27.98 (Trucke 52, Bündel 11, Nr. 12.10)</idno>
                </msIdentifier>
                <head>Bericht des Spitalabwarts über die wegen Hexereiverdachts verhaftete Barbara
                   Melliker</head>
                <msContents>
-                  <summary>Der Spitalabwart Vollenweider berichtet 1661 über nächtliche
-                     Beobachtungen zur inhaftierten Barbara Melliker, die wegen Hexereiverdachts in
-                     Zürich verhört und gefoltert wurde. Er habe abends Lärm in ihrer Zelle gehört
+                  <summary>Spitalabwart Vollenweider berichtet von seinen nächtlichen
+                     Beobachtungen bei der wegen Hexereiiverdachts inhaftierten Barbara Melliker. Er habe abends Lärm in ihrer Zelle gehört
                      und eine fremde Stimme vernommen. Beim Blick in die Zelle habe Vollenweider
-                     eine Gestalt mit blonden Bärtchen am Bett wahrgenommen, die sich zu verstecken
-                     versuchte. Barbara Melliker habe diesen immer wieder abgwiesen.</summary>
-                  <!-- Vorname des Spitalabwarts Vollenweider herausfinden -->
+                     eine Gestalt mit blondem Bart am Bett wahrgenommen, die sich zu verstecken
+                     versuchte.</summary>
                   <msItem>
                      <textLang>Deutsch</textLang>
                      <filiation type="current">Bericht</filiation>
@@ -73,9 +70,9 @@
       <profileDesc>
          <textClass default="false">
             <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-               <term ref="key000945">Hexerei</term>
-               <term ref="key000334">Gefängnis</term>
                <term ref="key003369">Folter</term>
+               <term ref="key000334">Gefängnis</term>
+               <term ref="key000945">Hexerei</term>
                <term ref="key003559">Spital</term>
             </keywords>
          </textClass>
@@ -85,8 +82,7 @@
    <text>
       <body>
          <div>
-            <pb facs="A_27_97__Trucke_52__Buendel_11__Nr__12_10_.tif"/>
-            <!-- Digitalisat bestellen-->
+            <pb facs="A_27_98__Trucke_52__Bündel_11__Nr__12_10_.tif"/>
             <head>
                <lb/>Bricht wegen des, was <persName>N. Vollenweider</persName>, <lb/>der
                   <persName>Melickerin</persName> abwart, gesehen und <lb/>gehört. </head>
@@ -143,7 +139,8 @@
             und sie im Wellenbergturm in der Limmat einzusperren. Dort untersuchte der Scharfrichter sie auf Hexenmale (vgl. <ref
                target="https://qzh.sources-online.org/quellenstuecke/QZH_102">QZH 102</ref>). Dieser fand zwar tatsächlich ein
             verdächtiges Zeichen an ihrem Körper, doch wurde dieses in den weiteren Verhörprotokollen nicht mehr erwähnt oder
-            belastend thematisiert (vgl. StAZH A 27.98, 52.11.12<!-- Link -->). Als Barbara Melliker schliesslich in das Spital
+            belastend thematisiert (vgl. <ref
+               target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5351943">StAZH A 27.98, 52.11.12</ref>). Als Barbara Melliker schliesslich in das Spital
             verlegt wurde, berichtete der dortige Spitalwächter von einer ungewöhnlichen Begegnung: Er
             habe den <q>bösen Geist</q> in Gestalt eines kleinen Männchens mit blondem Bart bei Barbara Melliker
             in der <q>Lochkammer</q> gesehen und habe gehört, wie er mit ihr gesprochen habe.
@@ -167,13 +164,13 @@
             Da zu diesem Fall kein Urteil auffindbar ist, bleibt unklar, ob Barbara Melliker
             weiterhin im Spital verwahrt oder welche Strafe verhängt wurde. Aus dem Kirchenbuch von
             Männedorf (<ref
-               target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=316271">E III
+               target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=316271">StAZH E III
             71.1</ref>, S. 331) geht hervor, dass Barbara Melliker am 23. März 1663, also 
             zwei Jahre später im Alter von fast 72 Jahren verstorben ist und somit nicht zum Tod verurteilt wurde.</p>
          <p>Der Fall von Barbara Melliker ist insofern besonders, als sie trotz ihres
-            Geständnisses, mit dem Teufel geschlafen zu haben, nicht zum Tode verurteilt wurde.
-            Deshalb kann ihre Geschichte als exemplarischer Fall eine Übergangsphase des
-            Hexenglaubens veranschaulichen.</p>
+            Geständnisses, mit dem Teufel verkehrt zu haben, nicht zum Tod verurteilt wurde.
+            Deshalb illustriert ihre Geschichte exemplarisch eine Übergangsphase des
+            Hexenglaubens.</p>
       </back>
    </text>
 </TEI>
