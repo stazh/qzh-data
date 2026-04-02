@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
-                    <persName>Rainer Hugener</persName>
+                    <persName>Helena Dobiess</persName> <persName>Rainer Hugener</persName><!--Nabholz / Kläui ? -->
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
@@ -15,9 +15,9 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>Staatsarchiv des Kantons Zürich</publisher>
-                <date type="electronic" when="2024-10-10"/>
+                <date type="electronic" when="2026-04-xx"/>
                 <!--Publikationsdatum ergänzen -->
-                <date type="print" when="2024-10-10"/>
+                <date type="print" when="2026-04-xx"/>
             </publicationStmt>
             <seriesStmt xml:id="ssrq-sds-fds">
                 <title>Quellen zur Zürcher Geschichte</title>
@@ -40,29 +40,29 @@
                             Schwyz, Unterwalden ob und nid dem Kernwald, Zug mit dem Äusseren Amte
                             und Glarus einigen sich zur Stärkung ihres ewigen Bundes über folgende
                             Bestimmungen: Keiner der acht Orte soll irgendwelche Feindseligkeiten
-                            gegen einen der anderen vornehmen. (1) Täte es einer, so sollen die
-                            übrigen gemeinsam den angegriffenen dagegen schützen. (2) Sollten
-                            "sündrige" Personen aus einem der Orte gegen einen derselben oder
+                            gegen einen der anderen vornehmen (1).  Täte es einer, so sollen die
+                            übrigen gemeinsam den angegriffenen dagegen schützen (2). Sollten
+                            <q>sündrige</q> Personen aus einem der Orte gegen einen derselben oder
                             Angehörige desselben Feindseligkeiten oder Aufruhr unternehmen, so
                             sollen dieselben von ihrer Obrigkeit bestraft werden, übrigens der
                             Obrigkeit des angegriffenen oder geschädigten Ortes vorbehalten sein,
-                            dieselben nach ihrem Recht zu bestrafen. (3) Es wird verboten,
+                            dieselben nach ihrem Recht zu bestrafen (3). Es wird verboten,
                             Versammlungen oder Anträge, aus denen Schaden, Aufruhr, Unfug oder
                             dergleichen entstehen könnte, heimlich oder öffentlich ohne Erlaubnis
                             der Obrigkeit zu unternehmen, und die Orte verpflichten sich, wenn
                             Angehörige eines Ortes ungehorsam würden, der Obrigkeit zu helfen, sie
-                            zum Gehorsam zu bringen. (4) Die Bestimmungen des nach dem
-                            Sempacherkrieg vereinbarten Briefs vom Jahre 1393 [Sempacherbrief; C I,
-                            Nr. 377] sowie der im Jahr 1370 abgeschlossenen Vereinbarung
-                            [Pfaffenbrief; C I, Nr. 376] betreffend Priester und dergleichen werden
-                            bestätigt und zur Erläuterung beigefügt: Was in einem Krieg an Gut, Geld
+                            zum Gehorsam zu bringen (4-5). Die Bestimmungen des nach dem
+                            Sempacherkrieg vereinbarten Briefs vom Jahre 1393 (Sempacherbrief; <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=356494">C I,
+                            Nr. 377</ref>) sowie der im Jahr 1370 abgeschlossenen Vereinbarung
+                            (Pfaffenbrief; <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=346334">C I, Nr. 376</ref>) betreffend Priester und dergleichen werden
+                            bestätigt (6-8) und zur Erläuterung beigefügt: Was in einem Krieg an Gut, Geld
                             oder Brandschätzen erobert wird, soll nach der Zahl der Leute, die jedes
                             Ort, Stadt oder Land dabei gehabt, der Personen nach gleich verteilt
                             werden, und zwar sollen dabei auch die mitgezogenen Untertanen und
                             Verbündeten berücksichtigt werden. Eroberte Länder, Städte, Schlösser,
                             Zinse, Renten, Zölle und andere Herrlichkeiten sind dagegen nur unter
-                            den acht Orten gleich zu teilen. (11) Es werden acht gleichlautende
-                            Urkunden ausgestellt. Die 8 Orte siegeln.</summary>
+                            den acht Orten gleich zu teilen (9-11).  Es werden acht gleichlautende
+                            Urkunden ausgestellt. Die 8 Orte siegeln (12).</summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Orginal</filiation>
@@ -256,7 +256,7 @@
                     nachkommen zuͦ guͦt in diser ewigen verkomnis abgeredt, beschlossen und
                     denselben artickel also gesetzt, war wir von dishin mit unnsern <lb/>offnen
                     pannern oder vennlinen uff unnser vygent ziechen werdent, gemeinlich oder unnder
-                    unns dhein statt oder lannd <!-- hier kommasetzung nicht ganz klar-->,
+                    unns dhein statt oder lannd,
                     sunnderlich, alle die, so dann mit den pannern oder vennlinen ziechent, die
                     soͤllent ouch by einanndern beliben als biderblüt, wie unnser vordern ye dahar
                     <lb/>gethan hand. Was not inen oder unns joch begegnet, es sy in gevaͤchten oder
@@ -333,13 +333,14 @@
                     sogenannten Burgrecht-Streit geführt, bei dem die Länderorte ein Rechtsverfahren
                     gegen das Burgrecht der Städte eröffneten. Nach lange erfolglosen Verhandlungen
                     einigten sich die Orte an der Stanser Tagsatzung vom 18. bis 22. Dezember 1481
-                    schliesslich. Dass Niklaus von Flüe an den Verhandlungen beteiligt war, ist zwar
+                    schliesslich. Dass <persName ref="GND_118588087">Niklaus von Flüe</persName> an den Verhandlungen beteiligt war, ist zwar
                     belegt, doch wurde die Rolle von <q>Bruder Klaus</q> wohl bereits in der
                     zeitgenössischen Chronistik legendarisch überhöht (<bibl><ref
                             target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                            >Stettler 2004, S. 298-300</ref></bibl>).</p> 
+                        >Stettler 2004</ref>, S. 298-300</bibl>).</p> 
                <p> Inhaltlich bestätigt das Stanser Verkommnis die Bestimmungen des Pfaffenbriefs
-                    (1370) und des Sempacherbriefs (1393), verurteilt <q> mutwillige Gewalt</q> und
+                   (<ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=346334">C I, Nr. 376</ref>; 1370) und des Sempacherbriefs (<ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=356494">C I,
+                       Nr. 377</ref>; 1393), verurteilt <q> mutwillige Gewalt</q> und
                     verbietet Versammlungen, die nicht ordnungsgemäss einberufen wurden. Weiter
                     verpflichtet es die Orte zur gegenseitigen Hilfeleistung bei Ungehorsam von
                     Untertanen. Es folgen Bestimmungen über die Teilung der Kriegsbeute, so sollen
@@ -347,18 +348,18 @@
                     Herrschaftsrechten haben und Kriegsbeute soll proportional zur Grösse der
                     beteiligten Truppen verteilt werden (<bibl><ref
                             target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                            >Walder 1994, S. 166</ref></bibl>).</p> 
+                        >Walder 1994</ref>, S. 166</bibl>).</p> 
                 <p>In der Historiographie werden die Verträge von Stans seit 1481 sehr
                     unterschiedlich bewertet. Gemäss Bernhard Stettler ist das Stanser Verkommnis am
                     besten als Ausdruck eines politischen Pragmatismus zu verstehen. Die Gesandten
                     der eidgenössischen Orte hatten eingesehen, dass ein <q>auch nur halbwegs
                         erträgliches Zusammenleben für die Städte- wie auch Länderorte
                         existenznotwendig war</q>. Die Länderorte hatten durchgesetzt, dass der
-                    Städtebund aufgelöst wurde, während Freiburg und Solothurn Sinne der Städte in
+                    Städtebund aufgelöst wurde, während Freiburg und Solothurn im Sinne der Städte in
                     die Eidgenossenschaft aufgenommen wurden, wenn auch als Zuzüger minderen Rechts
                             (<bibl><ref
                             target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                            >Stettler 2004, S. 306-307</ref></bibl>).</p> <p>Das vorliegende Exemplar ist eines von acht
+                                >Stettler 2004</ref>, S. 306-307</bibl>).</p> <p>Das vorliegende Exemplar ist eines von acht
                 überlieferten Ausfertigungen des Stanser Verkommnisses, wovon je eines in den
                 Staatsarchiven der Kantone Zürich, Bern, Schwyz, Obwalden, Nidwalden (unbesiegelte
                 Originalausfertigung) und Zug sowie im Bürgerarchiv des Kantons Zug und im
@@ -371,24 +372,25 @@
                 engagiert. Trotz der unterschiedlichen Schreiber sind alle überlieferten Exemplare
                 bis auf kleinere orthografische Abweichungen und die Ausgestaltung der Initialen
                 bemerkenswert ähnlich. Es diente wohl ein offizieller Entwurf als Vorlage für alle
-                Ausfertigungen (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Leisibach/King 1981, S. 11-12</ref></bibl>).</p> <p>Josef Leisibach identifiziert als Schreiber einerseits den Landschreiber von Obwalden für die
+                Ausfertigungen (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Leisibach/King 1981</ref>, S. 11-12</bibl>).</p> <p>Josef Leisibach identifiziert als Schreiber einerseits den Landschreiber von Obwalden für die
                     Exemplare in Bern und Obwalden und andererseits den Landschreiber von Schwyz für
                     die Exemplare in Schwyz und Glarus. Ein wahrscheinlich in Luzern tätiger, von
                     Leisibach als <q>Zürcher Schreiber</q> betitelter Schreiber fertigte das Zürcher
                     Exemplar. Als prominente Schreiber stechen die beiden berühmten Chronisten
-                    Melchior Russ der Jüngere (unbesiegeltes Nidwaldner Exemplar) und Diebold
-                    Schilling (Zuger Exemplar) hervor. Beide waren seit 1479 als Schreiber
+                    <persName ref="GND_100960154">Melchior Russ der Jüngere</persName> (unbesiegeltes Nidwaldner Exemplar) und <persName ref="GND_	
+                        118755005">Diebold
+                    Schilling</persName> (Zuger Exemplar) hervor. Beide waren seit 1479 als Schreiber
                     beziehungsweise Schreibergehilfen in der Luzerner Kanzlei tätig. Schilling
                     selbst berichtet in seiner Chronik von seiner Beteiligung an der Tagsatzung von
                     Stans 1481 (<bibl><ref
                             target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                            >Leisibach/King 1981, S. 12-14</ref></bibl>).</p> <p>Die
+                        >Leisibach/King 1981</ref>, S. 12-14</bibl>).</p> <p>Die
                 Luzerner Kanzlei übernahm auch die Verantwortung für die Organisation der
                 aufwändigen und kostspieligen Besieglung der Urkunden, für die die acht Exemplare in
                 die jeweiligen Orte getragen werden mussten. Im Abschied von Stans finden sich
                 Anweisungen darüber, dass jeweils der kürzeste Weg zu den Orten eigeschlagen werden
                 sollte. Die hohen Kosten der Schreibarbeit und Botengänge trugen die eidgenössischen
-                Orte jeweils selbst (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Leisibach/King 1981, S. 14-15</ref></bibl>).</p> <p>Zu den politischen
+                Orte jeweils selbst (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Leisibach/King 1981</ref>, S. 14-15</bibl>).</p> <p>Zu den politischen
                     Hintergründen des Stanser Verkommnisses vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Stettler 2004</ref></bibl>; <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Walder 1994</ref></bibl>; <ref target="https://hls-dhs-dss.ch/de/articles/009805/2013-01-24/">HLS</ref>; zur
                     Ausfertigung und Überlieferung vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Leisibach/King 1981.</ref></bibl></p> </div>
         </back>
