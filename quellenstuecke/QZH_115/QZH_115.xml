@@ -77,8 +77,8 @@
                                         <height unit="cm" quantity="42.0"/>
                                         <width unit="cm" quantity="72.5"/>
                                     </dimensions><dimensions type="plica">
-                                        <width unit="cm" quantity="1.5"/>
-                                        <!-- Hoͤhe Siegel noch zu ergaͤnzen-->
+                                        <height unit="cm" quantity="12"/>
+                                       
                                     </dimensions></extent>
                             </supportDesc>
                         </objectDesc>
@@ -144,8 +144,10 @@
             <textClass default="false">
                 <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
                     <term ref="key000266">Krieg</term>
-                    <!-- Hier die Schlagwörter ergänzen: Bündnis;  -->
-
+                    <term ref="key000173">Bündnis</term>
+                    <term ref="key004644">Beute</term>
+                    <term ref="key000263">Burgrecht</term>
+                    <term ref="key005407">Kriegsrecht</term>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -319,37 +321,44 @@
         </body>
         <back>
             <div> 
-                <p>Das Stanser Verkommnis ist eine
-                Vereinbarung über die Friedenssicherung zwischen den acht eidgenössischen Orten
-                Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug und Glarus. Zusammen mit dem
-                gleichzeitigen Bündnisvertrag mit Freiburg und Solothurn (vgl. StAZH C I 380 )
-                beendete die Vereinbarung die innere Krise der 1470er Jahre. Gegensätzliche
-                Interessen der Städte- und Länderorte in der Eidgenossenschaft hatten schon seit
-                längerem zu Konflikten geführt, diese hatten sich aber im Zusammenhang mit den
-                Burgunderkriegen 1474-1477 verschärft und 1477 zum sogenannten Burgrecht-Streit
-                geführt, bei dem die Länderorte ein Rechtsverfahren gegen das Burgrecht der Städte
-                eröffneten. Nach lange erfolglosen Verhandlungen einigten sich die Orte an der
-                Stanser Tagsatzung vom 18. bis 22. Dezember 1481 schliesslich. Dass Niklaus von Flüe
-                an den Verhandlungen beteiligt war, ist zwar belegt, doch wurde die Rolle von
-                «Bruder Klaus» wohl bereits in der zeitgenössischen Chronistik legendarisch überhöht
-                (Stettler 2004, S. 298-300).</p> 
-               <p> Inhaltlich bestätigt das Stanser Verkommnis die
-                Bestimmungen des Pfaffenbriefs (1370) und des Sempacherbriefs (1393), verurteilt
-                «mutwillige Gewalt» und verbietet Versammlungen, die nicht ordnungsgemäss einberufen
-                wurden. Weiter verpflichtet es die Orte zur gegenseitigen Hilfeleistung bei
-                Ungehorsam von Untertanen. Es folgen Bestimmungen über die Teilung der Kriegsbeute,
-                so sollen die beteiligten Orte gleichen Anteil an eroberten Gebieten und
-                Herrschaftsrechten haben und Kriegsbeute soll proportional zur Grösse der
-                beteiligten Truppen verteilt werden (Walder 1994, S. 166).</p> 
-                <p>In der Historiographie
-                werden die Verträge von Stans seit 1481 sehr unterschiedlich bewertet. Gemäss
-                Bernhard Stettler ist das Stanser Verkommnis am besten als Ausdruck eines
-                politischen Pragmatismus zu verstehen. Die Gesandten der eidgenössischen Orte hatten
-                eingesehen, dass ein «auch nur halbwegs erträgliches Zusammenleben für die Städte-
-                wie auch Länderorte existenznotwendig war». Die Länderorte hatten durchgesetzt, dass
-                der Städtebund aufgelöst wurde, während Freiburg und Solothurn Sinne der Städte in
-                die Eidgenossenschaft aufgenommen wurden, wenn auch als Zuzüger minderen Rechts
-                (Stettler 2004, S. 306-307).</p> <p>Das vorliegende Exemplar ist eines von acht
+                <p>Das Stanser Verkommnis ist eine Vereinbarung über die Friedenssicherung zwischen
+                    den acht eidgenössischen Orten Zürich, Bern, Luzern, Uri, Schwyz, Unterwalden,
+                    Zug und Glarus. Zusammen mit dem gleichzeitigen Bündnisvertrag mit Freiburg und
+                    Solothurn (vgl. <ref
+                        target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=249972">StAZH C
+                        I 380</ref> ) beendete die Vereinbarung die innere Krise der 1470er Jahre.
+                    Gegensätzliche Interessen der Städte- und Länderorte in der Eidgenossenschaft
+                    hatten schon seit längerem zu Konflikten geführt, diese hatten sich aber im
+                    Zusammenhang mit den Burgunderkriegen 1474-1477 verschärft und 1477 zum
+                    sogenannten Burgrecht-Streit geführt, bei dem die Länderorte ein Rechtsverfahren
+                    gegen das Burgrecht der Städte eröffneten. Nach lange erfolglosen Verhandlungen
+                    einigten sich die Orte an der Stanser Tagsatzung vom 18. bis 22. Dezember 1481
+                    schliesslich. Dass Niklaus von Flüe an den Verhandlungen beteiligt war, ist zwar
+                    belegt, doch wurde die Rolle von <q>Bruder Klaus</q> wohl bereits in der
+                    zeitgenössischen Chronistik legendarisch überhöht (<bibl><ref
+                            target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                            >Stettler 2004, S. 298-300</ref></bibl>).</p> 
+               <p> Inhaltlich bestätigt das Stanser Verkommnis die Bestimmungen des Pfaffenbriefs
+                    (1370) und des Sempacherbriefs (1393), verurteilt <q> mutwillige Gewalt</q> und
+                    verbietet Versammlungen, die nicht ordnungsgemäss einberufen wurden. Weiter
+                    verpflichtet es die Orte zur gegenseitigen Hilfeleistung bei Ungehorsam von
+                    Untertanen. Es folgen Bestimmungen über die Teilung der Kriegsbeute, so sollen
+                    die beteiligten Orte gleichen Anteil an eroberten Gebieten und
+                    Herrschaftsrechten haben und Kriegsbeute soll proportional zur Grösse der
+                    beteiligten Truppen verteilt werden (<bibl><ref
+                            target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                            >Walder 1994, S. 166</ref></bibl>).</p> 
+                <p>In der Historiographie werden die Verträge von Stans seit 1481 sehr
+                    unterschiedlich bewertet. Gemäss Bernhard Stettler ist das Stanser Verkommnis am
+                    besten als Ausdruck eines politischen Pragmatismus zu verstehen. Die Gesandten
+                    der eidgenössischen Orte hatten eingesehen, dass ein <q>auch nur halbwegs
+                        erträgliches Zusammenleben für die Städte- wie auch Länderorte
+                        existenznotwendig war</q>. Die Länderorte hatten durchgesetzt, dass der
+                    Städtebund aufgelöst wurde, während Freiburg und Solothurn Sinne der Städte in
+                    die Eidgenossenschaft aufgenommen wurden, wenn auch als Zuzüger minderen Rechts
+                            (<bibl><ref
+                            target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                            >Stettler 2004, S. 306-307</ref></bibl>).</p> <p>Das vorliegende Exemplar ist eines von acht
                 überlieferten Ausfertigungen des Stanser Verkommnisses, wovon je eines in den
                 Staatsarchiven der Kantone Zürich, Bern, Schwyz, Obwalden, Nidwalden (unbesiegelte
                 Originalausfertigung) und Zug sowie im Bürgerarchiv des Kantons Zug und im
@@ -362,24 +371,26 @@
                 engagiert. Trotz der unterschiedlichen Schreiber sind alle überlieferten Exemplare
                 bis auf kleinere orthografische Abweichungen und die Ausgestaltung der Initialen
                 bemerkenswert ähnlich. Es diente wohl ein offizieller Entwurf als Vorlage für alle
-                Ausfertigungen (Leisibach/King 1981, S. 11-12).</p> <p>Josef Leisibach identifiziert als
-                Schreiber einerseits den Landschreiber von Obwalden für die Exemplare in Bern und
-                Obwalden und andererseits den Landschreiber von Schwyz für die Exemplare in Schwyz
-                und Glarus. Ein wahrscheinlich in Luzern tätiger, von Leisibach als «Zürcher
-                Schreiber» betitelter Schreiber fertigte das Zürcher Exemplar. Als prominente
-                Schreiber stechen die beiden berühmten Chronisten Melchior Russ der Jüngere
-                (unbesiegeltes Nidwaldner Exemplar) und Diebold Schilling (Zuger Exemplar) hervor.
-                Beide waren seit 1479 als Schreiber beziehungsweise Schreibergehilfen in der
-                Luzerner Kanzlei tätig. Schilling selbst berichtet in seiner Chronik von seiner
-                Beteiligung an der Tagsatzung von Stans 1481 (Leisibach/King 1981, S. 12-14).</p> <p>Die
+                Ausfertigungen (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Leisibach/King 1981, S. 11-12</ref></bibl>).</p> <p>Josef Leisibach identifiziert als Schreiber einerseits den Landschreiber von Obwalden für die
+                    Exemplare in Bern und Obwalden und andererseits den Landschreiber von Schwyz für
+                    die Exemplare in Schwyz und Glarus. Ein wahrscheinlich in Luzern tätiger, von
+                    Leisibach als <q>Zürcher Schreiber</q> betitelter Schreiber fertigte das Zürcher
+                    Exemplar. Als prominente Schreiber stechen die beiden berühmten Chronisten
+                    Melchior Russ der Jüngere (unbesiegeltes Nidwaldner Exemplar) und Diebold
+                    Schilling (Zuger Exemplar) hervor. Beide waren seit 1479 als Schreiber
+                    beziehungsweise Schreibergehilfen in der Luzerner Kanzlei tätig. Schilling
+                    selbst berichtet in seiner Chronik von seiner Beteiligung an der Tagsatzung von
+                    Stans 1481 (<bibl><ref
+                            target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                            >Leisibach/King 1981, S. 12-14</ref></bibl>).</p> <p>Die
                 Luzerner Kanzlei übernahm auch die Verantwortung für die Organisation der
                 aufwändigen und kostspieligen Besieglung der Urkunden, für die die acht Exemplare in
                 die jeweiligen Orte getragen werden mussten. Im Abschied von Stans finden sich
                 Anweisungen darüber, dass jeweils der kürzeste Weg zu den Orten eigeschlagen werden
                 sollte. Die hohen Kosten der Schreibarbeit und Botengänge trugen die eidgenössischen
-                Orte jeweils selbst (Leisibach/King 1981, S. 14-15).</p> <p>Zu den politischen
-                Hintergründen des Stanser Verkommnisses vgl. Stettler 2004; Walder 1994; HLS; zur
-                Ausfertigung und Überlieferung vgl. Leisibach/King 1981.</p> </div>
+                Orte jeweils selbst (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Leisibach/King 1981, S. 14-15</ref></bibl>).</p> <p>Zu den politischen
+                    Hintergründen des Stanser Verkommnisses vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Stettler 2004</ref></bibl>; <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Walder 1994</ref></bibl>; <ref target="https://hls-dhs-dss.ch/de/articles/009805/2013-01-24/">HLS</ref>; zur
+                    Ausfertigung und Überlieferung vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Leisibach/King 1981.</ref></bibl></p> </div>
         </back>
     </text>
 </TEI>
