@@ -34,8 +34,8 @@
                     <head>Satzung und Ordnung für die Unterschreiberkanzlei</head>
                     <msContents>
                         <summary>Die Schreiber der Unterschreiberkanzlei schwören den Räten ihre Treue und Verschwiegenheit und verpflichten sich, an Ratstagen jeweils um 13 Uhr in der Kanzlei zu erscheinen, um anfallende Schreibarbeiten zu erledigen.
-                            Beim halbjährlichen Ratswechsel sollen zwei Kanzlisten ausgewählt werden, die für die Nachgänge der neuen Räte verantwortlich sind (jon: welche den Nachgängern als Schreiber zu dienen haben). Auch der Bauschreiber ist Teil des Kanzleiwesens und muss seine Unterlagen in der Unterschreiberei abliefern.
-                            Alle Schreiber sind ausserdem dazu angehalten, sich im Schreiben verschiedener Schriftarten und Sprachen zu üben, wozu ihnen nützliche Bücher bereitgestellt werden. Aufgezählt werden schliesslich die (jon: Zuletzt folgt eine Auflistung der) Stelleninhaber des Bauschreibers, des 
+                            Beim halbjährlichen Ratswechsel sollen zwei Kanzlisten ausgewählt werden, die den Nachgängern als Schreiber zu dienen haben. Auch der Bauschreiber ist Teil des Kanzleiwesens und muss seine Unterlagen in der Unterschreiberei abliefern.
+                            Alle Schreiber sind ausserdem dazu angehalten, sich im Schreiben verschiedener Schriftarten und Sprachen zu üben, wozu ihnen nützliche Bücher bereitgestellt werden. Zuletzt folgt eine Auflistung der Stelleninhaber des Bauschreibers, des 
                             Baurechnungsschreibers, der Nachgangsschreiber, der (Ofen-)Gschau-Schreiber sowie der Stadtknechte für das Jahr 1680.</summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
@@ -72,6 +72,8 @@
                     <term ref="key000383">Kanzlei</term>
                     <term ref="key000051">Schreiber</term>
                     <term ref="key000204">Verwaltung</term>
+                    <term ref="key000179">Eid</term>
+                    <term ref="key000341">Ordnung</term>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -238,40 +240,38 @@
                 <back>
                     <div>
                         <p>
-                            Beat Holzhalb; es ist seine Handschrift (vgl. 1680/1 Ratsmanuale des Natalrats des Unterschreibers (StAZH B II 589)).
+                            Das vorliegende Quellenstück enthält die Ordnung der Unterschreiberei, auf welche die Kanzlisten 1680 ihren Eid ablegen sollten. Aus diesem Grund wurde das Dokument auch von Beat Holzhalb verfasst, der von 1679 bis 1681 als
+                            Unterschreiber der Stadt Zürich tätig war.
                         </p>
                         <p>
                             Mit dem halbjährlich stattfindenden Wechsel des amtierenden Rats erfolgte auch jeweils die Wahl  zweier neuen Nachgänger oder Kundschafter aus dem Kreis des Kleinen Rats. Diese waren während sechs Monaten dafür zuständig, Untersuchungen in Strafsachen 
-                            durchzuführen und zu protokollieren. Hauptbestandteile solcher Untersuchungen waren Verhöre der Angeklagten, die zumeist im Gefängnis stattfanden, aber auch Befragungen von Zeuginnen und Zeugen. Den Nachgängern zur Seite gestellt wurden, wie auch dem
-                            vorliegenden Quellentext zu entnehmen ist, zwei Nachgangsschreiber, die - ebenfalls für sechs Monate - aus dem Kanzleipersonal ausgewählt wurden. Diese hatten jeweils den Verhören beizuwohnen und Aussagen der Befragten schriftlich festzuhalten, damit der Rat
-                            aufgrund dieser Aktengrundlage ein Urteil fällen konnte. Vgl. für eine Ordnung der Nachgänger der Stadt Zürich aus dem 17. Jahrhundert: QZH, Nr. 32, die in einem eigenen Abschnitt für die Nachgangsschreiber auf deren grosse Verantwortung bei der inhaltlich
-                            getreuen Wiedergabe der Aussagen hinweist. Solche Verhörprotokolle sind als Reinschriften heute grösstenteils im Bestand A 27 (Kundschaften und Nachgänge) enthalten.
+                            durchzuführen und zu protokollieren. Hauptbestandteile solcher Untersuchungen waren Verhöre der Angeklagten, die zumeist im Gefängnis stattfanden, aber auch Befragungen von Zeuginnen und Zeugen. Den Nachgängern zur Seite gestellt wurden
+                            zwei Nachgangsschreiber, die - ebenfalls für sechs Monate - aus dem Kanzleipersonal ausgewählt wurden. Wie dem vorliegenden Quellentext zu entnehmen ist, wurden alle vier Nachgangsschreiber auch als Ofengschauschreiber eingesetzt (siehe unten).
+                            Als Nachgangsschreiber hatten sie jeweils den Verhören beizuwohnen und Aussagen der Befragten schriftlich festzuhalten, damit der Rat aufgrund dieser Aktengrundlage ein Urteil fällen konnte. Vgl. für eine Ordnung der Nachgänger der Stadt Zürich aus dem 17.
+                            Jahrhundert: <ref target="QZH_032.xml">QZH, Nr. 32</ref>, die in einem eigenen Abschnitt für die Nachgangsschreiber auf deren grosse Verantwortung bei der inhaltlich getreuen Wiedergabe der Aussagen hinweist. Solche Verhörprotokolle sind als Reinschriften heute grösstenteils im Bestand
+                            <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=4629511">StAZH A 27</ref></bibl> (Kundschaften und Nachgänge) enthalten.
                         </p>
                         <p>
-                            Laut einem "erneuerten Verzeichnis der sieben Ofengschauen und ihres Bezirks" aus dem Jahr 1680 wurden in der Stadt Zürich regelmässige Kontrollen der Öfen, Kamine und Herdplatten durchgeführt<!-- Bauschachtel -->. Die Stadt war dafür in die sieben Bezirke 
-                            oder "Wachten" Niederdorf, Neumarkt, Zur Linden, Auf Dorf, Münsterhof, Rennweg und Altes Kornhaus eingeteilt. Abgesehen vom letzten Bezirk galt diese Einteilung bereits im Jahr 1375<!-- Richtbuch, S. ? -->. Jeweils vier Verordnete waren pro Bezirk für die 
-                            Ofengschau abgestellt: Für gewöhnlich waren dies zwei Ratsherren oder Zunftmeister aus dem Kleinen Rat als Ofengschauer sowie je ein Schreiber und ein Stadtknecht oder Hafner. Die in der vorliegenden Ordnung genannten Ofengschauschreiber stimmen fast mit 
-                            jenen überein, die im neuen Verzeichnis desselben Jahrs aufgeführt wurden. Die einzigen Unterschiede bestehen darin, dass statt Heinrich Grosmann Georg Burckhardt Stadtknecht  zur Linden und statt Jacob Zimbermann Heinrich Engelhardt als Stadtknecht am 
-                            Münsterhof bezeichnet wurden. Die Ofengschauen fanden im April und Mai statt; etwaig bemerkte Mängel mussten bis zum Sommer behoben werden, ansonsten wurden vom Kleinen Rat Bussen ausgesprochen. Die Aufgabe der Schreiber war es dabei wohl, während
-                            der Visitationen Mängel zu dokumentieren und anschliessend ein Protokoll zu verfassen, das dem Kleinen Rat vorgelegt wurde. Als Lohn erhielten die Schreiber pro Tag 3 Batzen - gleich viel wie die Ratsherren und einen Batzen mehr als die Stadtknechte.
-                            Vgl. A 49.3 (Erneuertes Verzeichnis der sieben Ofengschauen und ihres Bezirks in der Stadt, 1680). Im 18. Jahrhundert wurden jedoch Klagen bezüglich Entlöhnung laut: 1759 weigerten sich die Hafnermeister wegen unzureichenden Löhnen, den Ofengschauen 
-                            beizuwohnen. Dies löste nicht nur eine Untersuchung der Löhne von Handwerkern und Sekretären aus (vgl. B II 906, S. 94: https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/318605/detail?pageid=50 <!-- und USM: 6. Februar 1760 -->), sondern bewirkte nicht zuletzt auch Erneuerungen 
-                            der Ofengschauordnung in den Jahren 1770 (vgl. (3. und 12. März, Unterschreibermanual)) und 1784 (vgl. 28. Dezember 1784, Unterschreibermanual)
-                            
-                            1680 erhielt der Ofengschauschreiber 3 Batzen - gleich viel wie der Ofengschauer und einen Batzen mehr als der Stadtknecht. 
-                            1375 finden sich im Richtbuch für die Kontrolle der Öfen und Herde die Quartiere Niederdorf, Neumarkt, Lindenhof, Münsterhof und Rennweg. Jeweils zwei Verordnete werden dazu ausgewählt, die zu einer Gschau einen Hafner oder Steinmetz mitnehmen sollten. 
-                            1491 (Donst. nach S. Ulrici, Man. Bapt.): Quartiere sind 1. Niederdorf, 2. Neumarkt, 4. Zur Linden, 4. auf Dorf, 5. Münsterhof, 6. Rennweg.
-                            Eine Gschau ist die Kontrolle von Öfen und Kaminen sowie die Nachkontrolle, ob der angezeigte Mangel innert angegebener Zeit behoben wurde. 1661 (17. August, Stadtschreibermanual) war der Lohn für einen Ofengschauer sowie für den mitgehenden Hafner je 1 Pfund (lb)
-                            1689 (13. Juli, Unterschreibermanual): Wenn sich für ein Quartier kein Ratsherr (Kleiner Rat) als Ofengschauer findet, dann sollte der "vorderste von denen Kleinen Räthen aus dem nächst benachbarten Quartier darzu erwelt werden". 1770 (3. und 12. März, Unterschreibermanual): Neue Ofengschau-Ordnung. (Meyersches Promptuarium, "Ofen-Gschau", S. 48)
-                            1759 (31. Oktober und 6. Februar 1760, Unterschreibermanual): Die Hafnermeister weigern sich, wegen unzureichender Entlöhnung den Ofengschauen beizuwohnen. Löhne für diese wie auch andere Handwerker, Sekretäre etc. werden untersucht. 
-                            
-                            1784 (28. Dezember 1784, Unterschreibermanual): Neue Ofen-Gschau-Ordnung (Meyersches Promptuarium, "Ofen-Gschau", S. 49)
+                            Laut einem "erneuerten Verzeichnis der sieben Ofengschauen und ihres Bezirks" aus dem Jahr 1680 wurden in der Stadt Zürich regelmässige Kontrollen der Öfen, Kamine und Herdplatten - sogenannte "Ofengschauen" - durchgeführt (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=13194">StAZH A 49</ref></bibl>; für die Zeit des Quellenstücks besonders <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">StAZH A 49.3</ref></bibl>).
+                            Die Stadt war dafür in die sieben Bezirke oder "Wachten" Niederdorf, Neumarkt, Zur Linden, Auf Dorf, Münsterhof, Rennweg und Altes Kornhaus eingeteilt. Abgesehen vom letzten Bezirk galt diese Einteilung scheinbar bereits für das Jahr 1375 - die
+                            (Nach-)Kontrolle der städtischen Öfen war demnach eine bereits länger etablierte Methode zur systematischen Eindämmung von Brandrisiken. Vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=342004">StAZH KAT 482</ref></bibl>, S. 48<!-- im Richtbuch StAZH B VI 190 nicht gefunden-->.
+                            Jeweils vier Verordnete waren pro Bezirk für die Ofengschau<!-- Verwendung des historischen Begriffs oder modernisierte Form? --> abgestellt: Für gewöhnlich waren dies zwei Ratsherren oder Zunftmeister aus dem Kleinen Rat als Ofengschauer sowie je ein
+                            Schreiber und ein Stadtknecht, Hafner oder Steinmetz. Die in der vorliegenden Ordnung genannten Ofengschauschreiber stimmen fast mit jenen überein, die im neuen Verzeichnis desselben Jahrs aufgeführt wurden. Die einzigen Unterschiede bestehen darin, dass statt
+                            Heinrich Grosmann Georg Burckhardt Stadtknecht  zur Linden und statt Jacob Zimbermann Heinrich Engelhardt als Stadtknecht am Münsterhof bezeichnet wurden. Die Ofengschauen fanden im April und Mai statt; etwaig bemerkte Mängel mussten bis zum
+                            Sommer behoben werden, ansonsten wurden vom Kleinen Rat Bussen ausgesprochen. Die Aufgabe der Ofengschauschreiber war es dabei, während der Visitationen Mängel zu dokumentieren und ein Protokoll zu verfassen, das dem Kleinen Rat anschliessend
+                            vorgelegt wurde. Als Lohn erhielten die Schreiber pro Tag 3 Batzen - gleich viel wie die Ratsherren und einen Batzen mehr als die Stadtknechte. Vgl. dazu in <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>: "Erneuertes Verzeichnis der sieben Ofengschauen und ihres Bezirks in der Stadt", 1680.
+                            Im 18. Jahrhundert wurden jedoch Klagen bezüglich Entlöhnung laut: 1759 weigerten sich die Hafnermeister wegen unzureichenden Löhnen, den Ofengschauen beizuwohnen. Dies löste nicht nur eine Untersuchung der Löhne von Handwerkern und
+                            Sekretären aus (vgl. <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/318605/detail?pageid=50">StAZH B II 906, S. 94</ref></bibl>; <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/318603/detail?pageid=27">StAZH B II 908, S.  49</ref></bibl>), sondern bewirkte nicht zuletzt
+                            auch Erneuerungen der Ofengschauordnung in den Jahren 1770 (vgl. <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/313607/detail?pageid=48">StAZH B II 948, S. 92</ref></bibl>; <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/313607/detail?pageid=54">StAZH B II, S. 105</ref></bibl>)
+                            und 1784 (vgl. <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/312947/detail?pageid=4">StAZH B II 1008, S. 5-6</ref></bibl>).
                         </p>
                         <p>
                             Bau-Gschauer: "1490 Man. Nat. Mitt. Corp. Xti: Findet man schon im Man. Nat. Mitt. nach Corp. Xti." (Meyersches Promptuarium, "Bauherren und der Stadt Buwmeister", S. 72) "Sölle dem Bau-Buch einverleibt werden." (Meyersches Promptuarium, "Bau-Sachen", S. 86)
                             Bau-Sachen zur Zeit der vorliegenden Quelle, 1680: Stadt- und Unterschreibermanual: 31. März; Unterschreibermanual: 11. August, 11. September, 6. November) (Meyersches Promptuarium, "Bau-Sachen", S. 89)
                             1454 (Samst. vor Martini, Cor. Duc): Baurechnung: Einnahmen 889 Pfund, 2 Schilling, 11 Heller / 40 Gulden; Ausgaben 689 Pfund, 8 Schilling ; bleibt schuldig 199 Pfund 15 Schilling / 40 Gulden (Meyersches Promptuarium, "Rechnungen", S. 67)
                             1693 (8. April, Stadtschreibermanual): "Ward die Bauwamts-Rechnung vor Räth u. Burger censirt." (Meyersches Promptuarium, "Rechnungen", S. 58)
+                            Ist der Bau-Gschauer dieselbe Person wie der Gschau-Schryber oder wie der Buw-schryber oder nochmals jemand anderes? Was macht der Baurechnungsschreiber? Ist er derselbe wie der "schryber bei den buw-spänen"?
+                            Die Bausachen waren scheinbar Sache der Unterschreiberei.
                         </p>
                     </div>
                 </back>
