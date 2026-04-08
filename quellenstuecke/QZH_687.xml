@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_687</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: StAZH B II 279, S. 2 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <history>
+            <origin>
+              <origDate when="1602-01-02"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 573</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Vogt zů <placeName ref="Wädenswil">Wädeschwyl</placeName><note type="editorial"> Konrad Grebel (1561-1626)<persName ref="Grebel, Konrad"/></note> soll die dryg oder vier hartneckigen ­toüf­fer gfengklich alher schicken.</p>
+<p>Unnd jr (der ­toüf­feren) gmein hüßlj, darjnn <persName ref="Suter, Ůli">Ůlj Suter</persName> sitzt, ab der hoftstatt  verkouffen unnd das erlößt gelt unnd was die ­toüf­fer wyter für gmein gůt hetten zů myner herren hannden nemmen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum «Sambßtags, den 2ten januarij p[raese]nt[ibus] herr Bräm und beid reth».</p>
+      </div>
+    </back>
+  </text>
+</TEI>

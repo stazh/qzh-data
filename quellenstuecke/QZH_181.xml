@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_181</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: StAZH E II 1, S. 416 (Handschrift von Heinrich Bullinger)</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <history>
+            <origin>
+              <origDate when="1554-05-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 67</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Der <persName ref="Gwalther, Rudolf">dechan</persName> amm Zürych see kapitel<note type="editorial"> Rudolf Gwalther</note> zeygt, das toͤuffer vil underschlouff habind zů <placeName ref="Horgen">Horgen</placeName>, <placeName ref="Stäfa">Staͤfa</placeName> und <placeName ref="Thalwil">Dallwyl</placeName><note type="editorial"> Talwil</note> etc.</p>
+<p>Daruff ward empfolhen, der toͤüfferen namen uffzůzeychnen und dem burgermeister gaͤben oder dem underschryber angaͤben, damitt die unsern herren anzeyg und abgestellt werdint.</p>
+</div>
+    </body>
+  </text>
+</TEI>

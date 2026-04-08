@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_801</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: StAZH B II 309, S. 34 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <history>
+            <origin>
+              <origDate when="1609-10-11"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 687</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Herr hußschryber Grebel<note type="editorial"> <persName ref="Grebel, Konrad">Konrad Grebel</persName></note> und amptman Keller<note type="editorial"> Hans <persName ref="Keller, Hans Conrad">Conrad Keller</persName></note> söllend erkhundigen, wie es Caspar Wuͤsten von <placeName ref="Kloten">Cloten</placeName>, der vor jaren jnn <placeName ref="Mähren">Mehrherren</placeName> zogen, hab und gůts halber gestaltet und, je nachdem sy findend, <persName ref="Wüst, Bat">Bat</persName> und Hans den <persName ref="Wüst, Hans">Wuͤsten</persName>, so deßen ußhin begert, mit bscheid zůbegegnen oder die sach wider für<note type="editorial"> vor</note> rath zebringen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum «Mitwochs, den 11ten maij p[raese]nt[ibus] herr Raan und beid reth».</p>
+      </div>
+    </back>
+  </text>
+</TEI>

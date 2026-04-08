@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_207</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: StAZH B II 105, S. 31 (Manual des Unterschreibers Angabe des Amtes fehlt (beschädigtes Titelblatt), aber dieselbe Hand wie im Ratsmanual unter StAZH B II 103.)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <history>
+            <origin>
+              <origDate when="1558-11-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 93</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Vogt von Wädischwyl schryben, das er die ­toüf­fer, so inn schrifft ab dem chorgericht komen<note type="editorial"> Vgl. Nr. 91.</note>, fengklich annemmen, den pfarer zů jm brüffen und sy zum  abstannd<note type="editorial"> Abwendung, Aufgabe, Id. XI, 971.</note>  vermannen. Wa sy aber dz nit thůn oder jm sonnst ettwas schwärlichs begegnete, des soll er min herren berichten.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter unter dem Datum «Mitwuchs den 9. november p[raese]nt[ibus] her Hab unnd beid räth».</p>
+      </div>
+    </back>
+  </text>
+</TEI>

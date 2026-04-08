@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_288</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: StAZH B II 161, S. 40 (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <history>
+            <origin>
+              <origDate when="1572-12-22"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 174</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wybel zů <placeName ref="Stadel">Stadel</placeName><note type="editorial"> <persName ref="Kofel, Hans">Hans Kofel</persName></note> schryben, das myn herren Stefan <persName ref="Im Tal, Stefan">jm Tall</persName>, den ­toüf­fer, dergstalt der gfengknuß erlassen, das er jm huß blyben und gar niennerdt hin, weder gaan ald<note type="editorial"> oder</note> wandlen, das er jnn die kilchen zůr predig, ouch jemmanden zů jm jns huß wandlen lassen. Daruf er acht haben und, wo ers ald die synen übersechind, soll er jnn all den, so daran schuldig, gfengklichen annemmen und mynen herren zůbringen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum «Mentags, den 22ten decembris p[raese]nt[ibus] herr Kamblj und beid reth».</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_448</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: StAZH B II 214, S. 41 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <history>
+            <origin>
+              <origDate when="1586-04-18"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 334</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Vogt zů <placeName ref="Kyburg">Kyburg</placeName> schryben, dem ­toüf­<persName ref="Schnyder, Hans">fer</persName> von <placeName ref="Rorbas">Rorbiß</placeName><note type="editorial"> Rorbas</note> die bůß vermög deß jüngst getruckten ußgangnen mandaths abzenemmen unnd jnne der gfangenschafft  zůerlassen, damitt er syne patienten, deren er alhie und anderschwo ein gůten theil haben söll, artznen könne unnd durch jnne diß orts nützit versumpt werde.</p>
+<p><persName ref="Egli, N. (Wannenmacher)">Eglj</persName> der wannenmacher alhier soll auch vermög deß mandaths gebuͤßt werden.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum «Mentags, den 18ten aprilis p[raese]nt[ibus] herr Tomman unnd beid reth.»</p>
+      </div>
+    </back>
+  </text>
+</TEI>

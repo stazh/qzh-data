@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_255</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: StAZH B II 137, S. 47 (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <history>
+            <origin>
+              <origDate when="1566-12-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 141</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Vogt zů <placeName ref="Knonau">Knonow</placeName><note type="editorial"> <persName ref="Rahn, Hans">Hans Rahn</persName></note> schryben, das<note type="critical">Folgt gestrichen: er</note> <persName ref="Bickel, Hans">Hanß Byckel</persName> von <placeName ref="Affoltern am Albis">Affholtern</placeName>, wo er er zůbetretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, gfengklichen angenommen, und wo er sich geüsseret, syn hab und gůt jnn hafft und verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> gelegt werden sölle. Hienebent soll er eigentlich wie die sach vergangen und wo er zů kilchen gan welle und setzen, deß söll er myn herren fürderlich<note type="editorial"> alsbald Id. I, 1000.</note> berichten, damit ferer erhoüschen der notturfft nach jnn der sach zehandlen wüßint.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum «Mittwuch, 4ten decembris p[raese]nt[ibus] herr von Chaam und beid reth».</p>
+      </div>
+    </back>
+  </text>
+</TEI>

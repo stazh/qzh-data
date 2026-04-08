@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_169</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: StAZH E II 1, S. 386f. (Handschrift von Heinrich Bullinger)</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <history>
+            <origin>
+              <origDate when="1552-05-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 55</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Toͤüffer.</p>
+<p>Der <persName ref="Schnyder, Niklaus">daͤchen</persName> von <placeName ref="Bäretswil">Berotschwyl</placeName><note type="editorial"> Niklaus Schnyder</note> und h[err] Martin<note type="editorial"> <persName ref="Farner, Martin">Martin Farner</persName></note> von <placeName ref="Wald">Wald</placeName> klagtend, das vil der widertoͤüffern under inen ouch zů <placeName ref="Gossau">Goßow</placeName> werind. Zů <placeName ref="Bubikon">Bůbickon</placeName> haͤtte der schaffner ouch einen, den sennen etc. Imm <placeName ref="Fischenthal">Vischentaal</placeName> sye Caspar Bertschikers wyb, <persName ref="Bertschiker, Elsi">Elsy</persName> genampt, die nitt zur kylchen gange. Zů <placeName ref="Hinwil">Hinnwyl</placeName> ist des Byrensiders wyb und andere vil.</p>
+<p>Zů <placeName ref="Wetzikon">Wetzikon</placeName> hat <persName ref="Wild, Hans">Hanns Wyld</persName> zum pfarrer geredt, er woͤlte lieber under türggen sitzen dann under soͤlicher oberhand, wie unser herren syend.</p>
+<p>Der <persName ref="Seiler, Johannes">camerer</persName> von <placeName ref="Schlatt">Schlatt</placeName><note type="editorial"> Johannes Seiler</note> und h. Mathys<note type="editorial"> <persName ref="Hirzgarter, Mathias">Mathias Hirzgarter</persName></note> von <placeName ref="Winterthur">Wintherdur</placeName> zeigtend vil von der toͤuffery an, insonders wie ein bitterer uffruͤriger were, genampt <persName ref="Mundtprat, Bartholomäus">Poley Mundtpradt</persName> von <placeName ref="Wil (St. Gallen)">Wyl</placeName>, der gar ungebürlichs uußstoosse.</p>
+<p>J[unker] <persName ref="Wirz, Melchior">Melchior Wirtz</persName> zeigt, wie ein toͤuffer imm <placeName ref="Zürich, Kratz">Kratz</placeName>, der wannenmacher genampt, innlige und aber zů 14 tag sinen uußgang zur versamlung habe, da er nitt wüssen moͤge wohin.</p>
+<p>Des alles soͤllend unser herren gruntlich bericht werden, damitt groͤssern unrůwen fürkummen<note type="editorial"> abwenden, vorbeugen, Id. III, 278.</note> werde.</p>
+</div>
+    </body>
+  </text>
+</TEI>

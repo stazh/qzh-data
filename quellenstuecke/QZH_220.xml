@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_220</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: StAZH E I, S. 508f. (Handschrift von Heinrich Bullinger)</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <history>
+            <origin>
+              <origDate when="1562-05-05"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 106</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Der <persName ref="Kolmar, Jakob">dechan</persName> uß dem Fryen <placeName ref="Freiamt">ampt</placeName><note type="editorial"> Jakob Kolmar</note> zeygt an ein toͤuffer, <persName ref="Gut, Andres">Anderesen Gůt</persName>, der allen gebotten des obervogts widerstraͤpte und staͤts in den <placeName ref="Sihlwald">Sylwald</placeName> an der toͤuffer gmeind louffe. Der <persName ref="Wirth, Christian">daͤchen</persName> von <placeName ref="Neftenbach">Nefftenbach</placeName><note type="editorial"> Christian Wirth</note> zeigt an <persName ref="Hedinger, Hans">Hansen Hedinger</persName> by der Taͤschin zů <placeName ref="Wülflingen">Wülfflingen</placeName>. Andere zeigten an <persName ref="Bräm, Fridli">Fridli Braͤmen</persName> und <persName ref="Ruman, Peter">Petter Romman</persName> in Regensperger <placeName ref="Regensberg">ampt</placeName>.</p>
+<p>Sol an unser gnedig herren gebracht werden.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_618</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>Original: ZBZ, E II 1a, S. 934f.</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <history>
+            <origin>
+              <origDate when="1598-05-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 504</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><placeName ref="Freiamt">Fryampt</placeName>:</p>
+<p>[…]<note type="editorial"> Zuerst folgt eine Klage über den erfolgreichen kirchlichen Unterricht der Jugend durch Jesuiten und Kapuziner.</note>. Der widerteufferen halb sitzind ettlich by ein anderen wie hůren und bůben, mit dem daß sy ire ee mit dem offentlichen kilchgang nach<note type="editorial"> noch</note> nie bestetet. Fahend sunst ouch vil ungrads an, sind veräfen<note type="editorial"> dreist, unverschämt, Id. I, 1286.</note>. Wann sy vom herren obervogt gestraafft werdend, farend sy nüt distweniger für<note type="editorial"> fortfahren</note>, sagend der türck nemme gelt und laße dlüt sitzen, sye nun<note type="editorial"> nur</note> umb gëlt zethůn. Vor wenig wuchen sind froͤmde kommen uß <placeName ref="Mähren">Moravia</placeName>, redend unseren g[nedigen] herren übel, hetzend ouch die an, die nit toͤuffer sind.</p>
+<p>N[ota]: Sol alles an unser g. herren gelangen, mit antütung wie und durch was mittel disere sachen moͤchtind verbesseret werden.</p>
+</div>
+    </body>
+  </text>
+</TEI>
