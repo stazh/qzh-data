@@ -41,7 +41,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 88</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 88</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -59,13 +61,24 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Bürgi, Rudolf">Ruͦdolff Bürgj</persName> von <placeName ref="Wädenswil">Wedischwyl</placeName><note type="editorial"> Wädenswil</note> jst der thöufferj abstannden unnd sich begeben, dem vogt gehorsamj zethund. Das soll man dem vogt zuschriben unnd darby vermannen, dwyl sich sin (Růdolffen) brůder der thoüffery unnderwinde, das er jn<note type="critical">«jn» über der Zeile</note> fenngklichen annemme unnd harschicke.</p>
-<p><placeName ref="Grüningen">Grüningen</placeName> schryben, das sich die thoüffer zů<note type="critical">Folgt gestrichen: wann […] (Lesung unklar)</note> <placeName ref="Wald">Wald</placeName> versamlind,  darumb er sin späch<note type="editorial"> Fahndung, Id. X, 76.</note> uff sy mache unnd verschaffe, das sy nach der gepür gestrafft werdint.</p>
-</div>
+      <div>
+        <p><persName ref="Bürgi, Rudolf">Ruͦdolff Bürgj</persName> von <placeName ref="Wädenswil"
+            >Wedischwyl</placeName><note type="editorial"> Wädenswil</note> jst der thöufferj
+          abstannden unnd sich begeben, dem vogt gehorsamj zethund. Das soll man dem vogt zuschriben
+          unnd darby vermannen, dwyl sich sin (Růdolffen) brůder der thoüffery unnderwinde, das er
+            jn<note type="critical">«jn» über der Zeile</note> fenngklichen annemme unnd
+          harschicke.</p>
+        <p><placeName ref="Grüningen">Grüningen</placeName> schryben, das sich die thoüffer zů<note
+            type="critical">Folgt gestrichen: wann […] (Lesung unklar)</note>
+          <placeName ref="Wald">Wald</placeName> versamlind, darumb er sin späch<note
+            type="editorial"> Fahndung, Id. X, 76.</note> uff sy mache unnd verschaffe, das sy nach
+          der gepür gestrafft werdint.</p>
+      </div>
     </body>
     <back>
       <div>
-        <p> Ratsbeschlüsse unter dem Datum «Sambstags den 16. apprillis p[raese]nt[ibus] her b[urgermeister] Müller und beid räth».</p>
+        <p> Ratsbeschlüsse unter dem Datum «Sambstags den 16. apprillis p[raese]nt[ibus] her
+          b[urgermeister] Müller und beid räth».</p>
       </div>
     </back>
   </text>

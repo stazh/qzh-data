@@ -41,7 +41,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 96</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 96</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -59,9 +61,35 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als ein <persName ref="Streler, N.">Streler</persName> ab dem <placeName ref="Wald, Haltberg">Haldtberg</placeName> vor meinen herren eschinnen und begehrt, jhm und seinen uns<note type="critical">«uns» über der Zeile</note> gehorsamen<note type="critical">korrigiert, ursprünglich: ungehorsamen</note> geschwüsterigten den haftt<note type="editorial"> Arrest, Beschlagnahmung, Id. II, 1055.</note>, so herr <persName ref="Breitinger, Rudolf">vogt</persName> zu <placeName ref="Grüningen">Grüningen</placeName> ihnen über ihr haab und gutt von wegen ihren geschüsterigten<note type="editorial"> Geschwister, Id. IX, 2235.</note>, so der teüffischen sect anhengig weren, angelegt, gnedigcklich aufzeheben und dz auß krafft des gemächds<note type="editorial"> Vermächtnis, letzwillige Verfügung, Id. IV, 69.</note>, so wylant<note type="editorial"> einst</note> ihr vatter selig noch<note type="editorial"> nach</note> vermög ihres hoffrechts mit recht aufgericht. Als nun mein herren diß sein anbringen gehört, hie neben aber nit wüßen mögen, auß wz ursachen von herren vogt<note type="critical">Folgt gestrichen: die handlung zu erkundigen zugeschriben und mein herren</note> dz ermelt verpott beschehen und wz des hoffs recht im <placeName ref="Fischenthal">Fischenthal</placeName> seige, ist daruf er, der <persName ref="Streler, N.">Streler</persName>, mit gutten wortten abgewyßt auch herren vogt die handlung zu erkundigen zgeschriben und mein herren deß zuberichten, weliches dann, wie hie by ligend schreiben vermag, beschehen, deßhalb meinen herren verere<note type="editorial"> weitere</note> meinung, dz mein herren (die rechenherren) sömlichs und ob etwas weiters harzu von nöthen für sich nemmen und ein rathschlag thun sollen, wie sich dißfahls zehalten sein werde gegen den Streleren und wz also under ihnen beschloßen wirt, sölle wider an mein herren gelangen. Actum montags dem xxvij. novembris anno etc. lviiij p[raese]nt[ibus] herr Müller<note type="editorial"> <persName ref="Müller, Georg">Georg Müller</persName></note> (stathalter) und beid reth.</p>
-<p rend="margin-top">Underschreiber</p>
-</div>
+      <div>
+        <p>Als ein <persName ref="Streler, N.">Streler</persName> ab dem <placeName
+            ref="Wald, Haltberg">Haldtberg</placeName> vor meinen herren eschinnen und begehrt, jhm
+          und seinen uns<note type="critical">«uns» über der Zeile</note> gehorsamen<note
+            type="critical">korrigiert, ursprünglich: ungehorsamen</note> geschwüsterigten den
+            haftt<note type="editorial"> Arrest, Beschlagnahmung, Id. II, 1055.</note>, so herr
+            <persName ref="Breitinger, Rudolf">vogt</persName> zu <placeName ref="Grüningen"
+            >Grüningen</placeName> ihnen über ihr haab und gutt von wegen ihren geschüsterigten<note
+            type="editorial"> Geschwister, Id. IX, 2235.</note>, so der teüffischen sect anhengig
+          weren, angelegt, gnedigcklich aufzeheben und dz auß krafft des gemächds<note
+            type="editorial"> Vermächtnis, letzwillige Verfügung, Id. IV, 69.</note>, so wylant<note
+            type="editorial"> einst</note> ihr vatter selig noch<note type="editorial"> nach</note>
+          vermög ihres hoffrechts mit recht aufgericht. Als nun mein herren diß sein anbringen
+          gehört, hie neben aber nit wüßen mögen, auß wz ursachen von herren vogt<note
+            type="critical">Folgt gestrichen: die handlung zu erkundigen zugeschriben und mein
+            herren</note> dz ermelt verpott beschehen und wz des hoffs recht im <placeName
+            ref="Fischenthal">Fischenthal</placeName> seige, ist daruf er, der <persName
+            ref="Streler, N.">Streler</persName>, mit gutten wortten abgewyßt auch herren vogt die
+          handlung zu erkundigen zgeschriben und mein herren deß zuberichten, weliches dann, wie hie
+          by ligend schreiben vermag, beschehen, deßhalb meinen herren verere<note type="editorial">
+            weitere</note> meinung, dz mein herren (die rechenherren) sömlichs und ob etwas weiters
+          harzu von nöthen für sich nemmen und ein rathschlag thun sollen, wie sich dißfahls
+          zehalten sein werde gegen den Streleren und wz also under ihnen beschloßen wirt, sölle
+          wider an mein herren gelangen. Actum montags dem xxvij. novembris anno etc. lviiij
+          p[raese]nt[ibus] herr Müller<note type="editorial">
+            <persName ref="Müller, Georg">Georg Müller</persName></note> (stathalter) und beid
+          reth.</p>
+        <p rend="margin-top">Underschreiber</p>
+      </div>
     </body>
   </text>
 </TEI>
