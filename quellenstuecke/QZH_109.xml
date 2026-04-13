@@ -34,12 +34,12 @@
                     <head>Satzung und Ordnung für die Unterschreiberkanzlei</head>
                     <msContents>
                         <summary>Die Schreiber der Unterschreiberkanzlei schwören den Räten ihre Treue und Verschwiegenheit und verpflichten sich, an Ratstagen jeweils um 13 Uhr in der Kanzlei zu erscheinen, um anfallende Schreibarbeiten zu erledigen.
-                            Beim halbjährlichen Ratswechsel sollen zwei Kanzlisten ausgewählt werden, die den Nachgängern als Schreiber zu dienen haben. Auch der Bauschreiber ist Teil des Kanzleiwesens und muss seine Unterlagen in der Unterschreiberei abliefern.
-                            Alle Schreiber sind ausserdem dazu angehalten, sich im Schreiben verschiedener Schriftarten und Sprachen zu üben, wozu ihnen nützliche Bücher bereitgestellt werden. Zuletzt folgt eine Auflistung der Stelleninhaber des Bauschreibers, des 
-                            Baurechnungsschreibers, der Nachgangsschreiber, der (Ofen-)Gschau-Schreiber sowie der Stadtknechte für das Jahr 1680.</summary>
+                            Beim halbjährlichen Ratswechsel sollen zwei Kanzlisten ausgewählt werden, die den Nachgängern als Schreiber zu dienen haben. Auch die Unterlagen des Bauamts sind Teil des Kanzleiwesens und müssen in der Unterschreiberei abgeliefert werden.
+                            Alle Schreiber sind ausserdem dazu angehalten, sich im Schreiben verschiedener Schriftarten und Sprachen zu üben, wozu ihnen Bücher bereitgestellt werden. Zuletzt folgt eine Auflistung der Stelleninhaber des Bauschreibers, des 
+                            Baurechnungsschreibers, des Bauspanschreibers, der Nachgangsschreiber, der (Ofen-)Gschau-Schreiber sowie der Stadtknechte für das Jahr 1680.</summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
-                            <filiation type="current">Aufzeichnungen</filiation>
+                            <filiation type="current">Aufzeichnung</filiation>
                             <filiation type="original"><origDate when="1680"/>
                             </filiation>
                         </msItem>
@@ -164,11 +164,11 @@
                                 </row>
                                     <row>
                                         <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>David Holtzhalb</persName>.</cell>
-                                        <cell><lb/><choice><abbr>herr<!-- hr --></abbr><expan>herr</expan></choice> <persName ref="119464632">Lienhardt Holtzhalb</persName>.</cell>
+                                        <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Lienhardt Holtzhalb</persName>.</cell>
                                     </row>
                                     <row>
                                         <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Hans Heinrich Bodmer</persName>.</cell>
-                                        <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName ref="1053582994">Heinrich Bräm</persName>.</cell>
+                                        <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Heinrich Bräm</persName>.</cell>
                                     </row>
                                 </table>
                             <table>
@@ -202,11 +202,11 @@
                                 </row>
                                 <row>
                                     <cell><lb/><placeName>Nöüwmarckt</placeName>.</cell>
-                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName ref="1089572506">Hans Jacob Wolff</persName></cell>
+                                    <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Hans Jacob Wolff</persName></cell>
                                     <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Alexander Diebolt</persName>.</cell>
                                 </row>
                                 <row>
-                                    <cell><lb/>uff <placeName>dorff</placeName>.</cell>
+                                    <cell><lb/><placeName>Uff Dorff</placeName>.</cell>
                                     <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Johannes Rahn</persName>.</cell>
                                     <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Christoph Freüdwyler</persName></cell>
                                 </row>
@@ -216,7 +216,7 @@
                                     <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Jacob Zimbermann</persName>.</cell>
                                 </row>
                                 <row>
-                                    <cell><lb/><placeName>alt Kornhausplatz</placeName>.</cell>
+                                    <cell><lb/><placeName>Alt Kornhausplatz</placeName>.</cell>
                                     <cell><lb/><choice><abbr>hr</abbr><expan>herr</expan></choice> <persName>Lienhardt
                                     <lb/>Holtzhalb</persName>.</cell>
                                     <cell><lb/><choice><abbr>mr</abbr><expan>meister</expan></choice> <persName>Heinrich Senn</persName>.</cell>
@@ -240,55 +240,55 @@
                 <back>
                     <div>
                         <p>
-                            Das vorliegende Quellenstück enthält die Ordnung der Unterschreiberei, auf welche die Kanzlisten 1680 ihren Eid ablegen sollten. Aus diesem Grund wurde das Dokument auch von Beat Holzhalb verfasst, der von 1679 bis 1681 als
-                            Unterschreiber der Stadt Zürich tätig war. Für die Unterscheidung von Stadt- und Unterschreiberkanzlei vgl. <ref target="QZH_110.xml">QZH 110</ref>.
+                            Als Ordnung für die Unterschreiberkanzlei fiel das vorliegende Quellenstück in den Zuständigkeitsbereich von Beat Holzhalb, der von 1679 bis 1681 als Unterschreiber der Stadt Zürich amtete und von dessen Hand die Ordnung stammt.
+                            Für die Unterscheidung von Stadt- und Unterschreiberkanzlei vgl. <ref target="QZH_111.xml">QZH, Nr. 111</ref>; für Veränderungen im Kanzleiwesen von 1692 vgl. <ref target="QZH_110.xml">QZH, Nr. 110</ref>.
+                            Vgl. generell für das Zürcher Bauwesen der Vormoderne: <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Guex 1986</ref></bibl>; <bibl><ref>Vogel 1841, S. 31-50</ref></bibl><!-- Vogel, Friedrich: Memorabilia Tigurina, Zürich 1841. Auch online, z. B. auf e-rara -->.
                         </p>
                         <p>
                             Mit dem halbjährlich stattfindenden Wechsel des amtierenden Rats erfolgte auch jeweils die Wahl  zweier neuen Nachgänger oder Kundschafter aus dem Kreis des Kleinen Rats. Diese waren während sechs Monaten dafür zuständig, Untersuchungen in Strafsachen 
                             durchzuführen und zu protokollieren. Hauptbestandteile solcher Untersuchungen waren Verhöre der Angeklagten, die zumeist im Gefängnis stattfanden, aber auch Befragungen von Zeuginnen und Zeugen. Den Nachgängern zur Seite gestellt wurden
                             zwei Nachgangsschreiber, die - ebenfalls für sechs Monate - aus dem Kanzleipersonal ausgewählt wurden. Wie dem vorliegenden Quellentext zu entnehmen ist, wurden alle vier Nachgangsschreiber auch als Ofengschauschreiber eingesetzt (siehe unten).
                             Als Nachgangsschreiber hatten sie jeweils den Verhören beizuwohnen und Aussagen der Befragten schriftlich festzuhalten, damit der Rat aufgrund dieser Aktengrundlage ein Urteil fällen konnte. Vgl. für eine Ordnung der Nachgänger der Stadt Zürich aus dem 17.
-                            Jahrhundert: <ref target="QZH_032.xml">QZH 032</ref>, die in einem eigenen Abschnitt für die Nachgangsschreiber auf deren grosse Verantwortung bei der inhaltlich getreuen Wiedergabe der Aussagen hinweist. Solche Verhörprotokolle sind als Reinschriften heute grösstenteils im Bestand
+                            Jahrhundert <ref target="QZH_032.xml">QZH, Nr. 32</ref>, die in einem eigenen Abschnitt für die Nachgangsschreiber auf deren grosse Verantwortung bei der inhaltlich getreuen Wiedergabe der Aussagen hinweist. Solche Verhörprotokolle sind als Reinschriften heute grösstenteils im Bestand
                             <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=4629511">StAZH A 27</ref></bibl> (Kundschaften und Nachgänge) enthalten.
                         </p>
                         <p>
-                            Laut einem "erneuerten Verzeichnis der sieben Ofengschauen und ihres Bezirks" aus dem Jahr 1680 wurden in der Stadt Zürich regelmässige Kontrollen der Öfen, Kamine und Herdplatten - sogenannte "Ofengschauen" - durchgeführt (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=13194">StAZH A 49</ref></bibl>; für die Zeit des Quellenstücks besonders <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">StAZH A 49.3</ref></bibl>).
-                            Die Stadt war dafür in die sieben Bezirke oder "Wachten" Niederdorf, Neumarkt, Zur Linden, Auf Dorf, Münsterhof, Rennweg und Altes Kornhaus eingeteilt. Abgesehen vom letzten Bezirk galt diese Einteilung scheinbar bereits für das Jahr 1375 - die
-                            (Nach-)Kontrolle der städtischen Öfen war demnach eine bereits länger etablierte Methode zur systematischen Eindämmung von Brandrisiken. Vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=342004">StAZH KAT 482</ref></bibl>, S. 48<!-- im Richtbuch StAZH B VI 190 nicht gefunden-->.
+                            Laut einem <orig>erneuerten Verzeichnis der sieben Ofengschauen und ihres Bezirks</orig> aus dem Jahr 1680 wurden in der Stadt Zürich regelmässige Kontrollen der Öfen, Kamine und Herdplatten - sogenannte Ofengschauen - durchgeführt (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=13194">StAZH A 49</ref></bibl>; für die Zeit des Quellenstücks besonders <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">StAZH A 49.3</ref></bibl>).
+                            Die Stadt war dafür in die sieben Bezirke oder <orig>Wachten</orig> Niederdorf, Neumarkt, Zur Linden, Auf Dorf, Münsterhof, Rennweg und Altes Kornhaus eingeteilt. Abgesehen vom letzten Bezirk galt diese Einteilung scheinbar bereits für das Jahr 1375 - die
+                            (Nach-)Kontrolle der städtischen Öfen war demnach eine bereits länger etablierte Methode zur systematischen Eindämmung von Brandrisiken (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=342004">StAZH KAT 482</ref></bibl>, S. 48)<!-- im Richtbuch StAZH B VI 190 nicht gefunden-->.
                             Jeweils vier Verordnete waren pro Bezirk für die Ofengschau<!-- Verwendung des historischen Begriffs oder modernisierte Form? --> abgestellt: Für gewöhnlich waren dies zwei Ratsherren oder Zunftmeister aus dem Kleinen Rat als Ofengschauer sowie je ein
-                            Schreiber und ein Stadtknecht, Hafner oder Steinmetz. Die in der vorliegenden Ordnung genannten Ofengschauschreiber stimmen fast mit jenen überein, die im neuen Verzeichnis desselben Jahrs aufgeführt wurden. Die einzigen Unterschiede bestehen darin, dass statt
-                            Heinrich Grosmann Georg Burckhardt Stadtknecht  zur Linden und statt Jacob Zimbermann Heinrich Engelhardt als Stadtknecht am Münsterhof bezeichnet wurden. Die Ofengschauen fanden im April und Mai statt; etwaig bemerkte Mängel mussten bis zum
-                            Sommer behoben werden, ansonsten wurden vom Kleinen Rat Bussen ausgesprochen. Die Aufgabe der Ofengschauschreiber war es dabei, während der Visitationen Mängel zu dokumentieren und ein Protokoll zu verfassen, das dem Kleinen Rat anschliessend
-                            vorgelegt wurde. Als Lohn erhielten die Schreiber pro Tag 3 Batzen - gleich viel wie die Ratsherren und einen Batzen mehr als die Stadtknechte. Vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>: "Erneuertes Verzeichnis der sieben Ofengschauen und ihres Bezirks in der Stadt", 1680.
+                            Schreiber und ein Stadtknecht, Hafner oder Steinmetz. Die in der vorliegenden Ordnung genannten Ofengschauschreiber stimmen fast mit jenen überein, die im <orig>erneuerten Verzeichnis</orig> desselben Jahrs aufgeführt wurden. Die einzigen Unterschiede bestehen darin, dass statt
+                            Heinrich Grosmann als Stadtknecht  Zur Linden Georg Burckhardt und statt Jacob Zimbermann als Stadtknecht am Münsterhof Heinrich Engelhardt bezeichnet wurden. Die Ofengschauen fanden im April und Mai statt; etwaig bemerkte Mängel mussten bis zum
+                            Sommer behoben werden, ansonsten wurden vom Kleinen Rat Bussen ausgesprochen. Die Aufgabe der Ofengschauschreiber war es, während der Visitationen Mängel zu dokumentieren und ein Protokoll zu verfassen, das dem Kleinen Rat anschliessend
+                            vorgelegt wurde. Als Lohn erhielten die Schreiber pro Tag 3 Batzen - gleich viel wie die Ratsherren und einen Batzen mehr als die Stadtknechte (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>: <orig>Erneuertes Verzeichnis der sieben Ofengschauen und ihres Bezirks in der Stadt</orig>, 1680).
                             Im 18. Jahrhundert wurden jedoch Klagen bezüglich Entlöhnung laut: 1759 weigerten sich die Hafnermeister wegen unzureichenden Löhnen, den Ofengschauen beizuwohnen. Dies löste nicht nur eine Untersuchung der Löhne von Handwerkern und
                             Sekretären aus (vgl. <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/318605/detail?pageid=50">StAZH B II 906, S. 94</ref></bibl>; <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/318603/detail?pageid=27">StAZH B II 908, S.  49</ref></bibl>), sondern bewirkte nicht zuletzt
                             auch Erneuerungen der Ofengschauordnung in den Jahren 1770 (vgl. <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/313607/detail?pageid=48">StAZH B II 948, S. 92</ref></bibl>; <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/313607/detail?pageid=54">StAZH B II, S. 105</ref></bibl>)
                             und 1784 (vgl. <bibl><ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/312947/detail?pageid=4">StAZH B II 1008, S. 5-6</ref></bibl>).
                         </p>
                         <p>
-                            Nebst Ofengschauen wurden auch regelmässige Baugschauen, also Kontrollen von städtischen Gebäuden, durchgeführt. Der Hinweis auf Bau-Gschauen findet sich schon 1490 im Manual des Natalrats, in dem die beiden "Buwschauer" Jos Schanolt und
-                            Heini Büeler vermerkt sind. Vgl. B II 17, S. 122. Zu diesen Kontrollen gehörten nicht nur Visitationen der Ziegelhütten, die zweimal jährlich stattfanden, sondern auch die Besichtigungen städtischer Gebäude und Bauprojekte. Vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>.
-                            Mit einem sogenannten "Augenschein" legten die drei verordneten Bauherren für den Zürcher Rat Berichte über den Zustand von Gebäulichkeiten oder die Ausführung von Ratsentscheiden vor. Für das Jahr 1680 wurden als solche Johannes Scheuchzer (Bauherr),
-                            Heinrich Werdmüller (Alt Bauherr und Zunftmeister) sowie David Horner (Zunftmeister) genannt. Vgl. StAZH B III 122, S. 42-47. Davon war wohl der Bauherr der sogenannte Baumeister und die beiden Zunftmeister sogenannte Werkmeister. Ähnlich wie bei
-                            den Ofengschauen standen den Bauherren Schreiber zur Verfügung, die Protokolle bei den Baugschauen anfertigten und diese ins Reine übertrugen. Gemäss der vorliegenden Quelle waren dies vermutlich der Bauschreiber sowie der Gschauschreiber.
-                            Ein Schreiber fertigte eine Reinschrift der vom Baumeister geführten Rechnung an, die für gewöhnlich die Einnahmen und Ausgaben des Bauamts vom August bis in den August des Folgejahrs umfasste. Vgl. StAZH F III 4. Vgl. auch 
-                            <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Guex 1986</ref>, S. 19</bibl>. Ob es sich dabei um den in der vorliegenden Quelle erwähnten Baurechnungsschreiber gehandelt haben könnte, ist jedoch unsicher.
-                            Ebenfalls unklar bleibt, in welchem Verhältnis der Umgeldschreiber, der wohl die Verbrauchs- respektive Umsatzsteuer auf Wein und gegebenenfalls Lebensmittel zu erheben
-                            hatte, mit dem Rechnungswesen des Bauamts stand.
-                            Ein weiterer Schreiber des Bauamts war der "schryber bei den buw-spänen". Spätestens seit einem Ratsbeschluss vom 23. November 1611, war es den Bauherren erlaubt, einen Substituten aus der Stadtschreiberkanzlei bei baulichen Streitigkeiten zuzuziehen. Vgl. B III 117 b, S. 3 r.
-                            
-                            Bau-Gschauer: "1490 Man. Nat. Mitt. Corp. Xti: Findet man schon im Man. Nat. Mitt. nach Corp. Xti." = 10.6.1490 (Fronleichnam): B II 17, S. 122 (Meyersches Promptuarium, "Bauherren und der Stadt Buwmeister", S. 72) "Sölle dem Bau-Buch einverleibt werden." (Meyersches Promptuarium, "Bau-Sachen", S. 86)
-                            Bau-Sachen zur Zeit der vorliegenden Quelle, 1680: Stadt- und Unterschreibermanual: 31. März; Unterschreibermanual: 11. August, 11. September, 6. November) (Meyersches Promptuarium, "Bau-Sachen", S. 89)
-                            1454 (Samst. vor Martini, Cor. Duc): Baurechnung: Einnahmen 889 Pfund, 2 Schilling, 11 Heller / 40 Gulden; Ausgaben 689 Pfund, 8 Schilling ; bleibt schuldig 199 Pfund 15 Schilling / 40 Gulden (Meyersches Promptuarium, "Rechnungen", S. 67)
-                            1693 (8. April, Stadtschreibermanual): "Ward die Bauwamts-Rechnung vor Räth u. Burger censirt." (Meyersches Promptuarium, "Rechnungen", S. 58)
-                            Ist der Bau-Gschauer dieselbe Person wie der Gschau-Schryber oder wie der Buw-schryber oder nochmals jemand anderes? Was macht der Baurechnungsschreiber? Ist er derselbe wie der "schryber bei den buw-spänen"?
-                            Die Bausachen waren scheinbar Sache der Unterschreiberei.
-                            Bauamtsreformation 1666: Baumeister, Steinwerkmeister, Holzwerkmeister, Bickelmeister, Gassensetzer, Brunnenmacher, Dachdecker, Schmid, Schlosser, Seiler, Sattler, Wagner, <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>: "Project der Buwampts-Reformation", 1665/1666.
-                            Ebenfalls um die Zeit des vorliegenden Quellenstücks wurde ein Verzeichnis der Mitarbeiter im Bauwesen angelegt. Unter dem Baumeister arbeiteten als Werkmeister ein Steinmetz und ein Zimmermann, dazu der Oberknecht, der Knecht in der Kalkhütte, der
-                            Brunnenmacher, der Dachdecker und der Stadtkarrer. Vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>: "Eydt eines Buwherrn sambt desselben nachgesezten Bedienten", um 1680.
-                            <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Guex 1986</ref></bibl>
-                            Die Ziegelhütte(n?) wurde(n?) zweimal jährlich visitiert. Vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>: "Visitation der Ziegelhütten".
-                            Für das Beispiel einer Bauamtsrechnung vgl. <ref target="QZH_056.xml">QZH 056</ref>.
+                            Nebst Ofengschauen wurden auch regelmässige Baugschauen -  Kontrollen von städtischen Gebäuden - durchgeführt. Der Hinweis auf Baugschauen findet sich schon 1490 im Manual des Natalrats, in dem die beiden <orig>Buwschauer</orig> Jos
+                             Schanolt und Heini Büeler vermerkt sind (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=244273">B II 17</ref></bibl>, S. 122). Zu diesen Kontrollen gehörten nicht nur Visitationen der 
+                            Ziegelhütten, die zweimal jährlich stattfanden, sondern auch die Besichtigungen städtischer Gebäude und Bauprojekte (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>).
+                            Mit einem sogenannten <orig>Augenschein</orig> legten die drei verordneten Bauherren dem Zürcher Rat Berichte über den Zustand von Gebäulichkeiten oder die Ausführung von Ratsentscheiden vor. Für das Jahr 1680 wurden als solche Johannes Scheuchzer (Bauherr),
+                            Heinrich Werdmüller (Alt Bauherr und Zunftmeister) sowie David Horner (Zunftmeister) genannt (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=254474">StAZH B III 122</ref></bibl>, S. 42-47).
+                            Davon war wohl der Bauherr der sogenannte Baumeister und die beiden Zunftmeister sogenannte Werkmeister. Nicht ganz klar ist, ob es sich beim Zunftmeister Heinrich Werdmüller um dieselbe Person handelte, wie der in der
+                            vorliegenden Quelle genannte Bauschreiber mit dem Namen Hans Heinrich Werdmüller. Ähnlich wie bei den Ofengschauen standen den Bauherren Schreiber zur Verfügung, die Protokolle bei den Baugschauen anfertigten und ins Reine
+                            übertrugen. Diese Aufgabe übernahm vermutlich der Gschauschreiber, wobei dem ebenfalls erwähnten Bauschreiber womöglich eine übergeordnete Aufsichtsfunktion zukam. Ein weiterer Schreiber des Bauamts war der <orig>schryber bei den buw-spänen</orig>.
+                            Spätestens seit einem Ratsbeschluss vom 23. November 1611, war es den Bauherren erlaubt, einen Substituten aus der Stadtkanzlei, der auch den Ratssitzungen beiwohnte, bei baulichen Streitigkeiten und Verhandlungen zuzuziehen
+                            (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=254467">B III 117 b</ref></bibl>, S. 3 r und <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=254470">StAZH B III 118</ref></bibl>, S. 225-226).
+                            Die vorliegende Quelle würde darauf hindeuten, dass sich besonders der Substitut der Unterschreiberkanzlei für die Baustreitigkeiten verantwortlich zeigte und auch alle zugehörigen Dokumente in der Unterschreiberkanzlei abzulegen hatte (vgl. für die das Bauamt
+                            umfassende <orig>Trucken</orig>: <bibl><ref target="https://app.transkribus.org/deu/sites/weisses-register-zuerich/doc/831061/detail?pageid=303">Trucke 368</ref></bibl>, <bibl><ref target="https://app.transkribus.org/deu/sites/weisses-register-zuerich/doc/836176/detail?pageid=220">Trucke 169</ref></bibl>
+                            und <bibl><ref target="https://app.transkribus.org/deu/sites/weisses-register-zuerich/doc/836252/detail?pageid=24">Trucke 415</ref></bibl>).
+                            Auch das Handbuch des Baumeisters samt allen darin eingelegten Zetteln sollte der Unterschreiberkanzlei - entweder dem Unterschreiber oder dessen Substitut - abgeliefert, von einem Kanzlisten ins Reine geschrieben und anschliessend dem Rechenschreiber übergeben werden. Dieser hatte die
+                            Bauamtsrechnung zu überprüfen und gutzuheissen (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=254470">StAZH B III 118</ref></bibl>, S. 222). Die Bauamtsrechnungen umfassten für gewöhnlich die Einnahmen und Ausgaben des
+                            Bauamts ab August bis in den August des Folgejahrs und führten zum Ende des Rechnungsjahrs auch allfällige Schuldbeträge auf (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=324002">StAZH F III 4</ref></bibl>; auch
+                            <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Guex 1986</ref>, S. 19</bibl> sowie, als Beispiel einer solchen Bauamtsrechnung <ref target="QZH_056.xml">QZH, Nr. 56</ref>). Ob es sich dabei um den in der
+                            vorliegenden Quelle erwähnten Baurechnungsschreiber gehandelt haben könnte, ist jedoch unsicher. Ebenfalls unklar bleibt, in welchem Verhältnis der Umgeldschreiber, der wohl die Verbrauchs- respektive Umsatzsteuer auf Wein und gegebenenfalls Lebensmittel
+                            zu erheben hatte, mit dem Rechnungswesen des Bauamts stand. In Verzeichnissen der Mitarbeiter im Bauamt aus der zweiten Hälfte des 17. Jahrhunderts ist ein solcher Schreiber - oder überhaupt Schreiber - jedenfalls nicht aufgeführt. Stattdessen wurden folgende
+                            Personen als dem Bauamt zugehörig gezählt, nämlich der Baumeister, Steinwerkmeister, Holzwerkmeister, Bickelmeister, Gassensetzer, Brunnenmacher, Dachdecker, Schmid, Schlosser, Seiler, Sattler, Wagner respektive Stadtkarrer, Oberknecht sowie ein
+                            Knecht in der Kalkhütte (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>: <orig>Project der Buwampts-Reformation</orig>, 1665/1666
+                            und <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=188679">A 49.3</ref></bibl>: <orig>Eydt eines Buwherrn sambt desselben nachgesezten Bedienten</orig>, um 1680).
                         </p>
                     </div>
                 </back>
