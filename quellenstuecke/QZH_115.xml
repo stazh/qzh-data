@@ -15,9 +15,8 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>Staatsarchiv des Kantons Zürich</publisher>
-                <date type="electronic" when="2026-04-xx"/>
-                <!--Publikationsdatum ergänzen -->
-                <date type="print" when="2026-04-xx"/>
+                <date type="electronic" when="2026-04-27"/>
+                <date type="print" when="2026-04-27"/>
             </publicationStmt>
             <seriesStmt xml:id="ssrq-sds-fds">
                 <title>Quellen zur Zürcher Geschichte</title>
