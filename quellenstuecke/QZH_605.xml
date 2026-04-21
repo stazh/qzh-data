@@ -29,9 +29,9 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>Original: StAZH E I 7.3, Nr. 78</idno>
+            <idno>StAZH E I 7.3, Nr. 78</idno>
           </msIdentifier>
-          <head>Verhör und Urteil gegen Magdalena MellikerDie Überschrift auf der Rückseite des Dokuments lautet: Magdalena Mellickerin von Wyach bescheid</head>
+          <head>Verhör und Urteil gegen Magdalena Melliker</head>
           <history>
             <origin>
               <origDate when="1597-05-25"/>
@@ -68,5 +68,10 @@
 <p rend="margin-top">[Urteil]: Diewyl sy sich aller ghorsamme anerbietet, soll sy der gefangenschafft wider ledig gelaßen werden unnd jrem anerbietten statt thůn. Actum mitwuchs den 25ten maij anno etc. 97 p[raese]nt[ibus] herr <persName ref="Keller, Hans">burgermeister Keller</persName> unnd beid reth.</p>
 </div>
     </body>
+    <back>
+      <div>
+        <p>Die Überschrift auf der Rückseite des Dokuments lautet: <q>Magdalena Mellickerin von Wyach bescheid</q>.</p>
+      </div>
+    </back>
   </text>
 </TEI>
