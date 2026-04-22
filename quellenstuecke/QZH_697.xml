@@ -29,7 +29,7 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>StAZH B IV 60, Zettel zwischen fol. 259 und 260</idno>
+            <idno>StAZH B IV 60, fol. 259 a r-v</idno>
           </msIdentifier>
           <head>Bezahlung des Turmhüters und des Spitals</head>
           <history/>
@@ -37,7 +37,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 583</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 583</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -55,9 +57,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der, so für den toͤüffer har wellen den thurn huͤtter und ouch den spittal umb den costen betzallen, heist Hans von <persName ref="Vontobel, Hans">Tobel</persName> von Oberdürtten<note type="editorial"> <placeName ref="Oberdürnten">Oberdürnten</placeName></note>.</p>
-<p>Dem vogt jst geschriben, dz er jnne alher wyße, sy beid zůbezalen.</p>
-</div>
+      <div>
+        <p>Der, so für den toͤüffer har wellen den thurn huͤtter und ouch den spittal umb den costen
+          betzallen, heist Hans von <persName ref="Vontobel, Hans">Tobel</persName> von
+            Oberdürtten<note type="editorial">
+            <placeName ref="Oberdürnten">Oberdürnten</placeName></note>.</p>
+        <p>Dem vogt jst geschriben, dz er jnne alher wyße, sy beid zůbezalen.</p>
+      </div>
     </body>
   </text>
 </TEI>

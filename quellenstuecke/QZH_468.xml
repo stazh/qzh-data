@@ -29,9 +29,14 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>StAZH E I 7.3, Nr. 23 (Handschrift von Hans Rudolf Stumpf)</idno>
+            <idno>StAZH E I 7.3, Nr. 23; Weiteres Autograph: ZBZ, Ms A 67, S. 139-146; Abschriften: ZBZ, Ms A 72, S. 399-404; ebd., Ms J 305, fol- 257-263; ebd., Ms B 163, fol. 58-64</idno>
           </msIdentifier>
           <head>Fürtrag der Kirchenleitung vor dem Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <author role="scribe">Hans Rudolf Stumpf</author>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-07-31"/>
@@ -42,6 +47,12 @@
               <head>Edition</head>
               <bibl>
                 <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 354</bibl>
+              </bibl>
+            </listBibl>
+            <listBibl>
+              <head>Abdruck</head>
+              <bibl>
+                <bibl>Johann Heinrich Ott, Annales anabaptistici, Basel 1672, S. 180-185.</bibl>
               </bibl>
             </listBibl>
           </additional>
