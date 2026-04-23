@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quellen zur Zürcher Geschichte</title>
+            <respStmt>
+               <persName>Valerija Vlasic</persName>
+               <resp key="transcript"/>
+            </respStmt>
+            <respStmt>
+               <persName>Valerija Vlasic</persName>
+               <resp key="tagging"/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Staatsarchiv des Kantons Zürich</publisher>
+            <date type="electronic" when="2025-12-19"/>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Quellen zur Zürcher Geschichte</title>
+            <respStmt>
+               <persName>Staatsarchiv des Kantons Zürich</persName>
+               <resp>Herausgeberschaft</resp>
+            </respStmt>
+            <idno>QZH_102</idno>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5351943">STAZH A
+                     27.98 (Trucke 52, Bündel 11, Nr. 12.6)</idno>
+               </msIdentifier>
+               <head>Bericht des Scharfrichters Jakob Volmar über die wegen Hexereiverdachts verhaftete Barbara Melliker</head>
+               <msContents>
+                  <summary>Scharfrichter Jakob Volmar untersucht die wegen Hexerei inhaftierte
+                     Barbara Melliker auf Hexenmale. Er berichtet, dass er ein solches Mal an ihrem
+                     rechtem Arm gefunden und mit einer Nadel hineingestochen hat, wobei sie keine
+                     Schmerzen empfunden habe. Barbara Melliker vergleicht sich mit der
+                        <q>Leematterin</q>, also Margaretha Huber von Leematt bei Kappel, die als
+                     fromme und unschuldige Frau auch viel gelitten habe. </summary>
+                  <msItem>
+                     <textLang>Deutsch</textLang>
+                     <filiation type="current">Bericht</filiation>
+                     <filiation type="original"><origDate when="1661-06-26"/>26. Juni
+                        1661</filiation>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support><material>Papier</material></support>
+                        <extent/>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin><origDate when="1661-06-26"/></origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass default="false">
+            <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+               <term ref="key003369">Folter</term>
+               <term ref="key000334">Gefängnis</term>
+               <term ref="key000945">Hexerei</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <div>
+            <pb facs="A_27_98__Trucke_52__Bündel_11__Nr__12_6___S__1_.tif"/>
+            <p>
+               <lb/>Actum den <date when="1661-06-24">24ten Juny <lb/>1661</date>
+               <lb/>Beide <choice>
+                  <expan>herren</expan>
+                  <abbr>h</abbr>
+               </choice> nachgengern habend hüt dato <choice>
+                  <expan>meister</expan>
+                  <abbr>mr</abbr>
+               </choice>
+               <lb/><persName ref="GND_131874934">Jacob Vollmar</persName>, den nachrichter, für
+               sich uff das <lb/>rathhus beschieden und ihne befraget, was er <lb/>verschinen
+               sambstag by der verhafften <persName>Barbara <lb/>Mellikerin</persName>, für zeichen
+               an ihrem lyb ge<lb break="no"/>funden. Zügt er an, nachdem er erstens <lb/>synen
+               knecht vorhar inn <placeName ref="LOC_47.368694_8.542611">Wellenberg</placeName>
+               geschickt, <lb/>die <persName>Mellickerin</persName> zu entblößen, habe sy zu ime
+               <lb/>gesagt, was er machen wölle, es gange ihro <lb/>wie der
+                  <persName>Leematteren</persName>, sy syg auch ein <lb/>fromes wyb gsyn, habe auch
+               vill umb <lb/>unschuld lyden müßen, worüber er <lb/>selbsten dahin komen, sy aller
+               orthen <lb/><subst>
+                  <add place="left_margin">besichtiget</add>
+                  <del rend="strikethrough">befunden</del>
+               </subst> und befunden, das sy an dem <lb/>rechten arm hinderthalb gegen dem
+               <lb/>ruggen, das rechte zeichen habe, <add place="above">er</add> habe mit <lb/>dem
+               instrument daryn stechen wöllen, <lb/>habe aber nit mögen hindurch komen, <lb/>sy
+               habe es auch niemaln empfunden.</p>
+            <pb facs="A_27_97__Trucke_52__Buendel_11__Nr__12_6__S__2_.tif"/>
+            <p>
+               <lb/>Bericht <lb/><choice>
+                  <expan>meister</expan>
+                  <abbr>mr</abbr>
+               </choice>
+               <persName ref="GND_131874934">Jacobn Volmars</persName>, des <lb/>nachrichters.</p>
+         </div>
+      </body>
+      <back>
+         <p>Der Fall von Barbara Melliker illustriert die späte Phase der Hexereiverfolgung im Zürcher Herrschaftsgebiet.
+            Bemerkenswert ist, dass sie trotz Geständnis des Beischlafs mit dem
+            Teufel nicht zum Tode verurteilt wurde. Wie aus dem Akten hervorgeht, wurde das gefundene <q>Hexenmal</q> in den weiteren
+            Verhören nicht mehr erwähnt oder belastend thematisiert (vgl. Kommentar zu <ref
+               target="https://qzh.sources-online.org/quellenstuecke/QZH_103">QZH 103</ref>).</p>
+
+      </back>
+   </text>
+</TEI>
