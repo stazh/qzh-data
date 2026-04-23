@@ -29,7 +29,7 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>StAZH B II 103, S. 25 (Manual des Unterschreibers)</idno>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354855">StAZH B II 103, S. 25 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschlüsse</head>
           <history>
@@ -41,9 +41,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 88</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 88</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -62,16 +60,13 @@
   <text>
     <body>
       <div>
-        <p><persName ref="Bürgi, Rudolf">Ruͦdolff Bürgj</persName> von <placeName ref="Wädenswil"
-            >Wedischwyl</placeName><note type="editorial"> Wädenswil</note> jst der thöufferj
+        <p><persName ref="Bürgi, Rudolf">Ruͦdolff Bürgj</persName> von <placeName ref="Wädenswil">Wedischwyl</placeName><note type="editorial"> Wädenswil</note> jst der thöufferj
           abstannden unnd sich begeben, dem vogt gehorsamj zethund. Das soll man dem vogt zuschriben
           unnd darby vermannen, dwyl sich sin (Růdolffen) brůder der thoüffery unnderwinde, das er
             jn<note type="critical">«jn» über der Zeile</note> fenngklichen annemme unnd
           harschicke.</p>
-        <p><placeName ref="Grüningen">Grüningen</placeName> schryben, das sich die thoüffer zů<note
-            type="critical">Folgt gestrichen: wann […] (Lesung unklar)</note>
-          <placeName ref="Wald">Wald</placeName> versamlind, darumb er sin späch<note
-            type="editorial"> Fahndung, Id. X, 76.</note> uff sy mache unnd verschaffe, das sy nach
+        <p><placeName ref="Grüningen">Grüningen</placeName> schryben, das sich die thoüffer zů<note type="critical">Folgt gestrichen: wann […] (Lesung unklar)</note>
+          <placeName ref="Wald">Wald</placeName> versamlind, darumb er sin späch<note type="editorial"> Fahndung, Id. X, 76.</note> uff sy mache unnd verschaffe, das sy nach
           der gepür gestrafft werdint.</p>
       </div>
     </body>

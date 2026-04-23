@@ -29,7 +29,7 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>StAZH B IV 60, fol. 259 a r-v</idno>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355115">StAZH B IV 60, fol. 259 a r-v</idno>
           </msIdentifier>
           <head>Bezahlung des Turmhüters und des Spitals</head>
           <history/>
@@ -37,9 +37,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 583</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 583</bibl>
               </bibl>
             </listBibl>
           </additional>

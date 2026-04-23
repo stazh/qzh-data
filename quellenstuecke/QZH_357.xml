@@ -29,7 +29,7 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>StAZH E I 7.2, Nr. 142</idno>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696605">StAZH E I 7.2, Nr. 142</idno>
           </msIdentifier>
           <head>Kaspar Thomann an Bürgermeister und Rat von Zürich</head>
           <history>
@@ -41,9 +41,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 243</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 243</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -68,11 +66,8 @@
           ghorsame, willige dienst allyzit zůvoran bereit. Uff das schriben, so mir u[wer] e[rsam]
           wißheit uff hüt dato zůgschickt zweyer döüfferen halb, so u[wer] w[ißheit] gfencklich zů
           gfürt worden, uff solichs füg jch u. e. w. zůvernemen, das mir den 21. tag aperrellen zwen
-          töüffer von <placeName ref="Neftenbach">Nefftenbach</placeName> des verschinen<note
-            type="editorial"> vergangenen, Id. VIII, 824.</note> 78. jar jn üwer (miner gnedigen
-          herren) gfencknus gen Kiburg sind gfürt worden, namlich einer so <persName
-            ref="Hedinger, Hans">Hans Hedinger</persName> von <placeName ref="Birmensdorf"
-            >Birmistorff</placeName>, der ander <persName ref="Hotz, Hans">Hans Hotzs</persName> von
+          töüffer von <placeName ref="Neftenbach">Nefftenbach</placeName> des verschinen<note type="editorial"> vergangenen, Id. VIII, 824.</note> 78. jar jn üwer (miner gnedigen
+          herren) gfencknus gen Kiburg sind gfürt worden, namlich einer so <persName ref="Hedinger, Hans">Hans Hedinger</persName> von <placeName ref="Birmensdorf">Birmistorff</placeName>, der ander <persName ref="Hotz, Hans">Hans Hotzs</persName> von
             <placeName ref="Alstetten">Altsteten</placeName>, die der massen mit einer verfürischen
           lerr und seckt und unkristenlichen meinungen, so ich ie von einchen döüfferen ghört, alls
           namlich das nüt war sig, das unsser herr Cristus für ally sünd gnůg tan, sunder allein für
@@ -82,10 +77,7 @@
           bossen meinungen<note type="critical">In der Vorlage: meingen</note> gar fil. In suma waß
           mit jnen geret, sind sy alls halsstarck uff jr<note type="critical">«jr» über der
             Zeile</note> meinungen<note type="critical">In der Vorlage: meingen</note> bliben, ouch
-          das sy nun nüt uff der landrichteren und min uß gnaden beschechne ufflegung<note
-            type="editorial"> Verpflichtung, vgl. <hl
-              to="http://fwb-online.de/go/auflegung.s.1f_1732723200"
-                ><Hyperlink>http://fwb-online.de/go/auflegung.s.1f_1732723200</Hyperlink></hl>
+          das sy nun nüt uff der landrichteren und min uß gnaden beschechne ufflegung<note type="editorial"> Verpflichtung, vgl. <hl to="http://fwb-online.de/go/auflegung.s.1f_1732723200"><Hyperlink>http://fwb-online.de/go/auflegung.s.1f_1732723200</Hyperlink></hl>
             (Frühneuhochdeutsches Wörterbuch).</note> nach lut u. e. w. ußgangnen mandaten anfangs
           wellen schwerren nach<note type="editorial"> noch</note> loben, uß üwer (miner gnedigen
           herren) biet zů züchen, biß ich si 10 tag jn der gfencknus<note type="critical">In der
@@ -97,12 +89,10 @@
             gfenck</note> lobens begeben, ee er wider jn das loch hinab hat wellen, hat er sich ouch
           ergeben zů loben. Hand sy mir dess<note type="critical">Es folgt eine
             Wortstreichung</note> glüpt tan jn min hand<note type="critical">«jn min hand» am Rand
-            mit Verweiszeichen</note>, das sy usß miner gnedigen herren grichten und<note
-            type="critical">Folgt gestrichen: pet</note> bieten ziechen wellen und nüt mer darin, by
+            mit Verweiszeichen</note>, das sy usß miner gnedigen herren grichten und<note type="critical">Folgt gestrichen: pet</note> bieten ziechen wellen und nüt mer darin, by
           dem got so gesprochen hab, das unsser red ja ja sol sin, das selb ja wellen sy halten, wo
           nüt, das dan got<note type="critical">Es folgt eine Wortstreichung</note> sin gnad und
-          hillff von [ihnen] söly züchen. Solichs jch schuldig <pb n="2"
-            facs="E_I_7_2__Nr__142__S__2_.tif"/> uwer ersam wißheit lut des selbigen schribens zů
+          hillff von [ihnen] söly züchen. Solichs jch schuldig <pb n="2" facs="E_I_7_2__Nr__142__S__2_.tif"/> uwer ersam wißheit lut des selbigen schribens zů
           berichten. So fil aber <persName ref="Studer, Christian">Crista Studer</persName>
           betrifft, jst mir sinthalb nüt zu wüssen. Got der allmechtig wellj u. e. w. jn glucklicher
           wolfart erhalten. Geben den 16. tag augsten jm 79. jar.</p>
