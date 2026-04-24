@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
 <p>Umb das täglich kilchengaan seyt er, das sich vyl begebe, das ettwa sine kunden am sonntag jnn unnd vor der predig zů jme zerechnen kommen, das er jnen nit abgeschlagen. Unnd so bald er grech<note type="editorial"> fertig, Id. II, 699.</note> gwesen, er denne gangen. Das aber nit meer beschechenn, sonnder so man jn heysße, erst nach der predig rechnen, er dasselb thůn welle. Unnd bitte hieruff frünntlich unnd unnderthenig, jme hierjnn das best ze thůn, dann er fürer<note type="editorial"> weiter, Id. I, 967.</note> zum kilchen<note type="critical">Folgt gestrichen: gaan</note> unnd tisch gotts gaan, ouch<note type="critical">Folgt gestrichen: sich</note> jnn allweg alles des thůn welle, so üch, minen herren, gefellig syge.</p>
 <pb n="3" facs="E_I_7_2__Nr__96__S__3_.tif"/>
 <pb n="4" facs="E_I_7_2__Nr__96__S__4_.tif"/>
-<p rend="margin-top">[Urteil:] Er soll siner widerwertthen wyß abstaan unnd sich deren nit meer unnderziechen, als er sich dann deß, nachdem er von den gleerten brichtet worden, selbs erbotten. Dann sölte er darüber wyter ungehorsamm erschynnen, wůrde<note type="critical">Folgt gestrichen: die</note> er gewüsßlich die straaff entpfachen, deren er yetz werdt gwesen, wo jm nüt jnn hoffnung der besßerung uß gnaden verschonet were; darnach möge er sich wüsßen zeschicken. Actum mittwuchs deß 22. tag jenners 1550 p[raese]nt[ibus] herr Hab<note type="editorial"> <persName ref="Haab, Johannes">Johannes Haab</persName></note> (statthalter) unnd beyd räth.</p>
+<p rend="margin-top">[Urteil:] Er soll siner widerwertthen wyß abstaan unnd sich deren nit meer unnderziechen, als er sich dann deß, nachdem er von den gleerten brichtet worden, selbs erbotten. Dann sölte er darüber wyter ungehorsamm erschynnen, wůrde<note type="critical">Folgt gestrichen: die</note> er gewüsßlich die straaff entpfachen, deren er yetz werdt gwesen, wo jm nüt jnn hoffnung der besßerung uß gnaden verschonet were; darnach möge er sich wüsßen zeschicken. Actum mittwuchs deß 22. tag jenners 1550 p[raese]nt[ibus] herr Hab<note type="editorial"> <persName ref="GND_119695790">Johannes Haab</persName></note> (statthalter) unnd beyd räth.</p>
 </div>
     </body>
   </text>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,7 @@
   <text>
     <body>
       <div><pb n="2" facs="E_I_7_2__Nr__113__S__2_.tif"/>
-<p>Diewyl diser ­toüf­fer, Peter Rumen, sich erpoten, jnn den nechsten acht tagen, sover er nit darvon abstaan welle, hinwegzemachen, soll herr vogt zů <placeName ref="Regensberg">Regennsperg</placeName><note type="editorial"> <persName ref="Binder, Heinrich">Heinrich Binder</persName> </note> daruf acht haben unnd wenn er für füre<note type="editorial"> für füre: fortführe</note>, jnn angentz<note type="editorial"> sofort, Id. II, 19.</note> darvon heißen ziechen. Actum mitwuchs den 30. d. maj anno 65 pr[aese]nt[ibus] her Müller<note type="editorial"> <persName ref="Müller, Georg">Georg Müller</persName></note> und beid reth.</p>
+<p>Diewyl diser ­toüf­fer, Peter Rumen, sich erpoten, jnn den nechsten acht tagen, sover er nit darvon abstaan welle, hinwegzemachen, soll herr vogt zů <placeName ref="Regensberg">Regennsperg</placeName><note type="editorial"> <persName ref="Binder, Heinrich">Heinrich Binder</persName> </note> daruf acht haben unnd wenn er für füre<note type="editorial"> für füre: fortführe</note>, jnn angentz<note type="editorial"> sofort, Id. II, 19.</note> darvon heißen ziechen. Actum mitwuchs den 30. d. maj anno 65 pr[aese]nt[ibus] her Müller<note type="editorial"> <persName ref="GND_143657992">Georg Müller</persName></note> und beid reth.</p>
 </div>
     </body>
   </text>

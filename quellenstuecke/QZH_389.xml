@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +61,7 @@
     <body>
       <div><head type="Originalsprache">Abhanndlung umb etlicher hingelauffner ­toüf­fern uß dem Källerampt<placeName ref="Kelleramt"/> verfallenn hab unnd gut<note type="critical">Aufschrift auf der Rückseite des ursprünglich gefalteten Dokuments</note></head> 
 <pb n="1" facs="E_I_7_2__Nr__164__S__1_.tif"/>
-<p>Uff donnstag den 5. Aprilis a[nn]o 82 habennd herr stathalter Engelhart<note type="editorial"> <persName ref="Engelhart, Felix">Felix Engelhart</persName></note>, herr vogt<note type="critical">Folgt gestrichen: Pur</note> Thumysen<note type="editorial"> <persName ref="Thumysen, Heinrich">Heinrich Thumysen</persName></note> unnd herr vogt Pur<note type="editorial"> <persName ref="Baur, Rudolf">Rudolf Baur</persName></note> mit mir volgennd personen etlicher hin­ge­lauffener ­toüf­ferenn verfallnen guts halber also abgehanndlet.</p>
+<p>Uff donnstag den 5. Aprilis a[nn]o 82 habennd herr stathalter Engelhart<note type="editorial"> <persName ref="GND_1074070550">Felix Engelhart</persName></note>, herr vogt<note type="critical">Folgt gestrichen: Pur</note> Thumysen<note type="editorial"> <persName ref="Thumysen, Heinrich">Heinrich Thumysen</persName></note> unnd herr vogt Pur<note type="editorial"> <persName ref="Baur, Rudolf">Rudolf Baur</persName></note> mit mir volgennd personen etlicher hin­ge­lauffener ­toüf­ferenn verfallnen guts halber also abgehanndlet.</p>
 <p rend="margin-top"><persName ref="Baumann, Hans">Hannß Buman</persName> vonn <placeName ref="Jonen">Jonen</placeName> gibt von wegen synneß bruders <persName ref="Baumann, Jakob">Jacoben Bumannß</persName> an gält 80 gulden<note type="critical">In der stes Vorlage: fl[orenos].</note> jnn müntz. Zallt also:</p>
 <p>10 gulden jnn müntz zalt er bar,</p>
 <p>35 gulden jnn müntz uff martinij<note type="editorial"> 11. November</note>,</p>
@@ -85,7 +85,7 @@
 <p>Deren jst verhannden einn […]<note type="critical">Lesung unklar</note>.</p>
 <p>80 gulden kompt har vonn der <persName ref="Guggerli, Elsa">Gugerlin</persName>.</p>
 <p rend="margin-top">Unnd was hierjnn nach abrichtung der verzeichneten posten<note type="critical">Folgt gestrichen: zal</note> uberig, ghordt jnn dz seckelampt, ann der Gugerlin gůt deß der […]<note type="critical">Hier bricht der Text ab.</note>.</p>
-<p rend="margin-top">Ist alles bestädt unnd sol der brief inn spital genommen unnd was noch zu bezalen uß dem seckelampt abgricht werden. Actum mentags den 9ten aprilis a[nn]o 82 pr[aese]nt[ibus] herr <persName ref="Bräm, Hans">Bräm</persName> unnd beid räth.<note type="critical">Der Beschluss befindet sich unterhalb der Aufschrift.</note></p>
+<p rend="margin-top">Ist alles bestädt unnd sol der brief inn spital genommen unnd was noch zu bezalen uß dem seckelampt abgricht werden. Actum mentags den 9ten aprilis a[nn]o 82 pr[aese]nt[ibus] herr <persName ref="GND_142913324">Bräm</persName> unnd beid räth.<note type="critical">Der Beschluss befindet sich unterhalb der Aufschrift.</note></p>
 </div>
     </body>
   </text>

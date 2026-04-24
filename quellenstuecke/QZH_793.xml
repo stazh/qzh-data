@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Kyburg">Kyburg</placeName><note type="editorial"> Hans <persName ref="Holzhalb, Hans Jakob">Jakob Holzhalb</persName></note> soll <persName ref="Wyss, Konrad">Conradt Wyßen</persName> von <placeName ref="Baltenswil">Baltenstchwyl</placeName>, so ein ­toüf­ferischer ufwigler, angentz<note type="editorial"> unverzüglich, sofort, Id. II, 19.</note> gfenklich jnzügen laßen<note type="critical">«laßen» über der Zeile</note> und verwart alher schicken.</p>
+      <div><p>Vogt zů <placeName ref="Kyburg">Kyburg</placeName><note type="editorial"> Hans <persName ref="GND_1089450435">Jakob Holzhalb</persName></note> soll <persName ref="Wyss, Konrad">Conradt Wyßen</persName> von <placeName ref="Baltenswil">Baltenstchwyl</placeName>, so ein ­toüf­ferischer ufwigler, angentz<note type="editorial"> unverzüglich, sofort, Id. II, 19.</note> gfenklich jnzügen laßen<note type="critical">«laßen» über der Zeile</note> und verwart alher schicken.</p>
 <p>Und sol der obristknecht anordnung thůn, das die ­toüf­fer jnn der Ringgern huß zů <placeName ref="Niederglatt">Niderglatt</placeName> ußgnommen und sy sampt dem gelt, so sy by jnen hetten, alher gefürt werden.</p>
 </div>
     </body>

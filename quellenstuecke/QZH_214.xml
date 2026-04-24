@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>H[err] <persName ref="Wirth, Christian">Christian Wirt</persName>, dechan in <placeName ref="Winterthur">Wintherdurer</placeName> capittel, zeygt an, wie ein vast<note type="editorial"> sehr</note> schedlicher wolff were zů <placeName ref="Wülflingen">Wülfflingen</placeName>, der were vor zyten verwisen von Wintherthur, dahin er doch widerumb sin zůgang haͤtte. Were ein toͤuffer, sagte, das christen kein oberkeit haben soͤlltind etc. Macht grossen anhang und unwillen. Sye ein fraͤffner<note type="editorial"> dreist, frech, Id. I, 1286.</note> lother<note type="editorial"> Schimpfwort, liederlicher Mensch, Id. III, 1503.</note>. Da begaͤr ein gantz capittel, das man inen, den wolff, abnaͤme.</p>
+      <div><p>H[err] <persName ref="GND_1089479298">Christian Wirt</persName>, dechan in <placeName ref="Winterthur">Wintherdurer</placeName> capittel, zeygt an, wie ein vast<note type="editorial"> sehr</note> schedlicher wolff were zů <placeName ref="Wülflingen">Wülfflingen</placeName>, der were vor zyten verwisen von Wintherthur, dahin er doch widerumb sin zůgang haͤtte. Were ein toͤuffer, sagte, das christen kein oberkeit haben soͤlltind etc. Macht grossen anhang und unwillen. Sye ein fraͤffner<note type="editorial"> dreist, frech, Id. I, 1286.</note> lother<note type="editorial"> Schimpfwort, liederlicher Mensch, Id. III, 1503.</note>. Da begaͤr ein gantz capittel, das man inen, den wolff, abnaͤme.</p>
 <p>Das sol an unser gnedig herren gebracht werden, ob die dem <persName ref="Steiner, Andreas">Steiner</persName><note type="editorial"> Andreas Steiner (gest. 1565)</note>, dem grichtsherren, oder dem herren uff <placeName ref="Kyburg">Kyburg</placeName> oder ouch denen von <placeName ref="Winterthur">Wintherdur</placeName> geschriben haͤttind, damitt sinem verfuͤrren geweert etc.</p>
 </div>
     </body>

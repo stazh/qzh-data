@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herrn vogt zů <placeName ref="Kyburg">Kyburg</placeName><note type="editorial"> <persName ref="Ziegler, Hans">Hans Ziegler</persName> </note> schryben, das er gegen denen personen, so von wägen der töüfferyg jnn das <placeName ref="Mähren">Merherrenn</placeName> land züchen, die straff vermög deß mandats handthaben solle.</p>
+      <div><p>Herrn vogt zů <placeName ref="Kyburg">Kyburg</placeName><note type="editorial"> <persName ref="GND_107582656X">Hans Ziegler</persName> </note> schryben, das er gegen denen personen, so von wägen der töüfferyg jnn das <placeName ref="Mähren">Merherrenn</placeName> land züchen, die straff vermög deß mandats handthaben solle.</p>
 </div>
     </body>
     <back>

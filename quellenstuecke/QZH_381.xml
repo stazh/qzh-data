@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -77,7 +77,7 @@
 <p>Das gůt alles gehört jnn drey theil dem Hanß Brunner, so hinweg jst, und sinem brůder Heinj und der schwöster Margreta, wie obstad.</p>
 <p rend="margin-top">Suma: 1824 g[ulden], 2 tauwen räben.</p>
 <p rend="margin-top">Dargegen sind si ouch biderben<note type="editorial"> ehrenwert, Id. XIII, 1412.</note> lüthen schulldig ungefar uff die 100 g[ulden].</p>
-<p rend="margin-top"><persName ref="Schodoler, Werner">Stattschriber Schodoler</persName> ze <placeName ref="Bremgarten">Bremgarten</placeName></p>
+<p rend="margin-top"><persName ref="GND_1069603171">Stattschriber Schodoler</persName> ze <placeName ref="Bremgarten">Bremgarten</placeName></p>
 </div>
     </body>
     <back>

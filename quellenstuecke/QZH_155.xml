@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +65,7 @@
 <pb n="2" facs="E_I_7_2__Nr__95__S__2_.tif"/>
 <pb n="3" facs="E_I_7_2__Nr__95__S__3_.tif"/>
 <pb n="4" facs="E_I_7_2__Nr__95__S__4_.tif"/>
-<p rend="margin-top">[Urteil:] Wiewol Hanns Keller, <persName ref="Zöbeli, Hans">genant Zöbelj</persName>, luth siner urfechd einen eyd geschworn, sich der widerthoüfferschen leer und säct zemüssigen, hat er sich doch unangesechen desselbigen dero wider angenomen unnd beladen. Deßhalben min herren jnne widerumb fengklichen annemen unnd, von söllichem sinem fürnemen abzestan, vermanen lassen. Unnd nachdem er, von semlicher wider­toüf­fery abzestan, zůgesagt unnd versprochen, ist er für gesesßnen rath gestelt unnd jm mit ernnst unndersagt, das jm min herrenn noch dismals gnad bewysen unnd es genzlich by sinem urfechd beliben lassen. Unnd so er fürer darüber handlen, wellen sy inn luth derselbigen straffen. Darnach söll er sich richten, ouch hinfüro die lüth jnn dem jren mit […]<note type="critical">Lesung unklar</note> rüwig lassen. Actum den dritten januarij anno etc. xlviiij, p[raese]nt[ibus] her Laffater<note type="editorial"> Hans <persName ref="Lavater, Hans Rudolf">Rudolf Lavater</persName></note> und beyd [rät].</p>
+<p rend="margin-top">[Urteil:] Wiewol Hanns Keller, <persName ref="Zöbeli, Hans">genant Zöbelj</persName>, luth siner urfechd einen eyd geschworn, sich der widerthoüfferschen leer und säct zemüssigen, hat er sich doch unangesechen desselbigen dero wider angenomen unnd beladen. Deßhalben min herren jnne widerumb fengklichen annemen unnd, von söllichem sinem fürnemen abzestan, vermanen lassen. Unnd nachdem er, von semlicher wider­toüf­fery abzestan, zůgesagt unnd versprochen, ist er für gesesßnen rath gestelt unnd jm mit ernnst unndersagt, das jm min herrenn noch dismals gnad bewysen unnd es genzlich by sinem urfechd beliben lassen. Unnd so er fürer darüber handlen, wellen sy inn luth derselbigen straffen. Darnach söll er sich richten, ouch hinfüro die lüth jnn dem jren mit […]<note type="critical">Lesung unklar</note> rüwig lassen. Actum den dritten januarij anno etc. xlviiij, p[raese]nt[ibus] her Laffater<note type="editorial"> Hans <persName ref="GND_129995126">Rudolf Lavater</persName></note> und beyd [rät].</p>
 </div>
     </body>
   </text>

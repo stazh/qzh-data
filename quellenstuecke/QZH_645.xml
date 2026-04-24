@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -128,7 +128,7 @@
 <p rend="margin-top">Summa 74 pfund 5 schilling 6 heller.</p>
 <p rend="margin-top">Summarum der gantzen zalung an gellt 590 pfund 19 schilling.</p>
 <p rend="margin-top">Also blyben jch schuldig an gellt 4 pfund 2 schilling 6 heller.</p>
-<p rend="margin-top">Als herr <persName ref="Keller, Hans Conrad">rechenschryber Keller</persName>, erwelter amptman gan <placeName ref="Rüti">Rütj</placeName>, dieser ­toüf­fer rechnung vor mynen herren den rechenherren gegeben, habent sy dran ein gar gůt vernügen unnd wolgefalen gehept und jnne domalen für syn gehapte müyg und ynzug 25 pfund für diß jar zů ergotzligkeit<note type="editorial"> Entschädigung, Vergütung, vgl. <hl to="http://fwb-online.de/go/ergezlichkeit.s.1f_1669852269"><Hyperlink>http://fwb-online.de/go/ergezlichkeit.s.1f_1669852269</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> geschöpfft<note type="critical">Folgt gestrichen: wol</note> und mir daruff von wolgenanten mynen g[nedigen] herren bemelt gůt zů verwalten übergeben und danebet ufferlegt gesagtem herren amptman die 51 pfund, so jme nitt ghört von synen beid gegebnen rechnungen geschöpfft uß den erst gefalnen zinßen zů bezalen unnd khünfftigklichen dem ußgeben ynzůlyben und ab zů rechnen. Actum donstag den 24ten aprilis anno 1600 pr[aesen]t[ibus] herren <persName ref="Grossmann, Konrad">burgermeister Grossman</persName> unnd verordnete rechen herren.</p>
+<p rend="margin-top">Als herr <persName ref="Keller, Hans Conrad">rechenschryber Keller</persName>, erwelter amptman gan <placeName ref="Rüti">Rütj</placeName>, dieser ­toüf­fer rechnung vor mynen herren den rechenherren gegeben, habent sy dran ein gar gůt vernügen unnd wolgefalen gehept und jnne domalen für syn gehapte müyg und ynzug 25 pfund für diß jar zů ergotzligkeit<note type="editorial"> Entschädigung, Vergütung, vgl. <hl to="http://fwb-online.de/go/ergezlichkeit.s.1f_1669852269"><Hyperlink>http://fwb-online.de/go/ergezlichkeit.s.1f_1669852269</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> geschöpfft<note type="critical">Folgt gestrichen: wol</note> und mir daruff von wolgenanten mynen g[nedigen] herren bemelt gůt zů verwalten übergeben und danebet ufferlegt gesagtem herren amptman die 51 pfund, so jme nitt ghört von synen beid gegebnen rechnungen geschöpfft uß den erst gefalnen zinßen zů bezalen unnd khünfftigklichen dem ußgeben ynzůlyben und ab zů rechnen. Actum donstag den 24ten aprilis anno 1600 pr[aesen]t[ibus] herren <persName ref="GND_143658468">burgermeister Grossman</persName> unnd verordnete rechen herren.</p>
 <p rend="margin-top">Rechenschryber.</p>
 </div>
     </body>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Die herren seckelmeister und m[eister] Hans <persName ref="Holzhalb, Hans Heinrich">Heinrich Holtzhalb</persName> söllent gwalt haben, <persName ref="Rütimann, Rudolf">Růdolfen Rütiman</persName> von synes <persName ref="Rütimann, Ulrich">brůders Ůlrichen</persName>, deß ­toüf­fers, hinder mynen herren ligenden gůt 200 g[ulden], wann es syn khan unnd bar verhanden, uff versicherunng zelyhen.</p>
+      <div><p>Die herren seckelmeister und m[eister] Hans <persName ref="GND_143681346">Heinrich Holtzhalb</persName> söllent gwalt haben, <persName ref="Rütimann, Rudolf">Růdolfen Rütiman</persName> von synes <persName ref="Rütimann, Ulrich">brůders Ůlrichen</persName>, deß ­toüf­fers, hinder mynen herren ligenden gůt 200 g[ulden], wann es syn khan unnd bar verhanden, uff versicherunng zelyhen.</p>
 </div>
     </body>
     <back>

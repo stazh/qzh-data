@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der <persName ref="Gwalther, Rudolf">dechan</persName> amm Zürych see kapitel<note type="editorial"> Rudolf Gwalther</note> zeygt, das toͤuffer vil underschlouff habind zů <placeName ref="Horgen">Horgen</placeName>, <placeName ref="Stäfa">Staͤfa</placeName> und <placeName ref="Thalwil">Dallwyl</placeName><note type="editorial"> Talwil</note> etc.</p>
+      <div><p>Der <persName ref="GND_11854392X">dechan</persName> amm Zürych see kapitel<note type="editorial"> Rudolf Gwalther</note> zeygt, das toͤuffer vil underschlouff habind zů <placeName ref="Horgen">Horgen</placeName>, <placeName ref="Stäfa">Staͤfa</placeName> und <placeName ref="Thalwil">Dallwyl</placeName><note type="editorial"> Talwil</note> etc.</p>
 <p>Daruff ward empfolhen, der toͤüfferen namen uffzůzeychnen und dem burgermeister gaͤben oder dem underschryber angaͤben, damitt die unsern herren anzeyg und abgestellt werdint.</p>
 </div>
     </body>

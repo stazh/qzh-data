@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,8 +60,8 @@
   <text>
     <body>
       <div><pb n="4" facs="E_I_7_3__Nr__127__S__4_.tif"/>
-<head type="Originalsprache">Toüffer jnn der vogty Horgen</head> <p>J[unker] Hans Heinrichen von <persName ref="Schönau, Hans Heinrich von">Schönouw</persName>, obervogt zů <placeName ref="Horgen">Horgen</placeName>, jst jme bevelch geben, durch <persName ref="Nägeli, N. (Untervogt)">undervogt Nägelj</persName>, ald<note type="editorial"> oder</note> wen er meint am besten syn, anordnung zethůn, das <persName ref="Landis, Hans">Hanns Landiß</persName> der prediger und <persName ref="Isler, Jakob">Jacob Ißler</persName> jm <placeName ref="Hirzel, Boden">Boden</placeName> der seckelmeister gfengcklich alher jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> gfürt werdint.</p>
-<p>Actum mitwuchs den 5ten octobris anno 1608 p[raese]nt[ibu]s herr burgermeister Großmann<note type="editorial"> <persName ref="Grossmann, Konrad">Konrad Grossmann</persName></note> unnd beide reth.</p>
+<head type="Originalsprache">Toüffer jnn der vogty Horgen</head> <p>J[unker] Hans Heinrichen von <persName ref="Schönau, Hans Heinrich von">Schönouw</persName>, obervogt zů <placeName ref="Horgen">Horgen</placeName>, jst jme bevelch geben, durch <persName ref="Nägeli, N. (Untervogt)">undervogt Nägelj</persName>, ald<note type="editorial"> oder</note> wen er meint am besten syn, anordnung zethůn, das <persName ref="GND_130035173">Hanns Landiß</persName> der prediger und <persName ref="Isler, Jakob">Jacob Ißler</persName> jm <placeName ref="Hirzel, Boden">Boden</placeName> der seckelmeister gfengcklich alher jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> gfürt werdint.</p>
+<p>Actum mitwuchs den 5ten octobris anno 1608 p[raese]nt[ibu]s herr burgermeister Großmann<note type="editorial"> <persName ref="GND_143658468">Konrad Grossmann</persName></note> unnd beide reth.</p>
 <p rend="margin-top">Underschryber s[cripsit]</p>
 </div>
     </body>

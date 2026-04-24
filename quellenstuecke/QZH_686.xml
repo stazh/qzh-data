@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,7 +93,7 @@
 <p>240 pfund empfieng jch an einem schuldbrieff uff <persName ref="Tobler, Christoffel">Christoffel Tobleren</persName> von <persName ref="Zöbeli, Bläsi">Bläßi Zöbelis</persName> des ­toüf­fers von <placeName ref="Mettmenstetten">Mätmenstetten</placeName> jnn der herrschafft <placeName ref="Knonau">Knonow</placeName> hab unnd gůtte, verfalt jerlichen zu 80 pfund und eerste zallung uff martinj 1602 mit dem zinß.</p>
 <p>400 pfund glycher gestaldt an einem schuldbrieff uff <persName ref="Huber, Konrad">Cůnradten Hůber</persName> zů <placeName ref="Babenwag">Babenwäg</placeName> von <persName ref="Hofstetter, Ůli">Ůlj Hofstetters</persName> des ­toüf­fers daselbsten hab und gůtte,  jst mir jnbysyn herren vogt Rublis<note type="editorial"> <persName ref="Rubli, Alexander">Alexander Rubli</persName></note> übergäben und mit synen schuldnern luther abgerechnet worden, verfalt jerrlichen zů 100 pfund ohne zinnß und eerste zallung uff martinj 1603.</p>
 <p>300 pfund empfieng jch von herren vogt Wolffen<note type="editorial"> Hans <persName ref="Wolf, Hans Ulrich">Ulrich Wolf</persName></note> zů <placeName ref="Kyburg">Kyburg</placeName> an einem schuldbrief von <persName ref="Bosshard, Christen">Christen Boßharten</persName> des ­toüf­fers usß der grafschafft Kyburg hab und gůte uff Hanns <persName ref="Wynmann, Rudolf">Růdolffen Wynmman</persName><bm id="278"/> zů <placeName ref="Wintherthur">Winterthur</placeName><bm id="279"/>, gefallt jerrlichen zů 100 pfund unnd eerste zallung und zinnß uff martinj 1602.</p>
-<p>271 pfund übergab mir j[unker] <persName ref="Walder, Heinrich">Heinrich Walder</persName> obervogt zů <placeName ref="Rümlang">Rümlang</placeName> von <persName ref="Gassmann, Andreas">Andereßen Gassmanns</persName> des ­toüf­fers hab unnd gůtte, so von Rümlang jnn <placeName ref="Mähren">Mehrherren</placeName> gezogen, an zweyen schuldtbrieffen, vermög jr der herren obervögten zů Rümlang gethonen abhanndlung und eines ußzugs, verfalendt uf martinj 1603 ohne zinnß.</p>
+<p>271 pfund übergab mir j[unker] <persName ref="GND_143673416">Heinrich Walder</persName> obervogt zů <placeName ref="Rümlang">Rümlang</placeName> von <persName ref="Gassmann, Andreas">Andereßen Gassmanns</persName> des ­toüf­fers hab unnd gůtte, so von Rümlang jnn <placeName ref="Mähren">Mehrherren</placeName> gezogen, an zweyen schuldtbrieffen, vermög jr der herren obervögten zů Rümlang gethonen abhanndlung und eines ußzugs, verfalendt uf martinj 1603 ohne zinnß.</p>
 <p>110 pfund empfieng jch glychvhals von <persName ref="Kern, Hans">Hannßen Kernen</persName> zů <placeName ref="Rümlang">Rümlang</placeName> hab und gůtte an einem schuldbrieff, verfallendt zů 36 pfund ohne zinnß unnd eerste zallung 1602.</p>
 <p rend="margin-top">Summarum yngenommen von nüwem ­toüf­fer gůtt an gellt 1321 pfund.</p>
 <p rend="margin-top">| [fol. 4r] Summa summarum alles ynnemens diß 1601. jars an haubtgůtt 5956 pfund 16 schilling, an jerrlichen zinsen 203 pfund 9 schilling 6 heller.</p>

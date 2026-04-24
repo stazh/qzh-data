@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Beid herren burgermeister, die vier obersten meister, beid seckelm[eister] und obman Raan<note type="editorial"> Hans <persName ref="Rahn, Hans Rudolf">Rudolf Rahn</persName></note> söllent ein ratschlag thůn, ob man den toüferen, so uß dem land zezüchen begerend, jr gůt nachvolgen laßen wölle oder nit.</p>
+      <div><p>Beid herren burgermeister, die vier obersten meister, beid seckelm[eister] und obman Raan<note type="editorial"> Hans <persName ref="GND_143647792">Rudolf Rahn</persName></note> söllent ein ratschlag thůn, ob man den toüferen, so uß dem land zezüchen begerend, jr gůt nachvolgen laßen wölle oder nit.</p>
 </div>
     </body>
     <back>

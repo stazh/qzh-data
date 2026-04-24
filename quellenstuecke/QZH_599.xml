@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>J[unker] Joße von <persName ref="Bonstetten, Jost von">Bonstetten</persName>, obervogt daselbs, soll über die 600 pfund<note type="critical">In der Vorlage: lb</note> <persName ref="Toggwiler, Ruedi">Ruͤdj Toggwylers</persName> von <placeName ref="Bonstetten">Bonstetten</placeName> (der vor jaren jnn <placeName ref="Mähren">Merrhern</placeName> von der ­toüf­ferischen sect wegen gezogen und jetzt da unden gestorben) gůte von oberkeit wegen die hand schlahen<note type="editorial"> hand schlahen: Eigentum angreifen</note>. So dann den verwandten deßwegen etwas angelegen, wirt man denselben gebürenden bscheid geben.</p>
+      <div><p>J[unker] Joße von <persName ref="GND_1072490153">Bonstetten</persName>, obervogt daselbs, soll über die 600 pfund<note type="critical">In der Vorlage: lb</note> <persName ref="Toggwiler, Ruedi">Ruͤdj Toggwylers</persName> von <placeName ref="Bonstetten">Bonstetten</placeName> (der vor jaren jnn <placeName ref="Mähren">Merrhern</placeName> von der ­toüf­ferischen sect wegen gezogen und jetzt da unden gestorben) gůte von oberkeit wegen die hand schlahen<note type="editorial"> hand schlahen: Eigentum angreifen</note>. So dann den verwandten deßwegen etwas angelegen, wirt man denselben gebürenden bscheid geben.</p>
 </div>
     </body>
     <back>

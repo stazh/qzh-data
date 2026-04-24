@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -73,7 +73,7 @@
 <pb n="2" facs="E_I_7_3__Nr__46__S__2_.tif"/>
 <p rend="margin-top">So denne sind jm Kätzerthurn:</p>
 <p><persName ref="Bruppach, Rutsch">Růtsch Brugpach</persName> von <placeName ref="Wädenswil">Wedeschwyl</placeName>, man hat jme und anderen ußgholffen.</p>
-<p><persName ref="Landis, Hans">Hanns Landiß</persName> von Horgen, disser jst mit jme ußkhomen.</p>
+<p><persName ref="GND_130035173">Hanns Landiß</persName> von Horgen, disser jst mit jme ußkhomen.</p>
 <p><persName ref="Hön, Peter">Petter Hön</persName> von Wedeschwyl hat sich bekert, soll 10 pfund<note type="critical">In der Vorlage: lb</note> zebůß unnd 5 pfund an kosten geben. Actum sambßtags den 1ten novembris anno etc. 89 pr[aesen]t[ibus] herr Kamblj unnd beid reth.</p>
 <p><persName ref="Wälti, Jagli">Jaglj Wältj</persName> ußm <placeName ref="Suhrental">Surenthal</placeName> jst uff anloben, uß myner herren gricht unnd piet zezüchen unnd darjn one ein gleit nit mehr zekhommen, ledig gelassen. Actum menntags den 3ten novembris anno etc. 89.</p>
 <p rend="margin-top">Item so sind jm nüwen thurn:</p>

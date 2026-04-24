@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt uff <placeName ref="Regensberg">Regensperg</placeName> soll abermalen jr kundschafft uff sy<note type="editorial"> Vgl. Nr. 129.</note> machen und alher gfengklichen schicken. Actum 13ten may anno etc. 66 p[raese]nt[ibus] herr <persName ref="Müller, Georg">Müller</persName> und beid reth.</p>
+      <div><p>Vogt uff <placeName ref="Regensberg">Regensperg</placeName> soll abermalen jr kundschafft uff sy<note type="editorial"> Vgl. Nr. 129.</note> machen und alher gfengklichen schicken. Actum 13ten may anno etc. 66 p[raese]nt[ibus] herr <persName ref="GND_143657992">Müller</persName> und beid reth.</p>
 </div>
     </body>
   </text>

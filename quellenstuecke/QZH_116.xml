@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -56,7 +56,7 @@
   <text>
     <body>
       <div><pb n="1" facs="E_I_7_2__Nr__102__S__1_.tif"/>
-<p>Frommen, vestenn, ersamen, fürsichtigenn, wysenn hern. Alls wir numals üwer ersamen wyßheitenn umb bericht unnd rath angerufft von der thöuffern wegen, da ein eegemachell<note type="editorial"> Ehegemahl, Ehepartner, Id. IV, 69.</note> das annder verlaßt mit sampt den khinden, ouch wäder gebott noch eyd halltennd etc., hat ewer ersam wyßheyten unns bevollchenn, mit sampt meyster <persName ref="Zwingli, Huldrych">Ůlrichenn</persName><note type="editorial"> Huldrych Zwingli (1484-1531)</note> hieruff bethrachtung zethůnd unnd unnser radtschleg widerumb an üch lassenn langen, wyter der billickeyt nach jnn solichem zehanndlen. Das jst flysßcklich beschechenn unnd jst der hinlouffennden töuffern halb unnser meynung:</p>
+<p>Frommen, vestenn, ersamen, fürsichtigenn, wysenn hern. Alls wir numals üwer ersamen wyßheitenn umb bericht unnd rath angerufft von der thöuffern wegen, da ein eegemachell<note type="editorial"> Ehegemahl, Ehepartner, Id. IV, 69.</note> das annder verlaßt mit sampt den khinden, ouch wäder gebott noch eyd halltennd etc., hat ewer ersam wyßheyten unns bevollchenn, mit sampt meyster <persName ref="GND_118637533">Ůlrichenn</persName><note type="editorial"> Huldrych Zwingli (1484-1531)</note> hieruff bethrachtung zethůnd unnd unnser radtschleg widerumb an üch lassenn langen, wyter der billickeyt nach jnn solichem zehanndlen. Das jst flysßcklich beschechenn unnd jst der hinlouffennden töuffern halb unnser meynung:</p>
 <p>Wann ein eegemachell, das jnn der jrrung der töuffery vergriffenn ist, das annder unnd sine khind verlaßt unnd der boͤßenn rodt nachloufft unnd anhanngett, wo dasselbig jnn unnser herrn gebiett ergriffenn wirt, one gnad an lyb unnd läbenn gestrafft werde.</p>
 <p>So es aber nit ergriffenn unnd sich usserthalb erhalltet<note type="editorial"> sich aufhalten</note> jnn anndern ortenn, besonnder jnn unnserer cristenlichenn mittburgern gebietten, dasellbennd sol mans durch zůschrybenn der obern verschreyen<note type="editorial"> jemanden amtlich in Verruf erklären, Id. IX, 1456.</note> unnd verschaffenn, das mit jm gehanndlet werd nach sinem verdienen. Unnd so ewer ersam wyßheittenn sömlichs wurd annemen unnd erkhennen<note type="editorial"> festsetzen, Id. III, 313.</note>, offenlich jnn statt unnd lannd ußkhünden lassen.</p>
 <p>Aber sidtenmaln<note type="editorial"> da, weil, Id. IV, 147.</note> nit alleyn unnser hern lanndtschafft mit solichem unfaßell<note type="editorial"> schlechtes Volk, Id. I, 1056.</note> beschwärdt ist, sonnder ouch annder obgemellt<note type="editorial"> oben gemeldete</note> crystennlich stett unnd mittburger, die yetz uff nechstenn tag<note type="editorial"> eidgenössische Tagsatzung, Id. XII, 796.</note> zůsammen khomen, beduͤchte unns gůt unnd nütz sin, mit den selbenn hierumb ouch zeredenn unnd zeradtschlagenn, damit einhelligcklich gehanndlet unnd eyn maß gehalltenn wurde.<note type="editorial"> Vgl. hierzu EA IV/1b, Nr. 526 i.</note></p>

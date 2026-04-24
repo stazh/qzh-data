@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +67,7 @@
 <p rend="margin-top">Nachdem myn herren, die verordneten nachgänger, Paulj Galliatzen die von üch, mynen gnedigen herren, ussgesprochne urtheyl vermeldet unnd angezeigt, hat er daruf volgende antwort gäben, das er den costen jetzmalen nit zůbezallen habe, syge ouch zůbesorgen, diewyl er die schůl nit länger dann vierzächen tag ghallten, es möge jm noch bißdahin nutzit von synnen leerknaben werden. Wann er aber bis uff nechtskhunfftige fasnacht<note type="editorial"> 4. Februar 1584</note> underschlouff unnd herberig haben möchte, were er gůtter hoffnung, üch mynen gnedigen umb den costen einen willen zemachcn, ouch synner verheisßung statt zethůn.</p>
 <pb n="3" facs="E_I_7_2__Nr__170__S__3_.tif"/>
 <pb n="4" facs="E_I_7_2__Nr__170__S__4_.tif"/>
-<p rend="margin-top">[Urteil:] Diewyl <persName ref="Galleazo, Paulo">diser Galliatz</persName> loben wil, das er myner herren gricht unnd gebiett myden unnd sich daruß thůn, sol dasselbig beschähenn unnd sich jnnderthalb viertzechen tagen nit meer darjnn finnden. Sonster er uff dißmaln nach abfertigung alles uff jnne erganngnen costenns der gefanngenschafft ledig gelasßen werdenn sölle. Actum den 12ten decembris anno etc. 83. p[raese]nt[ibus] <persName ref="Kambli, Hans">Hans Kamblj</persName> unnd beid reth.</p>
+<p rend="margin-top">[Urteil:] Diewyl <persName ref="Galleazo, Paulo">diser Galliatz</persName> loben wil, das er myner herren gricht unnd gebiett myden unnd sich daruß thůn, sol dasselbig beschähenn unnd sich jnnderthalb viertzechen tagen nit meer darjnn finnden. Sonster er uff dißmaln nach abfertigung alles uff jnne erganngnen costenns der gefanngenschafft ledig gelasßen werdenn sölle. Actum den 12ten decembris anno etc. 83. p[raese]nt[ibus] <persName ref="GND_143680544">Hans Kamblj</persName> unnd beid reth.</p>
 </div>
     </body>
   </text>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der dechan am Zürych see<note type="editorial"> <persName ref="Gwalther, Rudolf">Rudolf Gwalther</persName></note> zeygt an, das das kinder und todten vertrincken<note type="editorial"> ein Ereignis oder eine Person mit (übermässigem) Trinken feiern, Id. XIV, 1477.</note> seer wider zůnaͤmind sampt den toͤuffern. Das ward an unser herren gewysen.</p>
+      <div><p>Der dechan am Zürych see<note type="editorial"> <persName ref="GND_11854392X">Rudolf Gwalther</persName></note> zeygt an, das das kinder und todten vertrincken<note type="editorial"> ein Ereignis oder eine Person mit (übermässigem) Trinken feiern, Id. XIV, 1477.</note> seer wider zůnaͤmind sampt den toͤuffern. Das ward an unser herren gewysen.</p>
 </div>
     </body>
   </text>

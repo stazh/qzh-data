@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,7 @@
   <text>
     <body>
       <div><pb n="4" facs="E_I_7_2__Nr__112__S__4_.tif"/>
-<p>Diser töüffer<note type="editorial"> Vgl. Nr. 114. Offenbar wurde Michel Nespler verhaftet und vor das Ratsgericht gestellt. Von der Einvernahme sind keine Aufzeichnungen überliefert.</note> ward nach<note type="critical">Folgt gestrichen: der gfenngknuß</note> erleggung dess costens uff ein urfecht der gefenngknus erlaßet. Actum mitwuch den 14ten novembris anno 64 pr[aese]nt[ibus] herr von Chaam<note type="editorial"> Bernhard von <persName ref="Cham, Bernhard von">Cham</persName></note> und beid reth.</p>
+<p>Diser töüffer<note type="editorial"> Vgl. Nr. 114. Offenbar wurde Michel Nespler verhaftet und vor das Ratsgericht gestellt. Von der Einvernahme sind keine Aufzeichnungen überliefert.</note> ward nach<note type="critical">Folgt gestrichen: der gfenngknuß</note> erleggung dess costens uff ein urfecht der gefenngknus erlaßet. Actum mitwuch den 14ten novembris anno 64 pr[aese]nt[ibus] herr von Chaam<note type="editorial"> Bernhard von <persName ref="GND_143680382">Cham</persName></note> und beid reth.</p>
 </div>
     </body>
   </text>

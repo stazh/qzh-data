@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -56,7 +56,7 @@
   <text>
     <body>
       <div><pb n="1" facs="E_I_7_3__Nr__129__S__1_.tif"/>
-<p>Als beide herren obervögt<note type="editorial"> Hans Heinrich von <persName ref="Schönau, Hans Heinrich von">Schönau</persName> und <persName ref="Füssli, Peter">Peter Füssli</persName></note> zů <placeName ref="Horgen">Horgen</placeName> sampt herren <persName ref="Murer, Johann Kaspar">Caspar Murer</persName> und herrn Jacoben Ůlrich<note type="critical">In der Vorlage: <persName ref="Ulrich, Johann Jakob">Ůrich</persName></note> widerumb zů Hanßen Landiß dem wider­toüf­fer jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kheert unnd jnne nachmaaln mit allem erntst befragt, ob er doch khein ander gemuͤt<note type="editorial"> Gesinnung, Id. IV, 587.</note> an sich genommen unnd sich über die hievor gegen jmme jnn allenn thrüwen gethanen lehren und underwyßungen kheines andern bedacht habe unnd weßen nachmaln gesinet syge.</p>
+<p>Als beide herren obervögt<note type="editorial"> Hans Heinrich von <persName ref="Schönau, Hans Heinrich von">Schönau</persName> und <persName ref="Füssli, Peter">Peter Füssli</persName></note> zů <placeName ref="Horgen">Horgen</placeName> sampt herren <persName ref="Murer, Johann Kaspar">Caspar Murer</persName> und herrn Jacoben Ůlrich<note type="critical">In der Vorlage: <persName ref="GND_100295231">Ůrich</persName></note> widerumb zů Hanßen Landiß dem wider­toüf­fer jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kheert unnd jnne nachmaaln mit allem erntst befragt, ob er doch khein ander gemuͤt<note type="editorial"> Gesinnung, Id. IV, 587.</note> an sich genommen unnd sich über die hievor gegen jmme jnn allenn thrüwen gethanen lehren und underwyßungen kheines andern bedacht habe unnd weßen nachmaln gesinet syge.</p>
 <p>Ist er über vilfaltigs anhalten und underwyßung uß heiliger göttlicher gschrifft nachmaaln by synem eigenrichtigen kopf und geistlichen hoffart verbliben mit anzeigung, wann man den kilchen ban ansäche<note type="editorial"> anordnen, Id. VII, 555f.</note> unnd ein ander läben, weder aber bißhar beschächen, fuͤre, so welle er alsdann<note type="critical">«als» über der Zeile.</note> ouch jnn die kilchen gaan.</p>
 <pb n="2" facs="E_I_7_3__Nr__129__S__2_.tif"/>
 <pb n="3" facs="E_I_7_3__Nr__129__S__3_.tif"/>

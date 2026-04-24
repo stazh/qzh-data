@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -64,7 +64,7 @@
 <p rend="margin-top">U[wer] diennstwilliger</p>
 <p>H. W. Zoller</p>
 <pb n="2" facs="E_I_7_2__Nr__118__S__2_.tif"/>
-<p rend="margin-top">Dem edlenn eerhennvestenn heren Bernharten von <persName ref="Cham, Bernhard von">Kham</persName>, burgermeister der statt <placeName ref="Zürich">Zürich</placeName>, minem günstigen herren und fründtlichen lieben schwagern.</p>
+<p rend="margin-top">Dem edlenn eerhennvestenn heren Bernharten von <persName ref="GND_143680382">Kham</persName>, burgermeister der statt <placeName ref="Zürich">Zürich</placeName>, minem günstigen herren und fründtlichen lieben schwagern.</p>
 </div>
     </body>
   </text>

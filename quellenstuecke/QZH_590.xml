@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +61,7 @@
     <body>
       <div><p>Antreffend Heinrichen Rützenstorfer, der sich unnder jnen setzten wolte</p>
 <pb n="8" facs="E_I_7_3__Nr__74__S__8_.tif"/>
-<p rend="margin-top">Dem Rützenstorffer soll uß bevelch myner herren anzeigt werden, das er sambt synem wyb wie anndere christenlüth auch jnn die kilchen zur predig gangind. Wo sy das<note type="critical">Folgt gestrichen: nit</note> thůnd, jst mynen herren nit zwider, dann das sy der enden<note type="editorial"> Ort, Id. I, 314.</note> belyben und hußen mögind. Woveer<note type="editorial"> wenn, Id. I, 914.</note> sy aber dz nit thůn welten, söllent sy gfengklich alher gefuͤrt unnd wyter nach gebür mit jnen gehandlet werden. Actum den 26ten maij anno etc. 95, p[raese]nt[ibus] herr burgermeister Keller<note type="editorial"> <persName ref="Keller, Hans">Hans Keller</persName> <bm id="207"/></note> unnd beid reth.</p>
+<p rend="margin-top">Dem Rützenstorffer soll uß bevelch myner herren anzeigt werden, das er sambt synem wyb wie anndere christenlüth auch jnn die kilchen zur predig gangind. Wo sy das<note type="critical">Folgt gestrichen: nit</note> thůnd, jst mynen herren nit zwider, dann das sy der enden<note type="editorial"> Ort, Id. I, 314.</note> belyben und hußen mögind. Woveer<note type="editorial"> wenn, Id. I, 914.</note> sy aber dz nit thůn welten, söllent sy gfengklich alher gefuͤrt unnd wyter nach gebür mit jnen gehandlet werden. Actum den 26ten maij anno etc. 95, p[raese]nt[ibus] herr burgermeister Keller<note type="editorial"> <persName ref="GND_143657062">Hans Keller</persName> <bm id="207"/></note> unnd beid reth.</p>
 <pb n="3" facs="E_I_7_3__Nr__75__S__3_.tif"/>
 </div>
     </body>

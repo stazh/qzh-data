@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +66,7 @@
 <p>Sovil dann antreffe die oberkeiten, wüße er wol, das dieselbigen von gott dem allmechtigen yngsetzt und geordnet sygind, dann wo das nit, möchte doch dhein einigkeit und grechtigkeit by den mentschen<note type="critical">«by den mentschen» am Rand mit Verweiszeichen</note> nit erhalten werden. Er begere ouch, wie man dann anderst nie erfaren, <pb n="2" facs="E_I_7_3__Nr__66__S__2_.tif"/> üwer (myner g[nedigen] herren) gůten christenlichen satzungen und ordnungen gehorsamlich und flyßig nachzekommen, wie er sich dann allezyt beflißen. Dann<note type="critical">«dann» über der Zeile</note> ob<note type="critical">Folgt gestrichen: aber</note> glych wol er vor etwas langen jaren ein mal ald zweig<note type="editorial"> zwei</note> den töüfferischen predigen zůgehört, habe er doch denselbigen nit nachgevolgt unnd mit den töüfferen nützit zeschaffen ghept, sonder allweg den kilchgang unnd<note type="critical">«den kilchgang unnd» über der Zeile, in der Zeile gestrichen: wie einanderen</note> die predigen bsůcht<note type="critical">Folgt gestrichen: unnd den kilchganng</note> unnd so er dem was er alda ghört nachkommen, were er jnn sölliche sünnd, wie sich aber erscheint, nit gfallen. Bitte deßhalben gott den allmechtigen<note type="critical">«gott den allmechtigen» am Rand mit Verweiszeichen</note>, üch, myn g[nedig] herren, unnd die herren predicanten<note type="critical">«predicanten» über der Zeile, in der Zeile gestrichen: gleerten</note> gemeinlich gantz hochlich umb gnad und<note type="critical">«gantz hochlich umb gnad und» am Rand mit Verweiszeichen</note> jmme dißeren synen begangnen feler unnd sünnd gnedigklichen zůverzychen unnd der gfangenschafft zůerledigen, so welle er sich halten und erzeigen, das man gsechen muͤße, er sich beßeret habe.</p>
 <pb n="3" facs="E_I_7_3__Nr__66__S__3_.tif"/>
 <pb n="4" facs="E_I_7_3__Nr__66__S__4_.tif"/>
-<p rend="margin-top">[Urteil]: Er jst biß uff gnad ehr- und wehrloß erkhendt, soll 200 gulden<note type="critical">In der Vorlage: fl.</note> ze bůß geben allen costen, uff dsach ergangen, abtragen unnd uff nechsten sambßtag für rath gestelt werden, wie dann syn urteil jm rathsbůch baptistalis anno etc. 91 wytloüffig verzeichnet stadt<note type="editorial"> Vgl. Nr. 450.</note>. Actum mitwuchs den 17. d. novembris anno etc. 91 p[raese]nt[ibu]s herr <persName ref="Grossmann, Konrad">Großman</persName><bm id="189"/> unnd beid reth.</p>
+<p rend="margin-top">[Urteil]: Er jst biß uff gnad ehr- und wehrloß erkhendt, soll 200 gulden<note type="critical">In der Vorlage: fl.</note> ze bůß geben allen costen, uff dsach ergangen, abtragen unnd uff nechsten sambßtag für rath gestelt werden, wie dann syn urteil jm rathsbůch baptistalis anno etc. 91 wytloüffig verzeichnet stadt<note type="editorial"> Vgl. Nr. 450.</note>. Actum mitwuchs den 17. d. novembris anno etc. 91 p[raese]nt[ibu]s herr <persName ref="GND_143658468">Großman</persName><bm id="189"/> unnd beid reth.</p>
 </div>
     </body>
   </text>

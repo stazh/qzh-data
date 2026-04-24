@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +65,7 @@
 <pb n="2" facs="E_I_7_2__Nr__131__S__2_.tif"/>
 <pb n="3" facs="E_I_7_2__Nr__131__S__3_.tif"/>
 <pb n="4" facs="E_I_7_2__Nr__131__S__4_.tif"/>
-<p rend="margin-top">[Urteil:] Diewyl er gar allt, wellennt myne herren jnne der gfanngenschafft erlaßen, doch das er m[eister] Hanns <persName ref="Schwyzer, Hans Rudolf">Rudollfen Schwytzer</persName> als an eydts statt an die hannd globben, sich niemeer meer jnn myner herr gricht unnd pieth finnden zlaßen. Dann so er darüber jnn myner herren gricht unnd gepieth beträten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, werde man gägen jme nüt annders fürnemmen, dann was sich gägen einem meyneiden man zehanndlen gepürt. Darnach möge er sich zerichten wüssen. Actum sampstags den <nswk/> 3ten decembris anno etc. 75 p[raese]nt[ibus] herr burgermeister Kamblj<note type="editorial"> <persName ref="Kambli, Hans">Hans Kambli</persName></note> unnd beid reth.</p>
+<p rend="margin-top">[Urteil:] Diewyl er gar allt, wellennt myne herren jnne der gfanngenschafft erlaßen, doch das er m[eister] Hanns <persName ref="Schwyzer, Hans Rudolf">Rudollfen Schwytzer</persName> als an eydts statt an die hannd globben, sich niemeer meer jnn myner herr gricht unnd pieth finnden zlaßen. Dann so er darüber jnn myner herren gricht unnd gepieth beträten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, werde man gägen jme nüt annders fürnemmen, dann was sich gägen einem meyneiden man zehanndlen gepürt. Darnach möge er sich zerichten wüssen. Actum sampstags den <nswk/> 3ten decembris anno etc. 75 p[raese]nt[ibus] herr burgermeister Kamblj<note type="editorial"> <persName ref="GND_143680544">Hans Kambli</persName></note> unnd beid reth.</p>
 </div>
     </body>
   </text>

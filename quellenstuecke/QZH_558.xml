@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +65,7 @@
 <pb n="2" facs="E_I_7_3__Nr__64__S__2_.tif"/>
 <pb n="3" facs="E_I_7_3__Nr__64__S__3_.tif"/>
 <pb n="4" facs="E_I_7_3__Nr__64__S__4_.tif"/>
-<p rend="margin-top">[Urteil]: Myn herren wellent recht uff dißmalen an syn verantwortung khommen<note type="editorial"> kommen an: etwas annehmen, Grimm 11, 1675.</note>, also das er nach erlegung deß kostens der gfangenschafft erlaßen werden. Doch soll jme nit zůgelaßen syn, das wyb, so er jetzt genommen, zů kilch unnd straßen zefuͤren unnd er ouch mitt derselben ehlich nit jngfuͤrt werden, biß er glaubwürdigen schyn bringt, das die vorig syn eefrouw synem fürgäben nach mitt tod abgangen syge. Hienebent soll dem vogt zů Gryfensee geschriben werden, syn (Schnyders) abgestorbnen frouwen gůt nachzefragen unnd dasselbig jnn verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> zelegen, dann myn herren vermeinind, dasselbig von deßwegen, dz sy, die frow, hinweg under die ­toüf­ferisch sect gezogen, jnen als oberkeit heimbgfallen und verwürckt syge. Actum, 20ten martij anno etc. 91 pr[aese]nt[ibu]s herr b[urgermeister] <persName ref="Thomann, Kaspar">Tomman</persName> und beid reth.</p>
+<p rend="margin-top">[Urteil]: Myn herren wellent recht uff dißmalen an syn verantwortung khommen<note type="editorial"> kommen an: etwas annehmen, Grimm 11, 1675.</note>, also das er nach erlegung deß kostens der gfangenschafft erlaßen werden. Doch soll jme nit zůgelaßen syn, das wyb, so er jetzt genommen, zů kilch unnd straßen zefuͤren unnd er ouch mitt derselben ehlich nit jngfuͤrt werden, biß er glaubwürdigen schyn bringt, das die vorig syn eefrouw synem fürgäben nach mitt tod abgangen syge. Hienebent soll dem vogt zů Gryfensee geschriben werden, syn (Schnyders) abgestorbnen frouwen gůt nachzefragen unnd dasselbig jnn verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> zelegen, dann myn herren vermeinind, dasselbig von deßwegen, dz sy, die frow, hinweg under die ­toüf­ferisch sect gezogen, jnen als oberkeit heimbgfallen und verwürckt syge. Actum, 20ten martij anno etc. 91 pr[aese]nt[ibu]s herr b[urgermeister] <persName ref="GND_143659413">Tomman</persName> und beid reth.</p>
 </div>
     </body>
     <back>

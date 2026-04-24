@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +67,7 @@
 <p>Unnd bitt darnebent üch, min g[nedig] herren, höchlich umb gnad unnd erledig der gfanngenschafft.</p>
 <pb n="3" facs="E_I_7_3__Nr__38__S__3_.tif"/>
 <pb n="4" facs="E_I_7_3__Nr__38__S__4_.tif"/>
-<p rend="margin-top">[Urteil]: Die gfengknuß soll der rebstöcken halb syn bůß syn, wie ouch deß hinwegzugs. Actum sambstags den 2ten novembris anno etc. 88 p[raese]nt[ibus herr <persName ref="Kambli, Hans">Kamblj</persName> und beid reth.</p>
+<p rend="margin-top">[Urteil]: Die gfengknuß soll der rebstöcken halb syn bůß syn, wie ouch deß hinwegzugs. Actum sambstags den 2ten novembris anno etc. 88 p[raese]nt[ibus herr <persName ref="GND_143680544">Kamblj</persName> und beid reth.</p>
 </div>
     </body>
   </text>

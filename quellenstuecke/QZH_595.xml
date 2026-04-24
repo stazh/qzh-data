@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,7 @@
   <text>
     <body>
       <div><pb n="4" facs="E_I_7_3__Nr__73__S__4_.tif"/>
-<head type="Originalsprache">Elsa Nasplern vertrag</head> <p>Myn herren lassent es by diser abhandlung belyben unnd soll die verschrybung umb jnnverlypte  houptsumma wie ander ­toüf­fer gůtt hinder die herren seckelmeyster glegt und die jerlichen zins vonn derselbigen jngezogen unnd verrechnet werden. Actum donstags den 11ten decembris anno etc. 95 pr[aesentibus] herr <persName ref="Grossmann, Konrad">Großman</persName> unnd beid reth.</p>
+<head type="Originalsprache">Elsa Nasplern vertrag</head> <p>Myn herren lassent es by diser abhandlung belyben unnd soll die verschrybung umb jnnverlypte  houptsumma wie ander ­toüf­fer gůtt hinder die herren seckelmeyster glegt und die jerlichen zins vonn derselbigen jngezogen unnd verrechnet werden. Actum donstags den 11ten decembris anno etc. 95 pr[aesentibus] herr <persName ref="GND_143658468">Großman</persName> unnd beid reth.</p>
 </div>
     </body>
     <back>

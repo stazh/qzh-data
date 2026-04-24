@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -70,7 +70,7 @@
 <p>50 pfund sol sy mir vom 1608. jar hußzinß von dem oberen gmach und den hußlüthen.</p>
 <p>39 pfund nam sy yn umb 6 müt […]<note type="critical">Lesung unklar</note>.</p>
 <p>34 pfund von <persName ref="Hofstetter, Franz">Frantz Hoffstetter</persName> von <placeName ref="Glarus">Glaruß</placeName>.</p>
-<p>10 pfund 10 schilling<note type="critical">In der Vorlage: ß</note> von h. burgermeister Großman s[elig]<note type="editorial"> <persName ref="Grossmann, Konrad">Konrad Grossmann</persName>, gestorben am 20. Februar 1609.</note>.</p>
+<p>10 pfund 10 schilling<note type="critical">In der Vorlage: ß</note> von h. burgermeister Großman s[elig]<note type="editorial"> <persName ref="GND_143658468">Konrad Grossmann</persName>, gestorben am 20. Februar 1609.</note>.</p>
 <p>9 pfund 2 schilling von h. schwaager <persName ref="Keller, N. (Landschreiber)">lanndtschryber Keller</persName>.</p>
 <p>4 pfund 15 schilling von <persName ref="Peyer, Melchior">Melchior Peyer</persName> von <placeName ref="Schlieren">Schlieren</placeName>.</p>
 <p>10 pfund 10 schilling von herren <persName ref="Kramer, N.">schultheis Krammerß</persName> seligen son.</p>

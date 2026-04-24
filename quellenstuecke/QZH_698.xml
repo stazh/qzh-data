@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Pannerherr Holtzhalb<note type="editorial"> Hans <persName ref="Holzhalb, Hans Heinrich">Heinrich Holzhalb</persName></note> und rechenschryber Waser<note type="editorial"> <persName ref="Waser, Hans">Hans Waser</persName></note> söllent <persName ref="Stünz, Barbara">Barbel Stüntzin</persName> von <placeName ref="Küsnacht">Küßnacht</placeName> ansprach<note type="editorial"> Anspruch</note> an N. <persName ref="Zöbeli, N.">Zöbelis</persName> gůt, so by anderm ­toüf­fergůt ligt, baß<note type="editorial"> mehr</note> nachfragen, und habent gwalt, jro darvon etwas werden zelaßen.</p>
+      <div><p>Pannerherr Holtzhalb<note type="editorial"> Hans <persName ref="GND_143681346">Heinrich Holzhalb</persName></note> und rechenschryber Waser<note type="editorial"> <persName ref="Waser, Hans">Hans Waser</persName></note> söllent <persName ref="Stünz, Barbara">Barbel Stüntzin</persName> von <placeName ref="Küsnacht">Küßnacht</placeName> ansprach<note type="editorial"> Anspruch</note> an N. <persName ref="Zöbeli, N.">Zöbelis</persName> gůt, so by anderm ­toüf­fergůt ligt, baß<note type="editorial"> mehr</note> nachfragen, und habent gwalt, jro darvon etwas werden zelaßen.</p>
 </div>
     </body>
     <back>

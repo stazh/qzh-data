@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,7 @@
   <text>
     <body>
       <div><pb n="4" facs="E_I_7_2__Nr__152__S__4_.tif"/>
-<p>Ist bestedt, mittwuchs den ersten novembris anno etc. 81 p[raese]nt[ibus] herr <persName ref="Kambli, Hans">Kamblj</persName> und beid reth.</p>
+<p>Ist bestedt, mittwuchs den ersten novembris anno etc. 81 p[raese]nt[ibus] herr <persName ref="GND_143680544">Kamblj</persName> und beid reth.</p>
 </div>
     </body>
   </text>

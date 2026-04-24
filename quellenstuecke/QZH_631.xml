@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -133,7 +133,7 @@
 <p>15 pfund 6 schilling 6 heller solle <persName ref="Studer, Jakob">Jacob Studer</persName><bm id="235"/> von <placeName ref="Altstetten">Alstetten</placeName> by zins verlaßen<note type="critical">Lesung unsicher</note>.</p>
 <p rend="margin-top">Summa der restantz an gellt 72 pfund 4 schilling 6 heller.</p>
 <p rend="margin-top">Also manglet an gelt 35 pfund 2 schilling 6 heller, die sind bar.</p>
-<p rend="margin-top">Als herr <persName ref="Keller, Hans Conrad">rechenschryber Käller</persName> ermelter amptmann zů <placeName ref="Altstetten">Rüttj</placeName><note type="editorial"> Hans <persName ref="Keller, Hans Conrad">Conrad Keller</persName> wurde 1600 Amtmann zu Rüti.</note> disero rechnung das ­toüf­fergůt belanngende vor mynen herren, den rechenherren, gegeben, habent sy daran ein gar gůt vernügen unnd wolgefalen gehept und jme domalen für syn gehepte müyg 25 pfund zů ergetzligkeit<note type="editorial"> Entschädigung, Vergütung, vgl. <hl to="http://fwb-online.de/go/ergezlichkeit.s.1f_1669852269"><Hyperlink>http://fwb-online.de/go/ergezlichkeit.s.1f_1669852269</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> verordnet. Actum donstag den 24ten aprilis anno [1]600 pr[äsen]t[ibus] herr <persName ref="Grossmann, Konrad">burgermeister Grossman</persName> und verordnete rechenherren.</p>
+<p rend="margin-top">Als herr <persName ref="Keller, Hans Conrad">rechenschryber Käller</persName> ermelter amptmann zů <placeName ref="Altstetten">Rüttj</placeName><note type="editorial"> Hans <persName ref="Keller, Hans Conrad">Conrad Keller</persName> wurde 1600 Amtmann zu Rüti.</note> disero rechnung das ­toüf­fergůt belanngende vor mynen herren, den rechenherren, gegeben, habent sy daran ein gar gůt vernügen unnd wolgefalen gehept und jme domalen für syn gehepte müyg 25 pfund zů ergetzligkeit<note type="editorial"> Entschädigung, Vergütung, vgl. <hl to="http://fwb-online.de/go/ergezlichkeit.s.1f_1669852269"><Hyperlink>http://fwb-online.de/go/ergezlichkeit.s.1f_1669852269</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> verordnet. Actum donstag den 24ten aprilis anno [1]600 pr[äsen]t[ibus] herr <persName ref="GND_143658468">burgermeister Grossman</persName> und verordnete rechenherren.</p>
 </div>
     </body>
   </text>

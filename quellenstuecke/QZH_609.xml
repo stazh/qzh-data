@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Disere rathschleg sind bestetigt unnd soll denen nachganngen werden. Actum den 14. dies junij anno etc. 98 p[raese]nt[ibus] herr <persName ref="Keller, Hans">burgermeister Keller</persName> und beid reth.</p>
+      <div><p>Disere rathschleg sind bestetigt unnd soll denen nachganngen werden. Actum den 14. dies junij anno etc. 98 p[raese]nt[ibus] herr <persName ref="GND_143657062">burgermeister Keller</persName> und beid reth.</p>
 </div>
     </body>
   </text>

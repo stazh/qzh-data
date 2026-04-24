@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Gessner, Abraham">Abraham Geßnern</persName> ein gmein manrecht<note type="editorial"> amtlicher Ausweis über den freien Stand, Id. VI, 290.</note>, anderst das er von hinen züchen muͤßen, das er sich unser kilchen satzungen und ordnungen nit gemesß halten und underwürffig syn wellen.</p>
+      <div><p><persName ref="GND_136100821">Abraham Geßnern</persName> ein gmein manrecht<note type="editorial"> amtlicher Ausweis über den freien Stand, Id. VI, 290.</note>, anderst das er von hinen züchen muͤßen, das er sich unser kilchen satzungen und ordnungen nit gemesß halten und underwürffig syn wellen.</p>
 <p>Darnebent soll jm die lugken deß burgkrechtens<note type="editorial"> städtisches Bürgerrecht, Id. VI, 295.</note> uff drü jar lang offen staan und vorbehalten syn.</p>
 </div>
     </body>

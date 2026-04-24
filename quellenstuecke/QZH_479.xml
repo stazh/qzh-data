@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -64,7 +64,7 @@
 <p>Was aber das eyd schweren betrifft, diewyl solliches von gott verbotten, könind unnd wellind sy beid, Kleger unnd Petter, keinswegs nitt thůn unnd sonderlichen, das sy von jrem vatterlandt schweren söltten, welliches von jnnen aber keinswegs verwürckt worden.</p>
 <p>Unnd wiewol myn herren, die glerten, mit allem <pb n="3" facs="E_I_7_3__Nr__31__S__3_.tif"/> erntst mit jnnen jnn allerley articklen jres gloubens gehandlet, habent sy doch nützit an jnen verfachen<note type="editorial"> ausrichten, Id. I, 722.</note> mögen, sonder sind gentzlichen uff jren meinungen beharret unnd endtlichen uff dem berůwet, das sy nit von disputierens wegen alher kommen.</p>
 <pb n="4" facs="E_I_7_3__Nr__31__S__4_.tif"/>
-<p rend="margin-top">[Urteil:] Nota: Sy hand sich letstlich ergeben, wellent anloben, wo sy es aber übersehen, wirts mans jnen rechnen, als wann sy den eyd geschworen hetten. Hienebent soll dem vogt zů Gruͤningen geschriben werden, jr hab unnd gůt nachmalen jnn hafft liggen zelaßen, dasselbig zůbeschryben unnd dann myn herren deßen zůberichten. Actum sambstags den 14. septembris a[nn]o etc. 88 p[raese]nt[ibus] herr <persName ref="Kambli, Hans">Kamblj</persName> unnd beid reth.</p>
+<p rend="margin-top">[Urteil:] Nota: Sy hand sich letstlich ergeben, wellent anloben, wo sy es aber übersehen, wirts mans jnen rechnen, als wann sy den eyd geschworen hetten. Hienebent soll dem vogt zů Gruͤningen geschriben werden, jr hab unnd gůt nachmalen jnn hafft liggen zelaßen, dasselbig zůbeschryben unnd dann myn herren deßen zůberichten. Actum sambstags den 14. septembris a[nn]o etc. 88 p[raese]nt[ibus] herr <persName ref="GND_143680544">Kamblj</persName> unnd beid reth.</p>
 <p>Nota: dem obersten knecht stadt syn kosten noch usß.</p>
 </div>
     </body>

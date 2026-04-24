@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,7 @@
   <text>
     <body>
       <div><pb n="4" facs="E_I_7_3__Nr__129__S__4_.tif"/>
-<p>[Urteil:] Diewyl er, Landiß, syner gefasten jrrigen leer nit abstahn will, soll er wegen der keltj ußem <placeName ref="Zürich, Wellenberg">Welenberg</placeName> gnommen und jn spittal jn ein warme stuben an yßen gleit und alda, biß syn und anderer widertöüfferen ungehorsamme wegen ein radtschlag beschicht, verwart werden<note type="critical">«verwart werden» am unteren Rand mit Verweiszeichen</note>. Und söll er die synen den costen, so mit <nswk/> jmme jnn Wellenberg und als man jn gfangen uferlouffen wie ouch das, so jetzt mit jmme im<note type="critical">Lesung unsicher</note> spittal ergohn möchte, abferggen<note type="editorial"> bezahlen, Id. I, 1008.</note>. Actum donstags den 22ten decembris anno 1608 p[raese]nt[ibus] herr <persName ref="Grossmann, Konrad">burgermeister Großmann</persName> und beid reth.</p>
+<p>[Urteil:] Diewyl er, Landiß, syner gefasten jrrigen leer nit abstahn will, soll er wegen der keltj ußem <placeName ref="Zürich, Wellenberg">Welenberg</placeName> gnommen und jn spittal jn ein warme stuben an yßen gleit und alda, biß syn und anderer widertöüfferen ungehorsamme wegen ein radtschlag beschicht, verwart werden<note type="critical">«verwart werden» am unteren Rand mit Verweiszeichen</note>. Und söll er die synen den costen, so mit <nswk/> jmme jnn Wellenberg und als man jn gfangen uferlouffen wie ouch das, so jetzt mit jmme im<note type="critical">Lesung unsicher</note> spittal ergohn möchte, abferggen<note type="editorial"> bezahlen, Id. I, 1008.</note>. Actum donstags den 22ten decembris anno 1608 p[raese]nt[ibus] herr <persName ref="GND_143658468">burgermeister Großmann</persName> und beid reth.</p>
 </div>
     </body>
   </text>

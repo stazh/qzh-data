@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +67,7 @@
 <p>Sovil dan die zwen, so mit jme hinuff<note type="critical">Folgt gestrichen: gezogen</note> und zů <placeName ref="Birmensdorf">Birmenstorff</placeName> durch gezogen belange, habe er sich derselbigen gar nützit zu beladen ald<note type="editorial"> oder</note> mit denselbigen einiche verkomnuß<note type="editorial"> Übereinkunft, Vereinbarung, Id. III, 277.</note> zu hinfürung volcks gethon, sonder bemelte zwen sigint gestrax uff <placeName ref="Lausanne">Lůsana</placeName><note type="editorial"> Lausanne</note> zůzogen.</p>
 <pb n="3" facs="E_I_7_3__Nr__81__S__3_.tif"/>
 <pb n="4" facs="E_I_7_3__Nr__81__S__4_.tif"/>
-<p rend="margin-top">[Urteil]: Myn herren sind recht an diß thoüffers endtschudigung umb deß besten willen komen und an diser syner anndtwort vernügt<note type="editorial"> zufriedenstellen Id. IV, 701.</note>. Doch soll er, nachdem er der gefangenschafft uff ein gwonlich urphecht erlassen und allen costen, so hieruf gangen, abgetragen, vordt geschickt und jme darby, ob er von syner widerspenige nit abstaan, anzeigt werden, und er sich hinfür jnn myner herren gricht und gepiet nit meer finden lasßen, sonsten wurde annders, den jetzo beshechen, gegen jme fürgenommen werden. Actum sambstags den 13ten maij anno etc. 98 p[raesen]t[ibus] herr <persName ref="Keller, Hans">Keller</persName> unnd beid reth.</p>
+<p rend="margin-top">[Urteil]: Myn herren sind recht an diß thoüffers endtschudigung umb deß besten willen komen und an diser syner anndtwort vernügt<note type="editorial"> zufriedenstellen Id. IV, 701.</note>. Doch soll er, nachdem er der gefangenschafft uff ein gwonlich urphecht erlassen und allen costen, so hieruf gangen, abgetragen, vordt geschickt und jme darby, ob er von syner widerspenige nit abstaan, anzeigt werden, und er sich hinfür jnn myner herren gricht und gepiet nit meer finden lasßen, sonsten wurde annders, den jetzo beshechen, gegen jme fürgenommen werden. Actum sambstags den 13ten maij anno etc. 98 p[raesen]t[ibus] herr <persName ref="GND_143657062">Keller</persName> unnd beid reth.</p>
 </div>
     </body>
   </text>

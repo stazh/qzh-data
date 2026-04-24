@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,7 @@
   <text>
     <body>
       <div><pb n="4" facs="E_I_7_2__Nr__132__S__4_.tif"/>
-<p>Ist bestedt mittwuchs den 23ten novembris anno etc. 75 pr[aese]nt[ibus] herr burgermeister Kamblj<note type="editorial"> <persName ref="Kambli, Hans">Hans Kambli</persName></note> unnd beid reth.<note type="editorial"> Das Mandat wurde am 11. Februar 1576 verabschiedet.</note></p>
+<p>Ist bestedt mittwuchs den 23ten novembris anno etc. 75 pr[aese]nt[ibus] herr burgermeister Kamblj<note type="editorial"> <persName ref="GND_143680544">Hans Kambli</persName></note> unnd beid reth.<note type="editorial"> Das Mandat wurde am 11. Februar 1576 verabschiedet.</note></p>
 </div>
     </body>
   </text>

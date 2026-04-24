@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Den Huseren von <placeName ref="Birmensdorf">Birmenstorff</placeName> an truchseßen zur <placeName ref="Scheer">Scher</placeName><note type="editorial"> Christoph von <persName ref="Christoph von Waldburg">Waldburg</persName></note> ein unvergryffenliche<note type="editorial"> unbeschadet, Id. II, 717.</note> fürgschrifft<note type="editorial"> Empfehlungsschreiben, Id. IX, 1585.</note>, jren vetern <persName ref="Huser, Johannes">Hannsen Hußer</persName>, wann er der ­toüf­feryg abzestaan gelobe, der gysel- unnd gfangenschafft zůerlaßen.</p>
+      <div><p>Den Huseren von <placeName ref="Birmensdorf">Birmenstorff</placeName> an truchseßen zur <placeName ref="Scheer">Scher</placeName><note type="editorial"> Christoph von <persName ref="GND_1122311869">Waldburg</persName></note> ein unvergryffenliche<note type="editorial"> unbeschadet, Id. II, 717.</note> fürgschrifft<note type="editorial"> Empfehlungsschreiben, Id. IX, 1585.</note>, jren vetern <persName ref="Huser, Johannes">Hannsen Hußer</persName>, wann er der ­toüf­feryg abzestaan gelobe, der gysel- unnd gfangenschafft zůerlaßen.</p>
 </div>
     </body>
     <back>

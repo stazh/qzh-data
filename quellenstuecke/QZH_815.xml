@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -57,7 +57,7 @@
     <body>
       <div><pb n="1" facs="E_I_7_3__Nr__150__S__1_.tif"/>
 <head type="Originalsprache">Beschrybung Hans Heinrich Kolben hab unnd gůts</head> <p>Erstlich an gültenn:</p>
-<p>Zalt 200 pfund<note type="critical">In der Vorlage: lb</note> uff <persName ref="Landis, Hans">Hannßen Bodmer</persName> zů <placeName ref="Esslingen">Eßlingen</placeName>, darvon uff marthinj 10 pfund zinß.</p>
+<p>Zalt 200 pfund<note type="critical">In der Vorlage: lb</note> uff <persName ref="GND_130035173">Hannßen Bodmer</persName> zů <placeName ref="Esslingen">Eßlingen</placeName>, darvon uff marthinj 10 pfund zinß.</p>
 <p>200 pfund uff <persName ref="Keller, Rudolf (in Küsnacht)">Růdolffen Keller</persName> genannt Müßer zů <placeName ref="Küsnacht">Küßnacht</placeName>.</p>
 <p>­1­55 pfund uff <persName ref="Schad, Hans">Hanns Schaden</persName> dem grembler<note type="editorial"> Krämer, Trödler, Id. II, 738.</note> alhie, darvon uff liechtmes 7 pfund 10 schilling<note type="critical">In der Vorlage: ß</note> zinnß. Der zins ist zalt.<note type="critical">«Der zins ist zalt» nachträglich notiert (andere Tinte).</note></p>
 <p>Zalt 100 pfund uff <persName ref="Zürcher, Rudolf">Růdolff Züricher</persName> zů <placeName ref="Wädenswil">Wädischwyl</placeName>, darvon uff marthinj 5 pfund zinß.</p>

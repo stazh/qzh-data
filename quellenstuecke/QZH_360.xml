@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +66,7 @@
 <pb n="2" facs="E_I_7_2__Nr__144__S__2_.tif"/>
 <pb n="3" facs="E_I_7_2__Nr__144__S__3_.tif"/>
 <pb n="4" facs="E_I_7_2__Nr__144__S__4_.tif"/>
-<p rend="margin-top">[Urteil:] <persName ref="Muntwyler, Adam">Diser Muntwyler</persName> jst uff hierjnn verzeichnet syn erbietenn<note type="editorial"> Anerbieten, Id. IV, 1868f.</note> unnd gethones glüpt der gfanngenschafft uff erleggung deß costenns ledig gelaßenn. Und woveer er darwider hanndlet, soll jm syn verdiennter lon verlanngen<note type="editorial"> zukommen, Id. III, 1331.</note> unnd werdenn. Actum mittwuchs den 9ten septembris anno etc. 79 p[raese]nt[ibus] herr <persName ref="Kambli, Hans">burgermeister Kamblj</persName> unnd beid reth.</p>
+<p rend="margin-top">[Urteil:] <persName ref="Muntwyler, Adam">Diser Muntwyler</persName> jst uff hierjnn verzeichnet syn erbietenn<note type="editorial"> Anerbieten, Id. IV, 1868f.</note> unnd gethones glüpt der gfanngenschafft uff erleggung deß costenns ledig gelaßenn. Und woveer er darwider hanndlet, soll jm syn verdiennter lon verlanngen<note type="editorial"> zukommen, Id. III, 1331.</note> unnd werdenn. Actum mittwuchs den 9ten septembris anno etc. 79 p[raese]nt[ibus] herr <persName ref="GND_143680544">burgermeister Kamblj</persName> unnd beid reth.</p>
 </div>
     </body>
   </text>

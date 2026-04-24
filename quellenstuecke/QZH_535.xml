@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>[Urteil gegen den] Schůlmeister Wyß: Als er sich jm gleit selbs persönlichen vor mynen herren gestelt und dise bekandtnuß nochmalen gethaan, ouch sich anerbotten, zů kilchen zegaan und myner herren ordnungen und satzungen als ein gehorsamer burger gemesß zehalten, hand myn herren jnn wider begnadiget, das er wider alhie sicher wonnen möge, doch das er synem erbitten statt thuͤge und aber für sich selbs dheins<note type="editorial"> keines</note> wegs schůl halte, sonders sich deß enthalte, und so er zů <persName ref="Huber, N.">Hůbern</persName> oder <persName ref="Edlibach, Matern">Edlibachen</persName> etwas ansprach<note type="editorial"> Anspruch, Forderung Id. X, 722.</note>, mag er sy darumb vor mynen herren rähtlichen besůchen. Actum mitwuchs den 21ten jänner anno etc. 90 p[raese]nt[ibus] herr <persName ref="Thomann, Kaspar">Tommann</persName><note type="editorial"> Kaspar Thomann</note> und beid reth.</p>
+      <div><p>[Urteil gegen den] Schůlmeister Wyß: Als er sich jm gleit selbs persönlichen vor mynen herren gestelt und dise bekandtnuß nochmalen gethaan, ouch sich anerbotten, zů kilchen zegaan und myner herren ordnungen und satzungen als ein gehorsamer burger gemesß zehalten, hand myn herren jnn wider begnadiget, das er wider alhie sicher wonnen möge, doch das er synem erbitten statt thuͤge und aber für sich selbs dheins<note type="editorial"> keines</note> wegs schůl halte, sonders sich deß enthalte, und so er zů <persName ref="Huber, N.">Hůbern</persName> oder <persName ref="Edlibach, Matern">Edlibachen</persName> etwas ansprach<note type="editorial"> Anspruch, Forderung Id. X, 722.</note>, mag er sy darumb vor mynen herren rähtlichen besůchen. Actum mitwuchs den 21ten jänner anno etc. 90 p[raese]nt[ibus] herr <persName ref="GND_143659413">Tommann</persName><note type="editorial"> Kaspar Thomann</note> und beid reth.</p>
 </div>
     </body>
   </text>

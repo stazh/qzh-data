@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der <persName ref="Kolmar, Jakob">dechan</persName> uß dem Fryen <placeName ref="Freiamt">ampt</placeName><note type="editorial"> Jakob Kolmar</note> zeygt an ein toͤuffer, <persName ref="Gut, Andres">Anderesen Gůt</persName>, der allen gebotten des obervogts widerstraͤpte und staͤts in den <placeName ref="Sihlwald">Sylwald</placeName> an der toͤuffer gmeind louffe. Der <persName ref="Wirth, Christian">daͤchen</persName> von <placeName ref="Neftenbach">Nefftenbach</placeName><note type="editorial"> Christian Wirth</note> zeigt an <persName ref="Hedinger, Hans">Hansen Hedinger</persName> by der Taͤschin zů <placeName ref="Wülflingen">Wülfflingen</placeName>. Andere zeigten an <persName ref="Bräm, Fridli">Fridli Braͤmen</persName> und <persName ref="Ruman, Peter">Petter Romman</persName> in Regensperger <placeName ref="Regensberg">ampt</placeName>.</p>
+      <div><p>Der <persName ref="Kolmar, Jakob">dechan</persName> uß dem Fryen <placeName ref="Freiamt">ampt</placeName><note type="editorial"> Jakob Kolmar</note> zeygt an ein toͤuffer, <persName ref="Gut, Andres">Anderesen Gůt</persName>, der allen gebotten des obervogts widerstraͤpte und staͤts in den <placeName ref="Sihlwald">Sylwald</placeName> an der toͤuffer gmeind louffe. Der <persName ref="GND_1089479298">daͤchen</persName> von <placeName ref="Neftenbach">Nefftenbach</placeName><note type="editorial"> Christian Wirth</note> zeigt an <persName ref="Hedinger, Hans">Hansen Hedinger</persName> by der Taͤschin zů <placeName ref="Wülflingen">Wülfflingen</placeName>. Andere zeigten an <persName ref="Bräm, Fridli">Fridli Braͤmen</persName> und <persName ref="Ruman, Peter">Petter Romman</persName> in Regensperger <placeName ref="Regensberg">ampt</placeName>.</p>
 <p>Sol an unser gnedig herren gebracht werden.</p>
 </div>
     </body>
