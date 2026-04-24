@@ -29,7 +29,8 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354883">StAZH B II 162, S. 2 (Manual des Stadtschreibers)</idno>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354883">StAZH B II
+              162, S. 2 (Manual des Stadtschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
           <history>
@@ -41,7 +42,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 175</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 175</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -59,12 +62,16 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Steffens des ­toüf­fers <persName ref="Im Tal, Stefan">jm Thal</persName> sön sonnd<note type="editorial"> sollen</note> den costen, so uff jnne jn gefenngknus ganngen, betzalen. Was costenns aber uff den knecht ganngen, des sind sy uß gnaden erlasßen.</p>
-</div>
+      <div>
+        <p>Steffens des ­toüf­fers <persName ref="Im Tal, Stefan">jm Thal</persName> sön sonnd<note
+            type="editorial"> sollen</note> den costen, so uff jnne jn gefenngknus ganngen,
+          betzalen. Was costenns aber uff den knecht ganngen, des sind sy uß gnaden erlasßen.</p>
+      </div>
     </body>
     <back>
       <div>
-        <p> Ratsbeschluss unter dem Datum «Mitwuchs, den 14. januar[i]j p[raese]nt[ibus] her Bräm unnd beid reth».</p>
+        <p> Ratsbeschluss unter dem Datum «Mitwuchs, den 14. januar[i]j p[raese]nt[ibus] her Bräm
+          unnd beid reth».</p>
       </div>
     </back>
   </text>

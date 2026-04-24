@@ -29,7 +29,8 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355003">StAZH B II 74, 2. Teil, S. 21</idno>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355003">StAZH B II
+              74, 2. Teil, S. 21</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
           <history>
@@ -41,7 +42,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 50</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 50</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -59,12 +62,18 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Von wegen der 2 teufern soll der vogt an die von <placeName ref="Wädenswil">Wedischwil</placeName><note type="editorial"> Wädenswil</note> begeren, diewil die sach den glouben antreffe, das sy dan die beiden wellind laßen har fertigen. Wo aber die von W[edischwil] solchs zebeschwerd anemen, […]<note type="critical">Lesung unklar</note> der handel wider an min herren kommen.</p>
-</div>
+      <div>
+        <p>Von wegen der 2 teufern soll der vogt an die von <placeName ref="Wädenswil"
+            >Wedischwil</placeName><note type="editorial"> Wädenswil</note> begeren, diewil die sach
+          den glouben antreffe, das sy dan die beiden wellind laßen har fertigen. Wo aber die von
+          W[edischwil] solchs zebeschwerd anemen, […]<note type="critical">Lesung unklar</note> der
+          handel wider an min herren kommen.</p>
+      </div>
     </body>
     <back>
       <div>
-        <p> Ratsbeschluss unter dem Datum «Mentag, den 15. de[cembris] p[raese]nt[ibus] Hab und beid reth».</p>
+        <p> Ratsbeschluss unter dem Datum «Mentag, den 15. de[cembris] p[raese]nt[ibus] Hab und beid
+          reth».</p>
       </div>
     </back>
   </text>
