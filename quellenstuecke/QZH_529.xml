@@ -33,6 +33,12 @@
               228, S. 37 (Manual des Stadtschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1589-11-22"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1589-11-22"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354893">StAZH B II 180, S. 1 (Manual des Stadtschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1578-07-03"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1578-07-03"/>

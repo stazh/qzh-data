@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=685159">StAZH E I 7.2, Nr. 85</idno>
           </msIdentifier>
           <head>Leonhard Holzhalb an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1534-08-16"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1534-08-16"/>

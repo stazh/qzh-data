@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355139">StAZH B VII 21.84, Nr. 3 (Schreiben an Caspar Thomann; dasselbe Schreiben ging auch an die Landvögte von Wädenswil, Grüningen, Kyburg, Eglisau, Andelfingen, Greifensee, Regensberg, Knonau und Laufen, vgl. die nachfolgende Nummer)</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an ihre Landvögte</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1583-05-15"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1583-05-15"/>

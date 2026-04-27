@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354977">StAZH B II 279, S. 13 (Manual des Stadtschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1602-04-07"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1602-04-07"/>

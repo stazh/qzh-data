@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355168">StAZH E I 7.3, Nr. 115; Abschrift: ZBZ, Ms A 72, S. 552f.</idno>
           </msIdentifier>
           <head>Jakob Zur Eich an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1603-08-04"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1603-08-04"/>

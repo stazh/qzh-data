@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355114">StAZH B IV 60, fol. 25v</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1602-11-06"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1602-11-06"/>

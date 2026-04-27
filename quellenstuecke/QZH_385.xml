@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696651">StAZH E I 7.2, Nr. 161</idno>
           </msIdentifier>
           <head>Junghans Thumysen an Gerold Escher</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1582-02-26"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1582-02-26"/>

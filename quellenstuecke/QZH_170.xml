@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355006">StAZH B II 79, S. 50 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1552-05-11"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1552-05-11"/>

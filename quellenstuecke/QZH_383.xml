@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696649">StAZH E I 7.2, Nr. 159</idno>
           </msIdentifier>
           <head>Werner Schodoler an Jungans Thumysen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-12-24"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1581-12-24"/>

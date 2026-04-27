@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355026">StAZH B IV 19, fol. 106r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an den Untervogt von Stäfa (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1554-06-06"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1554-06-06"/>

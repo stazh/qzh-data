@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355091">StAZH B IV 51, fol. 2v</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Kippenhan</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1594-09-25"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1594-09-25"/>

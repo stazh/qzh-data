@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355333">StAZH E II 1, S. 553</idno>
           </msIdentifier>
           <head>Frühjahrssynode und Ratsbeschlüsse</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1565-05-08"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1565-05-08"/>

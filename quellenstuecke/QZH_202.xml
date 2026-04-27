@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354855">StAZH B II 103, S. 25 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschlüsse</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1558-04-16"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1558-04-16"/>

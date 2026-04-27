@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355137">StAZH B VI 264, fol. 134 (Rats- und Richtbuch).</idno>
           </msIdentifier>
           <head>Urteil gegen Heini Schmid</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1591-11-17"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1591-11-17"/>

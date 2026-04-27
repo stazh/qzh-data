@@ -32,6 +32,12 @@
             <idno>ZBZ, Ms A 72, S. 341 (Abschrift, 17. Jh.)</idno>
           </msIdentifier>
           <head>Anhörung Strelers</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1559-11-27"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1559-11-27"/>

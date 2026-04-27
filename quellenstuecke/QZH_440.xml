@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355146">StAZH B VIII 7, fol. 218-221</idno>
           </msIdentifier>
           <head>Instruktion der Zürcher Gesandten (Entwurf)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-09-01"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1585-09-01"/>

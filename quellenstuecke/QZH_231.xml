@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=606813">StAZH E I 2.1, Nr. 14</idno>
           </msIdentifier>
           <head>Synodalverhandlungen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1564-10-24"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1564-10-24"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4634256">StAZH A 27.18.10, Nr. 16</idno>
           </msIdentifier>
           <head>Verhör und Urteil gegen Polei Winkler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1578-09-27"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1578-09-27"/>

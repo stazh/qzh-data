@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355143">StAZH B VIII 6, fol. 69r</idno>
           </msIdentifier>
           <head>Instruktion der Tagsatzungsgesandten von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1567-06-04"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1567-06-04"/>

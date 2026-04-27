@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355177">StAZH E I 7.3, Nr. 123</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1606-06-04"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1606-06-04"/>

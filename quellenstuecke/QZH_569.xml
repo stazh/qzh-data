@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355258">StAZH E I 7.3, Nr. 68</idno>
           </msIdentifier>
           <head>Verhör und Urteil gegen Augustin Gasser</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1592-03-08"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1592-03-08"/>

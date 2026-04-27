@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4646308">StAZH A 27.16.10, Nr. 28</idno>
           </msIdentifier>
           <head>Verhör und Urteil gegen Abraham Gessner</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1573-04-11"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1573-04-11"/>

@@ -33,6 +33,12 @@
               59, fol. 34v</idno>
           </msIdentifier>
           <head>Erneuerung des Täufermandats</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1601-10-17"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1601-10-17"/>

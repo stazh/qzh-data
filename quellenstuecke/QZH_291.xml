@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355041">StAZH B IV 33, fol. 52v-53r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Matthias Schmid (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1573-01-26"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1573-01-26"/>

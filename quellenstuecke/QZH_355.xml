@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355055">StAZH B IV 39, fol. 4v</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Schwarz (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1579-08-10"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1579-08-10"/>

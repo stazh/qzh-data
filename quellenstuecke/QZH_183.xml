@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355023">StAZH B IV 19, fol. 102r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Rudolf Breitinger (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1554-05-10"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1554-05-10"/>

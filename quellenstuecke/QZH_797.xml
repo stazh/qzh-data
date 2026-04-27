@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355193">StAZH E I 7.3, Nr. 141</idno>
           </msIdentifier>
           <head>Erstes Verhör von Jakob Trachsler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1609-07-10"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1609-07-10"/>

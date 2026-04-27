@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354848">StAZH A 131.12, Nr. 164</idno>
           </msIdentifier>
           <head>Hans Ziegler an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-08-05"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-08-05"/>

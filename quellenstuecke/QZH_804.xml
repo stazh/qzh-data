@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355196">StAZH E I 7.3, Nr. 144</idno>
           </msIdentifier>
           <head>Beschluss des Ehegerichts</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1609-11-08"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1609-11-08"/>

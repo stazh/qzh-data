@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354987">StAZH B II 288, S. 49-50 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1604-06-04"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1604-06-04"/>

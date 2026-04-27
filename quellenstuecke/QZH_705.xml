@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355156">StAZH E I 7.3, Nr. 104 (vgl. auch QGTS, Bd. 5, Nr. 590)</idno>
           </msIdentifier>
           <head>Überwachung von Jakob Walther</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1602-10-04"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1602-10-04"/>

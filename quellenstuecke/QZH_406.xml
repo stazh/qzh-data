@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696666">StAZH E I 7.2, Nr. 170</idno>
           </msIdentifier>
           <head>Verhör und Urteil gegen Paulo Galleazo</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1583-12-12"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1583-12-12"/>

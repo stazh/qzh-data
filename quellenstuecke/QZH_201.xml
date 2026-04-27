@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695022">StAZH E I 7.2, Nr. 103</idno>
           </msIdentifier>
           <head>Das Ehegericht über Täufer im Fischenthal</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1558-04-04"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1558-04-04"/>

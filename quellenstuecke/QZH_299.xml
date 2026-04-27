@@ -32,6 +32,12 @@
             <idno>Ms F 23, S. 391-392</idno>
           </msIdentifier>
           <head>Hutterische Missionare in Altstetten (Zürich)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1574-09-05"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1574-09-05"/>

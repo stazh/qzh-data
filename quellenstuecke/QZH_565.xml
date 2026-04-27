@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354944">StAZH B II 239, S. 9 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1592-02-02"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1592-02-02"/>

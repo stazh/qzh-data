@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355027">StAZH B IV 19, fol. 38</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Itelhans Thumysen (Entwurf)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1552-05-11"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1552-05-11"/>

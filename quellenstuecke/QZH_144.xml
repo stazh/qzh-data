@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695001">StAZH E I 7.2, Nr. 92</idno>
           </msIdentifier>
           <head>Verhör und Urteil gegen Verena Schmidlin</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1543-08-20"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1543-08-20"/>

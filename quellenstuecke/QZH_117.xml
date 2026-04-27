@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355349">StAZH F II a 271, S. 452-454 (Abschrift, um 1534)</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Rudolf Lavater (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1532-03-12"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1532-03-12"/>

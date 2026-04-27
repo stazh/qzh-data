@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354948">StAZH B II 248, S. 34 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1594-06-01"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1594-06-01"/>

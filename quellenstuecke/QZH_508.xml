@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354920">StAZH B II 227, S. 22-23 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1589-03-17"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1589-03-17"/>

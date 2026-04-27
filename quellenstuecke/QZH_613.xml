@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355271">StAZH E I 7.3, Nr. 80</idno>
           </msIdentifier>
           <head>Kundschaft des Ehegerichts über Thomas Gügi</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1597-12-12"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1597-12-12"/>

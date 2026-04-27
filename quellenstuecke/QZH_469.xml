@@ -32,6 +32,12 @@
             <idno>ZB, Ms A 67, S. 146f. (Handschrift von Hans Rudolf Stumpf)</idno>
           </msIdentifier>
           <head>Beim Fürtrag anwesende Pfarrer und Stumpfs Bericht über Massnahmen des Rates von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-07-31"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-07-31"/>

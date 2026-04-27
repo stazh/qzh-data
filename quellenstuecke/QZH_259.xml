@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355034">StAZH B IV 27, fol. 174r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Rahn (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1567-04-30"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1567-04-30"/>

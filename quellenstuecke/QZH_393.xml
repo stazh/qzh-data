@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355061">StAZH B IV 42, fol. 143</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Fridolin Hässi (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1582-10-17"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1582-10-17"/>

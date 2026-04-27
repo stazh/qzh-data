@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355323">StAZH E II 1, S. 416 (Handschrift von Heinrich Bullinger)</idno>
           </msIdentifier>
           <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1554-05-08"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1554-05-08"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=606864">StAZH E I 2.1, Nr. 18 (Marginalie im Synodalprotokoll)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1566-05-13"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1566-05-13"/>

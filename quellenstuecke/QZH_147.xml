@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355018">StAZH B IV 15, fol. 35v-36r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Balthasar Keller (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1544-01-02"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1544-01-02"/>

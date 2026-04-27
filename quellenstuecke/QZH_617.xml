@@ -32,6 +32,12 @@
             <idno>ZBZ, Ms A 72, S. 447f.</idno>
           </msIdentifier>
           <head>Verlautbarung der Landvogtei Grüningen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1598-04-15"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1598-04-15"/>

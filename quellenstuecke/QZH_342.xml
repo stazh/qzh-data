@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354849">StAZH A 250</idno>
           </msIdentifier>
           <head>Die Fünf Orte an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1578-08-05"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1578-08-05"/>

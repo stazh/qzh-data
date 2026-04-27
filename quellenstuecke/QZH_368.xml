@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354897">StAZH B II 196, S. 19 (Manual des Stadtschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-10-21"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1581-10-21"/>

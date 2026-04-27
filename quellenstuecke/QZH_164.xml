@@ -33,6 +33,12 @@
               74, 2. Teil, S. 21</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1550-12-15"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1550-12-15"/>

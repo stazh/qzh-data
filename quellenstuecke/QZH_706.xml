@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355157">StAZH E I 7.3, Nr. 105</idno>
           </msIdentifier>
           <head>Johann Jakob Wagner an Jakob Zur Eich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1602-10-29"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1602-10-29"/>

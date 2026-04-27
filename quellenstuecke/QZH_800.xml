@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355194">StAZH E I 7.3, Nr. 142</idno>
           </msIdentifier>
           <head>Zweites Verhör von Jakob IslerAufschrift auf der Rückseite des Dokuments: Jacob Islers ab dem Horgerberg deß widerteüffers 2. antwort</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1609-09-02"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1609-09-02"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354847">StAZH A 124.1, Nr. 316</idno>
           </msIdentifier>
           <head>Heinrich Cramer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1550-10-10"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1550-10-10"/>

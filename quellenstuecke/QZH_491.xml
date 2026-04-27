@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355224">StAZH E I 7.3, Nr. 37</idno>
           </msIdentifier>
           <head>Anthoni Öri an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-10-19"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-10-19"/>

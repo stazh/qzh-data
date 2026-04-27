@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355282">StAZH E I 7.3, Nr. 9; Entwurf des Abschieds: E I 7.3, Nr. 10</idno>
           </msIdentifier>
           <head>Abschied der evangelischen Tagsatzung in Aarau</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-07-05"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1585-07-05"/>

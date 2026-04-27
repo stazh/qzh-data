@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354997">StAZH B II 308, S. 14 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1609-02-01"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1609-02-01"/>

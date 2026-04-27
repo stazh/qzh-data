@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695023">StAZH E I 7.2, Nr. 104</idno>
           </msIdentifier>
           <head>Bericht des Ehegerichts über Täufer in Wädenswil</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1558-11-03"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1558-11-03"/>

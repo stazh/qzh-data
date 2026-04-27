@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354916">StAZH B II 225, S. 33 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-09-25"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-09-25"/>

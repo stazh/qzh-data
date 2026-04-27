@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696715">StAZH E I 7.2, Nr. 177</idno>
           </msIdentifier>
           <head>Amtleute des Truchsess von Waldburg an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1584-10-13"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1584-10-13"/>

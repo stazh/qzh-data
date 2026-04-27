@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355173">StAZH E I 7.3, Nr. 119; Abschrift: ZBZ, Ms A 72, S. 556f.</idno>
           </msIdentifier>
           <head>Verhör und Urteil gegen Hans Wolf</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1604-07-30"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1604-07-30"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355207">StAZH E I 7.3, Nr. 21</idno>
           </msIdentifier>
           <head>Gutachten des Ehegerichts</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1586-11-03"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1586-11-03"/>

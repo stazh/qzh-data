@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696605">StAZH E I 7.2, Nr. 142</idno>
           </msIdentifier>
           <head>Kaspar Thomann an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1579-08-16"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1579-08-16"/>

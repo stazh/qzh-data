@@ -32,6 +32,12 @@
             <idno>ZBZ, Ms L 88, S. 417</idno>
           </msIdentifier>
           <head>Verbot der ausserkirchlichen Versammlungen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1606-10-09"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1606-10-09"/>

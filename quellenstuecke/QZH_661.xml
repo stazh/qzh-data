@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355308">StAZH E II 1a, S. 963</idno>
           </msIdentifier>
           <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1601-05-05"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1601-05-05"/>

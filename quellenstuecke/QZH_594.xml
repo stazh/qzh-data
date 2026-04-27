@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355092">StAZH B IV 52, fol. 186v-187v</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Andreas Bräm (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1595-06-21"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1595-06-21"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5021829">StAZH E I 7.3, Nr. 17; weitere Exemplare: StAZH III AAb 1.1, fol. 185-187 (s. Schott-Volm, S. 812, Nr. 490); StAZH III AAb 5.1, Nr. 42-44; B VII 2.1, fol. 40 r – 42; StAZH F II a 255, fol. 327-329; ZBZ, Ms A 72, S. 433-437; ZBZ, Ms A 90, S. 243-248; ZBZ, Ms S 142,109 (Dr 5); ZBZ, AX 5969; und online via e-rara.ch.</idno>
           </msIdentifier>
           <head>Täufermandat</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-10-25"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1585-10-25"/>

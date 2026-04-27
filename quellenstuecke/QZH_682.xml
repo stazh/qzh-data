@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355289">StAZH E I 7.3, Nr. 96</idno>
           </msIdentifier>
           <head>Gelöbnis von Jörg Leutenegger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1601-12-10"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1601-12-10"/>

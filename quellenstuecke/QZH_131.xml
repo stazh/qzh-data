@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355111">StAZH B IV 6, fol. 196r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Junghans Mohr (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1535-12-11"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1535-12-11"/>

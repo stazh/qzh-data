@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355145">StAZH B VIII 7, fol 57; Abschriften: E I 7.2, Nr. 139; ZBZ, Ms A 72, S. 365f.; ZBZ, Ms B 165, fol. 232</idno>
           </msIdentifier>
           <head>Instruktion der Zürcher Gesandten Hans Kambli und Junker Hans Keller</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1579-06-28"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1579-06-28"/>

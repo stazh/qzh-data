@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355150">StAZH E I 30.83, Nr. 6</idno>
           </msIdentifier>
           <head>Examination von Hans Müller genannt Schalmeyer und von Diakon Hans Heinrich Müller, Bestätigung der Urteils</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1555-05-13"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1555-05-13"/>

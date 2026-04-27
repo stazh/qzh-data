@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355008">StAZH B II 93, S. 47 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1555-11-06"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1555-11-06"/>

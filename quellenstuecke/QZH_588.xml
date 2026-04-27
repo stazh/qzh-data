@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355264">StAZH E I 7.3, Nr. 74; Abschrift des 17. Jh.: ZBZ, Ms A 72, S. 439f.</idno>
           </msIdentifier>
           <head>Vertreter der Gemeinde Kilchberg an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1595-05-25"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1595-05-25"/>

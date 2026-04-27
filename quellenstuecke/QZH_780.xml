@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355180">StAZH E I 7.3, Nr. 127; Abschrift: ZBZ, Ms A 72, S. 559</idno>
           </msIdentifier>
           <head>Ratsbeschluss wegen der Täufer in Horgen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1608-10-05"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1608-10-05"/>

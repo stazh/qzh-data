@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355238">StAZH E I 7.3, Nr. 5</idno>
           </msIdentifier>
           <head>Verhör und Urteil gegen Gorius Frey und Rudolf Fehr</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-03-13"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1585-03-13"/>

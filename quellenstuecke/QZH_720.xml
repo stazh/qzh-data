@@ -32,6 +32,12 @@
             <idno>E I 2.3, Nr. 5</idno>
           </msIdentifier>
           <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1603-05-03"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1603-05-03"/>

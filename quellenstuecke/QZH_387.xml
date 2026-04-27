@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696653">StAZH E I 7.2, Nr. 162</idno>
           </msIdentifier>
           <head>Fridolin Hässi an Heinrich Thoman und Gerold Escher</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1582-03-24"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1582-03-24"/>

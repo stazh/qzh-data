@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355350">StAZH F II a 271, S. 454-455</idno>
           </msIdentifier>
           <head>Urfehdebrief von Heinrich Schmid und Catharina Walther (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1532-03-12"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1532-03-12"/>

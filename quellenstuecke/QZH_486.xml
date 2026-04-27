@@ -32,6 +32,12 @@
             <idno>Originale: StAZH E I 7.3, Nr. 34, 35 und 32.</idno>
           </msIdentifier>
           <head>Zweites Verhör und Urteil gegen Hans Hedinger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-09-09"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-09-09"/>

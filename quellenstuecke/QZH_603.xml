@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355267">StAZH E I 7.3, Nr. 77</idno>
           </msIdentifier>
           <head>(Drittes) Verhör und Urteil gegen Thomas Gügi</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1597-04-23"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1597-04-23"/>

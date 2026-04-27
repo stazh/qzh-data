@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355268">StAZH E I 7.3, Nr. 78</idno>
           </msIdentifier>
           <head>Verhör und Urteil gegen Magdalena Melliker</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1597-05-25"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1597-05-25"/>

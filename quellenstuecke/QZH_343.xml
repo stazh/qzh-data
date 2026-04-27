@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355142">StAZH B VIII 105, fol. 267f.;  Abschriften: E I 7.2, Nr. 139; ZBZ, Ms A 72, S. 364f.; ZBZ, Ms B 165, fol. 230-231</idno>
           </msIdentifier>
           <head>Auszug aus dem Abschied der eidgenössischen Tagsatzung in Baden</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1578-08-17"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1578-08-17"/>

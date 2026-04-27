@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=2500451">StAZH C III 12, Nr. 17</idno>
           </msIdentifier>
           <head>Verzeichnis von Gütern ausgewanderter Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1593-10-29"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1593-10-29"/>

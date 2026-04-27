@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695025">StAZH E I 7.2, Nr. 106</idno>
           </msIdentifier>
           <head>Bericht des Rechenschreibers</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1560-01-02"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1560-01-02"/>

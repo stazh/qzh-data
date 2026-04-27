@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355075">StAZH B IV 46, fol. 173</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Schultheiss und Rat von Diessenhofen (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1586-06-13"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1586-06-13"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355089">StAZH B IV 50, fol. 7r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Andreas Bräm (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1593-06-30"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1593-06-30"/>

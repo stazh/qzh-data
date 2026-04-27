@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355016">StAZH B IV 14, fol. 164r</idno>
           </msIdentifier>
           <head>Bügermeister und Rat von Zürich an Jakob An der Rüti (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1543-08-20"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1543-08-20"/>

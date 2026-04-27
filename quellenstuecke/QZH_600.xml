@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354956">StAZH B II 257, S. 52 (Manual des Stadtschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschlüsse</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1596-12-16"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1596-12-16"/>

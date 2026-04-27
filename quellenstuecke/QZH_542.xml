@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355242">StAZH E I 7.3, Nr. 53</idno>
           </msIdentifier>
           <head>RatsbeschlussNotiert auf der Rückseite, unterhalb der Adresse.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1590-03-01"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1590-03-01"/>

@@ -33,6 +33,12 @@
               59, fol. 34v</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Heinrich von Wellenberg (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1601-10-26"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1601-10-26"/>

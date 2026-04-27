@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355082">StAZH B IV 48, fol. 78</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Ziegler (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1589-11-08"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1589-11-08"/>

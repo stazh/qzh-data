@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355226">E I 7.3, Nr. 39; Abschrift: ZBZ, Ms A 72, S. 425</idno>
           </msIdentifier>
           <head>Urkunde (Kopie) und Ausstellung einer Quittung</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1589-01-03"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1589-01-03"/>

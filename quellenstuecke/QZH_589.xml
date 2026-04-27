@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354951">StAZH B II 252, S. 38-39 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1595-05-26"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1595-05-26"/>

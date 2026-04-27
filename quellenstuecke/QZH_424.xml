@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=245451">StAZH C III 22, Nr. 151 a</idno>
           </msIdentifier>
           <head>Rechnung betreffs Täufergut in Bülach und Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-01-30"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1585-01-30"/>

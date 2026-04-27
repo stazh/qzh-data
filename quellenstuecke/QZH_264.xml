@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354875">StAZH B II 141, S. 37 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1567-10-27"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1567-10-27"/>

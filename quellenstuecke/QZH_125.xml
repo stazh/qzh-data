@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4681956">StAZH E II 437b, S. 1031-1037 (deutsche Handschrift, 16. Jh.)</idno>
           </msIdentifier>
           <head>Gutachten der Kirchenleitung von Zürich über die Bestrafung der Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1535-05-01"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1535-05-01"/>

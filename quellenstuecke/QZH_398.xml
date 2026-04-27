@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355064">StAZH B IV 43, fol. 112v-113r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Konrad Grossmann (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1583-05-15"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1583-05-15"/>

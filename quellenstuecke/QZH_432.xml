@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355071">StAZH B IV 45, fol. 149r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Schultheiss und Rat von Bern (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-06-26"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1585-06-26"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695140">StAZH E I 7.2, Nr. 131</idno>
           </msIdentifier>
           <head>Verhör und Urteil gegen Peter Ruman</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1575-12-03"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1575-12-03"/>

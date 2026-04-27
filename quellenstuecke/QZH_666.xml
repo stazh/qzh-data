@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355283">StAZH E I 7.3, Nr. 90; Abschrift: ZBZ, Ms A 72, S. 505-507</idno>
           </msIdentifier>
           <head>Die Geistlichen des Kapitels Oberwetzikon an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1601-06-02"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1601-06-02"/>

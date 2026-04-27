@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355057">StAZH B IV 41, fol. 27r</idno>
           </msIdentifier>
           <head>Hans Keller an Fridolin Hässi (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-11-22"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1581-11-22"/>

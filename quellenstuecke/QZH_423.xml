@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696718">StAZH E I 7.2, Nr. 179</idno>
           </msIdentifier>
           <head>Empfangsbestättigung der Copia obligationis für Klaus Müller (Entwurf)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1584-10-31"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1584-10-31"/>

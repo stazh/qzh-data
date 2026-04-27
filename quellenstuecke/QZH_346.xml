@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355052">StAZH B IV 38, fol. 21v-22r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Heinrich Cramer (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1578-10-29"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1578-10-29"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355218">StAZH E I 7.3, Nr. 31</idno>
           </msIdentifier>
           <head>Vereitelte Flucht von Hans Kleger und Joseph Peter aus der Beugehaft</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1589-02-05"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1589-02-05"/>

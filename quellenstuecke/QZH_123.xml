@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=685157">StAZH E I 7.2, Nr. 84</idno>
           </msIdentifier>
           <head>Leonhard Holzhalb an Peter Simmler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1534-04-26"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1534-04-26"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354995">StAZH B II 307, S. 33 (Manual des Stadtschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1609-04-22"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1609-04-22"/>

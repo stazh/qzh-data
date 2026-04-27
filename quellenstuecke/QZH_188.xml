@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355324">StAZH E II 1, S. 427 (Handschrift von Heinrich Bullinger)</idno>
           </msIdentifier>
           <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1555-05-07"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1555-05-07"/>

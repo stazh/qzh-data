@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355021">StAZH B IV 19, fol. 100v</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Heinrich Spross (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1554-04-12"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1554-04-12"/>

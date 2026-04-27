@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355215">StAZH E I 7.3, Nr. 29</idno>
           </msIdentifier>
           <head>Hans Kleger und Joseph Peter verweigern den Eid und das Gelöbnis</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-09-18"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-09-18"/>

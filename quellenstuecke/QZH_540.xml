@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355081">StAZH B IV 48, fol. 182</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Anthoni Öri (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1590-03-21"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1590-03-21"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355134">StAZH B IV 9, fol. 95r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Andreas Schmid (Entwurf)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1538-04-02"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1538-04-02"/>

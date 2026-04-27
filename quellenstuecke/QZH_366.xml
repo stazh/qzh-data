@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696632">StAZH E I 7.2, Nr. 148</idno>
           </msIdentifier>
           <head>Werner Schodoler an Jos Rubli</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-10-20"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1581-10-20"/>

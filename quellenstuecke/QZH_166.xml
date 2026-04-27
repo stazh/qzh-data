@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355319">StAZH E II 1, S. 380 (Handschrift von Heinrich Bullinger)</idno>
           </msIdentifier>
           <head>Herbstsynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1551-10-30"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1551-10-30"/>

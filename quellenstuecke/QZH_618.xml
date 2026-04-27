@@ -32,6 +32,12 @@
             <idno>ZBZ, E II 1a, S. 934f.</idno>
           </msIdentifier>
           <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1598-05-09"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1598-05-09"/>

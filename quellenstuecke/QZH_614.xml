@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355271">StAZH E I 7.3, Nr. 80</idno>
           </msIdentifier>
           <head>Urteile gegen Hans Ziegler und Hans Sommerauer und eine Rüge an das Ehegericht</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1597-12-17"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1597-12-17"/>

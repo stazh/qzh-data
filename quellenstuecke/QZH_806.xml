@@ -35,6 +35,12 @@
           </msIdentifier>
           <head>Das Ehegericht an Bürgermeister und Rat von Zürich (Zeugenaussagen betreffs
             Ehestreit zwischen Hans Heinrich Kolb und Magdalena Meister und Scheidungsantrag)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1609-11-21"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1609-11-21"/>

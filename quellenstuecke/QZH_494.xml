@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355077">StAZH B IV 47, 153r-154v</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Anthoni Öri</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-11-04"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-11-04"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355001">StAZH B II 68, S. 12</idno>
           </msIdentifier>
           <head>RatsbeschlussDie Lesung ist teils unmöglich, teils unsicher. Der Ratsbeschluss steht unter dem Datum «Mentag, 18. aprilen 1547».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1547-04-18"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1547-04-18"/>

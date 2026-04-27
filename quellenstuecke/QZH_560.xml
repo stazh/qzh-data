@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355255">StAZH E I 7.3, Nr. 65</idno>
           </msIdentifier>
           <head>Hutterische Bescheinigung des Aufenthalts von Magdalena Müller und des Todes von fünf Kindern</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1591-07-08"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1591-07-08"/>

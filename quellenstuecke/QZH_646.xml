@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354966">StAZH B II 272, S. 3-4 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1600-01-14"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1600-01-14"/>

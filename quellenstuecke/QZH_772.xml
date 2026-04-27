@@ -32,6 +32,12 @@
             <idno>ZBZ, Ms A 72, S. 561f.</idno>
           </msIdentifier>
           <head>Conrad Kambli an [Pfarrer Johann Jakob Wagner?]</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1608-02-26"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1608-02-26"/>

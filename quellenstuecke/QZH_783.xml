@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355184">StAZH E I 7.3, Nr. 132 (dieselbe Hand wie in Nr. 130)</idno>
           </msIdentifier>
           <head>Hans Heinrich Kolb an seine Ehefrau Magdalena</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1608-11-01"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1608-11-01"/>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355028">StAZH B IV 21, fol. 13v-14r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Rudolf Breitinger (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1558-06-06"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1558-06-06"/>

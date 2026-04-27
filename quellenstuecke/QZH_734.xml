@@ -32,6 +32,12 @@
             <idno>ZBZ, Ms A 72, S. 538 (Kopie von Johann Jakob Wagner)</idno>
           </msIdentifier>
           <head>Johann Jakob Wagner an [Jakob Zur Eich] (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1604-05-22"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1604-05-22"/>

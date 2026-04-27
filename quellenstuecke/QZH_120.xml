@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355352">StAZH F II a 271, S. 468-469 (Abschrift, um 1534)</idno>
           </msIdentifier>
           <head>Urfehdebrief von Elsa Hagenbuch (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1533-08-28"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1533-08-28"/>

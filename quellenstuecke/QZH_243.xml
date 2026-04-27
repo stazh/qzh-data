@@ -33,6 +33,12 @@
               1, S. 566 (Handschrift von Heinrich Bullinger); StAZH E I 2.1, Nr. 18</idno>
           </msIdentifier>
           <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1566-05-07"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1566-05-07"/>

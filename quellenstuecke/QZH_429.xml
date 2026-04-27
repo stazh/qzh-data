@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355070">StAZH B IV 45, fol. 104</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Schultheiss und Rat von Bülach (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-03-08"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1585-03-08"/>

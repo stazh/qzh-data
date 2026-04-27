@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355110">StAZH B IV 6, fol. 169r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Untervogt Junghans Mohr (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1535-11-23"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1535-11-23"/>

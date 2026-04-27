@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695183">StAZH E I 7.2, Nr. 138</idno>
           </msIdentifier>
           <head>Auszug aus dem Abschied der eidgenössischen Tagsatzung in Baden</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1577-06-17"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1577-06-17"/>

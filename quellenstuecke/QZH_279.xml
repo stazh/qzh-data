@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355339">StAZH E II 1, S. 599a verso – 599b recto (Handschrift von Heinrich Bullinger)</idno>
           </msIdentifier>
           <head>Herbstsynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1569-10-18"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1569-10-18"/>

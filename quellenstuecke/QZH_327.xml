@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355048">StAZH B IV 36, fol. 68r-69r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Sebastian Steiner (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1576-08-27"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1576-08-27"/>

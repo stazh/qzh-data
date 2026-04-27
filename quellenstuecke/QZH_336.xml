@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355050">StAZH B IV 37, fol. 228r-229r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Schultheiss und Rat von Bülach, an die Untervögte von Neuamt und Birmensdorf und an den Weibel von Stadel (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1577-05-22"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1577-05-22"/>

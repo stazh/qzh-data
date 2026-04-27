@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355036">StAZH B IV 28, fol. 94r</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Wilpert Zoller (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1568-08-09"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1568-08-09"/>

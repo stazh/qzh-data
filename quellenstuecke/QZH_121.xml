@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355347">StAZH F II a 271, S. 444 (Abschrift, um 1534)</idno>
           </msIdentifier>
           <head>Urteil/Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1533-02-27"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1533-02-27"/>

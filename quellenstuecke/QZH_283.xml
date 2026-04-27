@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355039">StAZH B IV 30, fol. 104</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Heinrich Binder (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1570-05-29"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1570-05-29"/>

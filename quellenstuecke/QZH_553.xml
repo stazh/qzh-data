@@ -33,6 +33,12 @@
               7.3, Nr. 63</idno>
           </msIdentifier>
           <head>Georg Ludwig von Freyberg der Jüngere an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1590-08-31"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1590-08-31"/>

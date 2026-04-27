@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355140">StAZH B VII 21.84, Nr. 4; Kopie: B IV 61, fol. 151v-152v</idno>
           </msIdentifier>
           <head>Rat und Bürgermeister von Zürich an Hans Ulrich Wolf</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1603-08-01"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1603-08-01"/>

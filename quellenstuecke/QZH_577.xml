@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355259">StAZH E I 7.3, Nr. 69</idno>
           </msIdentifier>
           <head>Urteil gegen Heinrich Rüzensdorfer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1593-07-21"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1593-07-21"/>

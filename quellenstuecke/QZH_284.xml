@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354881">StAZH B II 157, S. 36 (Manual des Unterschreibers)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1571-10-29"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1571-10-29"/>

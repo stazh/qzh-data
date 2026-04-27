@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354850">StAZH A 42.4, Nr. 51; Weitere Originale: Ms A 72, S. 343f.; B VII 21.84, Nr. 2; Abschrift: ZBZ, Ms B 165, fol. 213-214; Weitere Originale: Ms A 72, S. 343f.; B VII 21.84, Nr. 2; Abschrift: ZBZ, Ms B 165, fol. 213-214 (vgl. Schott-Volm, Policeyordnungen Zürich, 444)</idno>
           </msIdentifier>
           <head>Erneuerung des Täufermandats</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1574-10-25"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1574-10-25"/>
