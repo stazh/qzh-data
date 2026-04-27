@@ -31,7 +31,7 @@
           <msIdentifier>
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355001">StAZH B II 68, S. 12</idno>
           </msIdentifier>
-          <head>RatsbeschlussDie Lesung ist teils unmöglich, teils unsicher. Der Ratsbeschluss steht unter dem Datum «Mentag, 18. aprilen 1547».</head>
+          <head>Ratsbeschluss</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
@@ -72,5 +72,10 @@
       <div><p>[…] erkenend, dero dheine ze einer toffer, sellend […] bescheidenlich haben […] und bedenken […] ire sin 2 beherbergen, dan wo klegt kombt, so wellen min herren offen haben, einen oder sy beid abzestellen.</p>
 </div>
     </body>
+    <back>
+      <div>
+        <p>Die Lesung ist teils unmöglich, teils unsicher. Der Ratsbeschluss steht unter dem Datum «Mentag, 18. aprilen 1547».</p>
+      </div>
+    </back>
   </text>
 </TEI>
