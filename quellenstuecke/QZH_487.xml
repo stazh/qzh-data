@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355220">StAZH E I 7.3, Nr. 33</idno>
           </msIdentifier>
           <head>Notizen von Burkhard Leemann zum zweiten Verhör von Hans Hedinger</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-09"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1588-09">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

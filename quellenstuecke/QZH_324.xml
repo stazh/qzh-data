@@ -35,7 +35,15 @@
         von Hans Hermann Zydler, Herisau 1634, 8°).</idno>
           </msIdentifier>
           <head>Thomas Meyer</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1575"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1575">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

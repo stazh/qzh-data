@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355233">StAZH E I 7.3, Nr. 45</idno>
           </msIdentifier>
           <head>Weitere Verhöre und Urteile gegen die in Horgen verhafteten Täufer</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1589-10"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1589-10">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

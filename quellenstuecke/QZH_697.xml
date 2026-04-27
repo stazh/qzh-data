@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355115">StAZH B IV 60, fol. 259 a r-v</idno>
           </msIdentifier>
           <head>Bezahlung des Turmhüters und des Spitals</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1602-05"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1602-05">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

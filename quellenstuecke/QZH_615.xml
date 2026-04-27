@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355276">StAZH E I 7.3, Nr. 85</idno>
           </msIdentifier>
           <head>Rechnungskopie betreffs der Güter von Rudolf und Georg Schaufelberger</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1598-01"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1598-01">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

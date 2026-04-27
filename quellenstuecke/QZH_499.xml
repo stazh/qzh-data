@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4690847">StAZH E II 443, S. 119-197</idno>
           </msIdentifier>
           <head>Einfaches Bekenntnis: eine täuferische Petition an den Bürgermeister und Rat von Zürich</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1588">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

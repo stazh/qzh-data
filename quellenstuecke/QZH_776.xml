@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355190">StAZH E I 7.3, Nr. 139</idno>
           </msIdentifier>
           <head>Hans Heinrich Wiederkehr an Hans Heinrich KolbAufschrift auf der Rückseite des Dokuments: Das ist des Widerkeren schriben inn Merennland und des Holdshallben (Kopie)</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1608-09"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1608-09">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

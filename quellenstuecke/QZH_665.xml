@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355152">StAZH E I 7.3, Nr. 100; Abschrift: ZBZ, Ms A 72, S. 497-499</idno>
           </msIdentifier>
           <head>Bericht von Hans Heinrich Schinz für den Dekan Hartmann Hamberger</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1601-05"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1601-05">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

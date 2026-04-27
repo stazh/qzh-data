@@ -35,9 +35,25 @@
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-11-01"/>ca.</filiation>
+            </msItem>
+
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="original"><origDate when="1581-11-01"/>ca.</filiation>
+                        </msItem>
+            <msItem>
+              <textLang>Deutsch</textLang>
               <filiation type="original"><origDate when="1581-11-01"/></filiation>
             </msItem>
           </msContents>
+          <history>
+            <origin><origDate when="1581-11-01">ca.</origDate></origin>
+          </history>
+
+                    <history>
+                        <origin><origDate when="1581-11-01">ca.</origDate></origin>
+                    </history>
           <history>
             <origin>
               <origDate when="1581-11-01"/>

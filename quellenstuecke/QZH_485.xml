@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355222">StAZH E I 7.3, Nr. 35</idno>
           </msIdentifier>
           <head>Erstes Verhör von Hans Hedinger</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-08"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1588-08">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

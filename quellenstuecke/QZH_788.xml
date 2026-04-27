@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355187">StAZH E I 7.3, Nr. 136</idno>
           </msIdentifier>
           <head>Hutterer in Baltenswil und Niederglatt</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1608"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1608">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

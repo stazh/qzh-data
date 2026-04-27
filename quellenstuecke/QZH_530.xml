@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355237">StAZH E I 7.3, Nr. 49</idno>
           </msIdentifier>
           <head>Brief von Heinrich Wyss</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1589"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1589">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

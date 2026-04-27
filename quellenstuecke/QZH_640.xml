@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355248">StAZH E I 7.3, Nr. 59</idno>
           </msIdentifier>
           <head>Drittes Verhör und Urteile gegen Jörg Riedel und Heinrich Pfister</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1596-07"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1596-07">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

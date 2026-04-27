@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355201">StAZH E I 7.3, Nr. 149</idno>
           </msIdentifier>
           <head>Zweites Verhör von Hans Heinrich KolbAufschrift auf der Rückseite des Dokuments:</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1609-11-22"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1609-11-22">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355245">StAZH E I 7.3, Nr. 56</idno>
           </msIdentifier>
           <head>Drittes Verhör von Isaak Hartmann und Heinrich Wyss</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1590-05"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1590-05">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

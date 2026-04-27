@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355164">StAZH E I 7.3, Nr. 111</idno>
           </msIdentifier>
           <head>Verhöre von Jaggli Rüegg und Ulrich Störchli</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1602-11"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1602-11">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

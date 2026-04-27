@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355286">StAZH E I 7.3, Nr. 93; Abschrift: ZBZ, Ms A 72, S. 543f.</idno>
           </msIdentifier>
           <head>Erstes Verhör von Rudolf Gubelmann und Jörg Leutenegger</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1601-10"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1601-10">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

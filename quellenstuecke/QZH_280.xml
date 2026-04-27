@@ -32,7 +32,15 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355147">StAZH E I 2.2, Nr. 4 (Randnotiz im Bericht der Synode an den Rat)</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1569-11"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1569-11">ca.</origDate></origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>
