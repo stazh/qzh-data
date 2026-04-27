@@ -67,7 +67,11 @@
       </editorialDecl>
     </encodingDesc>
     <profileDesc>
-      <textClass default="false"/>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
     </profileDesc>
   </teiHeader>
   <text>
