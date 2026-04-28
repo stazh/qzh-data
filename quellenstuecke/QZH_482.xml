@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +75,7 @@
 <p><persName ref="Lavater, Hans">Hans Lavater</persName>, oberstknecht.</p>
 <pb n="2" facs="E_I_7_3__Nr__29__S__2_.tif"/>
 <p rend="margin-top">Wenn sy lobend by<note type="critical">Folgt gestrichen: dem</note> gott, der jnn synem wortt gredt, üwere reden söllend ja ja, nein nein syn, söllent sy ledig gelaßen werden, doch jnen heiter anzeigt werden, wover<note type="editorial"> wenn, Id. I, 914.</note> sy söllich loben übertretten, das man zů jnen als gottverloügneten lüthen richten werde etc.</p>
-<p rend="margin-top">Sy hand söllich loben ouch nit thůn wellen, derhalben söllent sy wyter jm <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> blyben liggen. Actum 18. sept[embris] a[nn]o etc. 88</p>
+<p rend="margin-top">Sy hand söllich loben ouch nit thůn wellen, derhalben söllent sy wyter jm <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> blyben liggen. Actum 18. sept[embris] a[nn]o etc. 88</p>
 </div>
     </body>
   </text>

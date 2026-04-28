@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -76,9 +76,9 @@
           ghorsame, willige dienst allyzit zůvoran bereit. Uff das schriben, so mir u[wer] e[rsam]
           wißheit uff hüt dato zůgschickt zweyer döüfferen halb, so u[wer] w[ißheit] gfencklich zů
           gfürt worden, uff solichs füg jch u. e. w. zůvernemen, das mir den 21. tag aperrellen zwen
-          töüffer von <placeName ref="Neftenbach">Nefftenbach</placeName> des verschinen<note type="editorial"> vergangenen, Id. VIII, 824.</note> 78. jar jn üwer (miner gnedigen
-          herren) gfencknus gen Kiburg sind gfürt worden, namlich einer so <persName ref="Hedinger, Hans">Hans Hedinger</persName> von <placeName ref="Birmensdorf">Birmistorff</placeName>, der ander <persName ref="Hotz, Hans">Hans Hotzs</persName> von
-            <placeName ref="Alstetten">Altsteten</placeName>, die der massen mit einer verfürischen
+          töüffer von <placeName ref="LOC_47.53754_8.66653">Nefftenbach</placeName> des verschinen<note type="editorial"> vergangenen, Id. VIII, 824.</note> 78. jar jn üwer (miner gnedigen
+          herren) gfencknus gen Kiburg sind gfürt worden, namlich einer so <persName ref="Hedinger, Hans">Hans Hedinger</persName> von <placeName ref="LOC_47.3539_8.43463">Birmistorff</placeName>, der ander <persName ref="Hotz, Hans">Hans Hotzs</persName> von
+            <placeName ref="LOC_47.38946_8.48533">Altsteten</placeName>, die der massen mit einer verfürischen
           lerr und seckt und unkristenlichen meinungen, so ich ie von einchen döüfferen ghört, alls
           namlich das nüt war sig, das unsser herr Cristus für ally sünd gnůg tan, sunder allein für
           die erbsünd, es möge ouch kein oberrer, waß stands er sige, weder durch den glouben nach

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>N[ota]: <placeName ref="Altstetten">Altstetten</placeName> undervogt ­toüf­feren zereden.</p>
+      <div><p>N[ota]: <placeName ref="LOC_47.38946_8.48533">Altstetten</placeName> undervogt ­toüf­feren zereden.</p>
 </div>
     </body>
     <back>

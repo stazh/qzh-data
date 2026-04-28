@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Gut, Andres">Andreß Gůt</persName> der ­toüf­fer erbütt sich, jnn 14ten den nechsten zur kilchen zegaan oder aber uß myner herren gricht und gebiet zewychen unnd biß  wienacht syn huß und heim zeverkouffen. Wo ers aber nitt verkouffen könnte zů verlichen und mit wyb und kinden myn herren jnn jrer landtschafft ungesumpt lassen. Diß soll dem vogt zů <placeName ref="Knonau">Knonouw</placeName> zůgschriben werden, das dem statt beschehe. Wo nitt, soll er jnn widerumb mynen herren gefengklichen zůschicken.</p>
+      <div><p><persName ref="Gut, Andres">Andreß Gůt</persName> der ­toüf­fer erbütt sich, jnn 14ten den nechsten zur kilchen zegaan oder aber uß myner herren gricht und gebiet zewychen unnd biß  wienacht syn huß und heim zeverkouffen. Wo ers aber nitt verkouffen könnte zů verlichen und mit wyb und kinden myn herren jnn jrer landtschafft ungesumpt lassen. Diß soll dem vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> zůgschriben werden, das dem statt beschehe. Wo nitt, soll er jnn widerumb mynen herren gefengklichen zůschicken.</p>
 </div>
     </body>
     <back>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,9 +69,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, vester, besonders, gethrüwer, lieber burger unnd vogt, hüttigs morgens jnn der nacht sind <persName ref="Gut, Andres">Andares Gůt</persName> von <placeName ref="Luneren">Luneren</placeName> unnd <persName ref="Wäber, Gorius">Gorius Wäber</persName> von Äbertschwyl<note type="editorial"> Ebertswil</note>, beid dyne amptsangehörige, die wir von wegen jrer angenomnen ­toüf­ferischen sect jetzt ein [zyt] har jnn verstrickung gehept, nebent anderen jren mitthafften<note type="editorial"> Parteigänger, Id. II, 1057.</note> usß unnser gfengknus, dem <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>, gebrochen unnd ußkhommen. Deßwegen so bevelchend wir dir hiemitt, dyn spech unnd khundtschaft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> uff sy beid<note type="critical">Folgt gestrichen: ald jeden jnnsonders</note> zehaben unnd zemachen, das du unns dieselben, wo sy jnn dyner amptsverwaltung nachmalen<note type="critical">«jnn dyner amptsverwaltung nachmalen» am oberen Blattrand mit Veriweiszeichen, in der Zeile gestrichen: anderst</note> zůbetreten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, widerumb wol verwarth gfengklich<note type="critical">«gfengklich» am Rand mit Verweiszeichen</note> zůschickst<note type="critical">korrigiert, ursprünglich: zůschicken khönnist</note>, damit wir uns<note type="critical">«uns» über der Zeile, in der Zeile gestrichen: unns</note> ferner gegen jnen der gepür nach zůverhalten wüssind. Datum den 19ten januarij anno etc. 90.  </p>
+      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, vester, besonders, gethrüwer, lieber burger unnd vogt, hüttigs morgens jnn der nacht sind <persName ref="Gut, Andres">Andares Gůt</persName> von <placeName ref="LOC_47.26217_8.41262">Luneren</placeName> unnd <persName ref="Wäber, Gorius">Gorius Wäber</persName> von Äbertschwyl<note type="editorial"> Ebertswil</note>, beid dyne amptsangehörige, die wir von wegen jrer angenomnen ­toüf­ferischen sect jetzt ein [zyt] har jnn verstrickung gehept, nebent anderen jren mitthafften<note type="editorial"> Parteigänger, Id. II, 1057.</note> usß unnser gfengknus, dem <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName>, gebrochen unnd ußkhommen. Deßwegen so bevelchend wir dir hiemitt, dyn spech unnd khundtschaft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> uff sy beid<note type="critical">Folgt gestrichen: ald jeden jnnsonders</note> zehaben unnd zemachen, das du unns dieselben, wo sy jnn dyner amptsverwaltung nachmalen<note type="critical">«jnn dyner amptsverwaltung nachmalen» am oberen Blattrand mit Veriweiszeichen, in der Zeile gestrichen: anderst</note> zůbetreten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, widerumb wol verwarth gfengklich<note type="critical">«gfengklich» am Rand mit Verweiszeichen</note> zůschickst<note type="critical">korrigiert, ursprünglich: zůschicken khönnist</note>, damit wir uns<note type="critical">«uns» über der Zeile, in der Zeile gestrichen: unns</note> ferner gegen jnen der gepür nach zůverhalten wüssind. Datum den 19ten januarij anno etc. 90.  </p>
 <p rend="margin-top">Burgermeister und rath der statt Zürich</p>
-<p rend="margin-top">Dem frommen, vesten, unnserm besonders gethrüwen, lieben burger unnd vogt zů Knonouw Hanns Heinrichen Meyer von <placeName ref="Knonau">Knonouw</placeName>.</p>
+<p rend="margin-top">Dem frommen, vesten, unnserm besonders gethrüwen, lieben burger unnd vogt zů Knonouw Hanns Heinrichen Meyer von <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>.</p>
 </div>
     </body>
   </text>

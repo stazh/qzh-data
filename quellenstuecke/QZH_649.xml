@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Häsi, Ulrich">Ůlrichen Häsi</persName> ab <placeName ref="Aeugst am Albis">Oügsten</placeName><note type="editorial"> Aeugst am Albis</note> will man von syner <persName ref="Häsi, Anna">tochter Anna</persName>, <persName ref="Bickel, Jakob">Jacob Bickels</persName> frauwen, von der ­toüf­fery wegen hinder mynen herren liggenden müterlichen gůt, deß 300 pfund<note type="critical">In der Vorlage: lb</note> jst, an synen darmit erlitnen uncosten zwen zinß als 30 pfund, so uff verschinnen martinj verfallen unnd künfftig martinij verfallen wirt, uß gnaden gevolgen laßen.</p>
+      <div><p><persName ref="Häsi, Ulrich">Ůlrichen Häsi</persName> ab <placeName ref="LOC_47.27541_8.4897">Oügsten</placeName><note type="editorial"> Aeugst am Albis</note> will man von syner <persName ref="Häsi, Anna">tochter Anna</persName>, <persName ref="Bickel, Jakob">Jacob Bickels</persName> frauwen, von der ­toüf­fery wegen hinder mynen herren liggenden müterlichen gůt, deß 300 pfund<note type="critical">In der Vorlage: lb</note> jst, an synen darmit erlitnen uncosten zwen zinß als 30 pfund, so uff verschinnen martinj verfallen unnd künfftig martinij verfallen wirt, uß gnaden gevolgen laßen.</p>
 </div>
     </body>
     <back>

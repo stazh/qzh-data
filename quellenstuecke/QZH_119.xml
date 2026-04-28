@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Dis urfeh ist disen beyden personen vorgelaͤsen unnd hands daruff geschworenn, hand den vogt<note type="editorial"> Untervogt</note> <persName ref="Bücheler, N.">Buecheler</persName> in mynem nammen gebeͣetten zů siglen uff mentag den viij. aprellen jn bysyn dess weybels unnd der vierern zů <placeName ref="Kloten">Cloten</placeName> anno etc. 32. jar.</p>
+      <div><p>Dis urfeh ist disen beyden personen vorgelaͤsen unnd hands daruff geschworenn, hand den vogt<note type="editorial"> Untervogt</note> <persName ref="Bücheler, N.">Buecheler</persName> in mynem nammen gebeͣetten zů siglen uff mentag den viij. aprellen jn bysyn dess weybels unnd der vierern zů <placeName ref="LOC_47.45801_8.58528">Cloten</placeName> anno etc. 32. jar.</p>
 </div>
     </body>
   </text>

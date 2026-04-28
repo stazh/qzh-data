@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Umb das <persName ref="Gut, Andres">Andreß Gůten</persName> von <placeName ref="Luneren">Lůnneren</placeName> wyb und kind nitt zů kilchen gandt jnnhalt myner herren christenlichen satzungen, soll der vogt zů <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Heinrich Meyer von Knonau.</note> jnen stedts die bůßen nach ußwyßung<note type="editorial"> Wortlaut, Inhalt, Aussage, Id. XVI, 953.</note> deß mandaths abnemmen, sonsten er jnne, Andreßen, wo er zůbeträtten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, wider wolbewart alher gfuͤrt werden.</p>
+      <div><p>Umb das <persName ref="Gut, Andres">Andreß Gůten</persName> von <placeName ref="LOC_47.26217_8.41262">Lůnneren</placeName> wyb und kind nitt zů kilchen gandt jnnhalt myner herren christenlichen satzungen, soll der vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName><note type="editorial"> Hans Heinrich Meyer von Knonau.</note> jnen stedts die bůßen nach ußwyßung<note type="editorial"> Wortlaut, Inhalt, Aussage, Id. XVI, 953.</note> deß mandaths abnemmen, sonsten er jnne, Andreßen, wo er zůbeträtten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, wider wolbewart alher gfuͤrt werden.</p>
 </div>
     </body>
     <back>

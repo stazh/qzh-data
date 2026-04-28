@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Arter, Klaus">Clous Arters</persName> von <placeName ref="Ebertswil">Ebertschwyl</placeName><note type="editorial"> Ebertswil</note> begeren, das man jme die 300 g[ulden] (so er synen beiden brůderen, die jnn <placeName ref="Mähren">Mehrherrn</placeName> sind, schuldig, bey dem ußkouff<note type="editorial"> Erbvertrag, Id. III, 165.</note> jres vätter- und muͤterlichen gůts und gedachte beide brůderen jme, Cloußen, disere 300 g. vermachet), bewilligen welle, jst jetzmaln biß uff deß vogts zů Kno[no]uw<note type="editorial"> Hans Heinrich von <persName ref="Wellenberg, Hans Heinrich von">Wellenberg</persName><bm id="267"/></note> wyteren bericht jngestelt, doch jme, Cloußen, anzeigt worden, das er umb diß gůt ein brief laße machen und dem vogt von <placeName ref="Knonau">Knonouw</placeName> zůstelle. Und wann dann myn herren der sachen ein rechten bericht haben, werden sy nach jrem gfallen handlen.</p>
+      <div><p><persName ref="Arter, Klaus">Clous Arters</persName> von <placeName ref="LOC_47.22639_8.54962">Ebertschwyl</placeName><note type="editorial"> Ebertswil</note> begeren, das man jme die 300 g[ulden] (so er synen beiden brůderen, die jnn <placeName ref="LOC_49.5_17">Mehrherrn</placeName> sind, schuldig, bey dem ußkouff<note type="editorial"> Erbvertrag, Id. III, 165.</note> jres vätter- und muͤterlichen gůts und gedachte beide brůderen jme, Cloußen, disere 300 g. vermachet), bewilligen welle, jst jetzmaln biß uff deß vogts zů Kno[no]uw<note type="editorial"> Hans Heinrich von <persName ref="Wellenberg, Hans Heinrich von">Wellenberg</persName><bm id="267"/></note> wyteren bericht jngestelt, doch jme, Cloußen, anzeigt worden, das er umb diß gůt ein brief laße machen und dem vogt von <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> zůstelle. Und wann dann myn herren der sachen ein rechten bericht haben, werden sy nach jrem gfallen handlen.</p>
 </div>
     </body>
     <back>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hieby<note type="editorial"> Voran gehen Ratsbeschlüsse im Zusammenhang mit einem Streit zwischen der Gemeinde Buchs (Zürich) und Pfarrer <persName ref="Schweizer, Elias">Elias Schweizer</persName>.</note> dem vogt zů <placeName ref="Regensberg">Regensperg</placeName> schryben, das er denen, so nit zů kilchen gond, deßglichen die jnn syner ambtsverwaltung mit lochßnen<note type="editorial"> Hexen- und Zauberkünste treiben, Id. III, 1044.</note>, sägnen<note type="editorial"> ein Segen zu Heilzwecken sprechen, auch im Sinn einer zauberhaften Handlung, Id. VII, 459.</note>, wallferten und anderen abergloübigen verbottnen stucken umbgond, eigentlich nachfragen unnd dieselben mitt erntst straaffen, damitt söllichs abgstelt werde.</p>
+      <div><p>Hieby<note type="editorial"> Voran gehen Ratsbeschlüsse im Zusammenhang mit einem Streit zwischen der Gemeinde Buchs (Zürich) und Pfarrer <persName ref="Schweizer, Elias">Elias Schweizer</persName>.</note> dem vogt zů <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName> schryben, das er denen, so nit zů kilchen gond, deßglichen die jnn syner ambtsverwaltung mit lochßnen<note type="editorial"> Hexen- und Zauberkünste treiben, Id. III, 1044.</note>, sägnen<note type="editorial"> ein Segen zu Heilzwecken sprechen, auch im Sinn einer zauberhaften Handlung, Id. VII, 459.</note>, wallferten und anderen abergloübigen verbottnen stucken umbgond, eigentlich nachfragen unnd dieselben mitt erntst straaffen, damitt söllichs abgstelt werde.</p>
 </div>
     </body>
     <back>

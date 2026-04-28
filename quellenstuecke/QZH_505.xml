@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Diewyl <persName ref="Heidegger, Samuel">Samuel Heidegers</persName> (so sich jnn die wider­toüf­fery ergeben) gůt hievor jnn verbott<note type="editorial"> Sequester, Beschlag.</note> gelegt unnd durch jnne der schuldbrief uff dem <placeName ref="Sengen">Sengen</placeName><note type="editorial"> Flurname (nicht identifiziert)</note> erst sidhar verkoufft worden, da man achtet, diser verkouff ein gemachets mendlj<note type="editorial"> Vorspiegelung, Vorwand, Ausflucht, Id. IV, 424.</note> syge, so <nswk/> laßents myn herren nochmale bim verbott blyben unnd jst der von <placeName ref="Hallau">Halow</placeName><note type="editorial"> Hallau</note>, so die schuld jnzůzüchen begert, abgewißen.</p>
+      <div><p>Diewyl <persName ref="Heidegger, Samuel">Samuel Heidegers</persName> (so sich jnn die wider­toüf­fery ergeben) gůt hievor jnn verbott<note type="editorial"> Sequester, Beschlag.</note> gelegt unnd durch jnne der schuldbrief uff dem <placeName ref="LOC_">Sengen</placeName><note type="editorial"> Flurname (nicht identifiziert)</note> erst sidhar verkoufft worden, da man achtet, diser verkouff ein gemachets mendlj<note type="editorial"> Vorspiegelung, Vorwand, Ausflucht, Id. IV, 424.</note> syge, so <nswk/> laßents myn herren nochmale bim verbott blyben unnd jst der von <placeName ref="LOC_47.70047_8.44315">Halow</placeName><note type="editorial"> Hallau</note>, so die schuld jnzůzüchen begert, abgewißen.</p>
 </div>
     </body>
     <back>

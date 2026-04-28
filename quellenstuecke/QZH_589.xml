@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Enndtzwüschent <persName ref="Häberling, Ruedi">Rüedj Häberling</persName>, so sich jm lannd zu <placeName ref="Mähen">Merhern</placeName> endthalt und aber der ­toüf­ferischen sect nit underworffen syn soll, an eynem, <persName ref="Häberling, Hans">sodenne Hansen</persName> Häberling als vogt <persName ref="Häberling, Heini">Heyne Häberlings</persName> von <placeName ref="Ottenbach, Bickwil">Bickwyl</placeName> uß der herrschafft<note type="critical">In der Vorlage: herrschaff</note> <placeName ref="Knonau">Knonow</placeName> seligen verlaßnen kinden an dem anndern theil, jst erkenth<note type="editorial"> beschliessen, amtlich etwas festsetzen, Id. III, 313.</note>, diewyl er, Rüedj Heberling, den feren<note type="editorial"> weiten</note> weg zogen und zu syner lybs nothurfft etwz baren geltz nodt<note type="critical">Folgt gestrichen: thürfftig</note> mangelbar, do so sölle gsagter Hans Häberling jnnamen synner vogtkinden jme uff diß mal uß jr aller hab und gut, als da es alls jn eyner gmeyndtschafft, xxx pfund<note type="critical">In der Vorlage: lb</note> an barem gelt zustellen und er uff zwey jar lang darmit abgevertiget syn unnd jr hof unnd güetlj also unverdeilt byeinandern belyben.</p>
+      <div><p>Enndtzwüschent <persName ref="Häberling, Ruedi">Rüedj Häberling</persName>, so sich jm lannd zu <placeName ref="LOC_49.5_17">Merhern</placeName> endthalt und aber der ­toüf­ferischen sect nit underworffen syn soll, an eynem, <persName ref="Häberling, Hans">sodenne Hansen</persName> Häberling als vogt <persName ref="Häberling, Heini">Heyne Häberlings</persName> von <placeName ref="LOC_47.26943_8.42448">Bickwyl</placeName> uß der herrschafft<note type="critical">In der Vorlage: herrschaff</note> <placeName ref="LOC_47.22446_8.46262">Knonow</placeName> seligen verlaßnen kinden an dem anndern theil, jst erkenth<note type="editorial"> beschliessen, amtlich etwas festsetzen, Id. III, 313.</note>, diewyl er, Rüedj Heberling, den feren<note type="editorial"> weiten</note> weg zogen und zu syner lybs nothurfft etwz baren geltz nodt<note type="critical">Folgt gestrichen: thürfftig</note> mangelbar, do so sölle gsagter Hans Häberling jnnamen synner vogtkinden jme uff diß mal uß jr aller hab und gut, als da es alls jn eyner gmeyndtschafft, xxx pfund<note type="critical">In der Vorlage: lb</note> an barem gelt zustellen und er uff zwey jar lang darmit abgevertiget syn unnd jr hof unnd güetlj also unverdeilt byeinandern belyben.</p>
 </div>
     </body>
     <back>

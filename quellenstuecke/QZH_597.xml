@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Wenn <persName ref="Müller, Baschi">Baschion Müller</persName> von <placeName ref="Birmensdorf">Birmenstorff</placeName> versicherung hat, söllent die h[err]en seckelmeyster jme uß <persName ref="Drechsler, Jaggli">Jaglj Thrächßlers</persName> deß ­toüf­fers, so jnn dz land <placeName ref="Mähren">Merhern</placeName> gezogen, hinderlegten gut xxvj g[ulden] uff etliche jro umb den gepürendt zins gelichen werden.</p>
+      <div><p>Wenn <persName ref="Müller, Baschi">Baschion Müller</persName> von <placeName ref="LOC_47.3539_8.43463">Birmenstorff</placeName> versicherung hat, söllent die h[err]en seckelmeyster jme uß <persName ref="Drechsler, Jaggli">Jaglj Thrächßlers</persName> deß ­toüf­fers, so jnn dz land <placeName ref="LOC_49.5_17">Merhern</placeName> gezogen, hinderlegten gut xxvj g[ulden] uff etliche jro umb den gepürendt zins gelichen werden.</p>
 </div>
     </body>
     <back>

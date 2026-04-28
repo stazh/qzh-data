@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr vogt Thůmyßen<note type="editorial"> <persName ref="Thumysen, Itelhans">Itelhans Thumysen</persName></note> jst hern vogt zů <placeName ref="Grüningen">Gruͤningen</placeName><note type="editorial"> <persName ref="Holzhalb, Heinrich">Heinrich Holzhalb</persName></note>, die ­toüf­fer zůbschicken und jnen myner herren meinung fürzůhalten, zůgeben und welliche nitt gehorsam  sind, die söllent gfengklichen angenommen werden unnd mit allem erntst handlen, das man jren abkomme oder sy sich der sach gmesß haltind.</p>
+      <div><p>Herr vogt Thůmyßen<note type="editorial"> <persName ref="Thumysen, Itelhans">Itelhans Thumysen</persName></note> jst hern vogt zů <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName><note type="editorial"> <persName ref="Holzhalb, Heinrich">Heinrich Holzhalb</persName></note>, die ­toüf­fer zůbschicken und jnen myner herren meinung fürzůhalten, zůgeben und welliche nitt gehorsam  sind, die söllent gfengklichen angenommen werden unnd mit allem erntst handlen, das man jren abkomme oder sy sich der sach gmesß haltind.</p>
 </div>
     </body>
     <back>

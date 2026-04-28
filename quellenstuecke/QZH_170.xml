@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><placeName ref="Grüningen">Grüningen</placeName> und <placeName ref="Kyburg">Kyburg</placeName> schryben der töufferen halb, wa sy die mögen ankomen<note type="editorial"> antreffen, begegnen, vgl. <hl to="http://fwb-online.de/go/ankommen.s.3vu_1709323546"><Hyperlink>http://fwb-online.de/go/ankommen.s.3vu_1709323546</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>, zu jnen gryffen und niemdert dulden.</p>
+      <div><p><placeName ref="LOC_47.28333_8.75">Grüningen</placeName> und <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> schryben der töufferen halb, wa sy die mögen ankomen<note type="editorial"> antreffen, begegnen, vgl. <hl to="http://fwb-online.de/go/ankommen.s.3vu_1709323546"><Hyperlink>http://fwb-online.de/go/ankommen.s.3vu_1709323546</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>, zu jnen gryffen und niemdert dulden.</p>
 </div>
     </body>
     <back>

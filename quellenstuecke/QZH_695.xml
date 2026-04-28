@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Grüningen">Grüningen</placeName><note type="editorial"> Jakob <persName ref="Zur Eich, Jakob">Zur Eich</persName> </note> sol nach dem uß dem spital entloffnen ­toüf­fer, dem wagner<note type="editorial"> <persName ref="Gubelmann, Rudolf">Rudolf Gubelmann</persName> </note>, stellen unnd jnne wider alhar schicken.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName><note type="editorial"> Jakob <persName ref="Zur Eich, Jakob">Zur Eich</persName> </note> sol nach dem uß dem spital entloffnen ­toüf­fer, dem wagner<note type="editorial"> <persName ref="Gubelmann, Rudolf">Rudolf Gubelmann</persName> </note>, stellen unnd jnne wider alhar schicken.</p>
 </div>
     </body>
     <back>

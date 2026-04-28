@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Schultheiß Hußherr<note type="editorial"> <persName ref="Huser, Joachim">Joachim Huser</persName></note>, als vogt und verwalter<note type="editorial"> <persName ref="Steiner, Andreas">Andreas Steiner</persName></note> der herrschafft <placeName ref="Wülflingen">Wülflingen</placeName>, deßglychen j[unker] Hansen von <persName ref="Ulm, Hans von">Ulm</persName> schryben, wo er<note type="editorial"> Hans Hedinger</note> zů betretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, gfengklichen anzůnämen.</p>
+      <div><p>Schultheiß Hußherr<note type="editorial"> <persName ref="Huser, Joachim">Joachim Huser</persName></note>, als vogt und verwalter<note type="editorial"> <persName ref="Steiner, Andreas">Andreas Steiner</persName></note> der herrschafft <placeName ref="LOC_47.51036_8.68333">Wülflingen</placeName>, deßglychen j[unker] Hansen von <persName ref="Ulm, Hans von">Ulm</persName> schryben, wo er<note type="editorial"> Hans Hedinger</note> zů betretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, gfengklichen anzůnämen.</p>
 </div>
     </body>
   </text>

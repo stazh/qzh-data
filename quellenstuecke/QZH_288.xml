@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Wybel zů <placeName ref="Stadel">Stadel</placeName><note type="editorial"> <persName ref="Kofel, Hans">Hans Kofel</persName></note> schryben, das myn herren Stefan <persName ref="Im Tal, Stefan">jm Tall</persName>, den ­toüf­fer, dergstalt der gfengknuß erlassen, das er jm huß blyben und gar niennerdt hin, weder gaan ald<note type="editorial"> oder</note> wandlen, das er jnn die kilchen zůr predig, ouch jemmanden zů jm jns huß wandlen lassen. Daruf er acht haben und, wo ers ald die synen übersechind, soll er jnn all den, so daran schuldig, gfengklichen annemmen und mynen herren zůbringen.</p>
+      <div><p>Wybel zů <placeName ref="LOC_47.53797_8.47014">Stadel</placeName><note type="editorial"> <persName ref="Kofel, Hans">Hans Kofel</persName></note> schryben, das myn herren Stefan <persName ref="Im Tal, Stefan">jm Tall</persName>, den ­toüf­fer, dergstalt der gfengknuß erlassen, das er jm huß blyben und gar niennerdt hin, weder gaan ald<note type="editorial"> oder</note> wandlen, das er jnn die kilchen zůr predig, ouch jemmanden zů jm jns huß wandlen lassen. Daruf er acht haben und, wo ers ald die synen übersechind, soll er jnn all den, so daran schuldig, gfengklichen annemmen und mynen herren zůbringen.</p>
 </div>
     </body>
     <back>

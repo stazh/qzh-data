@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt von <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Heinrich Meyer von <persName ref="Meyer von Knonau, Hans Heinrich">Knonau</persName></note> schryben, das er sambt dem predicanten deß landtschrybers frouw bschicken, jren mit erntst undersagen, das sy wie andere christen lüth die ordenlichen predigen jnn der kilchen besůchen, dann man jro jr ungehorsam ußblyben, so nitt one große ergernuß zůgange, nitt witer gestattnen, sonnders  wo sy widerspennig, worde man verursachet, sy durch andere mittel gehorsam zemachen, es syge mit gfangenschafft ald<note type="editorial"> oder</note> sonst.</p>
+      <div><p>Vogt von <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName><note type="editorial"> Hans Heinrich Meyer von <persName ref="Meyer von Knonau, Hans Heinrich">Knonau</persName></note> schryben, das er sambt dem predicanten deß landtschrybers frouw bschicken, jren mit erntst undersagen, das sy wie andere christen lüth die ordenlichen predigen jnn der kilchen besůchen, dann man jro jr ungehorsam ußblyben, so nitt one große ergernuß zůgange, nitt witer gestattnen, sonnders  wo sy widerspennig, worde man verursachet, sy durch andere mittel gehorsam zemachen, es syge mit gfangenschafft ald<note type="editorial"> oder</note> sonst.</p>
 </div>
     </body>
     <back>

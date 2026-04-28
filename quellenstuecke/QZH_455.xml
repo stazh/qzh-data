@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><placeName ref="Freiamt">Fryampt</placeName>:</p>
+      <div><p><placeName ref="LOC_47.2820935_8.3312904">Fryampt</placeName>:</p>
 <p>Von teuffern halb mitt dem h[erren] obervogt gredt, der sich alles ernst zehandlen empotten mitt hilf und rath unserer gnedigen herren.</p>
 </div>
     </body>

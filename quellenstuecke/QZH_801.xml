@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr hußschryber Grebel<note type="editorial"> <persName ref="Grebel, Konrad">Konrad Grebel</persName></note> und amptman Keller<note type="editorial"> Hans <persName ref="Keller, Hans Conrad">Conrad Keller</persName></note> söllend erkhundigen, wie es Caspar Wuͤsten von <placeName ref="Kloten">Cloten</placeName>, der vor jaren jnn <placeName ref="Mähren">Mehrherren</placeName> zogen, hab und gůts halber gestaltet und, je nachdem sy findend, <persName ref="Wüst, Bat">Bat</persName> und Hans den <persName ref="Wüst, Hans">Wuͤsten</persName>, so deßen ußhin begert, mit bscheid zůbegegnen oder die sach wider für<note type="editorial"> vor</note> rath zebringen.</p>
+      <div><p>Herr hußschryber Grebel<note type="editorial"> <persName ref="Grebel, Konrad">Konrad Grebel</persName></note> und amptman Keller<note type="editorial"> Hans <persName ref="Keller, Hans Conrad">Conrad Keller</persName></note> söllend erkhundigen, wie es Caspar Wuͤsten von <placeName ref="LOC_47.45801_8.58528">Cloten</placeName>, der vor jaren jnn <placeName ref="LOC_49.5_17">Mehrherren</placeName> zogen, hab und gůts halber gestaltet und, je nachdem sy findend, <persName ref="Wüst, Bat">Bat</persName> und Hans den <persName ref="Wüst, Hans">Wuͤsten</persName>, so deßen ußhin begert, mit bscheid zůbegegnen oder die sach wider für<note type="editorial"> vor</note> rath zebringen.</p>
 </div>
     </body>
     <back>

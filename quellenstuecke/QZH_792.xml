@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr seckelmeister Escher, vogt Kipenhan und vogt Leeman söllend erkhundigen, wievil N. <persName ref="Bucher, N.">Bůcherin</persName> von Tachelßen<note type="editorial"> <placeName ref="Dachlissen">Dachlissen</placeName></note>, so by 23 jaren jnn <placeName ref="Mähren">Meerherren</placeName> gezogen und alda gestorben syn soll, hab und gůts alhie noch hinderlegt und verhanden syge, und dann gwalt haben, mit jrem brůder <persName ref="Bucher, Hans">Hanßen Bůcher</persName> und andern gschwüstergiten zeüberkhommen, was gmeiner statt und jnen darvon gehören sölle und möge. Doch das sy darumb versicherung gebind, wann hernach etwar keme, dem diß gůt gehörte, man dz zefinden wüsse.</p>
+      <div><p>Herr seckelmeister Escher, vogt Kipenhan und vogt Leeman söllend erkhundigen, wievil N. <persName ref="Bucher, N.">Bůcherin</persName> von Tachelßen<note type="editorial"> <placeName ref="LOC_47.25963_8.4391">Dachlissen</placeName></note>, so by 23 jaren jnn <placeName ref="LOC_49.5_17">Meerherren</placeName> gezogen und alda gestorben syn soll, hab und gůts alhie noch hinderlegt und verhanden syge, und dann gwalt haben, mit jrem brůder <persName ref="Bucher, Hans">Hanßen Bůcher</persName> und andern gschwüstergiten zeüberkhommen, was gmeiner statt und jnen darvon gehören sölle und möge. Doch das sy darumb versicherung gebind, wann hernach etwar keme, dem diß gůt gehörte, man dz zefinden wüsse.</p>
 </div>
     </body>
     <back>

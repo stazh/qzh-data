@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -70,7 +70,7 @@
   <text>
     <body>
       <div>
-        <p>Diewyl man nitt eigentlich wüssen mag, wie die ­toüf­fer uß der herrschafft <placeName ref="Grüningen">Gruͤningen</placeName> under vogt Bergers<note type="editorial"> Jörg
+        <p>Diewyl man nitt eigentlich wüssen mag, wie die ­toüf­fer uß der herrschafft <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName> under vogt Bergers<note type="editorial"> Jörg
             Berger (gest. 1533)<persName ref="Berger, Jörg"/>, von 1513 bis 1529 Landvogt von
               Grüningen, vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Doris Klee: Konflikte kommunizieren. Die Briefe des Grüninger Landvogts
             Jörg Berger an den Zürcher Rat (1514–1529), Zürich 2006</ref></bibl>.</note> seligen verwaltung alher

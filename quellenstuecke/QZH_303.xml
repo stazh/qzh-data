@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Demnach ward vil und lang geredt von den toͤuffern, wie gwalltig die zůnaͤmind fürnemlich zů <placeName ref="Wädenswil">Waͤdischwyl</placeName><note type="editorial"> Wädenswil</note> und allenthalb. Da lůgte man zů und bruchte kein ernst, das unsern herren der kylchen statt und land übel erschiessen<note type="editorial"> erwachsen</note> wurde.</p>
+      <div><p>Demnach ward vil und lang geredt von den toͤuffern, wie gwalltig die zůnaͤmind fürnemlich zů <placeName ref="LOC_47.22493_8.65207">Waͤdischwyl</placeName><note type="editorial"> Wädenswil</note> und allenthalb. Da lůgte man zů und bruchte kein ernst, das unsern herren der kylchen statt und land übel erschiessen<note type="editorial"> erwachsen</note> wurde.</p>
 <p>Das soͤlle an unser herren langen mitt ernst.</p>
 <p>[Spätere Notiz]: Die liessend volgents sontags 24. octob[ris] ein mandat ußgan wider toͤuffery.</p>
 </div>

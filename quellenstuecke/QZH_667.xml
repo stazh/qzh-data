@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Den obervögten zů <placeName ref="Rümlang">Rümlang</placeName> jst gwalt geben, das sy dem <persName ref="Kern, Hans">Hanß Kernen</persName> und <persName ref="Gassmann, Andreas">Andersen Gaßman</persName>, so jr haab und gůt verkoufft unnd mitt wyb und kinden (wyl sy sich alhie nit mehr zůerhalten getruwend) jnn <placeName ref="Mähren">Merrherrn</placeName> land züchen wellent, von jrem gůt was nach abzalung jrer schulden überblybt und einem jeden über 100 g[ulden] betrifft etwas zů einem zeerpfenning werden laßen<note type="critical">korrigiert, ursprünglich: zelaßen</note>, das ander soll wie ander derglychen gůt luth deß ­toüf­fer mandats alhie behallten werden. Sontsten es ein bösen jngang<note type="editorial"> Zugeständnis, Präzedenzfall, vgl. <hl to="http://fwb-online.de/go/eingang.s.0m_1709352946"><Hyperlink>http://fwb-online.de/go/eingang.s.0m_1709352946</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> geben wurde.</p>
+      <div><p>Den obervögten zů <placeName ref="LOC_47.44713_8.52938">Rümlang</placeName> jst gwalt geben, das sy dem <persName ref="Kern, Hans">Hanß Kernen</persName> und <persName ref="Gassmann, Andreas">Andersen Gaßman</persName>, so jr haab und gůt verkoufft unnd mitt wyb und kinden (wyl sy sich alhie nit mehr zůerhalten getruwend) jnn <placeName ref="LOC_49.5_17">Merrherrn</placeName> land züchen wellent, von jrem gůt was nach abzalung jrer schulden überblybt und einem jeden über 100 g[ulden] betrifft etwas zů einem zeerpfenning werden laßen<note type="critical">korrigiert, ursprünglich: zelaßen</note>, das ander soll wie ander derglychen gůt luth deß ­toüf­fer mandats alhie behallten werden. Sontsten es ein bösen jngang<note type="editorial"> Zugeständnis, Präzedenzfall, vgl. <hl to="http://fwb-online.de/go/eingang.s.0m_1709352946"><Hyperlink>http://fwb-online.de/go/eingang.s.0m_1709352946</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> geben wurde.</p>
 </div>
     </body>
     <back>

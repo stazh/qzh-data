@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hanns <persName ref="Müller, Hans Heinrich">Heinrych Müller</persName> diacon zů <placeName ref="Niederweningen">Waͤningen</placeName><note type="editorial"> Niederweningen</note> verkoufft sine buͤcher in theologia, will fliegen one faͤderen<note type="editorial"> d.h. Theologe sein ohne theologische Bücher</note>. Last sich mitt disputieren an, alls ob imm der widertoͤüffer leer gefalle, zangget umb das, das ouch die wercke notwendig zum heyl, ja selig machind.<note type="editorial"> Weiter wird bemängelt, dass Müller in handschriftlichen Notizen in seinen Zwingli-Ausgaben den Zürcher Reformator als Lügner und Ketzer bezeichne.</note></p>
+      <div><p>Hanns <persName ref="Müller, Hans Heinrich">Heinrych Müller</persName> diacon zů <placeName ref="LOC_47.5029_8.37505">Waͤningen</placeName><note type="editorial"> Niederweningen</note> verkoufft sine buͤcher in theologia, will fliegen one faͤderen<note type="editorial"> d.h. Theologe sein ohne theologische Bücher</note>. Last sich mitt disputieren an, alls ob imm der widertoͤüffer leer gefalle, zangget umb das, das ouch die wercke notwendig zum heyl, ja selig machind.<note type="editorial"> Weiter wird bemängelt, dass Müller in handschriftlichen Notizen in seinen Zwingli-Ausgaben den Zürcher Reformator als Lügner und Ketzer bezeichne.</note></p>
 </div>
     </body>
   </text>

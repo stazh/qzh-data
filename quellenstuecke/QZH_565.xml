@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Knonau">Knonouw</placeName> schryben, die jhenigen syne amptsangehörigen, so sich synen undervögten den ­toüf­feren, die myner herren mandat übersehen, pfand ußzetryben und zenemmen, beholfen zesind, widerend, sonnderlichen wanns etwan arme weren, die das allmoßen von <placeName ref="Kappel">Capel</placeName> habent, für<note type="editorial"> vor</note> sich zůbeschicken, sy der pflicht unnd gehorsamme, so sy mynen herren sonderlichen jnn diserm fal, da es christenliche mandat antrifft, zeleisten, schuldig ermannen. Unnd wellicher sich nachmaln deß verweigeren wurde, denselben er für myn herren citieren und denen, so dz allmoßen hetten, dasselbig abschlachen sölle.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> schryben, die jhenigen syne amptsangehörigen, so sich synen undervögten den ­toüf­feren, die myner herren mandat übersehen, pfand ußzetryben und zenemmen, beholfen zesind, widerend, sonnderlichen wanns etwan arme weren, die das allmoßen von <placeName ref="LOC_47.22523_8.51104">Capel</placeName> habent, für<note type="editorial"> vor</note> sich zůbeschicken, sy der pflicht unnd gehorsamme, so sy mynen herren sonderlichen jnn diserm fal, da es christenliche mandat antrifft, zeleisten, schuldig ermannen. Unnd wellicher sich nachmaln deß verweigeren wurde, denselben er für myn herren citieren und denen, so dz allmoßen hetten, dasselbig abschlachen sölle.</p>
 <p>Wo sich etwan ouch der ­toüf­feren fründ<note type="editorial"> Verwandten</note> freffenlich widersetzen und die, so jren bevelch ußrichtennd, darumb haßen und vechden<note type="editorial"> hassen, befeinden, Id. I, 644 u. 646.</note> wurden, dieselben er ouch bschicken und sy mitt erntst darvon abmannen.</p>
 </div>
     </body>

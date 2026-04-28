@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,8 +69,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unndervögtenn zu <placeName ref="Niederglatt">Niderglatt</placeName> unnd <placeName ref="Birmensdorf">Birmennstorff</placeName> schrybenn, uff die ­toüf­fer achtung zehaben unnd welliche sy fänndent, fänngklich annemmen unnd alhar fürenn.</p>
-<p>Glychergstalt ann schultheiß unnd rath zů <placeName ref="Bülach">Bülach</placeName>.</p>
+      <div><p>Unndervögtenn zu <placeName ref="LOC_47.4931_8.49879">Niderglatt</placeName> unnd <placeName ref="LOC_47.3539_8.43463">Birmennstorff</placeName> schrybenn, uff die ­toüf­fer achtung zehaben unnd welliche sy fänndent, fänngklich annemmen unnd alhar fürenn.</p>
+<p>Glychergstalt ann schultheiß unnd rath zů <placeName ref="LOC_47.52804_8.54071">Bülach</placeName>.</p>
 </div>
     </body>
     <back>

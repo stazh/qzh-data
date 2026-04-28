@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>H. <persName ref="Hirzgarter, Mathias">Matthys Hirßgarter</persName>, pfarrer zů <placeName ref="Winterthur">Wintherdur</placeName>, becklagt sich, das ein toͤuffer von sinen herren in der statt uffenthallten<note type="editorial"> beherbergen, Id. II, 1227.</note> wurde etc.</p>
+      <div><p>H. <persName ref="Hirzgarter, Mathias">Matthys Hirßgarter</persName>, pfarrer zů <placeName ref="LOC_47.49675_8.73417">Wintherdur</placeName>, becklagt sich, das ein toͤuffer von sinen herren in der statt uffenthallten<note type="editorial"> beherbergen, Id. II, 1227.</note> wurde etc.</p>
 <p>Dorumb ward erkendt<note type="editorial"> amtlich festsetzen, entscheiden, Id. III, 313.</note>, das dem radt zů Wintherdur soͤllte geschriben werden etc.<note type="editorial"> Vermutlich erwähnte Heinrich Bullinger den Ratsbeschluss, nachdem der Rat durch die Synode informiert worden war.</note></p>
 </div>
     </body>

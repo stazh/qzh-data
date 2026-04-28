@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Die almoßens pfleger söllent N. <persName ref="Hofstetter, N.">Hofsteters</persName> von <placeName ref="Heisch">Hengst</placeName><note type="editorial"> Heisch</note> knaben, der jnn <placeName ref="Mähren">Merrhern</placeName> gefuͤrt werden söllen, zů einem handtwerck verdingen. Das töchterlj aber soll  <persName ref="Ringger, N.">seckelmeister Ringger</persName> von <placeName ref="Hausen am Albis">Hußen</placeName>, der kinden vogt, uß jrem guͤtlj<note type="editorial"> Grundstück, Id. II, 546f.</note> selbs verdingen und versehen<note type="editorial"> dafür sorgen, Id. VII, 572.</note>, das es erzogen werde, biß es syn můß und brot gwünnen khan.</p>
+      <div><p>Die almoßens pfleger söllent N. <persName ref="Hofstetter, N.">Hofsteters</persName> von <placeName ref="LOC_47.25015_8.53023">Hengst</placeName><note type="editorial"> Heisch</note> knaben, der jnn <placeName ref="LOC_49.5_17">Merrhern</placeName> gefuͤrt werden söllen, zů einem handtwerck verdingen. Das töchterlj aber soll  <persName ref="Ringger, N.">seckelmeister Ringger</persName> von <placeName ref="LOC_47.24435_8.53664">Hußen</placeName>, der kinden vogt, uß jrem guͤtlj<note type="editorial"> Grundstück, Id. II, 546f.</note> selbs verdingen und versehen<note type="editorial"> dafür sorgen, Id. VII, 572.</note>, das es erzogen werde, biß es syn můß und brot gwünnen khan.</p>
 </div>
     </body>
     <back>

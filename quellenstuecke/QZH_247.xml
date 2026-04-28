@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hern vogt zu <placeName ref="Wädenswil">Wädischwyl</placeName><note type="editorial"> Hans <persName ref="Zoller, Hans Wilpert">Wilpert Zoller</persName></note> schryben, die teüffer, so jm zädel<note type="editorial"> Die Namenliste ist nicht überliefert.</note> beschriben, fenngklich antzenemmen unnd mit jnen nach der gepür zehanndlen. Unnd wa sy von jrem jrrtumb nit abston welten, alßdann min herren desselben zů berichten, ob sy die villicht mit bewilligung der richtern zů Wädischyl harnemmen oder sonnst annderer gstalt gegen jnen nach der gepür zehanndlen wüssen.</p>
+      <div><p>Hern vogt zu <placeName ref="LOC_47.22493_8.65207">Wädischwyl</placeName><note type="editorial"> Hans <persName ref="Zoller, Hans Wilpert">Wilpert Zoller</persName></note> schryben, die teüffer, so jm zädel<note type="editorial"> Die Namenliste ist nicht überliefert.</note> beschriben, fenngklich antzenemmen unnd mit jnen nach der gepür zehanndlen. Unnd wa sy von jrem jrrtumb nit abston welten, alßdann min herren desselben zů berichten, ob sy die villicht mit bewilligung der richtern zů Wädischyl harnemmen oder sonnst annderer gstalt gegen jnen nach der gepür zehanndlen wüssen.</p>
 </div>
     </body>
     <back>

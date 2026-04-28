@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Uff herrn vogts von <placeName ref="Regensberg">Regensperg</placeName><note type="editorial"> <persName ref="Binder, Heinrich">Heinrich Binder</persName> </note> fürbringen<note type="editorial"> Darlegung</note> jst jme umb hernach gemelte artickel volgenden bescheid<note type="critical">Folgt gestrichen: be</note> worden. Erstlich soll er die dry ­toüf­fer nochmaln warnen und, so sy nit zü kilchen gon wellen, sy dann fenngklichen annemen lassen und harschicken, doch nit vil costenns daruf thryben.<note type="editorial"> Die anschliessenden Anweisungen betreffen nicht Täufer.</note></p>
+      <div><p>Uff herrn vogts von <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName><note type="editorial"> <persName ref="Binder, Heinrich">Heinrich Binder</persName> </note> fürbringen<note type="editorial"> Darlegung</note> jst jme umb hernach gemelte artickel volgenden bescheid<note type="critical">Folgt gestrichen: be</note> worden. Erstlich soll er die dry ­toüf­fer nochmaln warnen und, so sy nit zü kilchen gon wellen, sy dann fenngklichen annemen lassen und harschicken, doch nit vil costenns daruf thryben.<note type="editorial"> Die anschliessenden Anweisungen betreffen nicht Täufer.</note></p>
 </div>
     </body>
     <back>

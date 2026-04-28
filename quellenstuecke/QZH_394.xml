@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zu <placeName ref="Knonau">Knonouw</placeName> schryben, daß er von <persName ref="Müller, Jakob">Jacoben Müller</persName>, dem buman, unnd jren mithafften<note type="editorial"> Mithaftender, Parteigänger, Id. II, 1057.</note> jm <placeName ref="Kelleramt">Källerampt</placeName> daß uferlegt ­toüf­fergält vermög mit jnen beschächner abred ynzüchen unnd jnn daß seckelampt alhar schicken und antworten sölle.</p>
+      <div><p>Vogt zu <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> schryben, daß er von <persName ref="Müller, Jakob">Jacoben Müller</persName>, dem buman, unnd jren mithafften<note type="editorial"> Mithaftender, Parteigänger, Id. II, 1057.</note> jm <placeName ref="LOC_47.31768368701712_8.401017170545497">Källerampt</placeName> daß uferlegt ­toüf­fergält vermög mit jnen beschächner abred ynzüchen unnd jnn daß seckelampt alhar schicken und antworten sölle.</p>
 </div>
     </body>
     <back>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der dechan von <placeName ref="Bäretswil">Baͤrotschwyl</placeName><note type="editorial"> Niklaus Schnyder</note> klagt, wie von allterhar die toͤuffer naͤmend zů daoben imm Gruͤninger <placeName ref="Grüningen (Landvogtei)">ampt</placeName>. Da were kurtzlich der <persName ref="Streler, N.">Straͤler</persName> toͤuffer gstorben und haͤtte, alls man vermeinte, ein betrunglich testament gemacht, damitt sine erben nitt umb die haab des eerbs sines meineydts halb kaͤmind.</p>
+      <div><p>Der dechan von <placeName ref="LOC_47.3377_8.87216">Baͤrotschwyl</placeName><note type="editorial"> Niklaus Schnyder</note> klagt, wie von allterhar die toͤuffer naͤmend zů daoben imm Gruͤninger <placeName ref="LOC_47.28333_8.75">ampt</placeName>. Da were kurtzlich der <persName ref="Streler, N.">Straͤler</persName> toͤuffer gstorben und haͤtte, alls man vermeinte, ein betrunglich testament gemacht, damitt sine erben nitt umb die haab des eerbs sines meineydts halb kaͤmind.</p>
 </div>
     </body>
   </text>

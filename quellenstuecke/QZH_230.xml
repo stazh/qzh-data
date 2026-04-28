@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> <persName ref="Rahn, Hans">Hans Rahn</persName></note> schryben, das er nachmalen über den ­toüf­<persName ref="Gut, Andres">fer</persName> syn kundtschafft machen. Wo er jnn doch mitt sonderen costen betretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, alher schicken, und sölle jederman syn recht gegen Gůt uf thůn und ergan lasßen. Und wenn dan jederman bezalt jst, soll er, der vogt, eigentlich erkhůnndigen und deß myn herren  berichten, damitt myn herren der kinden halber witer der gebür nach zehandlen wüßint.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName><note type="editorial"> <persName ref="Rahn, Hans">Hans Rahn</persName></note> schryben, das er nachmalen über den ­toüf­<persName ref="Gut, Andres">fer</persName> syn kundtschafft machen. Wo er jnn doch mitt sonderen costen betretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, alher schicken, und sölle jederman syn recht gegen Gůt uf thůn und ergan lasßen. Und wenn dan jederman bezalt jst, soll er, der vogt, eigentlich erkhůnndigen und deß myn herren  berichten, damitt myn herren der kinden halber witer der gebür nach zehandlen wüßint.</p>
 </div>
     </body>
     <back>

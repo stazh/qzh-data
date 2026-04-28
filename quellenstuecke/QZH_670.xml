@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Beid seckelmeister, beid obervögt zů <placeName ref="Bonstetten">Bonstetten</placeName> und m[eister] <persName ref="Scheuchzer, N.">Schüchtzer</persName> söllent gwalt haben, sich mit den <persName ref="Toggwiler, Felix">Toggwyleren</persName><persName ref="Toggwiler, Heini"/> von Bonstetten umb jres <persName ref="Toggwiler, Ruedi">brůders Ruͤdiß</persName> seligen frawen (der Bärinen)<persName ref="Bär, N."/> gůt, so by dem ­toüf­fer gůt ligt, zůverglychen und, wo das nit beschechen khan, die sach wider für<note type="editorial"> vor</note> rath khommen.</p>
+      <div><p>Beid seckelmeister, beid obervögt zů <placeName ref="LOC_47.31665_8.46625">Bonstetten</placeName> und m[eister] <persName ref="Scheuchzer, N.">Schüchtzer</persName> söllent gwalt haben, sich mit den <persName ref="Toggwiler, Felix">Toggwyleren</persName><persName ref="Toggwiler, Heini"/> von Bonstetten umb jres <persName ref="Toggwiler, Ruedi">brůders Ruͤdiß</persName> seligen frawen (der Bärinen)<persName ref="Bär, N."/> gůt, so by dem ­toüf­fer gůt ligt, zůverglychen und, wo das nit beschechen khan, die sach wider für<note type="editorial"> vor</note> rath khommen.</p>
 </div>
     </body>
     <back>

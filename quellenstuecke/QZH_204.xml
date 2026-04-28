@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,8 +69,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><placeName ref="Stadel">Stadel</placeName> wirt von h[err] <persName ref="Wysshaupt, Anthoni">Anthoni Wyßhoupt</persName> uß <placeName ref="Bülach">Bülach</placeName> versaͤhen. Diewyl aber da die toͤufferi sich niderlast und wëger<note type="editorial"> besser, nützlicher</note> wëre, der pfarrer by den schaffen dan von inen, sol an unser herren langen, wie der sach zů radten.</p>
-<p>[…]<note type="editorial"> Es folgt der Bericht von Johannes Nussbaumer, Stadtdiakon von Winterthur.</note>. Das <placeName ref="Wetzikon">Wetzikummer</placeName> cappittel hat sich fast<note type="editorial"> heftig</note> der toͤuffern ercklagt. Ward inen anzeigt, das sy die beschicken soͤlltend, mitt inen guͤtlich handlen, besonders oder in bysin der eegoumern<note type="editorial"> Vertreter der Sittenzucht, Id. II, 304.</note>. Wo das nitt verfienge, das man iren handel an das chorgricht langen liesse, das sy dann beschicken etc.</p>
+      <div><p><placeName ref="LOC_47.53797_8.47014">Stadel</placeName> wirt von h[err] <persName ref="Wysshaupt, Anthoni">Anthoni Wyßhoupt</persName> uß <placeName ref="LOC_47.52804_8.54071">Bülach</placeName> versaͤhen. Diewyl aber da die toͤufferi sich niderlast und wëger<note type="editorial"> besser, nützlicher</note> wëre, der pfarrer by den schaffen dan von inen, sol an unser herren langen, wie der sach zů radten.</p>
+<p>[…]<note type="editorial"> Es folgt der Bericht von Johannes Nussbaumer, Stadtdiakon von Winterthur.</note>. Das <placeName ref="LOC_47.32434_8.80465">Wetzikummer</placeName> cappittel hat sich fast<note type="editorial"> heftig</note> der toͤuffern ercklagt. Ward inen anzeigt, das sy die beschicken soͤlltend, mitt inen guͤtlich handlen, besonders oder in bysin der eegoumern<note type="editorial"> Vertreter der Sittenzucht, Id. II, 304.</note>. Wo das nitt verfienge, das man iren handel an das chorgricht langen liesse, das sy dann beschicken etc.</p>
 </div>
     </body>
   </text>

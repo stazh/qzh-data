@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Seewer, Lorenz">Lorentzen Seewer</persName>, schultheiß zů <placeName ref="Bülach">Bülach</placeName>, jst uff syn underthenig bitt bewilliget, das er jnnammen synes alten vaters, undervogt Seewers, desselben dientst versehen möge, unnd wann der vater mitt tod abgangen, er alsdann undervogt heißen unnd syn sölle, doch jme angezeigt werden, dem dienst mitt fürderung deß kilchgangs unnd ufsehen der ­toüf­ferischen sect halber unnd jnn ander weg flyßig zewarten oder entsetzung erwartet zesind.</p>
+      <div><p><persName ref="Seewer, Lorenz">Lorentzen Seewer</persName>, schultheiß zů <placeName ref="LOC_47.52804_8.54071">Bülach</placeName>, jst uff syn underthenig bitt bewilliget, das er jnnammen synes alten vaters, undervogt Seewers, desselben dientst versehen möge, unnd wann der vater mitt tod abgangen, er alsdann undervogt heißen unnd syn sölle, doch jme angezeigt werden, dem dienst mitt fürderung deß kilchgangs unnd ufsehen der ­toüf­ferischen sect halber unnd jnn ander weg flyßig zewarten oder entsetzung erwartet zesind.</p>
 </div>
     </body>
     <back>

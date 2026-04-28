@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Baumann, Ludwig">Ludwig Buman</persName> von <placeName ref="Horgen">Horgen</placeName> soll umb das gůt, so er byhanden unnd <persName ref="Stocker, Heinrich">Heinrichen Stocker</persName> und syner <persName ref="Baumann, Magdalena">schwöster Magdalena</persName> von Horgen (welliche beide jm landt <placeName ref="Mähren">Merrhern</placeName> unnd der ­toüf­ferischen sect anhengig sind) zůgehört, den seckelmeisteren unnd obervogt<note type="editorial"> <persName ref="Thumysen, Junghans">Junghans Thumysen</persName></note> zů Horgen rechnung geben und dannenthin söllich gůt (deß 600 gulden<note type="critical">In der Vorlage: fl</note> syn soll) zů gmeiner statt handen wie ander ­toüf­fer gůt genommen und behalten werden. Doch sy gwalt haben, jme, Heinrichen, uß gnaden jetzt etwan uff die 25 gulden vom gůt zůzestellen unnd soll er, Stocker, als ein ­toüf­fer sich angents<note type="editorial"> unverzüglich, Id. II, 19.</note> uß myner herren biet hinweg machen by gebürender straff.</p>
+      <div><p><persName ref="Baumann, Ludwig">Ludwig Buman</persName> von <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> soll umb das gůt, so er byhanden unnd <persName ref="Stocker, Heinrich">Heinrichen Stocker</persName> und syner <persName ref="Baumann, Magdalena">schwöster Magdalena</persName> von Horgen (welliche beide jm landt <placeName ref="LOC_49.5_17">Merrhern</placeName> unnd der ­toüf­ferischen sect anhengig sind) zůgehört, den seckelmeisteren unnd obervogt<note type="editorial"> <persName ref="Thumysen, Junghans">Junghans Thumysen</persName></note> zů Horgen rechnung geben und dannenthin söllich gůt (deß 600 gulden<note type="critical">In der Vorlage: fl</note> syn soll) zů gmeiner statt handen wie ander ­toüf­fer gůt genommen und behalten werden. Doch sy gwalt haben, jme, Heinrichen, uß gnaden jetzt etwan uff die 25 gulden vom gůt zůzestellen unnd soll er, Stocker, als ein ­toüf­fer sich angents<note type="editorial"> unverzüglich, Id. II, 19.</note> uß myner herren biet hinweg machen by gebürender straff.</p>
 </div>
     </body>
     <back>

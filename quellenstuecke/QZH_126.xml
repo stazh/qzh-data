@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -70,7 +70,7 @@
   <text>
     <body>
       <div><p>[…]<note type="critical">Derselbe Text wie in der folgenden Nummer.</note></p>
-<p rend="margin-top">Dem fromen unnd wyßen, unnseren jnnsunnders lieben unnd getrüwen burger unnd vogt zu <placeName ref="Kyburg">Kyburg</placeName>, <placeName ref="Grüningen">Gruningen</placeName>, <placeName ref="Eglisau">Eglißow</placeName> und allen vögten.</p>
+<p rend="margin-top">Dem fromen unnd wyßen, unnseren jnnsunnders lieben unnd getrüwen burger unnd vogt zu <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName>, <placeName ref="LOC_47.28333_8.75">Gruningen</placeName>, <placeName ref="LOC_47.57335_8.52607">Eglißow</placeName> und allen vögten.</p>
 </div>
     </body>
   </text>

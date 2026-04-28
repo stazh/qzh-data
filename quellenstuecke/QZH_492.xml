@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Wädenswil">Wedischwyl</placeName> schryben, der abträttnen<note type="editorial"> geflohenen, Id. XIV, 1466.</note> ­toüf­fern hab unnd gůt zůarrestieren und zů beschryben, ouch die hüser zů meerem schrecken zůbeschliesßen, biß uff witern myner herren bscheid.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName> schryben, der abträttnen<note type="editorial"> geflohenen, Id. XIV, 1466.</note> ­toüf­fern hab unnd gůt zůarrestieren und zů beschryben, ouch die hüser zů meerem schrecken zůbeschliesßen, biß uff witern myner herren bscheid.</p>
 </div>
     </body>
     <back>

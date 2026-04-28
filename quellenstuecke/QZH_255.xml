@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Knonau">Knonow</placeName><note type="editorial"> <persName ref="Rahn, Hans">Hans Rahn</persName></note> schryben, das<note type="critical">Folgt gestrichen: er</note> <persName ref="Bickel, Hans">Hanß Byckel</persName> von <placeName ref="Affoltern am Albis">Affholtern</placeName>, wo er er zůbetretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, gfengklichen angenommen, und wo er sich geüsseret, syn hab und gůt jnn hafft und verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> gelegt werden sölle. Hienebent soll er eigentlich wie die sach vergangen und wo er zů kilchen gan welle und setzen, deß söll er myn herren fürderlich<note type="editorial"> alsbald Id. I, 1000.</note> berichten, damit ferer erhoüschen der notturfft nach jnn der sach zehandlen wüßint.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.22446_8.46262">Knonow</placeName><note type="editorial"> <persName ref="Rahn, Hans">Hans Rahn</persName></note> schryben, das<note type="critical">Folgt gestrichen: er</note> <persName ref="Bickel, Hans">Hanß Byckel</persName> von <placeName ref="LOC_47.28167_8.45023">Affholtern</placeName>, wo er er zůbetretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, gfengklichen angenommen, und wo er sich geüsseret, syn hab und gůt jnn hafft und verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> gelegt werden sölle. Hienebent soll er eigentlich wie die sach vergangen und wo er zů kilchen gan welle und setzen, deß söll er myn herren fürderlich<note type="editorial"> alsbald Id. I, 1000.</note> berichten, damit ferer erhoüschen der notturfft nach jnn der sach zehandlen wüßint.</p>
 </div>
     </body>
     <back>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Grüningen">Grüningen</placeName> soll das vech, so er von der ­toüf­feren verfallnen bůßen wegen zů synen handen gebracht, da ußen jnn der herrschafft (wo sy das jnn 3 ald 4 tagen, dz man jnen nochmalen anzeigen, nit loßten<note type="editorial"> loskaufen</note>) uff offner gandt<note type="editorial"> Versteigerung</note> verkouffen; unnd da man was vilicht da ußen nit kouffen welte, alher fertigen unnd verkouffen, uß dem erlößten gelt die verfallnen bůßen nemmen unnd das übrig einem jeden zůstellen. Sontst soll er fürbaß<note type="editorial"> weiterhin, Id. IV, 1654.</note> dem mandath nachgaan unnd die verfallenden bůßen jederzyt jnzüchen.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> soll das vech, so er von der ­toüf­feren verfallnen bůßen wegen zů synen handen gebracht, da ußen jnn der herrschafft (wo sy das jnn 3 ald 4 tagen, dz man jnen nochmalen anzeigen, nit loßten<note type="editorial"> loskaufen</note>) uff offner gandt<note type="editorial"> Versteigerung</note> verkouffen; unnd da man was vilicht da ußen nit kouffen welte, alher fertigen unnd verkouffen, uß dem erlößten gelt die verfallnen bůßen nemmen unnd das übrig einem jeden zůstellen. Sontst soll er fürbaß<note type="editorial"> weiterhin, Id. IV, 1654.</note> dem mandath nachgaan unnd die verfallenden bůßen jederzyt jnzüchen.</p>
 </div>
     </body>
     <back>

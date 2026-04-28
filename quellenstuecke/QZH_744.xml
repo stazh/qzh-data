@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>An <placeName ref="Grüningen">Grüningen</placeName> noch so vil wyter:</p>
+      <div><p>An <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> noch so vil wyter:</p>
 <p>Sodann, gethrüwer, lieber burger und vogt, jst unns uß jüngst gehaltner sy­no­do etlicher dyner amptsangehörigen halber sonderbare klag fürkhommen, wie du uß byligender kurtzer<note type="critical">«kurtzer» am Rand</note> verzeichnuß<note type="editorial"> nicht überliefert</note> verstahn unnd darüber, so es von nöten, von den herren predicanten jnn dyner verwaltung wytern bericht empfachen wirst. Da­rumb so wellend wir dich hiemit jnnsonderheit emannet haben, das du die jhennigen, so wider das mandat gehandlet, es syge mit hinweg schicken der jren, jtem beherbergen und jnzüchen<note type="editorial"> aufnehmen, beherbergen, bewirten, Id. XVII, 1002.</note> und jnn ander weg, jnnsonderheit den unghorsamen weibel ernstlich straffist, die jhenigen, so nit jm landt syn sölten, vertrybist und sontst jnn all weg jnn diseren ­toüf­ferischen sachen dyn ansehen bruchist und das, was dir amptshalber zůstadt, getrüwlich<note type="critical">«getrüwlich» am Rand mit Verweiszeichen</note> ußrichtist<note type="critical">Folgt gestrichen: jnnmaßen, da dyn erntst hierjnnen gspürt werde</note>, deß wellend wir unns gentzlich versehen. Datum den 3ten decembris anno 1604.</p>
 <p rend="margin-top">Burgermeister und rath der statt Zürich</p>
 </div>

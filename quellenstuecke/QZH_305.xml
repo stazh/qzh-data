@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Grüningen">Gruͤningen</placeName> schryben, das er jnnhalt deß mandaths gegen den ­toüf­fern allen fürfaren. Sovil aber den werchmeister und sennen zů <placeName ref="Bubikon">Bůbiken</placeName>, so nit zkilchen gand, belanget, soll er jnne anzeigen lassen, das sy jnn monats frist ouch wie andere gehorsame jnn die kilchen zůr predig und bätt gangint. Wo sy aber das nit thettend, alsdann er gegen jnen wie andern handlen.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName> schryben, das er jnnhalt deß mandaths gegen den ­toüf­fern allen fürfaren. Sovil aber den werchmeister und sennen zů <placeName ref="LOC_47.26648_8.80812">Bůbiken</placeName>, so nit zkilchen gand, belanget, soll er jnne anzeigen lassen, das sy jnn monats frist ouch wie andere gehorsame jnn die kilchen zůr predig und bätt gangint. Wo sy aber das nit thettend, alsdann er gegen jnen wie andern handlen.</p>
 </div>
     </body>
     <back>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Hiltbrand, Heinrich">Heinrich Hiltprand</persName> von <placeName ref="Eschenmosen">Eschenmoß</placeName><note type="editorial"> Eschenmosen</note> jst jnn syner beschwerd unnd klag gegen syner ­toüf­ferischen eefrouwen für<note type="editorial"> vor</note> das eegricht gwißen. Die mögent die ruͤff<note type="editorial"> Kirchenruf, d.h. öffentliche Verlesung des ehegerichtlichen Edikts im Rahmen des Verlassungsverfahrens.</note> wie brüchig gaan lasßen.</p>
+      <div><p><persName ref="Hiltbrand, Heinrich">Heinrich Hiltprand</persName> von <placeName ref="LOC_47.51663_8.56592">Eschenmoß</placeName><note type="editorial"> Eschenmosen</note> jst jnn syner beschwerd unnd klag gegen syner ­toüf­ferischen eefrouwen für<note type="editorial"> vor</note> das eegricht gwißen. Die mögent die ruͤff<note type="editorial"> Kirchenruf, d.h. öffentliche Verlesung des ehegerichtlichen Edikts im Rahmen des Verlassungsverfahrens.</note> wie brüchig gaan lasßen.</p>
 </div>
     </body>
     <back>

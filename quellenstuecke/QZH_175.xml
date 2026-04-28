@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der vogt und [die] zwolf<note type="editorial"> Das Gericht der Zwölf, Herrschaftsgericht von Grüningen</note> ze Grü[nin]<placeName ref="Grüningen (Landvogtei)">gen</placeName> begeren, den toüfer jnhin  zeschicken, besorg[…]<note type="critical">Lesung unklar</note> geordnet[…]<note type="critical">Lesung unklar; folgt gestrichen: v[…]</note> nit<note type="critical">Lesung unklar</note> gefaßt da usßen, doch jeder von unsern<note type="critical">von unsern: Lesung unklar</note> rechten on schaden.</p>
+      <div><p>Der vogt und [die] zwolf<note type="editorial"> Das Gericht der Zwölf, Herrschaftsgericht von Grüningen</note> ze Grü[nin]<placeName ref="LOC_47.28333_8.75">gen</placeName> begeren, den toüfer jnhin  zeschicken, besorg[…]<note type="critical">Lesung unklar</note> geordnet[…]<note type="critical">Lesung unklar; folgt gestrichen: v[…]</note> nit<note type="critical">Lesung unklar</note> gefaßt da usßen, doch jeder von unsern<note type="critical">von unsern: Lesung unklar</note> rechten on schaden.</p>
 </div>
     </body>
   </text>

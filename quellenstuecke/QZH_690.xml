@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Heinrich von <persName ref="Wellenberg, Hans Heinrich von">Wellenberg</persName></note> schryben, das er jnn geheim gegen Barbara Näfin zů <placeName ref="Hausen am Albis">Hußen</placeName><note type="editorial"> Hausen am Albis</note>, so ein ­toüf­ferin jst, mit erforrderung der straff, wyl sy alt, nit vortschryten sölle, sonnder thůn, als ob er sy straffen und nüdt dest minder zur kilchen vermannen sölle. Und wann etwan herren gen Knonouw khommen, söllen sy die Näfin beschicken und mit erntst mit jro reden, dz sy von jrem jrthumb abstannde. Und jm übrigen soll der vogt gegen anderen ­toüf­feren fürfaren.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName><note type="editorial"> Hans Heinrich von <persName ref="Wellenberg, Hans Heinrich von">Wellenberg</persName></note> schryben, das er jnn geheim gegen Barbara Näfin zů <placeName ref="LOC_47.24435_8.53664">Hußen</placeName><note type="editorial"> Hausen am Albis</note>, so ein ­toüf­ferin jst, mit erforrderung der straff, wyl sy alt, nit vortschryten sölle, sonnder thůn, als ob er sy straffen und nüdt dest minder zur kilchen vermannen sölle. Und wann etwan herren gen Knonouw khommen, söllen sy die Näfin beschicken und mit erntst mit jro reden, dz sy von jrem jrthumb abstannde. Und jm übrigen soll der vogt gegen anderen ­toüf­feren fürfaren.</p>
 </div>
     </body>
     <back>

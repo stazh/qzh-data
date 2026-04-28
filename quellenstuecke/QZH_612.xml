@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,8 +69,8 @@
     <body>
       <div><p>M[eister] <persName ref="Usteri, Paul">Paulj Usteris</persName> deß Müllers gegebnen bericht, Thomman Gügis deß müllerknechts schulden und widerschulden halber<note type="critical">Aufschrift auf der Rückseite des Dokuments.</note></p>
 <pb n="1" facs="E_I_7_3__Nr__79__S__1_.tif"/>
-<p rend="margin-top">Demnach die beid herren nachgenger m[eister] Paulj Usterj, den müller, alhie, für<note type="editorial"> vor</note> sich beschickt unnd jnne befraget, was er Thoman Gügj, den müllerknecht, ußem <placeName ref="Thurgau">Thurgöw</placeName>, so vor etwas zyts by jme gedienet, noch schuldig, oder wer jme, Gügj, schuldig und ob er nie khein zesammen khomnuß by jme gehept.</p>
-<p>Darüber hat Usterj anzeigt, das er gemelten Gügi gar nüt mehr schuldig, dann<note type="critical">Folgt gestrichen: er</note> an der nacht, do er ußträtten<note type="editorial"> das Land verlassen, Id. XIV, 1479.</note> und anzeigt, das er uff die jm <placeName ref="Elsass">Elsaß</placeName> jme versprochne müllj welle, habe er jnne allerdings uff syn begeren zvollen abzalt. Sontsten habe er by <persName ref="Notz, Joder">Joder Notzen</persName> alhie noch 6 g[ulden], jtem ein schuld<note type="critical">«ein schuld» am Rand mit Verweiszeichen</note> uff einem müller zů <placeName ref="Ellikon an der Thur">Ellicken</placeName><note type="editorial"> Ellikon an der Thur</note> jnn der grafschafft <placeName ref="Kyburg">Kyburg</placeName> (synem anzeigen nach) jnzůzüchen ghan. Ob er aber dieselbigen jnzogen, möge er, Usterj, nit wüßen.</p>
+<p rend="margin-top">Demnach die beid herren nachgenger m[eister] Paulj Usterj, den müller, alhie, für<note type="editorial"> vor</note> sich beschickt unnd jnne befraget, was er Thoman Gügj, den müllerknecht, ußem <placeName ref="LOC_47.5562_9.07686">Thurgöw</placeName>, so vor etwas zyts by jme gedienet, noch schuldig, oder wer jme, Gügj, schuldig und ob er nie khein zesammen khomnuß by jme gehept.</p>
+<p>Darüber hat Usterj anzeigt, das er gemelten Gügi gar nüt mehr schuldig, dann<note type="critical">Folgt gestrichen: er</note> an der nacht, do er ußträtten<note type="editorial"> das Land verlassen, Id. XIV, 1479.</note> und anzeigt, das er uff die jm <placeName ref="LOC_48.33333_7.43333">Elsaß</placeName> jme versprochne müllj welle, habe er jnne allerdings uff syn begeren zvollen abzalt. Sontsten habe er by <persName ref="Notz, Joder">Joder Notzen</persName> alhie noch 6 g[ulden], jtem ein schuld<note type="critical">«ein schuld» am Rand mit Verweiszeichen</note> uff einem müller zů <placeName ref="LOC_47.56307_8.82418">Ellicken</placeName><note type="editorial"> Ellikon an der Thur</note> jnn der grafschafft <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> (synem anzeigen nach) jnzůzüchen ghan. Ob er aber dieselbigen jnzogen, möge er, Usterj, nit wüßen.</p>
 <p>Zůdem hete er ouch von dem gesagten Gügj ghört, wann es jme jm<note type="critical">In der Vorlage: jme</note> Elsaß nit grodte, welle er wider alher khomen, unnd so es nit so kalt gweßen, welte er nit abgwichen syn, sonder sich selbs<note type="critical">«selbs» über der Zeile</note> gestelt haben.</p>
 <p>Er, Usterj, wüße ouch von kheinen zesammen khomnußen gar nüt, endet darmit syn sag.</p>
 <pb n="2" facs="E_I_7_3__Nr__79__S__2_.tif"/>

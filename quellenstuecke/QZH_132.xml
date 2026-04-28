@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,8 +69,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Die bruͤder imm <placeName ref="Grüningen">Gruͤninger</placeName> ampt.</p>
-<p>Becklagend sich, wie durch <persName ref="Schmid, N.">einen Schmyd</persName> imm <placeName ref="Fischenthal">Vischental</placeName> ein schantlich lied<note type="editorial"> Das Lied hatte den Titel «Bumberlibum», vgl. Ludwig Tobler, Schweizerische Volkslieder, Bd. 2, Frauenfeld 1884, 49.</note> und noch ein schantlicher spruch wider die diener des worts gottes uußgangen sye und allenthalben zů schand inen gesungen. So lydint sy groß unrůw von toͤufferenn und verfolgung von andern. Der obervogt<note type="editorial"> Hans Bleuler</note> sye trüw und redlich, gaͤbe gůt raͤdt und hulffe gernn. Die weybel aber richtind wenig uuß.</p>
+      <div><p>Die bruͤder imm <placeName ref="LOC_47.28333_8.75">Gruͤninger</placeName> ampt.</p>
+<p>Becklagend sich, wie durch <persName ref="Schmid, N.">einen Schmyd</persName> imm <placeName ref="LOC_47.33663_8.94127">Vischental</placeName> ein schantlich lied<note type="editorial"> Das Lied hatte den Titel «Bumberlibum», vgl. Ludwig Tobler, Schweizerische Volkslieder, Bd. 2, Frauenfeld 1884, 49.</note> und noch ein schantlicher spruch wider die diener des worts gottes uußgangen sye und allenthalben zů schand inen gesungen. So lydint sy groß unrůw von toͤufferenn und verfolgung von andern. Der obervogt<note type="editorial"> Hans Bleuler</note> sye trüw und redlich, gaͤbe gůt raͤdt und hulffe gernn. Die weybel aber richtind wenig uuß.</p>
 <p>Dorumb soͤllend die bruͤder ettliche uußschiessen<note type="editorial"> auswählen, Id. VIII, 1400.</note>, die den Schmyd beraͤchtind<note type="editorial"> zurechtweisen, in seine Schranken zurückweisen, Id. VI, 311.</note>. So soll aller handel wyter an unser herren langen was sy darzů thůn und wie sy den iro schirmm gaͤbind.</p>
 </div>
     </body>

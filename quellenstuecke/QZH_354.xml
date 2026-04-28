@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Eglisau">Eglisouw</placeName><note type="editorial"> Konrad Bodmer</note> schryben, wo er redlifuͤrer und andere, so das volck jnn die ­toüf­ferisch seckt ufwyßend<note type="editorial"> aufwiegeln, Id. XVI, 1939.</note>, beträtten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> möge, sölle er sy gfengklich annemmen und mynen herren zůschicken. Sonst was der unnsern hinweg zezüchen begerend, das jst jedem mit wyb, kind und synem gůt zethůnd zůgelasßen, darwider könne man jemanden nach nit syn.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.57335_8.52607">Eglisouw</placeName><note type="editorial"> Konrad Bodmer</note> schryben, wo er redlifuͤrer und andere, so das volck jnn die ­toüf­ferisch seckt ufwyßend<note type="editorial"> aufwiegeln, Id. XVI, 1939.</note>, beträtten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> möge, sölle er sy gfengklich annemmen und mynen herren zůschicken. Sonst was der unnsern hinweg zezüchen begerend, das jst jedem mit wyb, kind und synem gůt zethůnd zůgelasßen, darwider könne man jemanden nach nit syn.</p>
 </div>
     </body>
     <back>

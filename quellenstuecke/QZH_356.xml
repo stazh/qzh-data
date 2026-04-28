@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,9 +69,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsernn günstigen geneigten willen unnd alleß gutß zuvor. Fromer, wyser, besonnderß gethrüwer, lieber burger unnd vogt, uff gestrigen abendt sind unnß zwen ­toüf­fer, da der einn <persName ref="Studer, Christian">Christen Studer</persName> unnd der annder <persName ref="Hotz, Hans">Hannß Hotz</persName> heißt<note type="critical">Folgt gestrichen: jne</note>, gefenngklich zugefürt worden. Da wir, alß jrenthalber unnder unnß red gehalten, vernomen, daß du sy beid ald<note type="editorial"> oder</note> joch<note type="editorial"> auch</note> den einenn vor etwaß zytß jnn<note type="critical">Folgt gestrichen: dynen</note> bannden jnn unnserem schloß <placeName ref="Kyburg">Kyburg</placeName> ouch gehept. Derhalben unnser bevelch ann dich, du wellist unnß bj zeigernn diß [briefs] verstenndigen, waß sollicher ­toüf­feren halber vonn dir gehanndlet, waß sy bekhenndt unnd wellicher gstallt sy verwisen unnd jm<note type="critical">Folgt gestrichen: urfehecht</note> urfechdt schwerenn<note type="critical">Folgt gestrichen: ve</note> ald loben müßenn, gegen jnenn dester baß die gebür wüßen fürzunemenn. Deß soll vonn unnß umb dich jnn gnaden erkhenndt werden. Datum sambstagß den 15ten augustj [an]no 79.</p>
+      <div><p>Unnsernn günstigen geneigten willen unnd alleß gutß zuvor. Fromer, wyser, besonnderß gethrüwer, lieber burger unnd vogt, uff gestrigen abendt sind unnß zwen ­toüf­fer, da der einn <persName ref="Studer, Christian">Christen Studer</persName> unnd der annder <persName ref="Hotz, Hans">Hannß Hotz</persName> heißt<note type="critical">Folgt gestrichen: jne</note>, gefenngklich zugefürt worden. Da wir, alß jrenthalber unnder unnß red gehalten, vernomen, daß du sy beid ald<note type="editorial"> oder</note> joch<note type="editorial"> auch</note> den einenn vor etwaß zytß jnn<note type="critical">Folgt gestrichen: dynen</note> bannden jnn unnserem schloß <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> ouch gehept. Derhalben unnser bevelch ann dich, du wellist unnß bj zeigernn diß [briefs] verstenndigen, waß sollicher ­toüf­feren halber vonn dir gehanndlet, waß sy bekhenndt unnd wellicher gstallt sy verwisen unnd jm<note type="critical">Folgt gestrichen: urfehecht</note> urfechdt schwerenn<note type="critical">Folgt gestrichen: ve</note> ald loben müßenn, gegen jnenn dester baß die gebür wüßen fürzunemenn. Deß soll vonn unnß umb dich jnn gnaden erkhenndt werden. Datum sambstagß den 15ten augustj [an]no 79.</p>
 <p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
-<p rend="margin-top">Dem fromenn, wysenm unnserem besonderß gethrüwen, lieben burger unnd vogt zu <placeName ref="Kyburg">Kyburg</placeName> Caspparnn Tomann.</p>
+<p rend="margin-top">Dem fromenn, wysenm unnserem besonderß gethrüwen, lieben burger unnd vogt zu <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> Caspparnn Tomann.</p>
 </div>
     </body>
   </text>

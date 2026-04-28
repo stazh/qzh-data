@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>[…]<note type="editorial"> Thematisiert werden unter anderem der Kirchgang, die Kinderlehre, der Tanz, die Sonntagsheiligung und das Reislaufen.</note> Wyr hand nun vil malen anzeugt, wie die unrübigen<note type="editorial"> unruhig</note>, uffrürischen widerteüffer an mengen ort, besunder im ampt <placeName ref="Regensberg">Rägensperg</placeName>, gott und üch, unseren gnädigen h[erren], unghorsam verharrint und zů nemmend, und wyr h[err] vogt Binder<note type="editorial"> <persName ref="Binder, Heinrich">Heinrich Binder</persName></note> sj leidind und anzeygind, thůtt er gar nüt me etc.</p>
+      <div><p>[…]<note type="editorial"> Thematisiert werden unter anderem der Kirchgang, die Kinderlehre, der Tanz, die Sonntagsheiligung und das Reislaufen.</note> Wyr hand nun vil malen anzeugt, wie die unrübigen<note type="editorial"> unruhig</note>, uffrürischen widerteüffer an mengen ort, besunder im ampt <placeName ref="LOC_47.47812_8.42878">Rägensperg</placeName>, gott und üch, unseren gnädigen h[erren], unghorsam verharrint und zů nemmend, und wyr h[err] vogt Binder<note type="editorial"> <persName ref="Binder, Heinrich">Heinrich Binder</persName></note> sj leidind und anzeygind, thůtt er gar nüt me etc.</p>
 <p>[…]<note type="editorial"> Es folgen Klagen über einen heidnischen Brauch (tannrindig Mangold) und über die Wirtshäuser.</note></p>
 </div>
     </body>

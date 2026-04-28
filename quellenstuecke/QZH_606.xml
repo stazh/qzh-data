@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Die brief umb die 500 gulden<note type="critical">In der Vorlage: fl.</note> haubtgůts <persName ref="Atinger, Ůli">Ůlj Atingers</persName> von <placeName ref="Stettnach">Stettbach</placeName> eefrouwen (so ein ­toüf­ferin unnd jm land Merrhern jst) gůt söllent durch m[eister] Ůlingern<note type="editorial"> <persName ref="Ulinger, Hans">Hans Ulinger</persName> </note>, obervogt zů <placeName ref="Dübendorf">Dübendorf</placeName>, sampt den fürgeschlagnen<note type="editorial"> ersparten, Id. IX, 456.</note> zinnßen jnn das seckel­ampt zů annderm der ­toüf­feren gůt gegeben und genommen und weder dem Atinger noch syner frauwen kein zinnß darvon gelaßen, sonders hauptgůt unnd zinnß also ufenthalten<note type="editorial"> zurückhalten, festhalten, Id. II, 1230.</note> werden, ob vilicht jre kind mitler zyt widerumb zeland kemend, man dieselben daruß zůbetrachten<note type="editorial"> berücksichtigen, Id. XIV, 310f.</note> wüße.</p>
+      <div><p>Die brief umb die 500 gulden<note type="critical">In der Vorlage: fl.</note> haubtgůts <persName ref="Atinger, Ůli">Ůlj Atingers</persName> von <placeName ref="LOC_47.39437_8.59294">Stettbach</placeName> eefrouwen (so ein ­toüf­ferin unnd jm land Merrhern jst) gůt söllent durch m[eister] Ůlingern<note type="editorial"> <persName ref="Ulinger, Hans">Hans Ulinger</persName> </note>, obervogt zů <placeName ref="LOC_47.39052_8.61719">Dübendorf</placeName>, sampt den fürgeschlagnen<note type="editorial"> ersparten, Id. IX, 456.</note> zinnßen jnn das seckel­ampt zů annderm der ­toüf­feren gůt gegeben und genommen und weder dem Atinger noch syner frauwen kein zinnß darvon gelaßen, sonders hauptgůt unnd zinnß also ufenthalten<note type="editorial"> zurückhalten, festhalten, Id. II, 1230.</note> werden, ob vilicht jre kind mitler zyt widerumb zeland kemend, man dieselben daruß zůbetrachten<note type="editorial"> berücksichtigen, Id. XIV, 310f.</note> wüße.</p>
 </div>
     </body>
     <back>

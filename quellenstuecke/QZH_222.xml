@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt uff <placeName ref="Regensberg">Regensperg</placeName> soll die ­toüf­fer unnd die sy behusend warnen, das sy zů kilchen gangind und sich wie sich gebürt haltind. Wellicher aber das mit dem behußen<note type="critical">«mit dem behußen» am Rand mit Verweiszeichen</note> übersehen, von denen soll er j march silbers, so offt das bschicht, zebůß inzüchen. Ob aber etwar<note type="editorial"> jemand</note> das zevil übersehen, dieselben soll er gfengklich annemmen lassen.</p>
+      <div><p>Vogt uff <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName> soll die ­toüf­fer unnd die sy behusend warnen, das sy zů kilchen gangind und sich wie sich gebürt haltind. Wellicher aber das mit dem behußen<note type="critical">«mit dem behußen» am Rand mit Verweiszeichen</note> übersehen, von denen soll er j march silbers, so offt das bschicht, zebůß inzüchen. Ob aber etwar<note type="editorial"> jemand</note> das zevil übersehen, dieselben soll er gfengklich annemmen lassen.</p>
 </div>
     </body>
     <back>

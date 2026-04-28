@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Wädenswil">Wedischwyl</placeName> schryben, das er angentz<note type="editorial"> sofort, Id. II, 19.</note> deß ­toüf­fers, so alhie jnn gfengknuß ligt<note type="editorial"> Vermutlich Hans Stocker, vgl. Nr. 157.</note>, wyb mit sambt jren kinden und, was sy an blunder und anderm hatt, alher zů hern burgermeister von Chaam<note type="editorial"> Bernhard von Cham</note> wyßen, werde man jnn ußlasßen und sy alle mit ein andern uß myner herren gricht und gebieth verschicken.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName> schryben, das er angentz<note type="editorial"> sofort, Id. II, 19.</note> deß ­toüf­fers, so alhie jnn gfengknuß ligt<note type="editorial"> Vermutlich Hans Stocker, vgl. Nr. 157.</note>, wyb mit sambt jren kinden und, was sy an blunder und anderm hatt, alher zů hern burgermeister von Chaam<note type="editorial"> Bernhard von Cham</note> wyßen, werde man jnn ußlasßen und sy alle mit ein andern uß myner herren gricht und gebieth verschicken.</p>
 </div>
     </body>
     <back>

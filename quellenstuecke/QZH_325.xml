@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -72,7 +72,7 @@
           getrüwer, lieber burger und vogt, alsdann<note type="critical">«alsdann» über der Zeile,
             in der Zeile gestrichen: als demnach</note> jetzt ein zythar vil der unnsern mit lyb und
           gůt uß disen landen jnn das niderland<note type="critical">korrigiert, ursprünglich:
-            nider</note>, genannt <placeName ref="Mähren">Merrheren</placeName><note type="critical">korrigiert, ursprünglich: Merrherisch land</note> (alda die wider­toüf­ferisch<note type="critical">Folgt gestrichen: seckt</note> sect sich halten soll) gezogen<note type="critical">Folgt gestrichen: befin</note>, kompt unns jetzdann für<note type="editorial"> fürkommen: zu Ohren kommen, kund werden, Id. III, 279.</note>, das
+            nider</note>, genannt <placeName ref="LOC_49.5_17">Merrheren</placeName><note type="critical">korrigiert, ursprünglich: Merrherisch land</note> (alda die wider­toüf­ferisch<note type="critical">Folgt gestrichen: seckt</note> sect sich halten soll) gezogen<note type="critical">Folgt gestrichen: befin</note>, kompt unns jetzdann für<note type="editorial"> fürkommen: zu Ohren kommen, kund werden, Id. III, 279.</note>, das
           etlich derselben<note type="critical">Folgt gestrichen: sich</note>, so sy<note type="critical">Folgt gestrichen: sich</note> jres mit hinweg gezognen gůts entblößt,
             widerumb<note type="critical">Folgt gestrichen: haruf heim</note> haruf mit frömben,
           glycher jrrigen leer anhengigen und redlifuͤren sich begebint. Daruß lichtlich, wo nit by
@@ -117,7 +117,7 @@
           nützit erwinden<note type="editorial"> fehlen, mangeln, Id. XVI, 580f.</note> lassen,
           stadt uns jnn gnaden umb dich zů erkhennen. Datum.<note type="critical">Die Zeitangabe
             fehlt in der Vorlage.</note></p>
-        <p rend="margin-top">Burgermeister und rath der statt <placeName ref="Zürich">Zürich</placeName></p>
+        <p rend="margin-top">Burgermeister und rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName></p>
       </div>
     </body>
     <back>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der <persName ref="Schnyder, Niklaus">dechan</persName> von <placeName ref="Bäretswil">Baͤrotschwyl</placeName><note type="editorial"> Niklaus Schnyder</note> klagt abermal, das die toͤuffer traͤffenlich zůnaͤmind, nieman werre.</p>
+      <div><p>Der <persName ref="Schnyder, Niklaus">dechan</persName> von <placeName ref="LOC_47.3377_8.87216">Baͤrotschwyl</placeName><note type="editorial"> Niklaus Schnyder</note> klagt abermal, das die toͤuffer traͤffenlich zůnaͤmind, nieman werre.</p>
 <p>[…]<note type="editorial"> Es folgen Mitteilungen betreffs einer Beerdigung durch einen Einsiedler Konventualen in Rüti und eines Konkubinatspaars in Wald.</note> Das wie ouch das ober ab dem Zürych see Kapitel sol an unser herren langen.</p>
 </div>
     </body>

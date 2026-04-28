@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +67,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Eß sol dem herrn<note type="editorial"> Pfarrer <persName ref="Bluntschli, Johannes">Johannes Bluntschli</persName> </note> ghan <placeName ref="Ottenbach">Ottenbach</placeName> geschriben werden, harjnnen angedüthe personen mynen herrn nammhafft zů machen.</p>
+      <div><p>Eß sol dem herrn<note type="editorial"> Pfarrer <persName ref="Bluntschli, Johannes">Johannes Bluntschli</persName> </note> ghan <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName> geschriben werden, harjnnen angedüthe personen mynen herrn nammhafft zů machen.</p>
 </div>
     </body>
   </text>

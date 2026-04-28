@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Dem vogt zů <placeName ref="Grüningen">Gruͤningen</placeName> schryben, das er uff <persName ref="Streler, N.,">disen Streler</persName> syn spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> mache, unnd so er zůbetreten<note type="editorial"> ergreifen, Id. XIV, 1486.</note>, jnne, mynen g[nedigen] herren, fencklich zůschicke.</p>
+      <div><p>Dem vogt zů <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName> schryben, das er uff <persName ref="Streler, N.,">disen Streler</persName> syn spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> mache, unnd so er zůbetreten<note type="editorial"> ergreifen, Id. XIV, 1486.</note>, jnne, mynen g[nedigen] herren, fencklich zůschicke.</p>
 <p>Umb das überige die ­toüf­fer belangende soll man ratschlagen.</p>
 </div>
     </body>

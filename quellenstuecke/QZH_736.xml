@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,10 +71,10 @@
     <body>
       <div><pb n="1" facs="E_I_7_3__Nr__118__S__1_.tif"/>
 <p>Edle, fromme, veste, fürsichtige, wyse, her burgermeyster, gnedige erhende herren, e[uer] w[yßheit] seyen myn underthenige dienste, gruß und schuldige pflicht bevor.</p>
-<p>E[uer] w[yßheit] anttwurttlich schryben, daß ich ihm fhal der teüffer, so mir von Berg<note type="editorial"> Berg am <placeName ref="Berg am Irchel">Irchel</placeName></note> alhar gefencklichen gebracht, den kosten nitt abferggen<note type="editorial"> bezahlen, Id. I, 1008.</note>, anloben, das er uß e[euer] m[iner] gn[edigen] herren gebiett hin und weg züchen, auch niemanden uffwyglen und nitt mher in unser landt kommen welle, selbigen e[euer] m[iner] h[erren] zuschicken solle, das han ich empfhangen und ablesendt gnugsam verstanden.</p>
+<p>E[uer] w[yßheit] anttwurttlich schryben, daß ich ihm fhal der teüffer, so mir von Berg<note type="editorial"> Berg am <placeName ref="LOC_47.56228_8.59305">Irchel</placeName></note> alhar gefencklichen gebracht, den kosten nitt abferggen<note type="editorial"> bezahlen, Id. I, 1008.</note>, anloben, das er uß e[euer] m[iner] gn[edigen] herren gebiett hin und weg züchen, auch niemanden uffwyglen und nitt mher in unser landt kommen welle, selbigen e[euer] m[iner] h[erren] zuschicken solle, das han ich empfhangen und ablesendt gnugsam verstanden.</p>
 <p>So thun<note type="editorial"> Lesung unsicher</note> ich gedachten kybkopff<note type="editorial"> Starrkopf, Id. III, 412.</note> unzidt<note type="editorial"> bis, Id. I, 360.</note> hare in gefhangenschafft behaltten, alle mittel ihn zu dem anloben zubringen versuchen, mich ihres der kosten zu schenken anerbiettende, hatt er deren stucken keynß weder wenig noch vill ynghan wellen. Derhalber ich e. w. uff dere befehl hin selbigen überschicken und thun e[uch], m. gn. herren, sampt und sunderß göttlichen schuz, schyrm und vätterlichem sägen trüwlichen befelhen. Datum uff Kyburg, den 14. junij 1604.</p>
 <p rend="margin-top">Eüw[er] wyßheytt undertheniger burger</p>
-<p>Hanß Ulrich Wolff, vogt zu <placeName ref="Kyburg">Kyburg</placeName></p>
+<p>Hanß Ulrich Wolff, vogt zu <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName></p>
 <pb n="2" facs="E_I_7_3__Nr__118__S__2_.tif"/>
 <pb n="3" facs="E_I_7_3__Nr__118__S__3_.tif"/>
 <pb n="4" facs="E_I_7_3__Nr__118__S__4_.tif"/>

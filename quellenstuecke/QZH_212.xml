@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Escher, Rudolf">Vogt</persName><bm id="76"/> von <placeName ref="Grüningen">Grüningen</placeName><note type="editorial"> Rudolf Escher vom Glas</note> schryben, das <persName ref="Bürgi, Jakob">er Jacoben</persName> ab <placeName ref="Fischenthal, Strahlegg">Stralegg</placeName> dem thoüffer antzeige, das er dem eyd, so er geschworen, statt thüge unnd uß miner herren gepiet züche. Wa er aber disem nit statt thüge biß wiennacht unnd jnn darüber beträtten<note type="editorial"> antreffen, Id. XIV, 1486.</note> möge, sölle er jnn fenngklichen annemmen unnd harschicken.</p>
+      <div><p><persName ref="Escher, Rudolf">Vogt</persName><bm id="76"/> von <placeName ref="LOC_47.28333_8.75">Grüningen</placeName><note type="editorial"> Rudolf Escher vom Glas</note> schryben, das <persName ref="Bürgi, Jakob">er Jacoben</persName> ab <placeName ref="LOC_47.32242_8.96122">Stralegg</placeName> dem thoüffer antzeige, das er dem eyd, so er geschworen, statt thüge unnd uß miner herren gepiet züche. Wa er aber disem nit statt thüge biß wiennacht unnd jnn darüber beträtten<note type="editorial"> antreffen, Id. XIV, 1486.</note> möge, sölle er jnn fenngklichen annemmen unnd harschicken.</p>
 </div>
     </body>
     <back>

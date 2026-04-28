@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,8 +69,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Die von <placeName ref="Affoltern am Albis">Bremgarten</placeName> <persName ref="Bickel, Hans">Hanns Bickels</persName> von <placeName ref="Zürich">Affholteren</placeName> handlung berichten mitt beger, das sy jnn der sach der gebür nach handlen.</p>
-<p>Deßglichen soll der vogt zů <placeName ref="Knonau">Knonouw</placeName> uff jnn syn kundtschafft machen und, so er Bickel zůbetretten, gefengklichen mynen herren zůschicken.</p>
+      <div><p>Die von <placeName ref="LOC_47.28167_8.45023">Bremgarten</placeName> <persName ref="Bickel, Hans">Hanns Bickels</persName> von <placeName ref="LOC_47.41814_8.5122">Affholteren</placeName> handlung berichten mitt beger, das sy jnn der sach der gebür nach handlen.</p>
+<p>Deßglichen soll der vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> uff jnn syn kundtschafft machen und, so er Bickel zůbetretten, gefengklichen mynen herren zůschicken.</p>
 </div>
     </body>
     <back>

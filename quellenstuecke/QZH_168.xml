@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>[…].<note type="editorial"> Voraus geht ein Ratsbeschluss betreffend Sonntagsheiligung. Der anschliessende, hier edierte Beschluss sagt nichts über die Konfessionszugehörigkeit derer, die dem reformierten Gottesdienst fernblieben.</note> Wann die eegoumer die bussen von denen, so nit zů kilch gond jnnzüchen, soll dan der vogt gwalt haben, jnen ein vererung<note type="critical">Lesung unsicher</note> darinen zegeben je nach gstalt der sach unnd sinem guthbeduncken. Ist alles von <placeName ref="Rorbas">Rorbaß</placeName>.</p>
+      <div><p>[…].<note type="editorial"> Voraus geht ein Ratsbeschluss betreffend Sonntagsheiligung. Der anschliessende, hier edierte Beschluss sagt nichts über die Konfessionszugehörigkeit derer, die dem reformierten Gottesdienst fernblieben.</note> Wann die eegoumer die bussen von denen, so nit zů kilch gond jnnzüchen, soll dan der vogt gwalt haben, jnen ein vererung<note type="critical">Lesung unsicher</note> darinen zegeben je nach gstalt der sach unnd sinem guthbeduncken. Ist alles von <placeName ref="LOC_47.53414_8.56841">Rorbaß</placeName>.</p>
 </div>
     </body>
     <back>

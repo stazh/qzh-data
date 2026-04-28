@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zu <placeName ref="Knonau">Knonouw</placeName> schryben: […].<note type="editorial"> Bestättigung seiner Vollmacht, die Friedbrüchigen im Kelleramt zu strafen, und Weisung, die heilkundige Müllerin im Loo zu beobachten.</note> Uff <persName ref="Gut, Andres">Andereß Guttenn</persName> zu <placeName ref="Zwillikon">Zwillicken</placeName>, den touffer, sol er syn spech<note type="editorial"> Fahndung, Id. X, 76.</note> machenn und jnn alhar fürenn laßen.</p>
+      <div><p>Vogt zu <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> schryben: […].<note type="editorial"> Bestättigung seiner Vollmacht, die Friedbrüchigen im Kelleramt zu strafen, und Weisung, die heilkundige Müllerin im Loo zu beobachten.</note> Uff <persName ref="Gut, Andres">Andereß Guttenn</persName> zu <placeName ref="LOC_47.28833_8.43124">Zwillicken</placeName>, den touffer, sol er syn spech<note type="editorial"> Fahndung, Id. X, 76.</note> machenn und jnn alhar fürenn laßen.</p>
 </div>
     </body>
     <back>

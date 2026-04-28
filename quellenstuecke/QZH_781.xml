@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Müller, Baschi">Baschj Müller</persName> von <placeName ref="Birmensdorf">Birmenstorff</placeName> jst syner begerenden hilf uß syner eefrowen s[eligen] brůders, so by 24 jaren jnn <placeName ref="Mähren">Mehrherren</placeName> zogen und gstorben  syn soll, gůte ab- und deßhalb ruͤwig zesyn gewißen worden, diewyl es nit ­toüf­fer gůt, sonder von einer schuld naher<note type="critical">Folgt gestrichen: so</note>, jnn einem by 20 jaren alhie vor stattgericht verfertigten uffal<note type="editorial"> gerichtlicher Konkurs, Id. I, 737.</note> jnn dz seckelampt khommen.</p>
+      <div><p><persName ref="Müller, Baschi">Baschj Müller</persName> von <placeName ref="LOC_47.3539_8.43463">Birmenstorff</placeName> jst syner begerenden hilf uß syner eefrowen s[eligen] brůders, so by 24 jaren jnn <placeName ref="LOC_49.5_17">Mehrherren</placeName> zogen und gstorben  syn soll, gůte ab- und deßhalb ruͤwig zesyn gewißen worden, diewyl es nit ­toüf­fer gůt, sonder von einer schuld naher<note type="critical">Folgt gestrichen: so</note>, jnn einem by 20 jaren alhie vor stattgericht verfertigten uffal<note type="editorial"> gerichtlicher Konkurs, Id. I, 737.</note> jnn dz seckelampt khommen.</p>
 </div>
     </body>
     <back>

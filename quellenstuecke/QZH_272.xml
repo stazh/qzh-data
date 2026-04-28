@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,8 +69,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Undervogt zů <placeName ref="Horgen">Horgen</placeName> schryben, das er <persName ref="Yssig, Rudolf">Růdolfen Yßig</persName> den kremer, so sich <persName ref="Staub, N.">jnn Stouben</persName> huß enthaltet<note type="editorial"> sich aufhalten</note> und ­toüf­ferischer seckt syn soll, gfengklichen alher schicke. Unnd wo er mer wüßte, die den ­toüf­fern anhangetind, das er die ouch jnhin jnn gfangenschafft fertigen.</p>
-<p>Vogt zů <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Rahn</note> schryben, diewyl <persName ref="Gut, Andres">Andreß Gůt</persName> zů <placeName ref="Lunnern">Lůnneren</placeName> jnn synem ­toüf­ferischen weßen trotzlichen fürfart, soll er jnn gfengklichen annemmen und mynen herren zůschicken. Und wo er noch andere mer syner seckt syn erfaren köndte, das er zů denselben ouch griffen lassen und zů myner hern handen fertigen.</p>
+      <div><p>Undervogt zů <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> schryben, das er <persName ref="Yssig, Rudolf">Růdolfen Yßig</persName> den kremer, so sich <persName ref="Staub, N.">jnn Stouben</persName> huß enthaltet<note type="editorial"> sich aufhalten</note> und ­toüf­ferischer seckt syn soll, gfengklichen alher schicke. Unnd wo er mer wüßte, die den ­toüf­fern anhangetind, das er die ouch jnhin jnn gfangenschafft fertigen.</p>
+<p>Vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName><note type="editorial"> Hans Rahn</note> schryben, diewyl <persName ref="Gut, Andres">Andreß Gůt</persName> zů <placeName ref="LOC_47.26217_8.41262">Lůnneren</placeName> jnn synem ­toüf­ferischen weßen trotzlichen fürfart, soll er jnn gfengklichen annemmen und mynen herren zůschicken. Und wo er noch andere mer syner seckt syn erfaren köndte, das er zů denselben ouch griffen lassen und zů myner hern handen fertigen.</p>
 </div>
     </body>
     <back>

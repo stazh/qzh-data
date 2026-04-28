@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,8 +69,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der <persName ref="Schnyder, Niklaus">daͤchen</persName> von <placeName ref="Wetzikon">Wetzikon</placeName><note type="editorial"> Niklaus Schnyder</note> erklagt sich, das 2 dirnen gar haͤfftig imm ampt und in der graffschafft <placeName ref="Kyburg (Landvogtei)">Kybrug</placeName> laͤgind und grossen unradt anrichtend. Die woͤlle man nitt verwysen.</p>
-<p>So grůne die toͤuffery wie von allterhar, das ettwan in die 100 zamen kummind. Da sye der <persName ref="Hedinger, (Hans?)">Hedinger</persName> von <placeName ref="Winterthur">Wintherdur</placeName> ein boͤser uffrůriger lur<note type="editorial"> Schelm, Id. III, 1376.</note>, alls der sich mercken<note type="editorial"> sich hören lassen, erklären, vgl. <hl to="http://fwb-online.de/go/merken.rI.3v_1709313037"><Hyperlink>http://fwb-online.de/go/merken.rI.3v_1709313037</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> lassen, wenn sich die puren zů inen thaͤtind, woͤlltind sy bald der obern und predgern herren werden. Das nut gůts zů hoffen etc.</p>
+      <div><p>Der <persName ref="Schnyder, Niklaus">daͤchen</persName> von <placeName ref="LOC_47.32434_8.80465">Wetzikon</placeName><note type="editorial"> Niklaus Schnyder</note> erklagt sich, das 2 dirnen gar haͤfftig imm ampt und in der graffschafft <placeName ref="LOC_47.45249_8.7485">Kybrug</placeName> laͤgind und grossen unradt anrichtend. Die woͤlle man nitt verwysen.</p>
+<p>So grůne die toͤuffery wie von allterhar, das ettwan in die 100 zamen kummind. Da sye der <persName ref="Hedinger, (Hans?)">Hedinger</persName> von <placeName ref="LOC_47.49675_8.73417">Wintherdur</placeName> ein boͤser uffrůriger lur<note type="editorial"> Schelm, Id. III, 1376.</note>, alls der sich mercken<note type="editorial"> sich hören lassen, erklären, vgl. <hl to="http://fwb-online.de/go/merken.rI.3v_1709313037"><Hyperlink>http://fwb-online.de/go/merken.rI.3v_1709313037</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> lassen, wenn sich die puren zů inen thaͤtind, woͤlltind sy bald der obern und predgern herren werden. Das nut gůts zů hoffen etc.</p>
 </div>
     </body>
   </text>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Rahn</note> schryben, das er uß <persName ref="Gut, Andres">Andreß</persName> ­toüf­fers gůt, es syge vech ald<note type="editorial"> oder</note> anders, woruß am basten gelt zemachen, angryffen<note type="editorial"> in Besitz nehmen, Id. II, 714.</note> und verkouffen und dann daruß den costen, so alhie und da ennen<note type="editorial"> drüben, Id. I, 266.</note> ufglouffen, bezalen und dann wer sonst ansprach<note type="editorial"> Anspruch</note> an jnn hatt, sy unns den jnzug nach amptsrechten dieselbigen jnzüchen lassen. Studers costen soll er auch jnzüchen und alher schicken.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName><note type="editorial"> Hans Rahn</note> schryben, das er uß <persName ref="Gut, Andres">Andreß</persName> ­toüf­fers gůt, es syge vech ald<note type="editorial"> oder</note> anders, woruß am basten gelt zemachen, angryffen<note type="editorial"> in Besitz nehmen, Id. II, 714.</note> und verkouffen und dann daruß den costen, so alhie und da ennen<note type="editorial"> drüben, Id. I, 266.</note> ufglouffen, bezalen und dann wer sonst ansprach<note type="editorial"> Anspruch</note> an jnn hatt, sy unns den jnzug nach amptsrechten dieselbigen jnzüchen lassen. Studers costen soll er auch jnzüchen und alher schicken.</p>
 </div>
     </body>
     <back>

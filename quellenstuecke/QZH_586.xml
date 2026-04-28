@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,7 +71,7 @@
     <body>
       <div><head type="Originalsprache">Coppya</head> 
 <pb n="1" facs="E_I_7_3__Nr__73__S__1_.tif"/>
-<p>Als Elsa Nasplerin, von <placeName ref="Höri">Hörj</placeName> bürttig, so vor jaren mitt den ­toüf­feren jnn <placeName ref="Mähren">Mehreren</placeName> gezogen, mitt bystannd jres eemans <persName ref="Abner, Enderli">Ännderlj Abnern</persName> von Wolfanitz<note type="editorial"> Olbramovice (deutsch Wolframitz)<placeName ref="Olbramovice"/></note> uß Mehrerren myn gnedig herren, burgemeister unnd rath der statt Zürich, angelangt und gebätten, sy, myn gnedig herren, welten jre jr gůtt, so 193 guldin 10 schilling<note type="critical">In der Vorlage: ß</note> an einem schuldbrief uff <persName ref="Keller, Heini">Heinj</persName> unnd Bläßj den <persName ref="Keller, Bläsi">Källern</persName> zů <placeName ref="Endhöri">Küchelhörj</placeName><note type="editorial"> alte Bezeichnung von Endhöri</note> wyßende und bißhar hinder herren seckelmeister Schwertzenbach<note type="editorial"> Matthias Schwerzenbach (gest. 1595)<persName ref="Schwerzenbach, Matthias"/></note> bhalts wyße glägen, nachfolgen laßen etc., habennd haruf wolgenant myn gnedig herren uß jrem raths mittel verordnett herren lanndtvogt<note type="critical">Folgt gestrichen: Raanen</note> Schwertzenbach<note type="editorial"> Hartmann Schwerzenbach (1538-1603)<persName ref="Schwerzenbach, Hartmann"/></note> unnd j[unker] Wilhelm Äscher<note type="editorial"> Wilhelm Escher vom Luchs (1542-1602)<persName ref="Escher vom Luchs, Wilhelm"/></note> mitt bevelch, nach gstallt der sachen harinnen zehanndlen etc.</p>
+<p>Als Elsa Nasplerin, von <placeName ref="LOC_47.5075_8.50244">Hörj</placeName> bürttig, so vor jaren mitt den ­toüf­feren jnn <placeName ref="LOC_49.5_17">Mehreren</placeName> gezogen, mitt bystannd jres eemans <persName ref="Abner, Enderli">Ännderlj Abnern</persName> von Wolfanitz<note type="editorial"> Olbramovice (deutsch Wolframitz)<placeName ref="Olbramovice"/></note> uß Mehrerren myn gnedig herren, burgemeister unnd rath der statt Zürich, angelangt und gebätten, sy, myn gnedig herren, welten jre jr gůtt, so 193 guldin 10 schilling<note type="critical">In der Vorlage: ß</note> an einem schuldbrief uff <persName ref="Keller, Heini">Heinj</persName> unnd Bläßj den <persName ref="Keller, Bläsi">Källern</persName> zů <placeName ref="LOC_47.50909_8.51239">Küchelhörj</placeName><note type="editorial"> alte Bezeichnung von Endhöri</note> wyßende und bißhar hinder herren seckelmeister Schwertzenbach<note type="editorial"> Matthias Schwerzenbach (gest. 1595)<persName ref="Schwerzenbach, Matthias"/></note> bhalts wyße glägen, nachfolgen laßen etc., habennd haruf wolgenant myn gnedig herren uß jrem raths mittel verordnett herren lanndtvogt<note type="critical">Folgt gestrichen: Raanen</note> Schwertzenbach<note type="editorial"> Hartmann Schwerzenbach (1538-1603)<persName ref="Schwerzenbach, Hartmann"/></note> unnd j[unker] Wilhelm Äscher<note type="editorial"> Wilhelm Escher vom Luchs (1542-1602)<persName ref="Escher vom Luchs, Wilhelm"/></note> mitt bevelch, nach gstallt der sachen harinnen zehanndlen etc.</p>
 <p>Welliche nun diß gůtts halben von jren schuldnern ouch von wägen der usstännden zinnßen bscheid und rächnung ervorderet unnd jst das ganntz gůtt danacher reichende wie volgt:</p>
 <p>193 g[ulden] 10 schilling<note type="critical">In der Vorlage: ß</note> houptgůts uff gesagten Källeren.</p>
 <p>57 g. 34 schilling söllennd sy darvon zinß von martinj anno etc. 88 biß uff martinj anno etc. 94.</p>
@@ -79,7 +79,7 @@
 <pb n="2" facs="E_I_7_3__Nr__73__S__2_.tif"/>
 <p rend="margin-top">Dargegen habennd sy bezallt:</p>
 <p>11 g., gabennd sy jr, Nasplerin, sälbs, als sy hinweg zögen.</p>
-<p>30 g. gabennd sy <persName ref="Kern, Toni">Tönij Kernen</persName> von <placeName ref="Bülach">Bülach</placeName> unnd synem schwager <persName ref="Ott, Heini">Heinj Otten</persName> von <placeName ref="Nassenwil">Naßenwyl</placeName><note type="editorial"> Ortschaft der Gemeinde Niederhasli</note>, deßen sy beid anred<note type="editorial"> geständig, Id. VI, 542.</note> <note type="critical">Folgt gestrichen: und bekanndtlich</note> unnd urbütig<note type="editorial"> bereit, Id. IV. 1881.</note> widerumb zleggen.</p>
+<p>30 g. gabennd sy <persName ref="Kern, Toni">Tönij Kernen</persName> von <placeName ref="LOC_47.52804_8.54071">Bülach</placeName> unnd synem schwager <persName ref="Ott, Heini">Heinj Otten</persName> von <placeName ref="LOC_47.46675_8.46899">Naßenwyl</placeName><note type="editorial"> Ortschaft der Gemeinde Niederhasli</note>, deßen sy beid anred<note type="editorial"> geständig, Id. VI, 542.</note> <note type="critical">Folgt gestrichen: und bekanndtlich</note> unnd urbütig<note type="editorial"> bereit, Id. IV. 1881.</note> widerumb zleggen.</p>
 <p>Summa 41 g.</p>
 <p rend="margin-top">Also sinnd die Källern schuldig bliben:</p>
 <p>193 g. 10 schilling houptgůtts.</p>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,8 +71,8 @@
     <body>
       <div><p>Der toͤüffern halb ward vil anzeigt, das alles ward gewisen an die herren darzů verordneten<note type="critical">korrigiert, ursprünglich: verordneten</note>.</p>
 <p rend="margin-top">[Bericht an den Rat von Zürich]<note type="critical">«was uß gehaltnem sinodo für myn herren gwißen»</note></p>
-<p>Zů <placeName ref="Bubikon">Bůbicken</placeName> jst der senn ein ­toüf­fer. Hat schon ein andern knecht ouch jm anhengig<note type="critical">In der Vorlage: anhenig</note> gemachet und noch jst einer under wegen. Wo nun das nitt by zyten mit ernst abgestelt, sind andere ­toüf­fer schon jnn bergen und thalen<note type="critical">«jnn bergen und thalen» am Rand</note> allenthalben jnn der herrschafft Gruͤningen vil<note type="critical">«vil» über der Zeile</note>, das zů besorgen, es möchte mynen herren bald daruß große unrůw und unheil<note type="critical">Folgt gestrichen: daruß</note> volgen. Dann jr leer, das das gůt gmein syn sölle, jst, welliches bald ein volg bim verdorbnen volck<note type="critical">Folgt gestrichen; js</note> haben wurde. Diewyl dann sölliches ein gmeine sach. Ist für<note type="editorial"> vor</note> üch<note type="critical">«üch» über der Zeile</note>, myn herren, gwißen, mit erntst ein jnsehen<note type="editorial"> Vorsorge (treffen), Id. VII, 562f.</note> zethůnd.<note type="critical">Folgt gestrichen: und die vögt allenthalben erkhundigen zelasßen, wo sölliche personnen sygen, myn herren deß zůberichten.</note></p>
-<p>Die dryg ­toüf­fer<note type="editorial"> <persName ref="Ruman, Peter">Peter Ruman</persName> , <persName ref="Bräm, Fridli">Fridli Bräm</persName> und <persName ref="Kuhn, Jakob">Jakob Kuhn</persName></note>, so vor jm sinodo anzogen und jnn der herrschafft <placeName ref="Regensberg">Regensperg</placeName> sitzend, farend unangsehen, was man mit jnen gehandlet und gredt, jemerdar für.</p>
+<p>Zů <placeName ref="LOC_47.26648_8.80812">Bůbicken</placeName> jst der senn ein ­toüf­fer. Hat schon ein andern knecht ouch jm anhengig<note type="critical">In der Vorlage: anhenig</note> gemachet und noch jst einer under wegen. Wo nun das nitt by zyten mit ernst abgestelt, sind andere ­toüf­fer schon jnn bergen und thalen<note type="critical">«jnn bergen und thalen» am Rand</note> allenthalben jnn der herrschafft Gruͤningen vil<note type="critical">«vil» über der Zeile</note>, das zů besorgen, es möchte mynen herren bald daruß große unrůw und unheil<note type="critical">Folgt gestrichen: daruß</note> volgen. Dann jr leer, das das gůt gmein syn sölle, jst, welliches bald ein volg bim verdorbnen volck<note type="critical">Folgt gestrichen; js</note> haben wurde. Diewyl dann sölliches ein gmeine sach. Ist für<note type="editorial"> vor</note> üch<note type="critical">«üch» über der Zeile</note>, myn herren, gwißen, mit erntst ein jnsehen<note type="editorial"> Vorsorge (treffen), Id. VII, 562f.</note> zethůnd.<note type="critical">Folgt gestrichen: und die vögt allenthalben erkhundigen zelasßen, wo sölliche personnen sygen, myn herren deß zůberichten.</note></p>
+<p>Die dryg ­toüf­fer<note type="editorial"> <persName ref="Ruman, Peter">Peter Ruman</persName> , <persName ref="Bräm, Fridli">Fridli Bräm</persName> und <persName ref="Kuhn, Jakob">Jakob Kuhn</persName></note>, so vor jm sinodo anzogen und jnn der herrschafft <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName> sitzend, farend unangsehen, was man mit jnen gehandlet und gredt, jemerdar für.</p>
 </div>
     </body>
   </text>

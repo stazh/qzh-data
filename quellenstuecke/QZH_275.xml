@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr vogt zů <placeName ref="Wädenswil">Wedischwyl</placeName><note type="editorial"> Hans <persName ref="Zoller, Hans Wilpert">Wilpert Zoller</persName></note> soll versehen<note type="editorial"> sorgen für, Id. VII, 571.</note>, das der ­toüf­ferinen von <placeName ref="Richterswil">Richtischwyl</placeName><note type="editorial"> Richterswil</note>, so<note type="critical">Wort (so) wiederholt</note> das land myden, weder von jrer seckt abzestaan und zů kilchen gaan will, allein der zinß von jrem gůt gevolge und jren das houptgůt nit ußhin gegeben werden. Zů dem sy uß jres mans seligen gůt dhein<note type="editorial"> keine</note> eegrechtigkeit<note type="editorial"> Erbrecht des überlebenden Ehegatten, Id. VI, 234.</note> von jrer ungehorsamme wegen haben, sonders deß mans gůt uff die kind sy daruß zůerzüchen diennen und warten. Ouch das meitlj, so mit der můter hinweg jst, wider zů den andern synen zweygen bruͤderlinen gethaan und zů frombklich[keit] ufgezogen.</p>
+      <div><p>Herr vogt zů <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName><note type="editorial"> Hans <persName ref="Zoller, Hans Wilpert">Wilpert Zoller</persName></note> soll versehen<note type="editorial"> sorgen für, Id. VII, 571.</note>, das der ­toüf­ferinen von <placeName ref="LOC_47.20077_8.68668">Richtischwyl</placeName><note type="editorial"> Richterswil</note>, so<note type="critical">Wort (so) wiederholt</note> das land myden, weder von jrer seckt abzestaan und zů kilchen gaan will, allein der zinß von jrem gůt gevolge und jren das houptgůt nit ußhin gegeben werden. Zů dem sy uß jres mans seligen gůt dhein<note type="editorial"> keine</note> eegrechtigkeit<note type="editorial"> Erbrecht des überlebenden Ehegatten, Id. VI, 234.</note> von jrer ungehorsamme wegen haben, sonders deß mans gůt uff die kind sy daruß zůerzüchen diennen und warten. Ouch das meitlj, so mit der můter hinweg jst, wider zů den andern synen zweygen bruͤderlinen gethaan und zů frombklich[keit] ufgezogen.</p>
 </div>
     </body>
     <back>

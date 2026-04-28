@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,9 +60,9 @@
   <text>
     <body>
       <div><pb n="1" facs="E_I_7_3__Nr__101__S__1_.tif"/>
-<p><persName ref="Meyer, David">Davit Meyer</persName> von <placeName ref="Stadel">Stadel</placeName> sagt, als jren etlich zů Stadel jm wirttshuß truncken unnd einer under jnnen under anderem grett, der herr habe aber jnn der predig die ­toüf­fer anzogen<note type="editorial"> schmähen, <hl to="http://fwb-online.de/go/anziehen.s.3vu_1668617929"><Hyperlink>http://fwb-online.de/go/anziehen.s.3vu_1668617929</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>. Daruf ein anderer<note type="critical">Folgt gestrichen: gseit er</note> zů <persName ref="Huser, Heini">Heinj Hußern</persName> gseit, er dörff wol jnn ouch troffen han. Daruf Hußer geantwortet, wann einer seite, das er ein ­toüf­fer, dörfte er wol sagen, es were einer (reverenter) so gwüß ein dieb.</p>
+<p><persName ref="Meyer, David">Davit Meyer</persName> von <placeName ref="LOC_47.53797_8.47014">Stadel</placeName> sagt, als jren etlich zů Stadel jm wirttshuß truncken unnd einer under jnnen under anderem grett, der herr habe aber jnn der predig die ­toüf­fer anzogen<note type="editorial"> schmähen, <hl to="http://fwb-online.de/go/anziehen.s.3vu_1668617929"><Hyperlink>http://fwb-online.de/go/anziehen.s.3vu_1668617929</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>. Daruf ein anderer<note type="critical">Folgt gestrichen: gseit er</note> zů <persName ref="Huser, Heini">Heinj Hußern</persName> gseit, er dörff wol jnn ouch troffen han. Daruf Hußer geantwortet, wann einer seite, das er ein ­toüf­fer, dörfte er wol sagen, es were einer (reverenter) so gwüß ein dieb.</p>
 <p><persName ref="Schmid, Junghans">Junghans Schmid</persName> von Stadel züget glychergstalt.</p>
-<p><persName ref="Huser, Ulrich">Ůlrich Hußer</persName> von Stadel zeigt an, als man jm wirttshuß von den ­toüf­feren zred und under anderem anzogen worden, es syge eben nach ein ­toüf­fer jm Nüwen ambt<note type="editorial"> <placeName ref="Neuamt">Neuamt</placeName>, Obervogtei im Zürcher Unterland.</note>, dardurch dann synes erachtens <persName ref="Schmid, Heini">Heinj Schmid</persName> gmeint worden, habe Heinj Hußer gret, man müße jnn dollen<note type="editorial"> toll machen?</note> unnd sölte er (doch niemants gnambßet, wen er meine) jm bütterich<note type="editorial"> kleines Fässchen, Id. IV, 1923.</note> jnnen zerhygen<note type="editorial"> bersten, Id. II, 1102.</note>, beschloß hiemit syn sag.</p>
+<p><persName ref="Huser, Ulrich">Ůlrich Hußer</persName> von Stadel zeigt an, als man jm wirttshuß von den ­toüf­feren zred und under anderem anzogen worden, es syge eben nach ein ­toüf­fer jm Nüwen ambt<note type="editorial"> <placeName ref="LOC_47.502561593977106_8.499244491889575">Neuamt</placeName>, Obervogtei im Zürcher Unterland.</note>, dardurch dann synes erachtens <persName ref="Schmid, Heini">Heinj Schmid</persName> gmeint worden, habe Heinj Hußer gret, man müße jnn dollen<note type="editorial"> toll machen?</note> unnd sölte er (doch niemants gnambßet, wen er meine) jm bütterich<note type="editorial"> kleines Fässchen, Id. IV, 1923.</note> jnnen zerhygen<note type="editorial"> bersten, Id. II, 1102.</note>, beschloß hiemit syn sag.</p>
 <pb n="2" facs="E_I_7_3__Nr__101__S__2_.tif"/>
 </div>
     </body>

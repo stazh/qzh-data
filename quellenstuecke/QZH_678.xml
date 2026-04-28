@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hans <persName ref="Engelhart, Hans Konrad">Cůnrat Engelharten</persName>, so sich zů Gostal<note type="editorial"> Podivín (deutsch Kostel)<placeName ref="Podivín"/></note> jnn <placeName ref="Mähren">Merherrn</placeName> hushablich gesetzt und jnkouft, aber der wider­toüf­fery nit anlanget, söllent syne zwen gültbrief, 200 g[ulden] wyßende, uß dem schirmkasten zůgstelt werden, wyl syn brůder unnd schwöster jme das ouch gern verwilligend.</p>
+      <div><p>Hans <persName ref="Engelhart, Hans Konrad">Cůnrat Engelharten</persName>, so sich zů Gostal<note type="editorial"> Podivín (deutsch Kostel)<placeName ref="Podivín"/></note> jnn <placeName ref="LOC_49.5_17">Merherrn</placeName> hushablich gesetzt und jnkouft, aber der wider­toüf­fery nit anlanget, söllent syne zwen gültbrief, 200 g[ulden] wyßende, uß dem schirmkasten zůgstelt werden, wyl syn brůder unnd schwöster jme das ouch gern verwilligend.</p>
 </div>
     </body>
     <back>

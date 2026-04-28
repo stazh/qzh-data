@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Beide vögt zuͦ <placeName ref="Küsnacht">Küßnacht</placeName> söllent gwalt haben zů verschaffen, das <persName ref="Wirz, N.">Amman Wirtzen</persName> und <persName ref="Knöpfli, Jost">Joßten Knöpflj</persName> von Küßnacht umb das, so man jnen von der erhaltung wegen <persName ref="Mülli, Jakob">Jacob Mülliß</persName> zweyer knaben schuldig jst, uß dem ­toüf­ferischen, von jren verwandten herkhommenden alhie ligenden gůte, so der rechenschryber jnn verwaltung hatt, nun mehr ein willen gemachet werde.</p>
+      <div><p>Beide vögt zuͦ <placeName ref="LOC_47.31971_8.61219">Küßnacht</placeName> söllent gwalt haben zů verschaffen, das <persName ref="Wirz, N.">Amman Wirtzen</persName> und <persName ref="Knöpfli, Jost">Joßten Knöpflj</persName> von Küßnacht umb das, so man jnen von der erhaltung wegen <persName ref="Mülli, Jakob">Jacob Mülliß</persName> zweyer knaben schuldig jst, uß dem ­toüf­ferischen, von jren verwandten herkhommenden alhie ligenden gůte, so der rechenschryber jnn verwaltung hatt, nun mehr ein willen gemachet werde.</p>
 </div>
     </body>
     <back>

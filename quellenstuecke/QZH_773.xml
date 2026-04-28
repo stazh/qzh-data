@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hanns <persName ref="Baumann, Hans Heinrich">Heinrich Buman</persName><note type="critical">Am Rand: j b[e]kh[antnus]</note> von <placeName ref="Horgen">Horgen</placeName> soll recht uß gnaden von den 810 pfund<note type="critical">In der Vorlage: lb</note> (die er nun 10 jar lang verzinßet<note type="editorial"> Vgl. zum Beispiel fol. 3 in der Rechnung des Täuferamtes von 1606 (Nr. 654).</note>) fůrohin biß uff wytern bscheid, wie man dem ­toüf­fer gůt thůn welle, dhein zinßung geben sölle, wyl aber herr rechnschryber die versicherung underhanden, soll sy wyter also verblyben.</p>
+      <div><p>Hanns <persName ref="Baumann, Hans Heinrich">Heinrich Buman</persName><note type="critical">Am Rand: j b[e]kh[antnus]</note> von <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> soll recht uß gnaden von den 810 pfund<note type="critical">In der Vorlage: lb</note> (die er nun 10 jar lang verzinßet<note type="editorial"> Vgl. zum Beispiel fol. 3 in der Rechnung des Täuferamtes von 1606 (Nr. 654).</note>) fůrohin biß uff wytern bscheid, wie man dem ­toüf­fer gůt thůn welle, dhein zinßung geben sölle, wyl aber herr rechnschryber die versicherung underhanden, soll sy wyter also verblyben.</p>
 </div>
     </body>
     <back>

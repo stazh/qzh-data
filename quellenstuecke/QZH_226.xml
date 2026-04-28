@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Gut, Andres">Andreß Gůt</persName> von <placeName ref="Lunnern">Lůnneren</placeName>, der ­toüf­fer, hatt sich erbotten, jnn den nechsten viertzehen tagen zů besinnen, ob er sich myner herren satzungen gehorsam erzeigen und zekilchen gan welle. Wo nit, sige er urbietig<note type="editorial"> bereit, Id. IV. 1881.</note>, angentz<note type="editorial"> unverzüglich, Id. II, 19.</note> uß myner herren gricht und gebieten zezühen und sy ungesumpt zelasßen; thette ers nitt, sölle man jnn gfengklich annemen. Uff disers erbieten soll der vogt zů Knonouw acht haben, das dem statt bescheche, wie jm solliches zůgeschriben jst.</p>
+      <div><p><persName ref="Gut, Andres">Andreß Gůt</persName> von <placeName ref="LOC_47.26217_8.41262">Lůnneren</placeName>, der ­toüf­fer, hatt sich erbotten, jnn den nechsten viertzehen tagen zů besinnen, ob er sich myner herren satzungen gehorsam erzeigen und zekilchen gan welle. Wo nit, sige er urbietig<note type="editorial"> bereit, Id. IV. 1881.</note>, angentz<note type="editorial"> unverzüglich, Id. II, 19.</note> uß myner herren gricht und gebieten zezühen und sy ungesumpt zelasßen; thette ers nitt, sölle man jnn gfengklich annemen. Uff disers erbieten soll der vogt zů Knonouw acht haben, das dem statt bescheche, wie jm solliches zůgeschriben jst.</p>
 </div>
     </body>
     <back>

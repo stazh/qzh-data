@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Meyer, Simon">Simon Meygern</persName> von <placeName ref="Buchs">Buchs</placeName> wellent myn herren jr land zůbewonnen wider begünstigen, diewyl er armůt halber und nit von der ­toüf­ferischen seckt wegen hinweg zogen. Und soll dem vogt uff <placeName ref="Regensberg">Regensperg</placeName> zůgeschriben werden<note type="editorial"> Vgl. Nr. 236.</note>, synethalb ufsehens zehaben, wo er sich nit recht hielte, deßen myn herren zberichten.</p>
+      <div><p><persName ref="Meyer, Simon">Simon Meygern</persName> von <placeName ref="LOC_47.45881_8.43734">Buchs</placeName> wellent myn herren jr land zůbewonnen wider begünstigen, diewyl er armůt halber und nit von der ­toüf­ferischen seckt wegen hinweg zogen. Und soll dem vogt uff <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName> zůgeschriben werden<note type="editorial"> Vgl. Nr. 236.</note>, synethalb ufsehens zehaben, wo er sich nit recht hielte, deßen myn herren zberichten.</p>
 </div>
     </body>
     <back>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Grüningen">Gruͤningen</placeName> schryben, das myn herren von <persName ref="Thumysen, Itelhans">vogt Thůmyßen</persName>, was sy der ­toüf­fern halb gehandlet, bericht empfangen. Laßint jnen dasselbig gfallen und das dem mit allem erntst statt gethaan werde, der senn gfengklichen angenommen und was jm, dem vogt, jederzyt begegnet, das soll er myn herren berichten.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName> schryben, das myn herren von <persName ref="Thumysen, Itelhans">vogt Thůmyßen</persName>, was sy der ­toüf­fern halb gehandlet, bericht empfangen. Laßint jnen dasselbig gfallen und das dem mit allem erntst statt gethaan werde, der senn gfengklichen angenommen und was jm, dem vogt, jederzyt begegnet, das soll er myn herren berichten.</p>
 </div>
     </body>
     <back>

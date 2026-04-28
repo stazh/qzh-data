@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +67,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Regensberg">Regensperg</placeName> sol uff die ­toüf­fer abermalen spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> machenn und so die betrettenn<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, fänngklich annemmen unnd alhar schicken, unnd insonnders die, so den ­toüf­fern unnderschlouff gebind, ouch jnn gfenngknus legen unnd darzů ein bůß abnemmen.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName> sol uff die ­toüf­fer abermalen spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> machenn und so die betrettenn<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, fänngklich annemmen unnd alhar schicken, unnd insonnders die, so den ­toüf­fern unnderschlouff gebind, ouch jnn gfenngknus legen unnd darzů ein bůß abnemmen.</p>
 </div>
     </body>
   </text>

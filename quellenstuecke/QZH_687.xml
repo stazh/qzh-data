@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="Wädenswil">Wädeschwyl</placeName><note type="editorial"> Konrad Grebel (1561-1626)<persName ref="Grebel, Konrad"/></note> soll die dryg oder vier hartneckigen ­toüf­fer gfengklich alher schicken.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.22493_8.65207">Wädeschwyl</placeName><note type="editorial"> Konrad Grebel (1561-1626)<persName ref="Grebel, Konrad"/></note> soll die dryg oder vier hartneckigen ­toüf­fer gfengklich alher schicken.</p>
 <p>Unnd jr (der ­toüf­feren) gmein hüßlj, darjnn <persName ref="Suter, Ůli">Ůlj Suter</persName> sitzt, ab der hoftstatt  verkouffen unnd das erlößt gelt unnd was die ­toüf­fer wyter für gmein gůt hetten zů myner herren hannden nemmen.</p>
 </div>
     </body>

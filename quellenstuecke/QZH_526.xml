@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>J[unker] Hansen von <persName ref="Ulm, Hans von">Ulm</persName><note type="editorial"> Gerichtsherr von Teufen (Zürich)</note> schryben, wover<note type="editorial"> wenn, Id. I, 914.</note> <persName ref="Schnyder, Hans">Heinrich Schnider</persName> von <placeName ref="Rorbas">Rorbis</placeName> uff syn abstand der jrrigenn ­toüf­ferischen sect etwas bitt umb die 100 g[ulden], so von synem gůt jetzt mynen herren noch gfallen sölte, jme zelasßen, zethůn willens, sölle  er<note type="critical">«er» über der Zeile</note> jme anzeigen, das er deßhalb uff jetzt mentag alhie vor mynen herren erschynnen sölle und nach syenm bittlichen ansůchen jres witern bscheidts erwarten.</p>
+      <div><p>J[unker] Hansen von <persName ref="Ulm, Hans von">Ulm</persName><note type="editorial"> Gerichtsherr von Teufen (Zürich)</note> schryben, wover<note type="editorial"> wenn, Id. I, 914.</note> <persName ref="Schnyder, Hans">Heinrich Schnider</persName> von <placeName ref="LOC_47.53414_8.56841">Rorbis</placeName> uff syn abstand der jrrigenn ­toüf­ferischen sect etwas bitt umb die 100 g[ulden], so von synem gůt jetzt mynen herren noch gfallen sölte, jme zelasßen, zethůn willens, sölle  er<note type="critical">«er» über der Zeile</note> jme anzeigen, das er deßhalb uff jetzt mentag alhie vor mynen herren erschynnen sölle und nach syenm bittlichen ansůchen jres witern bscheidts erwarten.</p>
 </div>
     </body>
     <back>

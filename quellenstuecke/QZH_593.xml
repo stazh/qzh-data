@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zu <placeName ref="Knonau">Knonow</placeName> brichten, wie dz synn amptsangehöriger <persName ref="Weber, Gorius">Gorius Weber</persName> vonn <placeName ref="Ebertswil">Ebertschwyl</placeName><note type="editorial"> Ebertswil</note>, so vonn der widerthoüfferischen sect unnd synner<note type="critical">Folgt gestrichen: wid</note> hartneckigkeit wegen alhie etliche wuchen jnn gfanngenschafft endthalten<note type="editorial"> festhalten, Id. II, 1228.</note>, annglopt, fürterhin gehorsam zesind, unnd wie ander christenlüt die gwonlichen predigen unnd allgemeyn gepett zůbesuchen, deßglychen ouch synn frowen unserm christenlichen bruch nach (ob er sy annders dahin bewegen) zekilchen zefüeren etc.</p>
+      <div><p>Vogt zu <placeName ref="LOC_47.22446_8.46262">Knonow</placeName> brichten, wie dz synn amptsangehöriger <persName ref="Weber, Gorius">Gorius Weber</persName> vonn <placeName ref="LOC_47.22639_8.54962">Ebertschwyl</placeName><note type="editorial"> Ebertswil</note>, so vonn der widerthoüfferischen sect unnd synner<note type="critical">Folgt gestrichen: wid</note> hartneckigkeit wegen alhie etliche wuchen jnn gfanngenschafft endthalten<note type="editorial"> festhalten, Id. II, 1228.</note>, annglopt, fürterhin gehorsam zesind, unnd wie ander christenlüt die gwonlichen predigen unnd allgemeyn gepett zůbesuchen, deßglychen ouch synn frowen unserm christenlichen bruch nach (ob er sy annders dahin bewegen) zekilchen zefüeren etc.</p>
 <p>Mit angehencktem bevelch, dz er hieruf synn spech machen, unnd sover<note type="editorial"> sofern</note> Weber disem synem versprechen ungehörter massen nit statt thun wurde, jnne ­vol­gentz darumb lut der satzung zestraffen unnd die bußen gestrax von jme jnnzezüchen.</p>
 <p>Unnd diewyl nach etliche meer jnn synner verwaltung, die by jren wybern glycher gstalt onne offentliche bestettigung der ee sitzen syn söllen, dz er dennen mitt allem ernst nachfragen, unnd sover sich dieselben zur gehorsame ouch nit begeben, die mynen h[err]en mit bericht, wie es jrenthalben ein gstalt habe, gefengclichen zeüberschicken.</p>
 </div>

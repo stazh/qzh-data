@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Clotter, Elsi">Elsi Clotter</persName> jm <placeName ref="Zürich, Kratz">Kratz</placeName> soll eigentlich erkonet<note type="editorial"> ausforschen, Id. III, 325.</note> werden, an wellichen ennden die töuffer jnn der herschafft <placeName ref="Wädenswil">Wedischwyl</placeName> zůsamen komend, unnd so man von jnen eigentlich bscheid hat, soll man dem vogt von Wedischwyl das zůschryben.</p>
+      <div><p><persName ref="Clotter, Elsi">Elsi Clotter</persName> jm <placeName ref="LOC_47.368945662841035_8.540299444207246">Kratz</placeName> soll eigentlich erkonet<note type="editorial"> ausforschen, Id. III, 325.</note> werden, an wellichen ennden die töuffer jnn der herschafft <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName> zůsamen komend, unnd so man von jnen eigentlich bscheid hat, soll man dem vogt von Wedischwyl das zůschryben.</p>
 </div>
     </body>
     <back>

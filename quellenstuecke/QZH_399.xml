@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen, geneigten willen und alles gůts zůvor. Eersamer, wyßer, besonders getrüwer, lieber bůrger und vogt, dir wirt zwyffels one nun meer<note type="critical">«nun meer» am Rand mit Verweiszeichen</note> ouch angezeigt syn worden, das die jheningen, so <persName ref="Schnyder, Hans">Hannsen Schnyder</persName> von <placeName ref="Rorbas">Rorbiß</placeName><note type="editorial"> Rorbas</note> und andere ­toüf­fer unns zůfuͤren von dir bevelch empfangen, gedachter Schnyder und sonst noch einer ald<note type="editorial"> oder</note> zwen underwägen entrůnnen. Wie aber sölliches zůgangen, ob es durch die, so bestelt gweßen, verwarloßet oder sy, die ­toüf­fer, sich mit gwalt ußgerißen, habent wir noch an jetzo dheinen<note type="editorial"> keinen</note> bericht. Ist derhalben unsers begeren an dich, du wellist der sachen eigentlichen nachfragen, wie sich die handlung verlouffen, unnd was du jnn erfarung bringst, uns dasselbig zůschryben und unsers fernern bscheidts und bevelchs darob erwarten. Datum den 12ten septembris anno etc. 83.</p>
+      <div><p>Unnsern günstigen, geneigten willen und alles gůts zůvor. Eersamer, wyßer, besonders getrüwer, lieber bůrger und vogt, dir wirt zwyffels one nun meer<note type="critical">«nun meer» am Rand mit Verweiszeichen</note> ouch angezeigt syn worden, das die jheningen, so <persName ref="Schnyder, Hans">Hannsen Schnyder</persName> von <placeName ref="LOC_47.53414_8.56841">Rorbiß</placeName><note type="editorial"> Rorbas</note> und andere ­toüf­fer unns zůfuͤren von dir bevelch empfangen, gedachter Schnyder und sonst noch einer ald<note type="editorial"> oder</note> zwen underwägen entrůnnen. Wie aber sölliches zůgangen, ob es durch die, so bestelt gweßen, verwarloßet oder sy, die ­toüf­fer, sich mit gwalt ußgerißen, habent wir noch an jetzo dheinen<note type="editorial"> keinen</note> bericht. Ist derhalben unsers begeren an dich, du wellist der sachen eigentlichen nachfragen, wie sich die handlung verlouffen, unnd was du jnn erfarung bringst, uns dasselbig zůschryben und unsers fernern bscheidts und bevelchs darob erwarten. Datum den 12ten septembris anno etc. 83.</p>
 <p rend="margin-top">Burgermeister und rath der statt Zürich</p>
 <p rend="margin-top">An vogt zů Gruͤningen.<placeName ref="Grüningen"/></p>
 </div>

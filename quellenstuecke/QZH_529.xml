@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -48,9 +48,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 415</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 415</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -73,10 +71,8 @@
   <text>
     <body>
       <div>
-        <p>Umb das <persName ref="Suter, Hans">Hans Suter</persName> von <placeName ref="Horgen"
-            >Horgen</placeName> sich syner husfrouwen ungehorsame kilchgangs anerforderete bůß mit
-          bößen worten verweigeret, soll er jnn <placeName ref="Zürich, Wellenberg"
-            >Wellenberg</placeName> gelegt und nit ußgelasßen werden, er habe dann zevor x
+        <p>Umb das <persName ref="Suter, Hans">Hans Suter</persName> von <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> sich syner husfrouwen ungehorsame kilchgangs anerforderete bůß mit
+          bößen worten verweigeret, soll er jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> gelegt und nit ußgelasßen werden, er habe dann zevor x
             pfund<note type="critical">In der Vorlage: lb</note> zebůß erlegt.</p>
       </div>
     </body>

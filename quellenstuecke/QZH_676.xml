@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -48,9 +48,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 562</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 562</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -82,29 +80,21 @@
           unns schon verrechnet hatt, von ­toüf­feren und anderen personen unbezalt usstandint,
           welliche er<note type="critical">Folgt gestrichen: bißhar</note> über vilfaltigs anhalten
           unnd tryben bißhar nit ynbringen mögen mitt bitt, jme dartzů verholffen zesind. Diewyl nun
-          wir verstond, das unnsere undervögt unnd weybel jnn dyner ambtsverwaltung dhein<note
-            type="editorial"> kein</note> rechten erntst unnd flyß zů ynbringung sollicher usstenden
-          bůßen und fälen anwenden thuͤgind, so jst hiemit unnser bevelch und meinung<note
-            type="editorial"> Erwartung, Weisung, vgl. <hl
-              to="http://fwb-online.de/go/meinung.h2.1f_1709288851"
-                ><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+          wir verstond, das unnsere undervögt unnd weybel jnn dyner ambtsverwaltung dhein<note type="editorial"> kein</note> rechten erntst unnd flyß zů ynbringung sollicher usstenden
+          bůßen und fälen anwenden thuͤgind, so jst hiemit unnser bevelch und meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
             (Frühneuhochdeutsches Wörterbuch).</note> an dich, du wellist mit jnen, den undervögten
           unnd weyblen, erntstlich reden unnd verschaffen, das sy vermög jres tragenden diensts und
           schuldiger pflicht die jhenigen personen, an die genannter unnser alter vogt oberzelter
           gstalt noch ansprach<note type="editorial"> Anspruch, Forderung Id. X, 722.</note> hat und
           du von jme wol vernemmen wirst<note type="critical">«und du … wirst» am Rand mit
             Verweiszeichen</note>, mit gebürendem erntst unnd nach ußwyßung<note type="editorial">
-            Inhalt, Aussage, Id. XVI, 1953.</note> unnserer hievor darumb ußgangnen erkhandtnuß<note
-            type="editorial"> Beschluss, Id. III, 373.</note>, so jnn unnserm schloß Knonow by dynen
-          handen liggen soll, zur gehorsamme unnd schuldiger bezalung haltind. Dann wover<note
-            type="editorial"> wenn, Id. I, 914.</note> er sich deßhalb wyter gegen unns zůerklagen
-            ursach<note type="critical">korrigiert, ursprünglich: verursachet</note> hete<note
-            type="editorial"> «hete» über der Zeile</note>, wurden wir<note type="critical">Folgt
-            gestrichen: das</note> ab den sumseligen ein missfallen haben unnd das jnn unganden<note
-            type="critical">korrigiert, ursprünglich: gnaden nit</note> erkhennen. Datum den 26ten
+            Inhalt, Aussage, Id. XVI, 1953.</note> unnserer hievor darumb ußgangnen erkhandtnuß<note type="editorial"> Beschluss, Id. III, 373.</note>, so jnn unnserm schloß Knonow by dynen
+          handen liggen soll, zur gehorsamme unnd schuldiger bezalung haltind. Dann wover<note type="editorial"> wenn, Id. I, 914.</note> er sich deßhalb wyter gegen unns zůerklagen
+            ursach<note type="critical">korrigiert, ursprünglich: verursachet</note> hete<note type="editorial"> «hete» über der Zeile</note>, wurden wir<note type="critical">Folgt
+            gestrichen: das</note> ab den sumseligen ein missfallen haben unnd das jnn unganden<note type="critical">korrigiert, ursprünglich: gnaden nit</note> erkhennen. Datum den 26ten
           octobris a[nn]o 1601</p>
         <p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
-        <p rend="margin-top">An vogt zů <placeName ref="Knonau">Knonouw</placeName> Hans Heinrich
+        <p rend="margin-top">An vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> Hans Heinrich
           Wellenberg.</p>
       </div>
     </body>

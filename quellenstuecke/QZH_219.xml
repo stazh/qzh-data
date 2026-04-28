@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der daͤchen von <placeName ref="Dürnten">Türten</placeName><note type="editorial"> Dürnten</note>, h[err] <persName ref="Hamberger, Hartman">Hartman Hamberger</persName>, klagt der toͤuffern halb. Und diewyl aber soͤmliche klag vil fürgebracht und kein ernst volge, so woͤllind sy jetzund die letst warnung gethan haben.</p>
+      <div><p>Der daͤchen von <placeName ref="LOC_47.27572_8.85378">Türten</placeName><note type="editorial"> Dürnten</note>, h[err] <persName ref="Hamberger, Hartman">Hartman Hamberger</persName>, klagt der toͤuffern halb. Und diewyl aber soͤmliche klag vil fürgebracht und kein ernst volge, so woͤllind sy jetzund die letst warnung gethan haben.</p>
 <p rend="margin-top">[Bericht an den Rat]</p>
 <p>[…] Darzů erclagend sy<note type="editorial"> Die Pfarrer des Kapitels Wetzikon</note> sich gmeinlich der ­toüf­fern, die hin und wider die fromen alten lüth von jrem<note type="critical">Folgt gestrichen: weß</note> glouben abzewißen understandint.</p>
 <p rend="margin-top">[Am Rand der undatierte Ratsbeschluss:] Vogt sollend allenthalben uff die ­toüf­fer gůt acht haben und sy straffen und von jrem fürnemen abnemen.</p>

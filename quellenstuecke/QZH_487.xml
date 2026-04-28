@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,11 +75,11 @@
 <p rend="margin-top">F[rage]: Ob gott das gsatz dem mentschen zů einem spiegel<note type="critical">Folgt gestrichen: zů</note> syner sünden unnd wir als dann zů unns mitt dem lyden Christj derselbigen abwüschen mögind?</p>
 <p rend="margin-top">Bitt myn herren jnn ansehung synes alters unnd schweche deß lybs<note type="critical">«jnn ansehung … lybs» unterhalb des Absatzes mit Verweiszeichen</note> umb erlassung der gfangenschafft, welle er angentz<note type="editorial"> sofort, Id. II, 19.</note> das landt rumen unnd niemer wider daryn zekomen<note type="critical">Folgt gestrichen: ver</note> geloben unnd versprechen.</p>
 <p rend="margin-top"><persName ref="Seng, Jakob">Jacobs Seng</persName> [und] <persName ref="Hochstrasser, Hans">Hans Hochstraßer</persName>, gestorben.</p>
-<p><persName ref="Schnyder, N,">Schnyder</persName> von <placeName ref="Rorbas">Rorbiß</placeName>.</p>
-<p>Etlich uß dem <placeName ref="Bern">Bernpiet</placeName>.</p>
-<p><persName ref="Arbogast (vom Emmental)">Arbogast</persName> [und] <persName ref="Peter (vom Emmental)">Petter</persName> uß dem <placeName ref="Emmental">Ementhal</placeName>.</p>
-<p><persName ref="Michel (Bubikon)">Michel</persName>, alter senn zu <placeName ref="Bubikon">Bůbicken</placeName>.</p>
-<p><persName ref="Bruppach, Jos">Joß Bruppach</persName> am <placeName ref="Wädenswiler Berg">Wedeschwyler</placeName> [berg].</p>
+<p><persName ref="Schnyder, N,">Schnyder</persName> von <placeName ref="LOC_47.53414_8.56841">Rorbiß</placeName>.</p>
+<p>Etlich uß dem <placeName ref="LOC_46.94809_7.44744">Bernpiet</placeName>.</p>
+<p><persName ref="Arbogast (vom Emmental)">Arbogast</persName> [und] <persName ref="Peter (vom Emmental)">Petter</persName> uß dem <placeName ref="LOC_46.91922_7.77868">Ementhal</placeName>.</p>
+<p><persName ref="Michel (Bubikon)">Michel</persName>, alter senn zu <placeName ref="LOC_47.26648_8.80812">Bůbicken</placeName>.</p>
+<p><persName ref="Bruppach, Jos">Joß Bruppach</persName> am <placeName ref="LOC_47.22493_8.65207">Wedeschwyler</placeName> [berg].</p>
 <pb n="2" facs="E_I_7_3__Nr__33__S__2_.tif"/>
 <p rend="margin-top">Uff befragung, ob er sich welle wyßen lassen. Antwort: das er sich bißhar nit vil anderst besunnen. Warumb? Darumb das der ban luth dem wort gotts Math. 18. cap. nit jnn der kilchen halte.</p>
 <p>Ob ein christ ein oberer unnd ein oberer ein christ syn möge? Ant[wort]: Wer sich wol halte, werde sich genüßen<note type="editorial"> Nutzniessung haben, Vorteil haben, den Lohn bekommen, Id. I, 817.</note>.</p>
