@@ -47,7 +47,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 503</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 503</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -61,22 +63,38 @@
     </encodingDesc>
     <profileDesc>
       <textClass default="false">
-				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-					<term ref="key005438">Täufertum</term>
-				</keywords>
-			</textClass>
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div><head type="Originalsprache">Von vertrybung der frömbden wyderteüffern anno 98 h[err] v[ogt] Clauser<note type="editorial"> Hans Heinrich Clauser <persName ref="Clauser, Hans Heinrich"/></note> <note type="critical">Die Aufschrift befindet auf der Rückseite des Dokuments (S. 448).</note></head> <p>Nachdem herrn vogt Clausern zů Grüeningen fürkommen<note type="editorial"> zu Ohren kommen, kund werden, Id. III, 279.</note>, wie das abermaln frömbde ufwigler ­toüf­ferischer sect jmm lannd syn söllen, damit nun nit ettwan (wie zůvor mehr beschehen) den eltern jre kind unwüssent unnd hinnderrugkhs entfürt ald<note type="editorial"> oder</note> sonnst das einfaltig volckh durch sy beredt unnd hinweg bracht werde, so laßt er ieder menngklichen gůter wolmeinung ernstlich vermannen unnd warnen, ouch by hundert pfunden verbietten<note type="critical">«ouch by hundert pfunden verbietten» am Rand mit Verweiszeichen</note>, das nach luth unnserer gnedigen herrn hievor ußganngnen mandathen dieselbigen niemants beherberigen noch unnderschlouff geben, sonnder wo sy bethretten<note type="editorial"> antreffen, Id. XIV, 1486.</note> gfenngklichen angenommen unnd gon Grüeningen gefüert werden söllen, dann wöllicher über das hier wider hanndlen, der wurde nach vermög unnserer gnedigen herrn satzung unnd wie abstat<note type="critical">«unnd wie abstat» am Rand mit Verweiszeichen</note> darumb gebüeßt unnd gstraafft werden. Darnach wüsse sich menngklicher zehalten unnd jmme selbst vor schaden zesyn<note type="editorial"> vor sein: verhüten, Id. I, 929.</note>. Datum den 15. d. aprilis a[nn]o 98.</p>
-<p rend="margin-top">Lanndtschryber zů Grüeningen</p>
-</div>
-    </body>
-    <back>
       <div>
-        <p> Hans Heinrich Clauser <persName ref="Clauser, Hans Heinrich"/></p>
+        <head type="Originalsprache">Von vertrybung der frömbden wyderteüffern anno 98 h[err] v[ogt]
+            Clauser<note type="editorial"> Hans Heinrich Clauser <persName
+              ref="Clauser, Hans Heinrich"/></note>
+          <note type="critical">Die Aufschrift befindet auf der Rückseite des Dokuments (S.
+            448).</note></head>
+        <p>Nachdem herrn vogt Clausern zů Grüeningen fürkommen<note type="editorial"> zu Ohren
+            kommen, kund werden, Id. III, 279.</note>, wie das abermaln frömbde ufwigler
+          ­toüf­ferischer sect jmm lannd syn söllen, damit nun nit ettwan (wie zůvor mehr beschehen)
+          den eltern jre kind unwüssent unnd hinnderrugkhs entfürt ald<note type="editorial">
+            oder</note> sonnst das einfaltig volckh durch sy beredt unnd hinweg bracht werde, so
+          laßt er ieder menngklichen gůter wolmeinung ernstlich vermannen unnd warnen, ouch by
+          hundert pfunden verbietten<note type="critical">«ouch by hundert pfunden verbietten» am
+            Rand mit Verweiszeichen</note>, das nach luth unnserer gnedigen herrn hievor ußganngnen
+          mandathen dieselbigen niemants beherberigen noch unnderschlouff geben, sonnder wo sy
+            bethretten<note type="editorial"> antreffen, Id. XIV, 1486.</note> gfenngklichen
+          angenommen unnd gon Grüeningen gefüert werden söllen, dann wöllicher über das hier wider
+          hanndlen, der wurde nach vermög unnserer gnedigen herrn satzung unnd wie abstat<note
+            type="critical">«unnd wie abstat» am Rand mit Verweiszeichen</note> darumb gebüeßt unnd
+          gstraafft werden. Darnach wüsse sich menngklicher zehalten unnd jmme selbst vor schaden
+            zesyn<note type="editorial"> vor sein: verhüten, Id. I, 929.</note>. Datum den 15. d.
+          aprilis a[nn]o 98.</p>
+        <p rend="margin-top">Lanndtschryber zů Grüeningen</p>
       </div>
-    </back>
+    </body>
   </text>
 </TEI>
