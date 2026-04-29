@@ -32,8 +32,6 @@
           <msIdentifier>
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695021">StAZH E I
               7.2, Nr. 102</idno>
-            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695021">StAZH E I
-              7.2, Nr. 102</idno>
           </msIdentifier>
           <head>Gutachten des Ehegerichtes über täuferische Ehetrennungen</head>
           <msContents>
@@ -52,9 +50,6 @@
                 <bibl><ref
                     target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
                     >QGTS</ref>, Bd. 5, Nr. 2</bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 2</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -68,10 +63,6 @@
     </encodingDesc>
     <profileDesc>
       <textClass default="false">
-        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-          <term ref="key005438">Täufertum</term>
-        </keywords>
-      </textClass>
         <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
           <term ref="key005438">Täufertum</term>
         </keywords>

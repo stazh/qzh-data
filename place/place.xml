@@ -366,7 +366,7 @@
             <place xml:id="QZH_046_39" n="Bonen">
                 <placeName type="main">Bonen</placeName>
             </place>
-            <place xml:id="LOC_47.31665_8.466256" n="Bonstetten">
+            <place xml:id="LOC_47.31665_8.46625" n="Bonstetten">
                 <placeName type="main">Bonstetten</placeName>
                 <location>
                     <geo>47.31505 8.46836</geo>
@@ -2410,7 +2410,7 @@
             <place xml:id="QZH_064_6" n="Schmides wis">
                 <placeName type="main">Schmides wis</placeName>
             </place>
-            <place xml:id="LOC_47.52494_8.361687" n="Schneisingen">
+            <place xml:id="LOC_47.52494_8.36168" n="Schneisingen">
                 <placeName type="main">Schneisingen</placeName>
                 <location>
                     <geo>47.51944 8.36667</geo>
