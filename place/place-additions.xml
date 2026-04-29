@@ -1,7 +1,7 @@
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI">
     <text>
         <!--Hier können weitere Namen von Orten eingetragen werden, wenn diese in der Webapplikation erscheinen sollen, aber nicht bereits in den Quellenstücken vorhanden sind-->
-        <placeName ref="LOC_47.36453_8.79202">Pfäffikon ZH</placeName>
+        <placeName ref="LOC_47.36638_8.79372">Pfäffikon ZH</placeName>
         <placeName ref="LOC_47.36966_8.54145">Fraumünster</placeName>
         <placeName ref="LOC_47.38878_8.04826">Aarau</placeName>
         <placeName ref="LOC_47.36201_8.51497">Wiedikon</placeName>
@@ -28,14 +28,14 @@
         <placeName ref="LOC_47.34713_8.72091">Uster</placeName>
         <placeName ref="LOC_47.36334_8.82418">Hittnau</placeName>
         <placeName ref="LOC_47.37398_8.49007">Albisrieden</placeName>
-        <placeName ref="LOC_47.33996_8.66778">Maur</placeName>
+        <placeName ref="LOC_47.33609_8.65996">Maur</placeName>
         <placeName ref="LOC_47.32067_7.89986">Aarburg</placeName>
         <placeName ref="LOC_45.75_7.25">Aostatal</placeName>
         <placeName ref="LOC_47.3699_8.5425">Obere Brücke</placeName>
         <placeName ref="LOC_47.3699_8.5425">Münsterbrücke</placeName>
         <placeName ref="LOC_47.61175_8.72781">Ossingen</placeName>
         <placeName ref="LOC_47.60253_8.79765">Wilen</placeName>
-        <placeName ref="LOC_47.25686_8.69893">Männedorf</placeName>
+        <placeName ref="LOC_47.25965_8.69981">Männedorf</placeName>
         <placeName ref="LOC_47.20534_8.75842">Freienbach</placeName>
         <placeName ref="LOC_47.57335_8.52607">Eglisau</placeName>
         <placeName ref="LOC_47.374444_8.541111">Oetenbach</placeName>
@@ -79,13 +79,13 @@
          <placeName ref="LOC_47.47943_8.90722">Tänikon</placeName>
          <placeName ref="LOC_47.2367_8.7573">Uerikon</placeName>
          <placeName ref="LOC_47.27942_8.86162">Oberdürnten</placeName>
-         <placeName ref="LOC_47.27856_8.84156">Dürnten</placeName>
-         <placeName ref="LOC_47.45041_8.52993">Rümlang</placeName>
+         <placeName ref="LOC_47.27572_8.85378">Dürnten</placeName>
+         <placeName ref="LOC_47.44713_8.52938">Rümlang</placeName>
          <placeName ref="LOC_47.22557_8.82228">Rapperwil</placeName>
          <placeName ref="LOC_47.31279_8.72325">Mönchaltorf</placeName>
          <placeName ref="LOC_45.66667_9.5">Lombardei</placeName>
          <placeName ref="LOC_47.2946_8.78194">Ottikon</placeName>
-         <placeName ref="LOC_47.26652_8.82808">Bubikon</placeName> 
+         <placeName ref="LOC_47.26648_8.80812">Bubikon</placeName> 
         <placeName ref="LOC_47.45152_8.58491">Kloten</placeName> 
         <placeName ref="LOC_47.58956_8.47121">Wasterkingen</placeName> 
         <placeName ref="LOC_47.67074_8.63542">Uhwiesen</placeName> 

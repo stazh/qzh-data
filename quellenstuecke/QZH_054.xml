@@ -98,7 +98,7 @@
 			<pb n='2' facs="A_124_1__Nr__25__S__2_.tif"/>
 			<div>
 				<pb n='3' facs="A_124_1__Nr__25__S__3_.tif"/>
-				<head type="subtitle"><placeName ref="LOC_47.49066_8.49987">Niderglatt</placeName></head>
+				<head type="subtitle"><placeName ref="LOC_47.4931_8.49879">Niderglatt</placeName></head>
 			<p>
 				<lb/>Item es seit der alt <persName>Baumgarter</persName>, er hab nie gehort den herren varend
 				<lb/>oder ligend guot us lütren, denn kein herr hab nie griffen zuo
@@ -169,7 +169,7 @@
 			</div>
 			<div>
 				<pb n='5' facs="A_124_1__Nr__25__S__5_.tif"/>
-				<head type="subtitle">Die von <placeName ref="LOC_47.3051_8.75831">Gossow</placeName></head>
+				<head type="subtitle">Die von <placeName ref="LOC_47.30253_8.76864">Gossow</placeName></head>
 			<p>
 				<lb/>Item es seit <persName>Welti Pfruonder</persName>, das er nie anders gehort hab, denn das
 				<lb/>man umb lút, die den tod verschult hand, schlecht den fúnden den
@@ -220,9 +220,9 @@
 				<lb/>aber er gehört nie kein herren das ligend guot nemen.</p>
 			</div>
 				<div>
-					<head type="subtitle"><placeName ref="LOC_47.29976_8.69032">Egg</placeName></head>
+					<head type="subtitle"><placeName ref="LOC_47.29762_8.69432">Egg</placeName></head>
 				<p>	
-					<lb/>Item <persName><choice><abbr>U</abbr><expan>Ulrich</expan></choice> Weber</persName> von <placeName ref="LOC_47.29976_8.69032">Egg</placeName> seit, das bi des grossen <persName>Heinrich Hagnowers</persName> ziten
+					<lb/>Item <persName><choice><abbr>U</abbr><expan>Ulrich</expan></choice> Weber</persName> von <placeName ref="LOC_47.29762_8.69432">Egg</placeName> seit, das bi des grossen <persName>Heinrich Hagnowers</persName> ziten
 				<lb/>ouch einer verurteilt ward, da wurd ouch daz varend guot den
 				<lb/>herren usgesúndert, und das nie kein man gesechen, daz je kein her
 				<lb/>das ligend guot genem.</p>
@@ -321,7 +321,7 @@
 				</p>
 			</div>
 			<div>
-				<head type="subtitle"><placeName ref="LOC_47.27856_8.84156">Dùrnten</placeName></head>
+				<head type="subtitle"><placeName ref="LOC_47.27572_8.85378">Dùrnten</placeName></head>
 				<p>
 				<lb/>Item es seit <persName>Hans Tottnower</persName> seit, das er nie hab nie gehört,
 				<lb/>das guot us súndery, als jetz uff den lettsten landtag,
