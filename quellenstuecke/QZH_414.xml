@@ -29,7 +29,8 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696707">StAZH E I 7.2, Nr. 174</idno>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696707">StAZH E I
+              7.2, Nr. 174</idno>
           </msIdentifier>
           <head>Verzeichnis der Auswanderer</head>
           <msContents>
@@ -47,7 +48,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 300</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 300</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -61,10 +64,10 @@
     </encodingDesc>
     <profileDesc>
       <textClass default="false">
-				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-					<term ref="key005438">Täufertum</term>
-				</keywords>
-			</textClass>
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
@@ -108,10 +111,5 @@
 <pb n="4" facs="E_I_7_2__Nr__174__S__4_.tif"/>
 </div>
     </body>
-    <back>
-      <div>
-        <p> Verpflichtung</p>
-      </div>
-    </back>
   </text>
 </TEI>

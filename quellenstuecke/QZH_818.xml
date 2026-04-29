@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -37,7 +38,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 704</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 704</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -51,10 +54,10 @@
     </encodingDesc>
     <profileDesc>
       <textClass default="false">
-				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-					<term ref="key005438">Täufertum</term>
-				</keywords>
-			</textClass>
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
@@ -64,45 +67,51 @@
         <head type="Originalsprache"> Balthaßar Maalers zu Stadelhofen mines suns gefangenschaft in
           Wellenberg Zürich sampt volgender ledigung<note type="critical">Am Rand:
           1588</note></head>
-        <p>Zu yngendem julio 1588 ist Balthaßar, min l[ieber] sun, in aller
-          stille zu mir gen Winterthur kommen uß forcht der gfangenschaft wegen argwons der
-            teufferey.<note type="critical">Am Rand: conf. a[cta] eccl[esiastica], t[omus] 4:
-            36,37</note> Jmme ward aber gemittlet durch sinen zunftmeister zum Kämbel, h[errn]
-          Heinrich Holzhalben, so volgender jaaren regierender obervogt zu Kyburg was, daselbst ouch
-          in gott syn läben beschloßen hat a[nn]o 1595, wyter durch Hansen Rüttlinger<note type="editorial"> Hans Reutlinger (1551-1610), seit 1571 mit Küngold Maler (1555-1615)
-            verheiratet.</note>, minen l. tochtermann, wie auch sunst durch andere gut fründ. Diß
-          gute bottschaft kam jm zu durch sin l. stieftochter Catharina Oberkan; deßthalb er am
-          mittwuch zu abent widerum heimb gieng und sich still ouch ynzogen hielt. Aber hernach uff
-          donnstag den 1. äugst kam mir ein eigner bott zu, der manet mich in yl uffzusyn<note type="editorial"> aufbrechen, Id. I, 1042.</note> und gen Zürich zu kommen, dann er,
-          Balthaßar, im Wellenberg von wägen der teüfferey gefangen lige. Es was meer dann müylich
-          zu wandlen, vile des rägnens und der waßern halb. Mornderigs am frytag, als ich nach der
-          predig die glerten und kilchendiencr besucht, by denen ich wolt rath und trost suchen<note type="critical">«by denen ich wolt rath und trost suchen» fehlt in der Vorlage, ergänzt
-            gemäss Ms E 126</note>, ouch sunst mit hin- und widerloufen bemüyet was, deßthalb für m.
-          gn. h[errn] den herrn bürgermeister Kamblj<note type="editorial"> Hans Kambli
-            (1507-1590)</note> selbert kam und gar früntlichen bescheid gefunden, ward mir von jmme
-          geraaten und gnedigklich erloupt, das ich on wyteren uffzug mit unserm l. h[errn]
-          schwaager h[errn] Heinrich Brämen<note type="editorial"> Heinrich Bräm (gest.
-          1610)</note>, gewäßnen amptmann zu Töß, zum Balthaßar in Wellenberg überfaren wölte. Dann
-          er, h[err] schwaager Bräm, so dißer zyt<note type="editorial"> zum Zeitpunkt des
-            Schreibens (1593 oder später)</note> hußherr im salzhuß und eines burgermeisters
-          statthalter ist, mit mir uß sunderer trüw und liebe zu h[errn] Kamble ganngen was. So
-          begabend wir uns mit dank und willen, disem raadt und befelch naachzukommen; und ward uns
-          vom herren zugäben zu meerer versicherung ein redlicher stattknecht, der Waser genannt,
-          und auch der thurnhüter m[eister] Hans Grebel.<note type="critical">Ms E 126: So ließen
-            wir uns durch m[eiste]r Hanß Grebel den thurnhüeter in den Wellenberg führen (statt «So
-            begabend wir uns mit dank … Hans Grebel»)</note> Die hattend mit Balthaßar beed ein
-          großes mitliden, wie ouch mit mir. Naach kläglichem begrüßen in sömlichem ort und stand
-          und vilfaltigem anhalten und gespräch, begab er sich, unsern gn[ädigen] h[er]r[e]n alle
-          ghorsame zethun, doch mit geding, daß jmme wider sin gwüßne nüts zugemutet würde.</p>
+        <p>Zu yngendem julio 1588 ist Balthaßar, min l[ieber] sun, in aller stille zu mir gen
+          Winterthur kommen uß forcht der gfangenschaft wegen argwons der teufferey.<note
+            type="critical">Am Rand: conf. a[cta] eccl[esiastica], t[omus] 4: 36,37</note> Jmme ward
+          aber gemittlet durch sinen zunftmeister zum Kämbel, h[errn] Heinrich Holzhalben, so
+          volgender jaaren regierender obervogt zu Kyburg was, daselbst ouch in gott syn läben
+          beschloßen hat a[nn]o 1595, wyter durch Hansen Rüttlinger<note type="editorial"> Hans
+            Reutlinger (1551-1610), seit 1571 mit Küngold Maler (1555-1615) verheiratet.</note>,
+          minen l. tochtermann, wie auch sunst durch andere gut fründ. Diß gute bottschaft kam jm zu
+          durch sin l. stieftochter Catharina Oberkan; deßthalb er am mittwuch zu abent widerum
+          heimb gieng und sich still ouch ynzogen hielt. Aber hernach uff donnstag den 1. äugst kam
+          mir ein eigner bott zu, der manet mich in yl uffzusyn<note type="editorial"> aufbrechen,
+            Id. I, 1042.</note> und gen Zürich zu kommen, dann er, Balthaßar, im Wellenberg von
+          wägen der teüfferey gefangen lige. Es was meer dann müylich zu wandlen, vile des rägnens
+          und der waßern halb. Mornderigs am frytag, als ich nach der predig die glerten und
+          kilchendiencr besucht, by denen ich wolt rath und trost suchen<note type="critical">«by
+            denen ich wolt rath und trost suchen» fehlt in der Vorlage, ergänzt gemäss Ms E
+            126</note>, ouch sunst mit hin- und widerloufen bemüyet was, deßthalb für m. gn. h[errn]
+          den herrn bürgermeister Kamblj<note type="editorial"> Hans Kambli (1507-1590)</note>
+          selbert kam und gar früntlichen bescheid gefunden, ward mir von jmme geraaten und
+          gnedigklich erloupt, das ich on wyteren uffzug mit unserm l. h[errn] schwaager h[errn]
+          Heinrich Brämen<note type="editorial"> Heinrich Bräm (gest. 1610)</note>, gewäßnen
+          amptmann zu Töß, zum Balthaßar in Wellenberg überfaren wölte. Dann er, h[err] schwaager
+          Bräm, so dißer zyt<note type="editorial"> zum Zeitpunkt des Schreibens (1593 oder
+            später)</note> hußherr im salzhuß und eines burgermeisters statthalter ist, mit mir uß
+          sunderer trüw und liebe zu h[errn] Kamble ganngen was. So begabend wir uns mit dank und
+          willen, disem raadt und befelch naachzukommen; und ward uns vom herren zugäben zu meerer
+          versicherung ein redlicher stattknecht, der Waser genannt, und auch der thurnhüter
+          m[eister] Hans Grebel.<note type="critical">Ms E 126: So ließen wir uns durch m[eiste]r
+            Hanß Grebel den thurnhüeter in den Wellenberg führen (statt «So begabend wir uns mit
+            dank … Hans Grebel»)</note> Die hattend mit Balthaßar beed ein großes mitliden, wie ouch
+          mit mir. Naach kläglichem begrüßen in sömlichem ort und stand und vilfaltigem anhalten und
+          gespräch, begab er sich, unsern gn[ädigen] h[er]r[e]n alle ghorsame zethun, doch mit
+          geding, daß jmme wider sin gwüßne nüts zugemutet würde.</p>
         <p first="0" align="left">Diß schiffart in Wellenberg Zürich hat mir als dem vater meer
-          angst und sorg gemacht, als da ich in minen wandeljaaren 1551 von Dieppen<note type="editorial"> Dieppe</note> in Normandie über das hoch meer in Engelland, volgents
+          angst und sorg gemacht, als da ich in minen wandeljaaren 1551 von Dieppen<note
+            type="editorial"> Dieppe</note> in Normandie über das hoch meer in Engelland, volgents
           von Lunden<note type="editorial"> London</note> gen Vlüßingen<note type="editorial">
-            Vlissingen in der Grafschaft Zeeland</note> in Seeland, ouch wyter gen Antorf<note type="editorial"> Antwerpen</note> geschiffet bin. Doch ließ mich gott nit on troost und
+            Vlissingen in der Grafschaft Zeeland</note> in Seeland, ouch wyter gen Antorf<note
+            type="editorial"> Antwerpen</note> geschiffet bin. Doch ließ mich gott nit on troost und
           ward mir von vilen gutherzigen burgeren früntlich in diser sach zugesprochen. Naachdem ich
           nun im thurn minen Balthaßar in großer trurigkeit abgnaadet<note type="editorial">
             Abschied nehmen, Id. II, 663.</note> und jn dem schirm und troost gottes befolhen hat
           (dan der thurnhüter sich wyter zu sumen nit wol platz hat), mußt ich doch mornderigs des
-          staten rägnens halber zu Zürich bliben by minem l. schwager Jörgen Schwytzer<note type="editorial"> Jörg Schweizer (1533-1613), Sigrist am Grossmünster Zürich und
+          staten rägnens halber zu Zürich bliben by minem l. schwager Jörgen Schwytzer<note
+            type="editorial"> Jörg Schweizer (1533-1613), Sigrist am Grossmünster Zürich und
             Buchbinder, war mit Josuas Schwester Anna verheiratet.</note>, dem sigristen zum großen
           münster. Am volgenden suntag Justini kam ich heimb gen Winterthur mit großer arbeit von
           wägen der übergeloffnen Glatt und den bächen an der Steyg, aber darby von gott sowol
@@ -110,7 +119,9 @@
           waarend by mir min l. tochter Küngolt<note type="editorial"> Küngold Reutlinger, geb.
             Maler (1555-1615)</note> und min sun Josue<note type="editorial"> Josua Maler
             (1577-1610)</note>, derzyt naach schüler by uns zu Winterthur. Eben des sunntags war es
-            all<note type="critical">Reklamant: hier</note><pb n="175" break="no" facs="https://www.e-manuscripta.ch/i3f/v20/5468252/canvas/5468436"/>hie kilwe<note type="editorial"> Die Weihe der Stadtkirche St. Laurentius fällt auf den Laurentiustag
+            all<note type="critical">Reklamant: hier</note><pb n="175" break="no"
+            facs="https://www.e-manuscripta.ch/i3f/v20/5468252/canvas/5468436"/>hie kilwe<note
+            type="editorial"> Die Weihe der Stadtkirche St. Laurentius fällt auf den Laurentiustag
             (10. August).</note>, hat mich herr gfatter d. Conrad Forrer<note type="editorial">
             Konrad Forrer (um 1530-94), Arzt in Winterthur und ab 1562 zugleich zweiter
             Stadtpfarrer.</note>, diewyl ich nach morgens anheimbsch was, im kilchendienst wol,
@@ -149,7 +160,8 @@
           verlümbdet (1593)<note type="critical">Jahreszahl am Rand</note>.</head>
         <p first="0" align="left">Er kam unversächenlich zu mir am morgen früy den 10. julij zu
           angender morgenpredig vast<note type="editorial"> sehr</note> angsthaft und bekümbert
-          siner einzigen tochter halber von siner eersten hußfrouwen, der Barbel Suterin<note type="editorial"> Barbara Suter, von Bischofszell, seit 1572 mit Balthasar Maler
+          siner einzigen tochter halber von siner eersten hußfrouwen, der Barbel Suterin<note
+            type="editorial"> Barbara Suter, von Bischofszell, seit 1572 mit Balthasar Maler
             verheiratet, 1582 verstorben.</note> selig. Diß, Madalena genannt, was hinweggeloffen
           von jrer stüffmutter, die hat er mit kumber gesucht und by uns zu Winterthur funden, sy
           uff unser mittlen widerumb vätterlich uffgenommen und glich mornderigs heimbgefůrt. Aber
@@ -174,9 +186,10 @@
             Hans Heinrich Scheuchzer (1540-1604), seit 1588 Vogt von Hegi.</note>, so jmme von
           langen jaaren har als ein metzger bekannt gsin, gewartet und mich widerumb heimb gelaßen,
           dan es vast spaat was. So ist nun er volgends syn straaß zogen und hat sich by dem
-          fryherren von Justingen<note type="editorial"><persName ref="GND_1361581948">Georg Ludwig von Freyberg der
-              Jüngere</persName> (1574-1631)</note> nidergelaßen. Balthaßar aber kam der zyt nit zu
-          mir, sonder ward abermals und naach witer von gott gnediklich beschirmpt und bewaret.</p>
+          fryherren von Justingen<note type="editorial"><persName ref="GND_1361581948">Georg Ludwig
+              von Freyberg der Jüngere</persName> (1574-1631)</note> nidergelaßen. Balthaßar aber
+          kam der zyt nit zu mir, sonder ward abermals und naach witer von gott gnediklich
+          beschirmpt und bewaret.</p>
         <head type="Originalsprache">Madalena Maalerin, Balthaßar Maalers mines suns tochter,
           gehaltne heyrat und volgende hochzyt mit H[an]s Heinrichen Pfyster ab dem Seefeld
             (1593)<note type="critical">Jahreszahl am Rand</note></head>
@@ -196,7 +209,8 @@
           nach Otmari kam zu uns von Bischofzäll unser l. schwaager Stoffel am Stain; mit dem bin
           ich und min l. hußfrouw, die Madlena, mornderigs am sonntag hinyn gen Zürich gangen als
           gladne uff die hochzyt Hans Heinrichen Pfysters und der Madlena Maa­lerin, mines l. suns
-          tochter. Die ward ghalten uf montag d. 19. nov. und am volgenden donstag kamend<note type="critical">Reklamant: wir</note>
+          tochter. Die ward ghalten uf montag d. 19. nov. und am volgenden donstag kamend<note
+            type="critical">Reklamant: wir</note>
           <pb n="194" facs="https://www.e-manuscripta.ch/i3f/v20/5468252/canvas/5468455"/> wir wol
           und glüklich, darby vast müd, wiederumb heim gen Winterthur. Der kilchgang was zum grooßen
           münster, das hochzytmaal zum Hecht, dem mann umb xviij schilling<note type="critical">In
@@ -221,7 +235,8 @@
           eerlichen bruf das predigampt nit minder als in die 40 jaaren in g. g. versähen hat, vast
           übel mußt bekümmern und vor mengklichen an der hochzyt schämen. Deß ouch die eerenlüt am
             tisch<note type="critical">Ms E 126: die hochzeitgest (statt «die eerenlüt am
-            tisch»)</note> wol waargenommen, mich sinethalb nie mit keinem wort anzogen<note type="editorial"> beleidigen, beschimpfen, Id. XVII, 992.</note>, sunder immer etwas
+            tisch»)</note> wol waargenommen, mich sinethalb nie mit keinem wort anzogen<note
+            type="editorial"> beleidigen, beschimpfen, Id. XVII, 992.</note>, sunder immer etwas
           anderes und früntliches yngefürt, damit ich etlicher maaßen mines unmuths gelediget wurde.
           Das hat mir wol vordütet die ungewonliche müde und schwärmutigkeit, so mir im
             ynhergon<note type="critical">korrigiert, ursprünglich: herbergen</note> zugestanden.
@@ -231,9 +246,11 @@
           lang es gott gefallt.</p>
         <pb n="198" facs="https://www.e-manuscripta.ch/i3f/v20/5468252/canvas/5468459"/>
         <head type="Originalsprache"> […] Vertrag gemachet zwüschend Balthaßar Maaler zu Stadelhofen
-          und sinem tochtermann belangende syner Barbara Suterin seligen verlaßenschaft<note type="editorial"> hinterlassenes Erbe</note> [1594]<note type="critical">Die Jahreszahl
+          und sinem tochtermann belangende syner Barbara Suterin seligen verlaßenschaft<note
+            type="editorial"> hinterlassenes Erbe</note> [1594]<note type="critical">Die Jahreszahl
             befindet sich am Rand des vorausgehenden Textabschnitts.</note>.</head>
-        <p first="0" align="left">Uff zinstag den 6. augstenn habend uß erkanntnuß<note type="editorial"> Beschluss</note> und befelch h[errn] burgermeisters und e[ines]
+        <p first="0" align="left">Uff zinstag den 6. augstenn habend uß erkanntnuß<note
+            type="editorial"> Beschluss</note> und befelch h[errn] burgermeisters und e[ines]
           e[rsamen] raats h. statthalter Holzhalb, h. statthalter Bräm, h. landvogt Raan, h.
           landvogt Kamble<note type="editorial"> Konrad Kambli (1560-1630)?</note>, h.
           zunftm[ei]ster Köchle<note type="editorial"> Jakob Köchli (gest. 1602), seit 1593 als
@@ -254,7 +271,8 @@
             Jahresangabe bezieht sich nicht auf das berichtete Ereignis, sondern auf die Arbeit an
             der Familienchronik.</note>, in wölichem ich mit diser schribens arbeit by ruwigen
           stunden etwas kurzwyl gesucht, sines alters ingieng in das 44. jaar) hat mir uff
-            montag<note type="editorial"> 23. Mai</note> nach trinitatis [1595]<note type="critical">Die Jahreszahl befindet sich am Rand des vorausgehenden Textabschnitts.</note> von
+            montag<note type="editorial"> 23. Mai</note> nach trinitatis [1595]<note type="critical"
+            >Die Jahreszahl befindet sich am Rand des vorausgehenden Textabschnitts.</note> von
           Zurzach zugeschriben, wie er durch warnung guter fründen sich uf die reyß gen Straßburg
           begeben, daselbst ein zytlang zu verharren, untz<note type="editorial"> bis</note> das nüw
           ungwitter der genannten teufferen halber fürüber gange. Ist mittler zyt widerum frisch und
@@ -292,7 +310,8 @@
         <p first="0" align="left">A[nn]o 1615 zu ußgähndem merzen kam mir bottschafft, wie daß min
           l. u. eltester brůder Balthasar Maaler zu Girspurg<note type="editorial"> Der Gutshof
             Girsberg befand sich im Gebiet der Gemeinde Wihr-au-Val.</note> uff dem meyerhof in
-          Elsiß unwyt von Collmar von der vätterlichen hand gottes wäre angegriffen worden<note type="critical">Ms E 126: auß dieser trübseligkeit abgescheiden (statt «von der
+          Elsiß unwyt von Collmar von der vätterlichen hand gottes wäre angegriffen worden<note
+            type="critical">Ms E 126: auß dieser trübseligkeit abgescheiden (statt «von der
             vätterlichen hand gottes wäre angegriffen worden»)</note>. Disen meyerhof hat er uff
           etliche jahr empfangen umb ein gebührenden zins, hat gar kömliche gelegenheit gehan mit
           sich u. anderen, so ihm wol hätte dienen mögen; hat denselben ungefehr 1 jahr
@@ -311,7 +330,8 @@
           verharret. Er war ungefehr 10 oder 12 tag krank<note type="critical">«krank» gemäss Ms E
             126</note> gelegen, so ich von meiner lieben bas Ursula Rütlinger<note type="editorial">
             Ursula Reutlinger (geb. 1593), Tochter von Küngold Reutlinger, geb. Maler
-            (1555-1615).</note> mundlich bin berichtet worden, so der zeyt by<note type="critical">«by» über der Zeile</note> jhme war. Ward gar sanft und noch mit gutem verstand wie
+            (1555-1615).</note> mundlich bin berichtet worden, so der zeyt by<note type="critical"
+            >«by» über der Zeile</note> jhme war. Ward gar sanft und noch mit gutem verstand wie
           auch mit großer begird u. verlangen uß disem jammerthal in das ewige, waare u. himmlische
           paradys u. vatterland in u. h. J. C. ganz christenlich u. sanft entschlaffen. Er war mit 6
           oder 7 personen zu siner begräbnuß begleitet by einem alten capellj bestattet, so nützig
@@ -331,24 +351,19 @@
     </body>
     <back>
       <div>
-        <p> Das 1593 von <persName ref="GND_123451590">Josua Maler</persName> (1529-1599) begonnene Autograph mit Nachträgen seiner Söhne
-          befand sich im Besitz von Hans Kaspar Wyss (1717-1789) und ist seit dem 19. Jahrhundert
-          nicht mehr auffindbar (vgl. die Notiz auf S. 223 der hier verwendeten Vorlage, Gottlieb
-          Emanuel von Hallers Bibliothek der Schweizer Geschichte und aller Theile, so dahin Bezug
-          haben, Zweyter Theil, Bern 1785, S. 292 und Zürcher Taschenbuch 8 [1885], S. 123). Die
-          Edition beruht auf einer Abschrift aus dem Jahr 1784, die in einem handschriftlichen
-          Sammelband aus dem Besitz von Salomon Hess (1763-1837) enthalten ist (ZBZ, Ms E 48). Hier
-          wiedergegeben sind nur die Abschnitte, die Balthasar Maler in der Zeit von 1588 bis 1615
-          betreffen; die zahlreichen Unterstreichungen in der Vorlage sind nicht berücksichtigt. Auf
-          die sehr lückenhafte und im Wortlaut oft abweichende Abschrift von Erhard Dürsteler (Ms E
-          126) wird im textkritischen Apparat in der Regel nicht verwiesen; angegeben sind nur
-          Lesarten, die einen etwas anderen Sinn ergeben.</p>
-      </div>
-      <div>
-        <p> hinterlassenes Erbe</p>
-      </div>
-      <div>
-        <p> Dieser Nachtrag in der Familienchronik stammt von Abraham Maler (1585-1626).</p>
+        <p> Das 1593 von <persName ref="GND_123451590">Josua Maler</persName> (1529-1599) begonnene
+          Autograph mit Nachträgen seiner Söhne befand sich im Besitz von Hans Kaspar Wyss
+          (1717-1789) und ist seit dem 19. Jahrhundert nicht mehr auffindbar (vgl. die Notiz auf S.
+          223 der hier verwendeten Vorlage, Gottlieb Emanuel von Hallers Bibliothek der Schweizer
+          Geschichte und aller Theile, so dahin Bezug haben, Zweyter Theil, Bern 1785, S. 292 und
+          Zürcher Taschenbuch 8 [1885], S. 123). Die Edition beruht auf einer Abschrift aus dem Jahr
+          1784, die in einem handschriftlichen Sammelband aus dem Besitz von Salomon Hess
+          (1763-1837) enthalten ist (ZBZ, Ms E 48). Hier wiedergegeben sind nur die Abschnitte, die
+          Balthasar Maler in der Zeit von 1588 bis 1615 betreffen; die zahlreichen Unterstreichungen
+          in der Vorlage sind nicht berücksichtigt. Auf die sehr lückenhafte und im Wortlaut oft
+          abweichende Abschrift von Erhard Dürsteler (Ms E 126) wird im textkritischen Apparat in
+          der Regel nicht verwiesen; angegeben sind nur Lesarten, die einen etwas anderen Sinn
+          ergeben.</p>
       </div>
     </back>
   </text>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,7 +30,8 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355287">StAZH E I 7.3, Nr. 94</idno>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355287">StAZH E I
+              7.3, Nr. 94</idno>
           </msIdentifier>
           <head>Verhör von Ůli Egli, Rudolf Gubelmann, Hans Peter und Peter Margin</head>
           <msContents>
@@ -45,7 +47,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 295</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 295</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -59,10 +63,10 @@
     </encodingDesc>
     <profileDesc>
       <textClass default="false">
-				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-					<term ref="key005438">Täufertum</term>
-				</keywords>
-			</textClass>
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
@@ -76,10 +80,5 @@
 <pb n="3" facs="E_I_7_3__Nr__94__S__3_.tif"/>
 </div>
     </body>
-    <back>
-      <div>
-        <p> Lausanne</p>
-      </div>
-    </back>
   </text>
 </TEI>
