@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -49,9 +48,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 688</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 688</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -95,8 +92,7 @@
           so vil jaren sid<note type="editorial"> später, seither</note> ist, das darf ich nit. Was
           ich aber gschriben han, das kan ich ouch anderst nit sägen. Wolte gott, es were vermiten
           bliben, oder ich wüste nüt drum. Hiemit befilch ich eüch, myn gnedig herren, in den schutz
-          und schirm des almechtigen gottes amen. Dattum im <placeName ref="LOC_47.30327_8.51918"
-            >Wyll</placeName><note type="editorial"> Im Wil</note>, den 26. tag october 1609.</p>
+          und schirm des almechtigen gottes amen. Dattum im <placeName ref="LOC_47.30327_8.51918">Wyll</placeName><note type="editorial"> Im Wil</note>, den 26. tag october 1609.</p>
         <p rend="margin-top">Ü[wer] e[rsam] w[yßheit] d[ienstwilliger]</p>
         <p>Heinrich Rützensdorfer, glaser</p>
         <pb n="2" facs="E_I_7_3__Nr__143__S__2_.tif"/>

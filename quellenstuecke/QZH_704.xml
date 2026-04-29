@@ -48,9 +48,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 590</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 590</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -73,15 +71,13 @@
   <text>
     <body>
       <div>
-        <head type="Originalsprache">Jacoben Walthers deß widerthoüffers von Reterschen<note
-            type="editorial"> Räterschen, Dorf der Gemeinde Elsau</note><placeName ref="Räterschen"
-          /> anlobung<note type="critical">Überschrift auf der Rückseite des Dokuments vor dem
+        <head type="Originalsprache">Jacoben Walthers deß widerthoüffers von Reterschen<note type="editorial"> Räterschen, Dorf der Gemeinde Elsau</note><placeName ref="Räterschen"/> anlobung<note type="critical">Überschrift auf der Rückseite des Dokuments vor dem
             Hinweis auf seine Freilassung.</note></head>
         <pb n="1" facs="E_I_7_3__Nr__104__S__1_.tif"/>
         <p>Mentags den 27ten septembris anno 1602.<note type="critical">«Mentags … 1602» am
             Rand</note> Als herr statthalter Ziegler<note type="editorial"> Hans Ziegler</note>
           sampt den herren nachgengeren zů Jacoben Walther, dem wider­toüf­fer von Reterschen, jnn
-            <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> khert unnd jme myner gnedigen
+            <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> khert unnd jme myner gnedigen
           herren meinung unnd erkhandtnuß<note type="editorial"> Urteil, Id. III, 373.</note>
           angezeigt, das er namlich jnen jnnammen jr myner gnedigen herren by der handt als an eyds
           statt anloben und versprechen sölle, nach lut jres jüngst der wider­toüf­feren halber

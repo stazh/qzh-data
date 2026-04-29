@@ -48,9 +48,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 646</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 646</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -73,16 +71,13 @@
   <text>
     <body>
       <div>
-        <head type="Originalsprache">Anthreffend einer ­toüf­ferinn jm Räbstal<note type="editorial"
-            > Reppischtal</note><placeName ref="Reppischtal"/> gůt</head>
+        <head type="Originalsprache">Anthreffend einer ­toüf­ferinn jm Räbstal<note type="editorial"> Reppischtal</note><placeName ref="Reppischtal"/> gůt</head>
         <pb n="8" facs="E_I_7_3__Nr__123__S__8_.tif"/>
         <p>Herr <persName ref="Schneeberger, Hans Heinrich">landtvogt Schneeberger</persName> und
           m[eister] <persName ref="Schwerzenbach, Hans Thoman">Schwertzenbach</persName> söllend
           dißerm gůt nachfragen und jnn arrest leggen, da es dann an dem syn wirt, ob es den 8 alten
-          orten oder der statt <placeName ref="Zürich">Zürich</placeName>, dahin die manschafft<note
-            type="editorial"> Lehnrecht, Id. IV, 292.</note> ußm Räbstal ghört, zůdienen und gehören
-          sölle ald<note type="editorial"> oder</note> nit. Deßen soll der landtvogt zů <placeName
-            ref="Baden">Baden</placeName> berichtet werden. Actum mittwuchs den 4ten junij 1606
+          orten oder der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, dahin die manschafft<note type="editorial"> Lehnrecht, Id. IV, 292.</note> ußm Räbstal ghört, zůdienen und gehören
+          sölle ald<note type="editorial"> oder</note> nit. Deßen soll der landtvogt zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> berichtet werden. Actum mittwuchs den 4ten junij 1606
           coram senatu.</p>
       </div>
     </body>

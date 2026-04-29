@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -49,9 +48,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 617</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 617</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -74,12 +71,9 @@
   <text>
     <body>
       <div>
-        <p>Beiden seckelmeisteren und beiden obervögten von <placeName ref="LOC_47.31665_8.46625"
-            >Bonstetten</placeName> jst gwalt gäben, von <persName ref="Klein, Barbara">Barbara
+        <p>Beiden seckelmeisteren und beiden obervögten von <placeName ref="LOC_47.31665_8.46625">Bonstetten</placeName> jst gwalt gäben, von <persName ref="Klein, Barbara">Barbara
             Kleinin</persName> (<persName ref="Toggwiler, Ruedi">Ruͤdj Toggwylers</persName> frowen)
-          gůt, das by anderm ­toüf­fergůt ligt, etwas zůbehalten und das überig <persName
-            ref="Toggwiler, Felix">Felixen Toggwyler</persName> von Bonstetten unnd mitthafften<note
-            type="editorial"> Teilhaber einer Schuld, Id. II, 1057.</note> zů jren handen werden
+          gůt, das by anderm ­toüf­fergůt ligt, etwas zůbehalten und das überig <persName ref="Toggwiler, Felix">Felixen Toggwyler</persName> von Bonstetten unnd mitthafften<note type="editorial"> Teilhaber einer Schuld, Id. II, 1057.</note> zů jren handen werden
           zelaßen oder dz sy darvon den jerlichen zinß jnnemmen mögind, doch alles uff versicherung,
           wenn jemandts keme, der besser recht hette, man das gůt wider zefinden wüsse.</p>
       </div>

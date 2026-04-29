@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -47,9 +46,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 295</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 295</bibl>
               </bibl>
             </listBibl>
           </additional>

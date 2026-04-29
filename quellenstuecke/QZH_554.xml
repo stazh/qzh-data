@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -49,9 +48,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 440</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 440</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -76,9 +73,7 @@
       <div>
         <p>Uff <persName ref="Rützensdorfer, Heinrich">Ruͤtzenstorffers</persName><bm id="181"/> deß
           glaßers schrifftliche bitt jst jme bewilliget, das jme (als der sich sambt wyb und kinden
-          uff den hof <placeName ref="LOC_47.541302_8.404992">Waldhußen</placeName><note
-            type="editorial"> Weiler in der Gemeinde Fisibach</note> by <placeName
-            ref="LOC_7.56767_8.41902">Keyßerstůl</placeName> hußhablich gesetzt) der kernen- unnd
+          uff den hof <placeName ref="LOC_47.541302_8.404992">Waldhußen</placeName><note type="editorial"> Weiler in der Gemeinde Fisibach</note> by <placeName ref="LOC_7.56767_8.41902">Keyßerstůl</placeName> hußhablich gesetzt) der kernen- unnd
           geltzinnß von synem gůt jerlichen gevolgen, doch das houptgůt uff jnne und syne kind
           warttende fürer<note type="editorial"> weiter</note> alhie belyben liggen, ouch der
           <nswk/> wyn, so an synen räben wachßt, gefaßet unnd alhie behalten werden. Ob ouch syner
