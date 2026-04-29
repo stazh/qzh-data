@@ -81,7 +81,7 @@
     <body corresp="Sigle1">
      <div>
          <pb n="571" facs="B_I_278__S__571_.tif"/>
-         <head><lb/>Pro <choice><abbr>qnqe</abbr><expan>quinque</expan></choice> zeumis vini in <placeName ref="LOC_47.50564_8.72413">Winterthur</placeName></head>
+         <head><lb/>Pro <choice><abbr>qnqe</abbr><expan>quinque</expan></choice> zeumis vini in <placeName ref="LOC_47.49675_8.73417">Winterthur</placeName></head>
       <p>
                             <seg><lb/>Ich, <persName>Hans von Klingenberg</persName>,
                                     <abbr>hr</abbr> ze <placeName ref="LOC_47.76471_8.81902"
@@ -89,17 +89,17 @@
                                 brieff ansehent oder hörrent lesen:</seg>
                             <seg><lb/>Als min lieber <abbr>hr</abbr> und vatter selig,
                                     <abbr>hr</abbr>
-                                <placeName>Hans von <lb/>Klingenberg</placeName>, ritter, leider ze
+                                <persName>Hans von <lb/>Klingenberg</persName>, ritter, leider ze
                                     <placeName ref="LOC_47.04057_9.06804">Glaruß</placeName> verlor
                                 mit <lb/>andern herren, rittern und knechten und der nu ze
-                                    <lb/><placeName ref="LOC_47.2592_8.849">Ru̍ti</placeName> in dem
+                                    <lb/><placeName ref="LOC_47.25828_8.8655">Ru̍ti</placeName> in dem
                                 closter vergraben ist, da sol man wissen, <lb/>das ich fu̍r mich und
                                 alle min erben dem <choice>
                                     <abbr>erwird</abbr>
                                     <expan>erwirdigen</expan>
                                 </choice>
                                 <lb/>herren, abt <placeName>Bilgrin</placeName> des gotzhus ze
-                                    <placeName ref="LOC_47.2592_8.849">Ru̍ti</placeName>, sinem
+                                    <placeName ref="LOC_47.25828_8.8655">Ru̍ti</placeName>, sinem
                                 convent <lb/>und allen sinen nachkommen, die man nempt <choice>
                                     <abbr>pmon</abbr>
                                     <expan>prämonstratenser</expan>
@@ -107,7 +107,7 @@
                                     <abbr>eg</abbr>
                                     <expan>egenannten</expan>
                                 </choice> mins lieben vatters seligen <lb/>sel heil willen, uff
-                                minem zehenden, so ich ze <lb/><placeName ref="LOC_47.50564_8.72413"
+                                minem zehenden, so ich ze <lb/><placeName ref="LOC_47.49675_8.73417"
                                     >Winterthur</placeName> hab, <num value="5">fu̍nff</num> soͧm
                                 wines, die man dem <lb/><choice>
                                     <abbr>vorg</abbr>
@@ -125,7 +125,7 @@
                                     <abbr>obg</abbr>
                                     <expan>obgenannten</expan>
                                 </choice>
-                                <lb/>herren von <placeName ref="LOC_47.2592_8.849">Ru̍ti</placeName>
+                                <lb/>herren von <placeName ref="LOC_47.25828_8.8655">Ru̍ti</placeName>
                                 und iren nachkommen geben und <lb/>unntzogenlich weren uff das <choice>
                                     <abbr>eg</abbr>
                                     <expan>egenannte</expan>
@@ -138,7 +138,7 @@
                                     <abbr>eg</abbr>
                                     <expan>egenannten</expan>
                                 </choice>
-                                <abbr>hren</abbr> von <lb/><placeName ref="LOC_47.2592_8.849"
+                                <abbr>hren</abbr> von <lb/><placeName ref="LOC_47.25828_8.8655"
                                     >Ru̍ti</placeName> jerlich desselben mins vattern und aller
                                 miner <lb/>vor der jarzit, began zuͦ den ziten, als es in irem
                                 <lb/>jarzit buͦch verschriben statt.</seg> <seg>Wenn aber ich oder
@@ -151,11 +151,11 @@
                                 <abbr>hlr</abbr>
                                 <expan>heller</expan>
                             </choice> oder der mu̍ntz, die denn ze <lb/><placeName
-                                ref="LOC_47.50564_8.72413">Winterthur</placeName> geng und geb ist.
+                                ref="LOC_47.49675_8.73417">Winterthur</placeName> geng und geb ist.
                             Und so dz beschicht, <lb/>so sond doch die <choice>
                                 <abbr>obgs</abbr>
                                 <expan>obgesagten</expan>
-                            </choice> herren von <placeName ref="LOC_47.2592_8.849"
+                            </choice> herren von <placeName ref="LOC_47.25828_8.8655"
                                 >Ru̍ti</placeName> die selben <lb/><num value="100">hundert</num>  <choice>
                                 <abbr>hlr</abbr>
                                 <expan>heller</expan>
@@ -176,7 +176,7 @@
                                 willen, so recht und redlich <lb/>gen den <choice>
                                     <abbr>vorg</abbr>
                                     <expan>vorgenannten</expan>
-                                </choice> minen herren von <placeName ref="LOC_47.2592_8.849"
+                                </choice> minen herren von <placeName ref="LOC_47.25828_8.8655"
                                     >Ru̍ti</placeName> getan <lb/>han mit aller der ehaffti und
                                 sicherheit, worten <lb/>und werchen, so dar zuͦ gehort und man tuͦn
                                 <lb/>solt.</seg>
@@ -204,7 +204,7 @@
     <back>
      <div>
      <p>
-         Die vorliegende Abschrift einer Jahrzeitstiftung entstammt dem im Jahr 1441 angelegten sogenannten Diplomatar von <placeName ref="LOC_47.2592_8.849">Rüti</placeName>, 
+         Die vorliegende Abschrift einer Jahrzeitstiftung entstammt dem im Jahr 1441 angelegten sogenannten Diplomatar von <placeName ref="LOC_47.25828_8.8655">Rüti</placeName>, 
          dem wichtigsten Kopialbuch der 
          Prämonstratenserabtei. Es umfasst, neben einer in Latein verfassten Gründungsgeschichte, Abschriften von 410 Urkunden von der 
          Gründungszeit des Klosters bis zur Entstehung des Diplomatars. Als Hauptanlass für seine Verschriftlichung dürfte der 
@@ -216,18 +216,18 @@
                             des damals amtierenden Abtes von Rüti, sowie Ritter <persName>Hans von
                                 Klingenberg</persName>, der Vater des gleichnamigen
                             Jahrzeitstifters. Abt <persName>Bilgeri</persName> von <placeName
-                                ref="LOC_47.2592_8.849">Rüti</placeName> überführte mit Erlaubnis
+                                ref="LOC_47.25828_8.8655">Rüti</placeName> überführte mit Erlaubnis
                             der Glarner 1389 den Leichnam seines Bruders zusammen mit rund 120
                             weiteren Gefallenen in das Kloster, wo sie bestattet wurden. Ein Jahr
                             später erfolgte die vorliegend edierte Jahrzeitstiftung, die sich auf
                             die Bestattung des <persName>Hans von Klingenberg</persName> in
-                                <placeName ref="LOC_47.2592_8.849">Rüti</placeName> bezieht.</p> <p>Die
-                            Klosterkirche von <placeName ref="LOC_47.2592_8.849">Rüti</placeName>
+                                <placeName ref="LOC_47.25828_8.8655">Rüti</placeName> bezieht.</p> <p>Die
+                            Klosterkirche von <placeName ref="LOC_47.25828_8.8655">Rüti</placeName>
                             wurde im 14. Jahrhundert zur Begräbniskirche der <persName>Grafen von
                                 Toggenburg</persName> und weiterer ritteradliger Geschlechter der
                             Umgebung, darunter die <persName>Herren von Hinwil</persName>.</p>
-         <p>Zum Diplomatar von <placeName ref="LOC_47.2592_8.849">Rüti</placeName> vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Zangger 1991</ref>, S. 62-65</bibl>; zur Bestattung der Gefallenen von <placeName ref="LOC_47.09775_9.06361">Näfels</placeName> und der Funktion des Klosters 
-             <placeName ref="LOC_47.2592_8.849">Rüti</placeName> als Grablege des Adels vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">HS IV</ref>, S. 515-516</bibl>; <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Illi 1993</ref></bibl>.
+         <p>Zum Diplomatar von <placeName ref="LOC_47.25828_8.8655">Rüti</placeName> vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Zangger 1991</ref>, S. 62-65</bibl>; zur Bestattung der Gefallenen von <placeName ref="LOC_47.09775_9.06361">Näfels</placeName> und der Funktion des Klosters 
+             <placeName ref="LOC_47.25828_8.8655">Rüti</placeName> als Grablege des Adels vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">HS IV</ref>, S. 515-516</bibl>; <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Illi 1993</ref></bibl>.
          
      </p>
      </div>
