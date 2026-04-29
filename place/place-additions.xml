@@ -3,7 +3,7 @@
         <!--Hier können weitere Namen von Orten eingetragen werden, wenn diese in der Webapplikation erscheinen sollen, aber nicht bereits in den Quellenstücken vorhanden sind-->
         <placeName ref="LOC_47.36453_8.79202">Pfäffikon ZH</placeName>
         <placeName ref="LOC_47.36966_8.54145">Fraumünster</placeName>
-        <placeName ref="LOC_47.39254_8.04422">Aarau</placeName>
+        <placeName ref="LOC_47.38878_8.04826">Aarau</placeName>
         <placeName ref="LOC_47.36201_8.51497">Wiedikon</placeName>
         <placeName ref="LOC_47.12693_8.75345">Einsiedeln</placeName>
         <placeName ref="LOC_46.20222_6.14569">Genf</placeName>
