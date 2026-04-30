@@ -32,7 +32,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695124">StAZH E I 7.2, Nr. 125a</idno>
           </msIdentifier>
           <head>Jakob Bindschedler an Caspar Gimper</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1575-09">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

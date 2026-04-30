@@ -32,7 +32,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4646200">StAZH A 27.16.8, Nr. 14</idno>
           </msIdentifier>
           <head>Kundschaft über Hans Früber</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1573-07-23">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

@@ -29,10 +29,14 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>ZBZ, Ms A 72, S. 451.</idno>
+            <idno>ZBZ, Ms A 72, S. 451</idno>
           </msIdentifier>
           <head>Schwenckfeldische Kritik</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1600">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

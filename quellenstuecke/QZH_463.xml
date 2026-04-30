@@ -32,7 +32,11 @@
             <idno>Ms F 35, fol. 27v (eine kolorierte Federzeichnung am unteren Blattrand zeigt eine Gruppe von Auswanderern).</idno>
           </msIdentifier>
           <head>Nachricht über Auswanderung nach Mähren</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1587">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

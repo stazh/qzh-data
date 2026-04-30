@@ -32,7 +32,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695024">StAZH E I 7.2, Nr. 105</idno>
           </msIdentifier>
           <head>Anzeige von Täuferinnen durch den Weibel in Weiach</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1550">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

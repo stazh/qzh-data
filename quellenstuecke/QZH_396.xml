@@ -32,7 +32,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696658">StAZH E I 7.2, Nr. 165</idno>
           </msIdentifier>
           <head>Rechnungen im Zusammenhang mit Täufervermögen</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1582">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

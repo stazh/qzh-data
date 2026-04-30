@@ -32,7 +32,11 @@
             <idno>ZBZ, Ms A 72, S. 513f. (Kopie des Absenders)</idno>
           </msIdentifier>
           <head>Rechnung des Täuferamtes</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1600"/>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

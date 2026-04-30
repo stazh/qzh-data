@@ -32,7 +32,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1162193">StAZH III AAb 1.1, Nr. 38</idno>
           </msIdentifier>
           <head>Grosses Mandat</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1580"/>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

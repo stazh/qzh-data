@@ -32,7 +32,11 @@
             <idno>ZBZ Ms A 67, S. 183f.</idno>
           </msIdentifier>
           <head>Konzept von Johann Rudolf Stumpf für eine Widerlegung</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1588">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

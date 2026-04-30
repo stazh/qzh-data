@@ -33,7 +33,11 @@
               Rudolf Stumpf, 1588)</idno>
           </msIdentifier>
           <head>Zusammenfassung von Balthasar Malers Bittschrift</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1588-07">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

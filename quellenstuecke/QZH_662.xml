@@ -32,7 +32,11 @@
             <idno>E I 2.3, Nr. 1</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1601-05">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

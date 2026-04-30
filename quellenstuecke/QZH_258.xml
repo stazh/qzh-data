@@ -32,7 +32,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695099">StAZH E I 7.2, Nr. 117</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1567-04-29">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

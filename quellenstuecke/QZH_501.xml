@@ -29,10 +29,14 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>ZBZ Ms A 67, S. 149-153 (Faltspuren)</idno>
+            <idno>ZBZ Ms A 67, S. 149-153</idno>
           </msIdentifier>
           <head>Supplikation von Andres Gut</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1588">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

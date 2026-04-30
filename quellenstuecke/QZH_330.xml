@@ -32,7 +32,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695103">StAZH E I 7.2, Nr. 119</idno>
           </msIdentifier>
           <head>Zweites Verhör und Urteil gegen Elsbeth Teiler</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1576"/>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>

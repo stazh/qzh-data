@@ -32,7 +32,11 @@
             <idno>Universitätsbibliothek Basel, Mscr. Falk 16 (4°, auf Papier)</idno>
           </msIdentifier>
           <head>Markus Wydler, Christliches Bedenken betreffs Täufer</head>
-          <history/>
+          <history>
+            <origin>
+              <origDate when="1588"/>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>
