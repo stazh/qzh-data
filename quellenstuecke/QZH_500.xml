@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4690847">StAZH E II 443, S. 119-197</idno>
           </msIdentifier>
           <head>Kommentare von Ulrich Zwingli III. zum Einfachen Bekenntnis</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588"/>

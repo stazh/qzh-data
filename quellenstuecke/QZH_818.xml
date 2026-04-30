@@ -33,6 +33,12 @@
             <idno>ZBZ, Ms E 48, S. 174-222 (Abschrift, 1784)</idno>
           </msIdentifier>
           <head>Auszüge aus Josua Malers Familienchronik</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588">ca.</origDate>

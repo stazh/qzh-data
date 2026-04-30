@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=606864">StAZH E I 2.1, Nr. 18</idno>
           </msIdentifier>
           <head>Ratsbeschlüsse</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1556-10-23">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1556-10-23">ca.</origDate>

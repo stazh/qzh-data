@@ -32,6 +32,12 @@
             <idno>ZBZ, Ms A 72, S. 533-535.</idno>
           </msIdentifier>
           <head>Die Geistlichen des Kapitels Oberwetzikon an Bürgermeister und Rat von Zürich (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1610">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1610">ca.</origDate>

@@ -33,6 +33,12 @@
               Rudolf Stumpf, 1588)</idno>
           </msIdentifier>
           <head>Zusammenfassung von Balthasar Malers Bittschrift</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-07">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-07">ca.</origDate>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695020">StAZH E I 7.2, Nr. 101</idno>
           </msIdentifier>
           <head>Falw Hans von Schüpfen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1556-01-28">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1556-01-28">ca.</origDate>

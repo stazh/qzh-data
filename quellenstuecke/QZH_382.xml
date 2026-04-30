@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696644">StAZH E I 7.2, Nr. 156</idno>
           </msIdentifier>
           <head>Inventar von Jakob Gehring</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-11">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1581-11">ca.</origDate>

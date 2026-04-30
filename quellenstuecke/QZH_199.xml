@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695016">StAZH E I 7.2, Nr. 97</idno>
           </msIdentifier>
           <head>Verhör von Hans Stocker</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1556">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1556">ca.</origDate>

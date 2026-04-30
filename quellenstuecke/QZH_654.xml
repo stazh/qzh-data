@@ -32,6 +32,12 @@
             <idno>ZBZ, Ms A 72, S. 451</idno>
           </msIdentifier>
           <head>Schwenckfeldische Kritik</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1600">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1600">ca.</origDate>

@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355356">StAZH F III 36 a</idno>
           </msIdentifier>
           <head>Rechnung des Täuferamtes</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1601"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1601"/>

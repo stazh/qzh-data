@@ -32,6 +32,12 @@
             <idno>Ms A 67, S. 155 (Handschrift von Hans Rudolf Stumpf)</idno>
           </msIdentifier>
           <head>Hans Rudolf Stumpf an Heinrich Holzhalb und Bernhard Wiederkehr (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-07">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588-07">ca.</origDate>

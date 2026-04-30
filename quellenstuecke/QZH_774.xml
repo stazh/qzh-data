@@ -32,6 +32,12 @@
             <idno>ZBZ, Ms A 72, S. 529-532 (Kopie von Johann Jakob Wagner).</idno>
           </msIdentifier>
           <head>Die Geistlichen des Kapitels Oberwetzikon an Conrad Kambli (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1608"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1608"/>

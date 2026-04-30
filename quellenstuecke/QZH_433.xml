@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695105">StAZH E I 7.2, Nr. 120</idno>
           </msIdentifier>
           <head>Gutachten der Zürcher Theologen für die evangelische Tagsatzung</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-07-02">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1585-07-02">ca.</origDate>

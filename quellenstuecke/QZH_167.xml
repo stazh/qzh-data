@@ -32,6 +32,12 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695017">StAZH E I 7.2, Nr. 98</idno>
           </msIdentifier>
           <head>Auszüge aus den Abschieden des Reichstags zu Speyer am 22. April 1522 und zu Augsburg am 14. Februar 1551</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1551-02-14"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1551-02-14"/>

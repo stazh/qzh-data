@@ -32,6 +32,12 @@
             <idno>ZB, Ms A 67, S. 163-181.</idno>
           </msIdentifier>
           <head>Eine Widerlegung von Hans Rudolf Stumpf</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588"/></filiation>
+            </msItem>
+          </msContents>
           <history>
             <origin>
               <origDate when="1588"/>
