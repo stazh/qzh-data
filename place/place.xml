@@ -29,7 +29,7 @@
                     <geo>47.32067 7.89986</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.26887_8.77598" n="Adeltzhußen">
+            <place xml:id="LOC_47.269190_8.774432" n="Adeltzhußen">
                 <placeName type="main">Adeltzhußen</placeName>
                 <location>
                     <geo>47.26887 8.77598</geo>
@@ -2897,7 +2897,7 @@
             <place xml:id="QZH_045_10" n="Uttinger tobel">
                 <placeName type="main">Uttinger tobel</placeName>
             </place>
-            <place xml:id="LOC_47.22421_8.98263" n="Utznach">
+            <place xml:id="LOC_47.22655_8.98131" n="Utznach">
                 <placeName type="main">Utznach</placeName>
                 <location>
                     <geo>47.22421 8.98263</geo>
@@ -3342,7 +3342,7 @@
                     <geo>47.32547 8.68413</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.23672_8.7573" n="Ûrikon">
+            <place xml:id="LOC_47.2367_8.7573" n="Ûrikon">
                 <placeName type="main">Ûrikon</placeName>
                 <location>
                     <geo>47.23672 8.7573</geo>
