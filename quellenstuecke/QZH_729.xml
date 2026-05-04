@@ -33,8 +33,9 @@
           </msIdentifier>
           <head>Jos Wagner an seinen Vater Johann Jakob Wagner</head>
           <msContents>
+            <summary>Der Sohn wünscht dem Vater Heil, Segen und Wohlergehen. Er erhielt heute durch Jakob den Brief und die Kleider, die der Vater geschickt hat. Niemand kann seine Freude darüber beschreiben. Dankt mit überschwänglichen Worten, und will sich in den Studien bemühen, damit die Ausgaben seinetwegen nicht umsonst sind. Hat das Geldstück an Hottinger zurückgegeben. Das Examen am 23. Oktober hat er trotz eines Fehlers erfolgreich abgeschlossen. Nur wenige kamen eine Klasse weiter: Von der sechsten Klasse ins Gymnasium drei von fünf, sechs Schüler aus der fünften kamen in die sechste Klasse und ebenfalls sechs von der vierten in die fünfte Klasse. Sein Prüfungsthema schickt er auf dem folgenden Blatt (nicht überliefert). Hat keine Neuigkeiten erfahren ausser von den Gästen seines Tischherrn. Die Vertreter der Drei Bünde haben an der eidgenössischen Tagsatzung in Baden keinen Bescheid bekommen, während sie in Mailand noch keine Audienz erhalten haben. Die Mailänder fahren mit der Errichtung der Festung am Eingang zum Veltlin fort. Sonst hat er nichts neues über den Krieg. Der seit Frühjahr inhaftierte Täufer floh aus dem Gefängnis. Onkel Felix lässt den Vater grüssen und will in acht Tagen antworten. Der Tischherr hat gefragt, ob der Vater Geldangelegenheiten erwähnt hätte, was er verneint habe; jener bittet um etwas Geld. Bittet den Vater um die Zusendung der Schuhe, wenn sie fertig sind. Der Honig kostet 6 Schillinge. Befiehlt alle dem Schutz Gottes an.</summary>
             <msItem>
-              <textLang>Deutsch</textLang>
+              <textLang>Latein</textLang>
               <filiation type="original"><origDate when="1603-11-11"/></filiation>
             </msItem>
           </msContents>
@@ -77,10 +78,5 @@
 <p rend="margin-top">Doctissimo amantissimoque viro d[omino] Joh. Jacobo Wagnero ministro ecclesiæ <placeName ref="LOC_47.3377_8.87216">Berentschvilensis</placeName> patri suo unice collendo.<note type="critical">Darunter die handschriftliche Notiz: Bärentschwyl</note></p>
 </div>
     </body>
-    <back>
-      <div>
-        <p> Regest: Der Sohn wünscht dem Vater Heil, Segen und Wohlergehen. Er erhielt heute durch Jakob den Brief und die Kleider, die der Vater geschickt hat. Niemand kann seine Freude darüber beschreiben. Dankt mit überschwänglichen Worten, und will sich in den Studien bemühen, damit die Ausgaben seinetwegen nicht umsonst sind. Hat das Geldstück an Hottinger zurückgegeben. Das Examen am 23. Oktober hat er trotz eines Fehlers erfolgreich abgeschlossen. Nur wenige kamen eine Klasse weiter: Von der sechsten Klasse ins Gymnasium drei von fünf, sechs Schüler aus der fünften kamen in die sechste Klasse und ebenfalls sechs von der vierten in die fünfte Klasse. Sein Prüfungsthema schickt er auf dem folgenden Blatt (nicht überliefert). Hat keine Neuigkeiten erfahren ausser von den Gästen seines Tischherrn. Die Vertreter der Drei Bünde haben an der eidgenössischen Tagsatzung in Baden keinen Bescheid bekommen, während sie in Mailand noch keine Audienz erhalten haben. Die Mailänder fahren mit der Errichtung der Festung am Eingang zum Veltlin fort. Sonst hat er nichts neues über den Krieg. Der seit Frühjahr inhaftierte Täufer floh aus dem Gefängnis. Onkel Felix lässt den Vater grüssen und will in acht Tagen antworten. Der Tischherr hat gefragt, ob der Vater Geldangelegenheiten erwähnt hätte, was er verneint habe; jener bittet um etwas Geld. Bittet den Vater um die Zusendung der Schuhe, wenn sie fertig sind. Der Honig kostet 6 Schillinge. Befiehlt alle dem Schutz Gottes an.</p>
-      </div>
-    </back>
   </text>
 </TEI>
