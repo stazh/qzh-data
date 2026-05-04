@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
@@ -32,10 +31,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355334">StAZH E II
               1, S. 566 (Handschrift von Heinrich Bullinger); StAZH E I 2.1, Nr. 18</idno>
           </msIdentifier>
-          <head>Frühjahrssynode</head>
+          <head>Klage des Dekans von Winterthur über einen Täufer</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
               <filiation type="original"><origDate when="1566-05-07"/></filiation>
             </msItem>
           </msContents>

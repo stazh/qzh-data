@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,10 +31,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354883">StAZH B II
               162, S. 2 (Manual des Stadtschreibers)</idno>
           </msIdentifier>
-          <head>Ratsbeschluss</head>
+          <head>Ratsbeschluss betreffend Bezahlung der Kosten für die Gefangenschaft eines Täufers</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
               <filiation type="original"><origDate when="1573-01-14"/></filiation>
             </msItem>
           </msContents>
@@ -48,9 +48,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 175</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 175</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -73,8 +71,7 @@
   <text>
     <body>
       <div>
-        <p>Steffens des ­toüf­fers <persName ref="Im Tal, Stefan">jm Thal</persName> sön sonnd<note
-            type="editorial"> sollen</note> den costen, so uff jnne jn gefenngknus ganngen,
+        <p>Steffens des ­toüf­fers <persName ref="Im Tal, Stefan">jm Thal</persName> sön sonnd<note type="editorial"> sollen</note> den costen, so uff jnne jn gefenngknus ganngen,
           betzalen. Was costenns aber uff den knecht ganngen, des sind sy uß gnaden erlasßen.</p>
       </div>
     </body>

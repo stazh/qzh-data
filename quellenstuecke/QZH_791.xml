@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,10 +30,11 @@
           <msIdentifier>
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354994">StAZH B II 307, S. 32 (Manual des Stadtschreibers)</idno>
           </msIdentifier>
-          <head>Ratsbeschluss</head>
+          <head>Ratsbeschluss betreffend das Gut einer in Mähren verstorbenen Täuferin</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
               <filiation type="original"><origDate when="1609-04-12"/></filiation>
             </msItem>
           </msContents>

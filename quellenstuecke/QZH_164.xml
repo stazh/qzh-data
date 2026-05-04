@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
@@ -32,10 +31,11 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355003">StAZH B II
               74, 2. Teil, S. 21</idno>
           </msIdentifier>
-          <head>Ratsbeschluss</head>
+          <head>Ratsbeschluss betreffend Auslieferung zweier Täufer aus Wädenswil</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
               <filiation type="original"><origDate when="1550-12-15"/></filiation>
             </msItem>
           </msContents>

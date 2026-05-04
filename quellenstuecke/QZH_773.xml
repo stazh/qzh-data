@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
@@ -31,10 +30,11 @@
           <msIdentifier>
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354993">StAZH B II 306, S. 13-14 (Manual des Unterschreibers)</idno>
           </msIdentifier>
-          <head>Ratsbeschluss</head>
+          <head>Ratsbeschluss betreffend Heinrich Baumann von Horgen</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
               <filiation type="original"><origDate when="1608-07-27"/></filiation>
             </msItem>
           </msContents>
