@@ -69,12 +69,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zu <placeName ref="LOC_47.28333_8.75">Grüningen</placeName><note type="editorial"> Hans <persName ref="Clauser, Hans Heinrich">Heinrich Clauser</persName></note> soll <persName ref="Leutenegger, Jörg">Jörgen Luttenegger</persName>, den<note type="critical">«Lüttenegger den» am Rand, in der Zeile gestrichen: Otten</note> müller, den wider­toüf­fer ußem <placeName ref="LOC_47.5562_9.07686">Turgouw</placeName>, so sich jetzo uff <placeName ref="LOC_47.28996_8.88374">Orn</placeName> endthalten<note type="editorial"> sich aufhalten, wohnen, Id. II, 1230.</note> soll, und <persName ref="Bertschinger, Hans">Heynne Bertschickern</persName> jm <placeName ref="LOC_47.33663_8.94127">Vischenthal</placeName> als rechte ufrüerer gefengclichen jnnzüchen laßen unnd mynen h[erre]n zůschicken.</p>
+      <div><p>Vogt zu <placeName ref="LOC_47.28333_8.75">Grüningen</placeName><note type="editorial"> Hans <persName ref="Clauser, Hans Heinrich">Heinrich Clauser</persName></note> soll <persName ref="Leutenegger, Jörg">Jörgen Luttenegger</persName>, den<note type="critical"><q>Lüttenegger den</q> am Rand, in der Zeile gestrichen: Otten</note> müller, den wider­toüf­fer ußem <placeName ref="LOC_47.5562_9.07686">Turgouw</placeName>, so sich jetzo uff <placeName ref="LOC_47.28996_8.88374">Orn</placeName> endthalten<note type="editorial"> sich aufhalten, wohnen, Id. II, 1230.</note> soll, und <persName ref="Bertschinger, Hans">Heynne Bertschickern</persName> jm <placeName ref="LOC_47.33663_8.94127">Vischenthal</placeName> als rechte ufrüerer gefengclichen jnnzüchen laßen unnd mynen h[erre]n zůschicken.</p>
 </div>
     </body>
     <back>
       <div>
-        <p> Ratsbeschluss unter dem Datum «Sambstags, den 7ten februarij p[raesentibus] herr Keller und beid reth».</p>
+        <p> Ratsbeschluss unter dem Datum <q>Sambstags, den 7ten februarij p[raesentibus] herr Keller und beid reth</q>.</p>
       </div>
     </back>
   </text>

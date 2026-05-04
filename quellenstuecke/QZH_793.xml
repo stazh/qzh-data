@@ -69,13 +69,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName><note type="editorial"> Hans <persName ref="GND_1089450435">Jakob Holzhalb</persName></note> soll <persName ref="Wyss, Konrad">Conradt Wyßen</persName> von <placeName ref="LOC_47.43067_8.64136">Baltenstchwyl</placeName>, so ein ­toüf­ferischer ufwigler, angentz<note type="editorial"> unverzüglich, sofort, Id. II, 19.</note> gfenklich jnzügen laßen<note type="critical">«laßen» über der Zeile</note> und verwart alher schicken.</p>
+      <div><p>Vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName><note type="editorial"> Hans <persName ref="GND_1089450435">Jakob Holzhalb</persName></note> soll <persName ref="Wyss, Konrad">Conradt Wyßen</persName> von <placeName ref="LOC_47.43067_8.64136">Baltenstchwyl</placeName>, so ein ­toüf­ferischer ufwigler, angentz<note type="editorial"> unverzüglich, sofort, Id. II, 19.</note> gfenklich jnzügen laßen<note type="critical"><q>laßen</q> über der Zeile</note> und verwart alher schicken.</p>
 <p>Und sol der obristknecht anordnung thůn, das die ­toüf­fer jnn der Ringgern huß zů <placeName ref="LOC_47.4931_8.49879">Niderglatt</placeName> ußgnommen und sy sampt dem gelt, so sy by jnen hetten, alher gefürt werden.</p>
 </div>
     </body>
     <back>
       <div>
-        <p> Ratsbeschluss unter dem Datum «Sambßtags, den 22ten aprilis p[raese]nt[ibu]s herr Raan und beid reth».</p>
+        <p> Ratsbeschluss unter dem Datum <q>Sambßtags, den 22ten aprilis p[raese]nt[ibu]s herr Raan und beid reth</q>.</p>
       </div>
     </back>
   </text>

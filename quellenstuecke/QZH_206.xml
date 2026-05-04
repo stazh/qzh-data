@@ -72,7 +72,7 @@
       <div>
         <p>Vogt von <placeName ref="LOC_47.28333_8.75">Grüningen</placeName><note type="editorial"><persName>Rudolf Breitinger</persName></note> schryben, das
             <persName ref="Peter, Hans">Hanns Petter</persName> der ­toüf­ferschen sect abstannden
-          unnd sich begeben, gehorsam zesin. Unnd diewyl er anzeigt, das er<note type="critical">«er» über der Zeile</note> jm vorher nit geschworen, sölle er jm jnne jetz schweren
+          unnd sich begeben, gehorsam zesin. Unnd diewyl er anzeigt, das er<note type="critical"><q>er</q> über der Zeile</note> jm vorher nit geschworen, sölle er jm jnne jetz schweren
           unnd gehorsame thůn lassen unnd dann dest fürer<note type="editorial"> eher, mehr, Id. I,
             968.</note> acht uff jnn haben. Darby sölle er den costen, so uff jnn ganngen,
           jntzüchen. Unnd als er ettlich mer ­toüf­fer angeben, soll er dieselben ouch vengklich
@@ -84,8 +84,8 @@
     </body>
     <back>
       <div>
-        <p> Ratsbeschluss unter dem Datum «Mentags den 6 novembris p[raese]nt[ibus] her Hab unnd
-          beyd räth».</p>
+        <p> Ratsbeschluss unter dem Datum <q>Mentags den 6 novembris p[raese]nt[ibus] her Hab unnd
+          beyd räth</q>.</p>
       </div>
     </back>
   </text>

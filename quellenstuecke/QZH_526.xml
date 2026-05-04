@@ -69,12 +69,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>J[unker] Hansen von <persName ref="Ulm, Hans von">Ulm</persName><note type="editorial"> Gerichtsherr von Teufen (Zürich)</note> schryben, wover<note type="editorial"> wenn, Id. I, 914.</note> <persName ref="Schnyder, Hans">Heinrich Schnider</persName> von <placeName ref="LOC_47.53414_8.56841">Rorbis</placeName> uff syn abstand der jrrigenn ­toüf­ferischen sect etwas bitt umb die 100 g[ulden], so von synem gůt jetzt mynen herren noch gfallen sölte, jme zelasßen, zethůn willens, sölle  er<note type="critical">«er» über der Zeile</note> jme anzeigen, das er deßhalb uff jetzt mentag alhie vor mynen herren erschynnen sölle und nach syenm bittlichen ansůchen jres witern bscheidts erwarten.</p>
+      <div><p>J[unker] Hansen von <persName ref="Ulm, Hans von">Ulm</persName><note type="editorial"> Gerichtsherr von Teufen (Zürich)</note> schryben, wover<note type="editorial"> wenn, Id. I, 914.</note> <persName ref="Schnyder, Hans">Heinrich Schnider</persName> von <placeName ref="LOC_47.53414_8.56841">Rorbis</placeName> uff syn abstand der jrrigenn ­toüf­ferischen sect etwas bitt umb die 100 g[ulden], so von synem gůt jetzt mynen herren noch gfallen sölte, jme zelasßen, zethůn willens, sölle  er<note type="critical"><q>er</q> über der Zeile</note> jme anzeigen, das er deßhalb uff jetzt mentag alhie vor mynen herren erschynnen sölle und nach syenm bittlichen ansůchen jres witern bscheidts erwarten.</p>
 </div>
     </body>
     <back>
       <div>
-        <p> Ratsbeschluss unter dem Datum «Mittwuchs, den 12ten novemb[ris] p[raese]nt[ibus] herr Kamblj und beid reth».</p>
+        <p> Ratsbeschluss unter dem Datum <q>Mittwuchs, den 12ten novemb[ris] p[raese]nt[ibus] herr Kamblj und beid reth</q>.</p>
       </div>
     </back>
   </text>
