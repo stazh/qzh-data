@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,6 +34,10 @@
           </msIdentifier>
           <head>Tagsatzung der Dreizehn Orte in Baden</head>
           <msContents>
+            <summary>Der Abgesandte von <placeName ref="LOC_47.36667_8.55"
+              >Zürich</placeName> soll die Anfrage des Landvogts von <placeName
+                ref="LOC_47.46513_8.28964">Baden</placeName>, wie man gegen die Täufer vorgehen solle,
+              zur Beantwortung an den Bürgermeister und Rat von Zürich weiterleiten.</summary>
             <msItem>
               <textLang>Deutsch</textLang>
               <filiation type="original"><origDate when="1543-08-06"/></filiation>
@@ -47,7 +52,9 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 28</bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 28</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -61,16 +68,16 @@
     </encodingDesc>
     <profileDesc>
       <textClass default="false">
-				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-					<term ref="key005438">Täufertum</term>
-				</keywords>
-			</textClass>
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div><p>­<hi rend="italic">Der Abgesandte von <placeName ref="LOC_47.36667_8.55">Zürich</placeName> soll die Anfrage des Landvogts von <placeName ref="LOC_47.46513_8.28964">Baden</placeName>, wie man gegen die Täufer vorgehen solle, zur Beantwortung an den Bürgermeister und Rat von Zürich weiterleiten.</hi></p>
-</div>
+      <div>
+      </div>
     </body>
   </text>
 </TEI>
