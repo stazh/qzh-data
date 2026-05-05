@@ -6,17 +6,17 @@
             <titleStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
-                    <persName><!-- Name der Transkriptor:in --></persName>
+                    <persName>Michael Schaffner und Svenja Müller, basierend auf der Transkription von Ernst Gagliardi</persName>
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
-                    <persName>Svenja Müller<!-- Name der Tagger:in --></persName>
+                    <persName>Svenja Müller</persName>
                     <resp key="tagging"/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>Staatsarchiv des Kantons Zürich</publisher>
-                <date type="electronic" when="2026-05-01"/><!-- bei @when wird zum Schluss das finale Publikationsdatum eingetragen -->
+                <date type="electronic" when="2026-05-01"/>
             </publicationStmt>
             <seriesStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
@@ -24,7 +24,7 @@
                     <persName>Staatsarchiv des Kantons Zürich</persName>
                     <resp>Herausgeberschaft</resp>
                 </respStmt>
-                <idno>QZH_114</idno><!-- QZH-Nummerierung -->
+                <idno>QZH_114</idno>
             </seriesStmt>
             <sourceDesc>
                 <msDesc>
@@ -50,8 +50,18 @@
                         </objectDesc>
                     </physDesc>
                     <history>
-                        <origin><origDate when="1476-06-17"/></origin><!-- bei @when korrektes Datum eintragen -->
+                        <origin><origDate when="1476-06-17"/></origin>
                     </history>
+                    <additional>
+                        <listBibl>
+                            <head>Edition</head>
+                            <bibl><bibl><ref
+                                target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                                >Helfenstein 1984</ref>, S. 38</bibl>;
+                                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                                    >Gagliardi, Waldmann</ref>, Bd. 1, Nr. 140)</bibl></bibl>
+                        </listBibl>
+                    </additional>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -79,21 +89,21 @@
                    <div>
                        <pb n="1"/>
                        <p>
-                           Strängen, fürsichtigen, ersamman und wissem [sic], gnedigen, lieben
-                        <lb/>herren. Ich anbüt üwer ersam wisheit min undertennig, 
-                        <lb/>willig dienst, und waz ich vermag mit lib und mit gut,
-                        <lb/>sig üwer wisheit alwegen vor an bereit. Gnedigen, lieben 
-                        <lb/>heren, ich füg üwer wisheit ze wüssenn, daz die bider<lb break="no"/>benn 
-                           lüt ze <placeName ref="LOC_46.93591_7.14296">Murtten</placeName> vast genöttet werdend von dem 
-                        <lb/>hertzogen; den der hertzog zu innen grabenn hät 
-                        <lb/>ann ir bolwerck, daz sy mit steinnen zämen werffend. 
-                        <lb/>Zu dem so hät er den bestenn thurnn inn fier schützen 
-                        <lb/>nider geschossenn, öch ander thürnn, und ir muren vast 
-                        <lb/>zurschossenn, daz wir irenn vast übel sorgend. Liebenn 
-                           <lb/>heren, so hand uinsser eignossen von <placeName ref="LOC_46.94809_7.44744">Bernn</placeName> uinß im zusatz 
-                           <lb/>und die von <placeName ref="LOC_46.80237_7.15128">Friburg</placeName> gebetten, daz wir zü innen züchen 
-                        <lb/>wellend, so wellentz über daz wasser und sich legeren 
-                        <lb/>zü uinsseren vigendenn. Daz habend wir abgeschlagen 
+                           <seg><lb/>Straͤngen, fu̍rsichtigen, ersammen und <sic>wissem</sic>, gnedigen, lieben
+                        <lb/>herren. Ich anbu̍t u̍wer ersam wisheit min undertennig, 
+                        <lb/>willig dienst, und wz ich vermag mit lib und mit guͦt,
+                        <lb/>sig u̍wer wisheit alwegen vor an bereit.</seg> <seg>Gnedigen, lieben 
+                        <lb/>heren, ich fuͤg u̍wer wisheit ze wu̍ssenn, dz die bider<lb break="no"/>benn 
+                           lu̍t ze <placeName ref="LOC_46.93591_7.14296">Murtten</placeName> vast genoͤttet werdend von dem 
+                        <lb/>hertzogen; den der hertzog zuͦ innen grabenn haͧt 
+                        <lb/>ann ir bolwerck, daz sy mit steinnen zaͤmmen werffend. 
+                        <lb/>Zu dem, so haͧt er den bestenn thurnn inn fier schu̍tzen 
+                        <lb/>nider geschossenn, oͧch ander thu̍rnn, und ir muren vast 
+                        <lb/>zur schossenn, dz wir irenn vast u̍bel sorgend.</seg> <seg>Liebenn 
+                           <lb/>heren, so hand uinsser eignossen von <placeName ref="LOC_46.94809_7.44744">Bernn</placeName> uinß im zuͦsatz 
+                           <lb/>und die von <placeName ref="LOC_46.80237_7.15128">Friburg</placeName> gebetten, dz wir zuͦ innen zu̍chen 
+                        <lb/>wellend, so wellentz u̍ber dz wasser und sich legeren 
+                        <lb/>zuͦ uinsseren vigendenn. Daz habend wir abgeschlagen 
                         <lb/>mit dennen wortten: wir wellend uinsser heren wartenn 
                         <lb/>und ann sy nüt handlenn, und rättend innen öch, daz 
                         <lb/>sy keinnerley für nämend, untz uinsser herren körnend – 
@@ -117,7 +127,6 @@
                         <lb/>nach mittag im 76. jar.</p>
                        <p>üwar aller williger <persName ref="GND_118855344">Hans Waldman</persName>, 
                            <lb/>höptman ze <placeName ref="LOC_46.80237_7.15128">Friburg</placeName> etc.</p>
-
 <p>Denn strengen, fürsichtigen, ersamman und 
 <lb/>wissenn burgermeister und rätt der 
     <lb/>stat <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minen gnedigen, lieben herren.
