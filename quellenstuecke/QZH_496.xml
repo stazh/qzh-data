@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
@@ -340,8 +339,7 @@
           vermaͤßnem, hochfertigen und unverschampten gmuͤt und keinem gůten geist gefuͤrt, hiemitt
           ein besondere sect und rott wider dz geheiß gottes, uns zů verachtung zytlicher oberkeit
           und zů pflanzung aller ungehorsame und zerstoͤrung christelicher lieb gaͤgen
-            aͤbenmenschen<note type="editorial"> Mitmensch, vgl. <hl to="http://fwb-online.de/go/ebenmensch.s.0m_1646269536"><Hyperlink>http://fwb-online.de/go/ebenmensch.s.0m_1646269536</Hyperlink></hl>
-            (Frühneuhochdeutsches Wörterbuch).</note>
+            aͤbenmenschen<note type="editorial"> Mitmensch, vgl. <bibl><ref target="http://fwb-online.de/go/ebenmensch.s.0m_1646269536">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note>
           <note type="critical">Folgt gestrichen: an</note> anzefahen und ann sich zůziehen erdacht,
           das sy je alls obstat vermeinend, besser zesynde dann andere christen und one sünd, wie
           dann soͤlichs jr wort, wyß und werck, ouch geberden schynbar abzeigend etc.</p>

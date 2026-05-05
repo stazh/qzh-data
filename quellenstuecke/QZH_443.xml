@@ -1,7 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-
-<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,9 +50,7 @@
             <listBibl>
               <head>Edition</head>
               <bibl>
-                <bibl><ref
-                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
-                    >QGTS</ref>, Bd. 5, Nr. 329</bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 329</bibl>
               </bibl>
             </listBibl>
           </additional>
@@ -85,8 +81,7 @@
           Graaffschafften / Herrschafften / Landen/ Gerichten und Gebieten wonhafft und gesessen /
           unseren günstigen geneigten willen / und alles gůts zůvor. Unnd fuͤgend üch sampt und
           sonders zůvernemmen.<note type="critical"><q>Wir Burgermeister … zůvernemmen.</q> fehlt in
-            T2.</note> Nach dem die jrrige Sect der Widertöuffern an ettlichen orten<note
-            type="critical">Folgt in T2: nun</note> mehr zů / dann abnemmen wil: Und aber ein
+            T2.</note> Nach dem die jrrige Sect der Widertöuffern an ettlichen orten<note type="critical">Folgt in T2: nun</note> mehr zů / dann abnemmen wil: Und aber ein
             yede<note type="critical">T2: jetliche</note> Christenliche Oberkeit jrer tragenden
           pflicht / soͤlliche Widertoͤuffery und dero anhang ungestraafft nit hingon lassen kan /
           als die nit ring zůachten. Dann die Widertöuffer vil schaͤdlicher erschrockenlicher und
@@ -102,23 +97,18 @@
           waͤndend mengklichen ab von ordenlichem Kilchgang / leerend kein Christ moͤge im stand der
           Oberkeit syn / nennend sy auch nun<note type="editorial"> nur, Id. IV, 764.</note> Heiden.
           Hebend die raͤchten Eyd<note type="critical"><q>Eyd</q> fehlt in T2</note> uff / dardurch
-          die Underthonen jren Herren unnd Oberen verbunden sind. Ferner traͤnnends<note
-            type="critical">T1: sy trennend</note> die Ee / fuͤrend einem Bidermann sin Eelich Wyb
-          hinweg / einer Eerenfrouwen jren Eemann: Wysend ouch die Kind unnd Dienst uf<note
-            type="editorial"> uffwyßen: zu etwas anstiften, verleiten, Id. XVI, 1939.</note> / daß
+          die Underthonen jren Herren unnd Oberen verbunden sind. Ferner traͤnnends<note type="critical">T1: sy trennend</note> die Ee / fuͤrend einem Bidermann sin Eelich Wyb
+          hinweg / einer Eerenfrouwen jren Eemann: Wysend ouch die Kind unnd Dienst uf<note type="editorial"> uffwyßen: zu etwas anstiften, verleiten, Id. XVI, 1939.</note> / daß
           sy von jren Eltern unnd Herren louffind / deßglychen die Eltern von Kinden. Beroubend ouch
-          die Kinder jrer Erbguͤtern/ Damit sy vil gůts uß dem Land hinweg ferggind<note
-            type="editorial"> fortschaffen, Id. I, 1003.</note> / unnd jrer Gsellschafft im Land
+          die Kinder jrer Erbguͤtern/ Damit sy vil gůts uß dem Land hinweg ferggind<note type="editorial"> fortschaffen, Id. I, 1003.</note> / unnd jrer Gsellschafft im Land
             <placeName ref="LOC_49.5_17">Meerherrn</placeName> zůeignind. Wie glych ettliche / so
           durch jr falsch anleitung sich daselbshin begaͤbend / Zů jrem widerkehr aber / den
             trug<note type="critical">T2: bethrug</note> und bschiß anzeigen könnend. Bruchend ouch
           mit verschleickung der Zoͤllen und abzügen/ ouch anderm so den Oberkeiten zůgehoͤrig /
-          allerley gfaaren / entbloͤssend unnd beroubend ouch das Vatterland der hilff wi<pb n="4"
-            break="no" facs="E_I_7_3__Nr__17__S__4_.tif"/>der fygentlichen<note type="editorial">
+          allerley gfaaren / entbloͤssend unnd beroubend ouch das Vatterland der hilff wi<pb n="4" break="no" facs="E_I_7_3__Nr__17__S__4_.tif"/>der fygentlichen<note type="editorial">
             feindlichen</note> gwalt. In summa vertrybend die recht Evangelisch Religion/ unnd
           Christenliche / billiche Pollitische sachen / etc. Soͤllichem schaͤdlichen Irrsal / unradt
-          unnd übel mit ernst (darüber wir eigentliche erwaͤgung aller handlung gehebt)<note
-            type="critical"><q>(darüber … gehebt)</q> fehlt in T2</note> zůwehren unnd gebürender
+          unnd übel mit ernst (darüber wir eigentliche erwaͤgung aller handlung gehebt)<note type="critical"><q>(darüber … gehebt)</q> fehlt in T2</note> zůwehren unnd gebürender
           Massen zů begegnen<note type="critical">In T1 folgt gestrichen: habendt wir unnd unnsere
             gethrüwen lieben eydtgnosßen unnd religions verwanndte, die dryg stett Bern, Basell und
             Schaffhusen, hierumbe durch unnsere abgesandte sprach unnd unnderred hallten lasßen und
@@ -135,10 +125,8 @@
             unsern</q>)</note> / von diser jrrigen Widertoͤufferischen lehr abzühe unnd derselben
           enthalte/ Dann waͤr sich dero anhaͤngig machete / unnd dahaͤr sich deß ordenlichen
           Kilchgangs / nach unserm<note type="critical">T2: jrem</note> Christenlichen unnd Eerbarn
-          ansaͤhen / üsserte / und nit das gmein Gebaͤtt / und die Predigen in siner Pfarr ald<note
-            type="editorial"> oder</note> Kirchen (wie andere gehorsamme Underthonen pflaͤgend)
-          besuchte / und ab erster sines Pfarrherrs ald Predicanten / Undervogts / Eegoͤumeren<note
-            type="editorial"> Vertreter der Sittenzucht, Id. II, 304.</note> und der Eltisten in der
+          ansaͤhen / üsserte / und nit das gmein Gebaͤtt / und die Predigen in siner Pfarr ald<note type="editorial"> oder</note> Kirchen (wie andere gehorsamme Underthonen pflaͤgend)
+          besuchte / und ab erster sines Pfarrherrs ald Predicanten / Undervogts / Eegoͤumeren<note type="editorial"> Vertreter der Sittenzucht, Id. II, 304.</note> und der Eltisten in der
           Gmeind fründtlicher vermanung / erinneren und warnen / der bruchenden sünderung im
           Kilchgang abzůstan / nit thette: Sonders nachmalen ussert der ordenlichen versamlungs
           Predig blibe: Von dem ald denen/ soll deß nechsten Sonntags nach der warnung / zwentzig
@@ -148,8 +136,7 @@
             T2</note> / und benanntlich yede der yetzbestimpten bůssen / glych uff den Sonntag deß
           übersaͤhens unnd ußblybens der Predig / gestrackts ohne alle gnad / von unsern
             Voͤgten<note type="critical"><q>von unsern Voͤgten</q> fehlt in T2</note>/ zů rechter
-          straaff yngezogen werden. Da die Predicanten / Undervoͤgt / Weybel<note type="critical"
-              ><q>Weybel</q> fehlt in T2</note> unnd Eegoumer / yeder by sinem Eyd / soͤlliches
+          straaff yngezogen werden. Da die Predicanten / Undervoͤgt / Weybel<note type="critical"><q>Weybel</q> fehlt in T2</note> unnd Eegoumer / yeder by sinem Eyd / soͤlliches
           allwaͤgen jren Obervoͤgten<note type="critical"><q>jren Obervoͤgten</q> fehlt in
           T2</note>/ leiden und anzeigen. Woͤlte dann by einem die abnemmung yetzerzelter
           gaͤltstraaffen nützid helffen nach verfachen<note type="editorial"> ausrichten, Id. I,
@@ -161,21 +148,16 @@
           syn.</p>
         <p>Woͤlliche aber/ es sygend Wyb ald Mann / jung oder alt/ über das alles in jrer
           halßstarrige fürfuͤrend / unnd sich nit berichten lassen woͤltend / der ald die / soͤllend
-            unser<note type="critical">Folgt in T2: herren</note> Statt unnd Landts verwisen <pb
-            n="5" facs="E_I_7_3__Nr__17__S__5_.tif"/> werden / unnd so sy darüber darinne / one
-          vorgende begebung der gehorsamme / und abstand deß jrrthumbs / betraͤtten<note
-            type="editorial"> antreffen, Id. XIV, 1486.</note> worden<note type="critical">T2:
+            unser<note type="critical">Folgt in T2: herren</note> Statt unnd Landts verwisen <pb n="5" facs="E_I_7_3__Nr__17__S__5_.tif"/> werden / unnd so sy darüber darinne / one
+          vorgende begebung der gehorsamme / und abstand deß jrrthumbs / betraͤtten<note type="editorial"> antreffen, Id. XIV, 1486.</note> worden<note type="critical">T2:
             wurden</note> / in gfengknuß gelegt / und mit wasser / můß unnd brot gespyßt / biß sy uß
           Goͤttlichem wort sich underrichten / und jres jrrthumbs widerwysen lassend. Und wiewol
             wir<note type="critical">T2: gesagt unnser gnedig herren</note>/ die zythaͤr die
-          yennigen so mit der Toͤufferey befleckt / mit jrem haab und gůt / uß unser<note
-            type="critical">T2: jrer</note> Landschafft frey verfahren lassen. Sitmalen<note
-            type="editorial"> da, weil, Id. IV, 147.</note> aber augenschynlich sich erfindt / Das
+          yennigen so mit der Toͤufferey befleckt / mit jrem haab und gůt / uß unser<note type="critical">T2: jrer</note> Landschafft frey verfahren lassen. Sitmalen<note type="editorial"> da, weil, Id. IV, 147.</note> aber augenschynlich sich erfindt / Das
           wenn sy hinab in Merhern / und aber in berüwen kommend / wider dem Vatterland zůzühend.
           Oder daß sy daunden absterbend / unnd dann die Kinder / als der sach unschuldig /
           heimwertz sich wider begaͤbend / alles gůt verbrucht / oder jnen anderschwo abgenommen
-          unnd vorgehalten<note type="editorial"> vorenthalten</note> wirt. Da so wellend wir<note
-            type="critical">T2: sy, unnser herren,</note> dheinen<note type="editorial">
+          unnd vorgehalten<note type="editorial"> vorenthalten</note> wirt. Da so wellend wir<note type="critical">T2: sy, unnser herren,</note> dheinen<note type="editorial">
             keinen</note> mehr / so sich der Toͤufferischen Sect anhengig machend/ ald mit jnen
           hinweg zühend / jres zytlichen haab und Gůts nützid volgen lassen/ sonder das zů gmeiner
           Statt handen nemmen. Wenn aber sy oder jre Kinder widerumb zů Land kommend / und gehorsam
@@ -186,13 +168,10 @@
           Predigen louffend / billichen jrer unbefuͤgten wundergaͤbe<note type="editorial"> Neugier,
             Id. II, 64.</note>/ zůstraffen sind. Soͤlle ein yede der selbigen personen / wo sy sich
           in soͤlliche Toͤufferische Predigen lassend / und denen zůhoͤrend: Als namlich ein
-          Mannsperson ein pfund / unnd ein Wybsbild zaͤhen schilling unser waͤrschafft<note
-            type="critical"><q>unser waͤrschafft</q> fehlt in T2</note> also baar zů straaff
+          Mannsperson ein pfund / unnd ein Wybsbild zaͤhen schilling unser waͤrschafft<note type="critical"><q>unser waͤrschafft</q> fehlt in T2</note> also baar zů straaff
           verfallen syn. Denne die / so heimschen und froͤmbden Toͤuffern sy sygend jnen verwandt
           oder nit / wüssentlich underschlouff unnd platz / in jren hüseren / schüren/ oder guͤtern
-          gebend/ betraͤffende / von dem ald denen/ sol durch unsere Voͤgt unnd Amptlüt<note
-            type="critical"><q>durch unsere Voͤgt unnd Amptlüt</q> fehlt in T2</note> / so dick<note
-            type="editorial"> oft, Id. XII, 1238.</note> das beschicht / zaͤhen pfund / unablaͤßlich
+          gebend/ betraͤffende / von dem ald denen/ sol durch unsere Voͤgt unnd Amptlüt<note type="critical"><q>durch unsere Voͤgt unnd Amptlüt</q> fehlt in T2</note> / so dick<note type="editorial"> oft, Id. XII, 1238.</note> das beschicht / zaͤhen pfund / unablaͤßlich
           zů bůß yngezogen werden. Es moͤchte aber einer jnen zum predigen/ oder ynzug anderer
           lüten / sy ouch abtrünnig zů <pb n="6" facs="E_I_7_3__Nr__17__S__6_.tif"/> machen /
           dermassen fürschub<note type="editorial"> Beihilfe, Id. VIII, 84.</note> thůn / oder sy
@@ -209,34 +188,24 @@
           billichen sy an Lyb unnd Laͤben zůstraaffen hat/ unnd das nit von deß Gloubens / sonders
           von deßwaͤgen / daß sy ufruͤrisch handlend / Meineyd sind / unnd einer Ersamen Oberkeit
           jre Underthonen verfuͤrend / unnd ungehorsam machend. Wo nun soͤllicher Ufwigleren und
-          Leerer / einiche / waͤr sy doch sygend / in unsern Grichten unnd Gebieten anzůkommen<note
-            type="editorial"> antreffen, vgl. <hl
-              to="http://fwb-online.de/go/ankommen.s.3vu_1709323546"
-                ><Hyperlink>http://fwb-online.de/go/ankommen.s.3vu_1709323546</Hyperlink></hl>
-            (Frühneuhochdeutsches Wörterbuch).</note> und zůergryffen sind / die soͤllend
+          Leerer / einiche / waͤr sy doch sygend / in unsern Grichten unnd Gebieten anzůkommen<note type="editorial"> antreffen, vgl. <bibl><ref target="http://fwb-online.de/go/ankommen.s.3vu_1709323546">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> und zůergryffen sind / die soͤllend
             angentz<note type="editorial"> sofort, Id. II, 19.</note> mit allem ernst und yffer /
           gfaͤngklichen angenommen / und uns<note type="critical">T2: jnnen</note> bewahrt zůgfuͤrt
           werden. Gegen den selben wir uns<note type="critical">T2: sy jnnen (statt <q>wir
-            uns</q>)</note> / nach yedessen verhandlen / mit fürnemmung der straaff / unser<note
-            type="critical">T2: jr</note> hand hiemit frey offen unnd vorbehalten haben
+            uns</q>)</note> / nach yedessen verhandlen / mit fürnemmung der straaff / unser<note type="critical">T2: jr</note> hand hiemit frey offen unnd vorbehalten haben
           woͤllend.</p>
         <p>Unnd ist hieruff<note type="critical">T1: haruf</note> an üch all / sampt unnd sonders /
           fürnemlichen die Predicanten Ober unnd Undervoͤgt / Weybel / Eegoumer unnd all ander unser
           Diener/ so jrer tragenden Empteren unnd Diensten / beeydiget sind/ unser ernstlich geheiß
-          will unnd meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl
-              to="http://fwb-online.de/go/meinung.h2.1f_1709288851"
-                ><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
-            (Frühneuhochdeutsches Wörterbuch).</note>: Das jr ob diserm unserm Christenlichen und
+          will unnd meinung<note type="editorial"> Erwartung, Weisung, vgl. <bibl><ref target="http://fwb-online.de/go/meinung.h2.1f_1709288851">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note>: Das jr ob diserm unserm Christenlichen und
           nodtwendigen ansaͤhen<note type="editorial"> Anordnung, Id. VII, 560.</note> / styff und
           staͤdt haltind / damit die ungehorsammen / yeder wie obgelüteret / gebürende straaff
             empfahe.<note type="critical"><q>Unnd ist hieruff … empfahe.</q> fehlt in T2</note> Dann
             wir<note type="critical">T2: unnser gnedig herren</note> der Widertoͤuffern
             unverdacht<note type="editorial"> unbeteiligt, Id. XIII, 665.</note> syn / sy ouch in
-            unsern<note type="editorial"> jren</note> Landen unnd Gebieten schlaͤchts nit <pb n="7"
-            facs="E_I_7_3__Nr__17__S__7_.tif"/> lyden nach dulden woͤllend<note type="critical">Hier
+            unsern<note type="editorial"> jren</note> Landen unnd Gebieten schlaͤchts nit <pb n="7" facs="E_I_7_3__Nr__17__S__7_.tif"/> lyden nach dulden woͤllend<note type="critical">Hier
             endet in T2 die Verordnung betreffs Täufer.</note> / darnach wüsse sich ein yeder
-          zůrichten. Zů urkundt habend wir unser Statt <placeName ref="LOC_47.36667_8.55"
-            >Zürych</placeName> Secret Ynsigel offentlich lassen trucken in disen Brieff / der
+          zůrichten. Zů urkundt habend wir unser Statt <placeName ref="LOC_47.36667_8.55">Zürych</placeName> Secret Ynsigel offentlich lassen trucken in disen Brieff / der
           gaͤben ist/ den fünff unnd zwentzigisten tag Wynmonats / Nach der Geburt Christi unsers
           lieben Herren gezalt / fünffzähenhundert / achtzig und fünff jar.</p>
         <pb n="8" facs="E_I_7_3__Nr__17__S__8_.tif"/>

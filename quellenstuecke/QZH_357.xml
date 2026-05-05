@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
@@ -87,8 +86,7 @@
           bossen meinungen<note type="critical">In der Vorlage: meingen</note> gar fil. In suma waß
           mit jnen geret, sind sy alls halsstarck uff jr<note type="critical"><q>jr</q> über der
             Zeile</note> meinungen<note type="critical">In der Vorlage: meingen</note> bliben, ouch
-          das sy nun nüt uff der landrichteren und min uß gnaden beschechne ufflegung<note type="editorial"> Verpflichtung, vgl. <hl to="http://fwb-online.de/go/auflegung.s.1f_1732723200"><Hyperlink>http://fwb-online.de/go/auflegung.s.1f_1732723200</Hyperlink></hl>
-            (Frühneuhochdeutsches Wörterbuch).</note> nach lut u. e. w. ußgangnen mandaten anfangs
+          das sy nun nüt uff der landrichteren und min uß gnaden beschechne ufflegung<note type="editorial"> Verpflichtung, vgl. <bibl><ref target="http://fwb-online.de/go/auflegung.s.1f_1732723200">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> nach lut u. e. w. ußgangnen mandaten anfangs
           wellen schwerren nach<note type="editorial"> noch</note> loben, uß üwer (miner gnedigen
           herren) biet zů züchen, biß ich si 10 tag jn der gfencknus<note type="critical">In der
             Vorlage: gfecknus</note> bhalten, hab jch den Hedinger, so Hotzs den brediger nampt, jn

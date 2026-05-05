@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
@@ -253,8 +252,7 @@
           religion (doch einer mehr den der ander, will sy in vil seckten getheilt sind) groblich
           und griffenlich jrend und (wie vor ghört) alte seckten wider uff dban bringend, ja das
           auch ihr lehr zů anderst<note type="critical">Folgt Reklammant: nit</note> | [fol. 9r] nit
-          den zů zerrüttung gmeiner policej<note type="editorial"> öffentliche Ordnung, vgl. <hl to="http://fwb-online.de/go/policei.s.1f_1709446281"><Hyperlink>http://fwb-online.de/go/policei.s.1f_1709446281</Hyperlink></hl>
-            (Frühneuhochdeutsches Wörterbuch).</note> reich und mittler zeit reichen werde, wie das
+          den zů zerrüttung gmeiner policej<note type="editorial"> öffentliche Ordnung, vgl. <bibl><ref target="http://fwb-online.de/go/policei.s.1f_1709446281">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> reich und mittler zeit reichen werde, wie das
           unnsere fromme altvorderen mitt großem schaden erfahren und wir noch mitt größerem (zů
           besorgen) erfaren möchtend, wo nit ein großer ernst gebrucht wirt. Sy zwaar beschemend
           sich der alten taüfferen, wend sich auch keins wegs beston, das sy ihrer meinung sygend.
@@ -343,8 +341,7 @@
           rechenschafft erforderet wurd, ehe man inn zum nachtmal deß herren ließ. Da wurde demm
           unverstand wißlich gweert. Dan durch sömlich mittel wurde menger mehr im glauben erbuwen
           werden, den so er vil predigen hört und aber denen nit nachsinnet. Man köndt auch also
-            kummlich<note type="editorial"> bequem, vgl. <hl to="http://fwb-online.de/go/komlich.s.4adj_1709387746"><Hyperlink>http://fwb-online.de/go/komlich.s.4adj_1709387746</Hyperlink></hl>
-            (Frühneuhochdeutsches Wörterbuch).</note> erfaren, wo faltsche oder jrrige meinungen jn
+            kummlich<note type="editorial"> bequem, vgl. <bibl><ref target="http://fwb-online.de/go/komlich.s.4adj_1709387746">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> erfaren, wo faltsche oder jrrige meinungen jn
           lüten stecktind, denen man dann ohne wyttere ergernuß wehren und begegnen möchte.<note type="critical">Folgt Reklamant: und</note> | [fol. 13r]</p>
         <p>5. Unnd domitt sich niemandt zůklagen hett, möchte ein ersamme oberkeit ein allgemeine
           frye disputation (zů und von deren sicher gleit geben wurde) ahnsechen und ordnung geben,
@@ -377,8 +374,7 @@
           kann ein christenliche oberkeit nit zůsechen, sonder ihrer underthonen in demm faal ein
           beßere rechnung haben, füruß will die erfarnuß mitt bringt, das mitt ihrem hinweg fuͤren
           der bettel gemehrt und vil verdorbner lütten gmacht werdend. Dan von vilen offentlich
-          ghört, gsicht und gspürt wirt, dz sy uff das Merherren land huß habend<note type="editorial"> haushalten, wirtschaften, vgl. <hl to="http://fwb-online.de/go/haushaben.s.3v_1647589496"><Hyperlink>http://fwb-online.de/go/haushaben.s.3v_1647589496</Hyperlink></hl>
-            (Frühneuhochdeutsches Wörterbuch).</note>, wen sy das ihren verthon, wöllend sy hinweg
+          ghört, gsicht und gspürt wirt, dz sy uff das Merherren land huß habend<note type="editorial"> haushalten, wirtschaften, vgl. <bibl><ref target="http://fwb-online.de/go/haushaben.s.3v_1647589496">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note>, wen sy das ihren verthon, wöllend sy hinweg
           züchen, syg inen ein gůt lannd. Hilfft das nicht zů gmeinem verderben? Man gsicht auch
           teglich, das deren vil, so das ihren hie verkaufft und abhinzogen sind, do ihnen der
             orden<note type="editorial"> Die Gemeinschaft der Täufer wurde polemisch auch als

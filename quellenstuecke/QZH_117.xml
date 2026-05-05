@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
     <fileDesc>
@@ -94,8 +93,7 @@
           erhöuschenn wurde, zefridenn unnd allweg dest bas<note type="editorial"> besser</note>
           wüssen möge, daruff der gebür nach zehandlenn. Dann wir je gesinnet, söllichem jrsall unnd
           sect erneͣmpter ­toüf­fery, so wyt uns müglich, ußzerüten und keins weͣgs gruͤnen
-          zelassen, daran thůstu unnser meynung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
-            (Frühneuhochdeutsches Wörterbuch).</note> früntlich umb dich jnn geneigtem gunst
+          zelassen, daran thůstu unnser meynung<note type="editorial"> Beschluss, Weisung, vgl. <bibl><ref target="http://fwb-online.de/go/meinung.h2.1f_1709288851">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> früntlich umb dich jnn geneigtem gunst
           zeerkennenn. Uss <placeName ref="LOC_47.36667_8.55">Zürich</placeName><bm id="20"/>,
           zinstags nach mitfasten anno mv<sup>c</sup> xxxij.</p>
         <p rend="margin-top">Dem frommen unnd wysenn, unserm jnsonders liebenn, gethrüwenn burger
