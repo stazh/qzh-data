@@ -35,16 +35,9 @@
             <msItem>
               <textLang>Deutsch</textLang>
               <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
-              <filiation type="original"><origDate when="1555-05"/>ca.</filiation>
-            </msItem>
-            <msItem>
-              <textLang>Deutsch</textLang>
-              <filiation type="original"><origDate when="1555-05-01"/></filiation>
+              <filiation type="original"><origDate when="1555-05-01"/>ca.</filiation>
             </msItem>
           </msContents>
-          <history>
-            <origin><origDate when="1555-05">ca.</origDate></origin>
-          </history>
           <history>
             <origin>
               <origDate when="1555-05-01"/>

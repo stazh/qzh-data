@@ -35,12 +35,12 @@
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
-              <filiation type="original"><origDate when="1556">ca.</origDate></filiation>
+              <filiation type="original"><origDate from="1556-01-01" to="1557-12-31"/>ca.</filiation>
             </msItem>
           </msContents>
           <history>
             <origin>
-              <origDate when="1556">ca.</origDate>
+              <origDate from="1556-01-01" to="1557-12-31"/>
             </origin>
           </history>
           <additional>
