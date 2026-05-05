@@ -29,18 +29,18 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>Ms F 35, fol. 27v (eine kolorierte Federzeichnung am unteren Blattrand zeigt eine Gruppe von Auswanderern).</idno>
+            <idno>ZBZ Ms F 35, fol. 27v</idno>
           </msIdentifier>
           <head>Nachricht über Auswanderung nach Mähren</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
-              <filiation type="original"><origDate when="1587">ca.</origDate></filiation>
+              <filiation type="original"><origDate from="1587-01-01" to="1587-12-31">ca.</origDate></filiation>
             </msItem>
           </msContents>
           <history>
             <origin>
-              <origDate when="1587">ca.</origDate>
+              <origDate from="1587-01-01" to="1587-12-31">ca.</origDate>
             </origin>
           </history>
           <additional>
@@ -74,7 +74,9 @@
     </body>
     <back>
       <div>
+      <p>Eine kolorierte Federzeichnung am unteren Blattrand zeigt eine Gruppe von Auswanderern.</p>
         <p> Schreiber und Sammler der Nachricht ist Johann Jakob Wick. Die undatierte Nachricht über die Auswanderung befindet sich im Band Ms F 35 (Nachrichten des Jahres 1587).</p>
+        <p>
       </div>
     </back>
   </text>
