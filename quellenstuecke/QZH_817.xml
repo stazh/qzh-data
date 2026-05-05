@@ -35,12 +35,12 @@
             <msItem>
               <textLang>Deutsch</textLang>
               <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
-              <filiation type="original"><origDate when="1550">ca.</origDate></filiation>
+              <filiation type="original"><origDate from="1550-01-01" to="1550-12-31">ca.</origDate></filiation>
             </msItem>
           </msContents>
           <history>
             <origin>
-              <origDate when="1550">ca.</origDate>
+              <origDate from="1550-01-01" to="1550-12-31">ca.</origDate>
             </origin>
           </history>
           <additional>

@@ -35,29 +35,11 @@
             <msItem>
               <textLang>Deutsch</textLang>
               <filiation type="current">Abschrift</filiation>
-              <filiation type="original"><origDate when="1596-12"/>ca.</filiation>
-            </msItem>
-
-                        <msItem>
-                            <textLang>Deutsch</textLang>
-                            <filiation type="original"><origDate when="1596-12"/>ca.</filiation>
-                        </msItem>
-            <msItem>
-              <textLang>Deutsch</textLang>
-              <filiation type="original"><origDate when="1596-12-01"/></filiation>
+              <filiation type="original"><origDate when="1596-12-16"/>ca.</filiation>
             </msItem>
           </msContents>
           <history>
-            <origin><origDate when="1596-12">ca.</origDate></origin>
-          </history>
-
-                    <history>
-                        <origin><origDate when="1596-12">ca.</origDate></origin>
-                    </history>
-          <history>
-            <origin>
-              <origDate when="1596-12-01"/>
-            </origin>
+            <origin><origDate when="1596-12-16">ca.</origDate></origin>
           </history>
           <additional>
             <listBibl>

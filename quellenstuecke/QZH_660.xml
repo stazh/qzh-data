@@ -29,21 +29,17 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355277">Original 1: StAZH E I 7.3, Nr. 86 (vermutlich der offizielle Text für den Landvogt
-              in Grüningen); Original 2: ZBZ, Ms A 72, S. 525-527 (mit anderer Reihenfolge der
-              verschiedenen Punkte, wobei die Nummer 14 doppelt vergeben ist und die abweichenden
-              Ziffern am Rand notiert sind); Abschrift (von Original 2): ZBZ, Ms B 163, fol. 80-82
-              (18. Jh.)</idno>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355277">Original 1: StAZH E I 7.3, Nr. 86; Original 2: ZBZ, Ms A 72, S. 525-527</idno>
           </msIdentifier>
           <head>16 Artikel mit Vorwürfen der Täufer und des gemeinen Mannes</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
-              <filiation type="original"><origDate from="1601-02" to="1601-05"/></filiation>
+              <filiation type="original"><origDate from="1601-02-01" to="1601-05-31"/></filiation>
             </msItem>
           </msContents>
           <history>
-            <origin><origDate from="1601-02" to="1601-05"/></origin>
+            <origin><origDate from="1601-02-01" to="1601-05-31"/></origin>
           </history>
           <additional>
             <listBibl>
@@ -179,7 +175,11 @@
     </body>
     <back>
       <div>
-        <p>Original 2 dürfte das <q>Protokol</q> der Prosynode sein. Vermutlich hat Johann Jakob Wagner
+        <p>Original 1 (StAZH E I 7.3, Nr. 86) ist vermutlich der offizielle Text für den Landvogt
+          in Grüningen; Original 2: ZBZ, Ms A 72, S. 525-527 (mit anderer Reihenfolge der
+          verschiedenen Punkte, wobei die Nummer 14 doppelt vergeben ist und die abweichenden
+          Ziffern am Rand notiert sind); Abschrift (von Original 2): ZBZ, Ms B 163, fol. 80-82
+          (18. Jh.). Original 2 dürfte das <q>Protokol</q> der Prosynode sein. Vermutlich hat Johann Jakob Wagner
           beide Dokumente geschrieben.</p>
       </div>
     </back>

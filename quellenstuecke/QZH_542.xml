@@ -37,27 +37,9 @@
               <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
               <filiation type="original"><origDate when="1590-03"/>ca.</filiation>
             </msItem>
-
-                        <msItem>
-                            <textLang>Deutsch</textLang>
-                            <filiation type="original"><origDate when="1590-03"/>ca.</filiation>
-                        </msItem>
-            <msItem>
-              <textLang>Deutsch</textLang>
-              <filiation type="original"><origDate when="1590-03-01"/></filiation>
-            </msItem>
           </msContents>
           <history>
             <origin><origDate when="1590-03">ca.</origDate></origin>
-          </history>
-
-                    <history>
-                        <origin><origDate when="1590-03">ca.</origDate></origin>
-                    </history>
-          <history>
-            <origin>
-              <origDate when="1590-03-01"/>
-            </origin>
           </history>
           <additional>
             <listBibl>

@@ -34,12 +34,12 @@
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
-              <filiation type="original"><origDate when="1588"/></filiation>
+              <filiation type="original"><origDate from="1588-01-01" to="1588-12-31"/></filiation>
             </msItem>
           </msContents>
           <history>
             <origin>
-              <origDate when="1588"/>
+              <origDate from="1588-01-01" to="1588-12-31"/>
             </origin>
           </history>
           <additional>
@@ -72,8 +72,8 @@
           <pb n="163" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534102"/> […] Ad
             Maleri<persName ref="Maler, Batlthasar"/> scriptum responsio<note type="editorial"> Vgl.
             Nr. 352.</note></head>
-        <pb n="163" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534102"/> […] Ad
-          Maleri<p>[Maler]: Das die oberkeit über jnne erzürndt, als ob er goͤttlichem wort und der
+        <pb n="163" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534102"/><p> […] Ad
+          Maleri</p><p>[Maler]: Das die oberkeit über jnne erzürndt, als ob er goͤttlichem wort und der
           ordelichen oberkeit nitt gehorsam, noch underthenig.</p>
         <p>Responsio: Hie zücht anfenklich Maler zwey ding an, 1. das die oberkeit über jnn erzürnt,
           2. die ursach, dz er gottlichem wort und der oberkeit nit gehorsam; das letst woͤllend zum

@@ -35,11 +35,11 @@
             <msItem>
               <textLang>Deutsch</textLang>
               <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
-              <filiation type="original"><origDate when="1597"/>ca.</filiation>
+              <filiation type="original"><origDate from="1597-01-01" to="1591-12-31"/>ca.</filiation>
             </msItem>
           </msContents>
           <history>
-            <origin><origDate when="1597">ca.</origDate></origin>
+            <origin><origDate from="1597-01-01" to="1591-12-31"/>ca.</origin>
           </history>
           <additional>
             <listBibl>
