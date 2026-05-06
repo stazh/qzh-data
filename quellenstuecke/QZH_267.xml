@@ -32,7 +32,17 @@
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=608960">StAZH E I 2.2, Nr. 2</idno>
           </msIdentifier>
           <head>Ratsbeschluss</head>
-          <history/>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1568-05">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1568-05">ca.</origDate>
+            </origin>
+          </history>
           <additional>
             <listBibl>
               <head>Edition</head>
