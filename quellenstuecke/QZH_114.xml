@@ -6,7 +6,7 @@
             <titleStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
-                    <persName>Michael Schaffner und Svenja Müller, basierend auf der Transkription von Ernst Gagliardi</persName>
+                    <persName>Michael Schaffner und Svenja Müller</persName>
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
@@ -36,7 +36,7 @@
                         <summary><!-- Regest --></summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
-                            <filiation type="current">Aufzeichnungen</filiation>
+                            <filiation type="current">Original</filiation>
                             <filiation type="original"><origDate when="1476-06-17"/><!-- bei @when korrektes Datum eintragen -->
                             </filiation>
                         </msItem>
@@ -87,7 +87,7 @@
             <text>
                  <body>
                    <div>
-                       <pb n="1"/>
+                       <pb n="1" facs="A_29_1_5__Nr__2__S__1_.tif"/>
                        <p>
                            <seg><lb/>Straͤngen, fu̍rsichtigen, ersammen und <sic>wissem</sic>, gnedigen, lieben
                         <lb/>herren. Ich anbu̍t u̍wer ersam wisheit min undertennig, 
@@ -103,34 +103,34 @@
                            <lb/>heren, so hand uinsser eignossen von <placeName ref="LOC_46.94809_7.44744">Bernn</placeName> uinß im zuͦsatz 
                            <lb/>und die von <placeName ref="LOC_46.80237_7.15128">Friburg</placeName> gebetten, dz wir zuͦ innen zu̍chen 
                         <lb/>wellend, so wellentz u̍ber dz wasser und sich legeren 
-                        <lb/>zuͦ uinsseren vigendenn. Daz habend wir abgeschlagen 
-                        <lb/>mit dennen wortten: wir wellend uinsser heren wartenn 
-                        <lb/>und ann sy nüt handlenn, und rättend innen öch, daz 
-                        <lb/>sy keinnerley für nämend, untz uinsser herren körnend – 
-                        <lb/>so wellend wir nüt dester minder ein trüw uffsächen 
-                        <lb/>uffenn sy habenn, und ib innen neiswaz begegny, es 
-                        <lb/>sy tag oder nacht, innen trülichen züzüchen und lib 
-                        <lb/>und gut zü innen setzenn. Also versieh ich mich, sy gangen 
-                        <lb/>im nach. Harum, gnedigen heren, fürdrend üch mit 
-                        <lb/>züchen, daz ir nüt die hindristenn sigend; denn heind 
-                        <lb/>keinnen zwiffel: die lüt sind all uinsser eigen, und 
-                        <lb/>schetzet man wol uff drüy mall als vil lüt, als 
-                           <lb/>vor <placeName ref="LOC_46.59208_6.4658">Granssy</placeName>; aber arschreck nieman: wir weind sy <pb n="2"/> 
-                        mit der gotz hilff all artödenn. Sy mögend uinß 
-                        <lb/>nüt andrünnen, so hand wir mit innen ze schlachen nach 
-                        <lb/>allem wu[n]sch. Nüt me, denn: der ewig gott und sin 
-                        <lb/>wirdigy mutter und als himelssher die gebend üch 
-                        <lb/>gelük zu üwerem uszug und behftttend uinß, daz 
-                        <lb/>ir uinß all mit grossenn eren und fröidenn anpfa<lb break="no"/>chend. 
-                        Amman. Gebenn uff mendag nach 
-                        <lb/>uinssers heren frolichems tag inn der sibenden stu[n]d 
-                        <lb/>nach mittag im 76. jar.</p>
-                       <p>üwar aller williger <persName ref="GND_118855344">Hans Waldman</persName>, 
-                           <lb/>höptman ze <placeName ref="LOC_46.80237_7.15128">Friburg</placeName> etc.</p>
-<p>Denn strengen, fürsichtigen, ersamman und 
-<lb/>wissenn burgermeister und rätt der 
-    <lb/>stat <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minen gnedigen, lieben herren.
-
+                        <lb/>zuͦ uinsseren vigendenn. Dz habend wir abgeschlagen 
+                        <lb/>mit dennen wortten: Wir wellend uinsser heren warttenn 
+                        <lb/>und ann sy nu̍t handlenn, und raͧttend innen oͧch, dz 
+                        <lb/>sy keinnerley fu̍r naͤmend untz uinsser herren koͤmend. 
+                        <lb/>So wellend wir nu̍t dester minder ein tru̍w uffsaͤchen 
+                        <lb/>uffenn sy habenn, und ib innen neiswz begegny, es 
+                        <lb/>sy tag oder nacht, innen tru̍lichen zuͦ zu̍chen und lib 
+                        <lb/>und guͦt zuͦ innen setzenn. Also versich ich mich, sy gangen 
+                        <lb/>im nach.</seg> <seg>Harumb, gnedigen heren, fu̍rdrend u̍ch mit 
+                        <lb/>zu̍chen, dz ir nüt die hindristenn sigend. Denn heind 
+                        <lb/>keinnen zwiffel: Die lu̍t sind all uinsser eigen und 
+                        <lb/>schetzet man wol uff <num value="3">dru̍y</num> mall als vil lu̍t, als 
+                           <lb/>vor <placeName ref="LOC_46.59208_6.4658">Granssy</placeName>. Aber arschreck nieman, wir weind sy 
+                            <pb n="2" facs="A_29_1_5__Nr__2__S__2-3_.tif"/> 
+                        <lb/>mit der gotz hilff all artoͤdenn. Sy moͤgend uinß 
+                        <lb/>nu̍t andru̍nnen, so hand wir mit innen ze schlachen nach 
+                        <lb/>allem <choice><sic>wusch</sic><corr>wunsch</corr></choice>. Nu̍t me, denn der ewig gott und sin 
+                        <lb/>wirdigy muͦtter und als himelssher, die gebend u̍ch 
+                        <lb/>gelu̍k zu u̍werem uszug und behuͤttend uinß, dz 
+                        <lb/>ir uinß all mit grossenn eren und froͤidenn anpfa<lb break="no"/>chend.</seg> <seg>Amman. Gebenn uff <origDate when="1476-06-17">mendag nach <del>des</del>
+                        <lb/>uinssers heren frolichems tag inn der sibenden stund
+                        <lb/>nach mittag im lxxvj<hi rend="sup">o</hi> jar</origDate>.</seg></p>
+                       <p><seg>U̍war aller williger <persName ref="GND_118855344">Hans Waldman</persName>, 
+                           <lb/>hoͧptman ze <placeName ref="LOC_46.80237_7.15128">Friburg</placeName> <abbr>etc.</abbr></seg></p>
+                       <pb n="3"/> 
+                       <p><lb/>Denn strengen, fu̍rsichtigen, ersamman und 
+<lb/>wissenn burgermeister und raͧtt der 
+    <lb/>stat <placeName ref="LOC_47.36667_8.55">Zu̍rich</placeName>, minen gnedigen, lieben herren.
                        </p>
                    </div>
                 </body>
