@@ -97,18 +97,16 @@
                   <placeName ref="LOC_47.22557_8.82228">Rapreswil</placeName>, in den
                   <lb/><placeName>Rotenweg</placeName>, von dem <placeName>Rotenweg</placeName>, den
                   se nider untz an daz
-               <placeName>Alt <lb/>Oetenbach</placeName>. Item von dem <placeName>Alten
+               <placeName ref="LOC_47.305989_8.682064">Alt <lb/>Oetenbach</placeName>. Item von dem <placeName>Alten
                   Oetenbach</placeName> bis gen <placeName ref="LOC_47.34987_8.64013"
-                  >Egmatingen</placeName> an der <lb/><placeName
-                  ref="LOC_47.59384_8.59112">Tûrlin</placeName> von dannen hinûber bis
-               gen <unclear>mine</unclear> an die <placeName ref="LOC_47.5519_8.55398"
-                  >Tössin</placeName>.
+                  >Egmatingen</placeName> an der <lb/>tûrlin von dannen hinûber bis
+               gen <placeName ref="LOC_47.33609_8.65996">Mure</placeName> an die <placeName>Wandfluo</placeName>.
                <lb/>Item von dannen herùber untz an
                   <placeName>Braitenbrunnen</placeName>, von <placeName>Braiten<lb break="no"
                   />brunnen</placeName> bis gen <placeName ref="LOC_47.35316_8.72156"
                   >Uster</placeName> in den bach. Item von <placeName
                   ref="LOC_47.35316_8.72156">Uster</placeName> bis wider in <lb/><placeName
-                  ref="LOC_47.4472_8.70443">Kempten</placeName> in den bach.</p>
+                     ref="LOC_47.33319_8.80982">Kempten</placeName> in den bach.</p>
             <p><lb/>Und herumb, so hand dis nachgeschriben erbern lùt ein warheit <lb/>geseit und
                darumb offenlich zuo gott und den heiligen gesworn, des ersten:</p>
             <p><lb/><persName>Heinrich</persName> der alt murer, <lb/><persName>Johanns
