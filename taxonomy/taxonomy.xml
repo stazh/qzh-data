@@ -70,6 +70,10 @@
                         <desc xml:lang="deu">Bettel</desc>
                         <gloss>Hilfsbedürftiger, von Almosen lebender Mensch</gloss>
                         </category>
+                        <category xml:id="key004644">
+                        <desc xml:lang="deu">Beute</desc>
+                        <gloss>Kriegsbeute, Plünderung</gloss>
+                        </category>
                         <category xml:id="key000482">
                         <desc xml:lang="deu">Blasphemie</desc>
                         <gloss>Beleidigung Gottes</gloss>
@@ -379,6 +383,10 @@
                     <category xml:id="key000266">
                         <desc xml:lang="deu">Krieg</desc>
                         <gloss>Bewaffnete Auseinandersetzung</gloss>
+                    </category>
+                     <category xml:id="key005407">
+                        <desc xml:lang="deu">Kriegsrecht</desc>
+                        <gloss>Gesamtheit der geschriebenen und ungeschriebenen Rechtssätze, die das Kriegswesen regeln</gloss>
                     </category>
                     <category xml:id="key003261">
                         <desc xml:lang="deu">Kundschaft</desc>
