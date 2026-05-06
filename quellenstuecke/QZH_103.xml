@@ -43,7 +43,7 @@
                   <msItem>
                      <textLang>Deutsch</textLang>
                      <filiation type="current">Bericht</filiation>
-                     <filiation type="original"><origDate when="1661"/>ca. August 1661</filiation>
+                     <filiation type="original"><origDate when="1661-08">ca.</origDate></filiation>
                   </msItem>
                </msContents>
                <physDesc>
@@ -55,7 +55,7 @@
                   </objectDesc>
                </physDesc>
                <history>
-                  <origin><origDate when="1661-08"/></origin>
+                  <origin><origDate when="1661-08">ca.</origDate></origin>
                </history>
             </msDesc>
          </sourceDesc>
@@ -106,7 +106,7 @@
          </div>
       </body>
       <back>
-         <p>Im Zürcher Herrschaftsgebiet wurden zwischen dem 15. und 18. Jahrhundert rund 80 Personen wegen Hexerei zum Tode verurteilt.
+         <div><p>Im Zürcher Herrschaftsgebiet wurden zwischen dem 15. und 18. Jahrhundert rund 80 Personen wegen Hexerei zum Tode verurteilt.
             Viele andere wurden ebenso der Hexerei bezichtigt, verhört und gefoltert, kamen jedoch entweder frei, wurden
             verbannt oder zu einer Arbeitsstrafe oder Spitalverwahrung verurteilt. Oft
             mussten sie auch die Kosten für ihre Inhaftierung selbst übernehmen. Mitunter wurden aber
@@ -170,7 +170,7 @@
          <p>Der Fall von Barbara Melliker ist insofern besonders, als sie trotz ihres
             Geständnisses, mit dem Teufel verkehrt zu haben, nicht zum Tod verurteilt wurde.
             Deshalb illustriert ihre Geschichte exemplarisch eine Übergangsphase des
-            Hexenglaubens.</p>
+            Hexenglaubens.</p></div>
       </back>
    </text>
 </TEI>
