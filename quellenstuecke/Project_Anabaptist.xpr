@@ -6,6 +6,7 @@
     </meta>
     <projectTree name="Project_Anabaptist.xpr">
         <folder path="."/>
+        <folder path="../../../../Users/michael.schaffner1@zh.ch/Downloads/Dateien%20f%C3%BCr%20Validierung/"/>
         <file name="QZH_115.xml"/>
         <file name="QZH_116.xml"/>
         <file name="QZH_117.xml"/>

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Michael Schaffner und Svenja Müller</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Svenja Müller</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2026-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_114</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=4613406"
+                            >StAZH A 29.1, Nr. 5.2</idno>
+                        <!-- Signatur -->
+                    </msIdentifier>
+                    <head>Brief von Hans Waldmann an Bürgermeister und Rat der Stadt Zürich über die
+                        Belagerung von Murten<!-- Titel --></head>
+                    <msContents>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Original</filiation>
+                            <filiation type="original"><origDate when="1476-06-17"
+                                /><!-- bei @when korrektes Datum eintragen -->
+                            </filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1476-06-17"/></origin>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Edition</head>
+                            <bibl><bibl><ref
+                                        target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                                        >Helfenstein 1984</ref>, S. 38</bibl>
+                                <bibl><ref
+                                        target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                                        >Gagliardi, Waldmann</ref>, Bd. 1, Nr. 140</bibl></bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000266">Krieg</term>
+                    <term ref="key003016">Militär</term>
+                    <!-- terms noch einfüllen -->
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text>
+                <body>
+                    <div>
+                        <pb n="1" facs="A_29_1_5__Nr__2__S__1_.tif"/>
+                        <p>
+                            <seg><lb/>Straͤngen, fu̍rsichtigen, ersammen und <sic>wissem</sic>,
+                                gnedigen, lieben <lb/>herren. Ich anbu̍t u̍wer ersam wisheit min
+                                undertennig, <lb/>willig dienst, und wz ich vermag mit lib und mit
+                                guͦt, <lb/>sig u̍wer wisheit alwegen vor an bereit.</seg>
+                            <seg>Gnedigen, lieben <lb/>heren, ich fuͤg u̍wer wisheit ze wu̍ssenn, dz
+                                die bider<lb break="no"/>benn lu̍t ze <placeName
+                                    ref="LOC_46.93591_7.14296">Murtten</placeName> vast genoͤttet
+                                werdend von dem <lb/>hertzogen; den der hertzog zuͦ innen grabenn
+                                haͧt <lb/>ann ir bolwerck, daz sy mit steinnen zaͤmmen werffend.
+                                <lb/>Zu dem, so haͧt er den bestenn thurnn inn fier schu̍tzen
+                                <lb/>nider geschossenn, oͧch ander thu̍rnn, und ir muren vast
+                                <lb/>zur schossenn, dz wir irenn vast u̍bel sorgend.</seg>
+                            <seg>Liebenn <lb/>heren, so hand uinsser eignossen von <placeName
+                                    ref="LOC_46.94809_7.44744">Bernn</placeName> uinß im zuͦsatz
+                                <lb/>und die von <placeName ref="LOC_46.80237_7.15128"
+                                    >Friburg</placeName> gebetten, dz wir zuͦ innen zu̍chen
+                                <lb/>wellend, so wellentz u̍ber dz wasser und sich legeren <lb/>zuͦ
+                                uinsseren vigendenn. Dz habend wir abgeschlagen <lb/>mit dennen
+                                wortten: Wir wellend uinsser heren warttenn <lb/>und ann sy nu̍t
+                                handlenn, und raͧttend innen oͧch, dz <lb/>sy keinnerley fu̍r
+                                naͤmend untz uinsser herren koͤmend. <lb/>So wellend wir nu̍t dester
+                                minder ein tru̍w uffsaͤchen <lb/>uffenn sy habenn, und ib innen
+                                neiswz begegny, es <lb/>sy tag oder nacht, innen tru̍lichen zuͦ
+                                zu̍chen und lib <lb/>und guͦt zuͦ innen setzenn. Also versich ich
+                                mich, sy gangen <lb/>im nach.</seg>
+                            <seg>Harumb, gnedigen heren, fu̍rdrend u̍ch mit <lb/>zu̍chen, dz ir nüt
+                                die hindristenn sigend. Denn heind <lb/>keinnen zwiffel: Die lu̍t
+                                sind all uinsser eigen und <lb/>schetzet man wol uff <num value="3"
+                                    >dru̍y</num> mall als vil lu̍t, als <lb/>vor <placeName
+                                    ref="LOC_46.59208_6.4658">Granssy</placeName>. Aber arschreck
+                                nieman, wir weind sy <pb n="2" facs="A_29_1_5__Nr__2__S__2-3_.tif"/>
+                                <lb/>mit der gotz hilff all artoͤdenn. Sy moͤgend uinß <lb/>nu̍t
+                                andru̍nnen, so hand wir mit innen ze schlachen nach <lb/>allem <choice>
+                                    <sic>wusch</sic>
+                                    <corr>wunsch</corr>
+                                </choice>. Nu̍t me, denn der ewig gott und sin <lb/>wirdigy muͦtter
+                                und als himelssher, die gebend u̍ch <lb/>gelu̍k zu u̍werem uszug und
+                                behuͤttend uinß, dz <lb/>ir uinß all mit grossenn eren und froͤidenn
+                                    anpfa<lb break="no"/>chend.</seg>
+                            <seg>Amman. Gebenn uff <origDate when="1476-06-17">mendag nach
+                                        <del>des</del>
+                                    <lb/>uinssers heren frolichems tag inn der sibenden stund
+                                    <lb/>nach mittag im lxxvj<hi rend="sup">o</hi>
+                                jar</origDate>.</seg></p>
+                        <p><seg>U̍war aller williger <persName ref="GND_118855344">Hans
+                                    Waldman</persName>, <lb/>hoͧptman ze <placeName
+                                    ref="LOC_46.80237_7.15128">Friburg</placeName>
+                                <abbr>etc.</abbr></seg></p>
+                        <pb n="3"/>
+                        <p><lb/>Denn strengen, fu̍rsichtigen, ersamman und <lb/>wissenn
+                            burgermeister und raͧtt der <lb/>stat <placeName ref="LOC_47.36667_8.55"
+                                >Zu̍rich</placeName>, minen gnedigen, lieben herren. </p>
+                    </div>
+                </body>
+                <back>
+                    <div>
+                        <p>Der Verfasser des vorliegenden Briefes, der nachmalige Bürgermeister Hans
+                            Waldmann, war Anführer des Zürcher Auszugs zur Unterstützung der
+                            Besatzung von Murten im Kontext der Burgunderkriege. Die Schlacht bei
+                            Murten, bei der die Eidgenossen und ihre Verbündeten das Belagerungsheer
+                            des burgundischen Herzogs Karls des Kühnen in die Flucht schlugen, fand
+                            am 22. Juni 1476 statt.</p> 
+                        <p>Zum vorliegenden Schreiben vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Helfenstein
+                            1984</ref>, S. 38-39</bibl>; zu Waldmann vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">HLS</ref>, <ref target="https://hls-dhs-dss.ch/de/articles/018054/2013-08-07/">Hans Waldmann</ref></bibl>; zu den
+                            Burgunderkriegen vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">HLS</ref></bibl>, <ref target="https://hls-dhs-dss.ch/de/articles/008881/2011-03-17/">Burgunderkriege</ref>.</p>
+                    </div>
+                </back>
+            </text>
+        </group>
+    </text>
+</TEI>
