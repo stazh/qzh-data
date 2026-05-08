@@ -49,8 +49,16 @@
             </origin>
           </history>
           <additional>
-            <listBibl>
+          <listBibl>
               <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 3, Nr. 277</bibl>
+              </bibl>
+            </listBibl>
+            <listBibl>
+              <head>Regest</head>
               <bibl>
                 <bibl><ref
                     target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"

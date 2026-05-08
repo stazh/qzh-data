@@ -45,7 +45,7 @@
           </history>
           <additional>
             <listBibl>
-              <head>Edition</head>
+              <head>Nachweis</head>
               <bibl>
                 <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 53</bibl>
               </bibl>
@@ -69,7 +69,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>­<hi rend="italic">Vgl. hierzu die Edition der Reichstagsakten: Jüngere Reihe, Deutsche Reichstagsakten unter Kaiser Karl V., Bd. 7, Stuttgart 1935, S. 1299f., und Bd. 19: Der Reichstag zu Augsburg 1550/51, München 2005, S. 1599–1601 (§§87-94).</hi></p>
+      <div>
 <pb n="1" facs="E_I_7_2__Nr__98__S__1_.tif"/>
 <pb n="2" facs="E_I_7_2__Nr__98__S__2_.tif"/>
 <pb n="3" facs="E_I_7_2__Nr__98__S__3_.tif"/>
@@ -84,5 +84,6 @@
 <pb n="12" facs="E_I_7_2__Nr__98__S__12_.tif"/>
 </div>
     </body>
+    <back><div><p>­Vgl. hierzu die Edition der Reichstagsakten: Jüngere Reihe, Deutsche Reichstagsakten unter Kaiser Karl V., Bd. 7, Stuttgart 1935, S. 1299f., und Bd. 19: Der Reichstag zu Augsburg 1550/51, München 2005, S. 1599–1601 (§§87-94).</p></div></back>
   </text>
 </TEI>
