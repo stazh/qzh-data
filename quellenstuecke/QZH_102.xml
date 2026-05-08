@@ -42,7 +42,7 @@
                      fromme und unschuldige Frau auch viel gelitten habe. </summary>
                   <msItem>
                      <textLang>Deutsch</textLang>
-                     <filiation type="current">Bericht</filiation>
+                     <filiation type="current">Aufzeichnung</filiation>
                      <filiation type="original"><origDate when="1661-06-26"/>26. Juni
                         1661</filiation>
                   </msItem>
@@ -96,7 +96,7 @@
                sich uff das <lb/>rathhus beschieden und ihne befraget, was er <lb/>verschinen
                sambstag by der verhafften <persName>Barbara <lb/>Mellikerin</persName>, für zeichen
                an ihrem lyb ge<lb break="no"/>funden. Zügt er an, nachdem er erstens <lb/>synen
-               knecht vorhar inn <placeName ref="LOC_47.368694_8.542611">Wellenberg</placeName>
+               knecht vorhar inn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName>
                geschickt, <lb/>die <persName>Mellickerin</persName> zu entblößen, habe sy zu ime
                <lb/>gesagt, was er machen wölle, es gange ihro <lb/>wie der
                   <persName>Leematteren</persName>, sy syg auch ein <lb/>fromes wyb gsyn, habe auch
@@ -118,11 +118,11 @@
          </div>
       </body>
       <back>
-         <p>Der Fall von Barbara Melliker illustriert die späte Phase der Hexereiverfolgung im Zürcher Herrschaftsgebiet.
+         <div><p>Der Fall von Barbara Melliker illustriert die späte Phase der Hexereiverfolgung im Zürcher Herrschaftsgebiet.
             Bemerkenswert ist, dass sie trotz Geständnis des Beischlafs mit dem
             Teufel nicht zum Tode verurteilt wurde. Wie aus dem Akten hervorgeht, wurde das gefundene <q>Hexenmal</q> in den weiteren
             Verhören nicht mehr erwähnt oder belastend thematisiert (vgl. Kommentar zu <ref
-               target="https://qzh.sources-online.org/quellenstuecke/QZH_103">QZH 103</ref>).</p>
+               target="https://qzh.sources-online.org/quellenstuecke/QZH_103">QZH, Nr. 103</ref>).</p></div>
 
       </back>
    </text>
