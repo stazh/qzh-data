@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Sylvie F. Matter</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Mara Haas</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_106</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294"
+                            >STAZH A 27.134 (Nr. 61)</idno>
+                    </msIdentifier>
+                    <head>Brief von Hans Jakob Amman, Pfarrer von Augst, an Antistes Johann Ludwig Nüscheler wegen Verdacht auf Hexerei im Fall "Barbeli Senn", 27.06.1721.</head>
+                    <msContents>
+                        <summary><!-- Regest --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Brief</filiation>
+                            <filiation type="original"><origDate when="1721-06-27"
+                            />27.06.1721</filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1721-06-27"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000945">Hexerei</term>
+                    <term ref="key001045">Geständnis</term>
+                    <term ref="key000057">Gericht</term>
+                    <term ref="key005386">Frömmigkeit</term>
+                    <term ref="key004196">Kinder/Jugendliche</term>
+                    <term ref="key000905">Strafvollzug</term>
+                    <term ref="key003233">Obrigkeit</term>
+                    <term ref="key000590">Delinquenz</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+            <text>
+                <body>
+                    <p>
+            <lb/>Actum dienstag den 1ten Julij Anno 1721
+            <lb/>Prasentibus Herr Ratsherr Johann Conrad Werdmüller und 
+            <lb/>Herr Zoufftmeister Lavater
+            <lb/>Nach inhalt eüwer, meiner gnädigen Herren Erkanntnus, haben wolermeldt 
+            <lb/>die mein herren Nachgänger die in dem von Herren Pfarrer ab Aügst an 
+            <lb/>Herr Antisters Neuscheler eingesannten bericht «wegen des barbeli 
+            <lb/>Sennen von daselbst vermeint vögeli machens halben» 
+            <lb/>verdeütete Personen vor sich bescheiden, selbige allerforderst 
+            <lb/>was ihnen darvon in wüssen seye möchte examiniert und ver-
+            <lb/>hört, da dann
+            <lb/>1.
+            <lb/>Heinrich Maurer ein 20 Jähriger Knab ab Aügst 
+            <lb/>folgendes verdeütet
+            <lb/>Es habe zu allererst das Barbeli Senn dem Barbeli Maurer 
+            <lb/>angezeigt, wie dass es Vögeli machen könne, darauf habe es 
+            <lb/>das barbeli Maurer ihmme dem Heinrichen gesagt, welches hernach 
+            <lb/>der Frau Pfarrer ab Aügst verdeütet worden, die hernach be-
+            <lb/>fohlen man solle schauen ob diss Kind mit Vögelmachen um-
+            <lb/>gehen könne, worüber Er heinrich diserem Barbeli Senn ein p.
+            <lb/>versprochen wenn es dergleichen vor seinen Augen mache nach-
+            <lb/>diesem habe dieses Kind eine handvoll Kraüter genommen, 
+            <lb/>selbige auf ein Aahornin Stäcklein {Wasser [Alle Einfügungen andere Hand, Bleistift]}
+                gelegt, in den Bach zu 
+            <lb/>nechst bey ihrem Haus gelegt, darauf geschlagen, worüber 
+            <lb/>2 oder 3 Vögel gleich den Schwalmen, dem Tach zu geflogen 
+            <lb/>worüber Er Heinrich sich beseegnet und geförchtet, hierauf wurde 
+            <lb/>2.
+            <lb/>Barbeli Maurer ein 15 Jähriges Töchterlein exami-
+            <lb/>niert, welches folgendes aussgesagt
+            <lb/>Das Barbeli Senn habe ihme verdeütet, könne mit Vögeli-
+            <lb/>machen umgehen, woll es auch lehrnen wanns ihmme 21 Batzen 
+            <lb/>geben, dises nun habe sein Mudter der Frau Pfarer ab 
+            <lb/>Aügst verdeütet, die befohlen man soll das Kind mit 
+            <lb/>güte zum Vögelimachen bringen, worüber das Barbeli 
+            <lb/>murer selbigem auch einen Schilling versprochen wann es ihms 
+            <lb/>weise
+            <lb/>seyen darüber beyde mit ein anderen ohngefahr vor 8 tagen 
+            <lb/>in circa um 10 Uhren in ein Holtz gangen, Barbeli senn habe 
+            <lb/>Kraüter gewunnen, selbige in ein Wasser gelegt, mit einer 
+            <lb/>Ruthen darauf geschlagen, das Barbeli Maurer geheissen 
+            <lb/>abseiths tredten, und hiermit keine Vögel gesehen
+            <lb/>3.
+            <lb/>Hans Senn ein 58 Jähriger Mann aus dem Stalliker 
+            <lb/>Thal in Scheller genannt, sagte, gedachtes Barbeli Senn 
+            <lb/>seye anderthalb jahr lang bex ihme am Tisch gewesen, 
+            <lb/>habe selbiges zum bedten und arbeiten gehalten, seye 
+            <lb/>aber mutwillig und hallstarrig gewesen, endtlich schon 
+            <lb/>vor 6 Wochen ohne Wüssen seiner von ihmme zu des 
+            <lb/>[Geris] Maurers geloffen, und bis dato bey ihme ver-
+            <lb/>bliben, wüsse nichts dass es Vögel bey ihmme gemacht
+            <lb/>4.
+            <lb/>Hans Maurer ein 46 Jähriger Mann ab Aügst, 
+            <lb/>gestunde, es seye das barbeli Senn vor ihngefahr 6 
+            <lb/>Wochen zu ihme kommen, habe selbiges um [Seidenwiedes] 
+            <lb/>halber auf recommendation der Frau Pfarrer ab Aügst 
+            <lb/>in sein Haus genommen, vor ihmme habe es keine Vögel 
+            <lb/>gemacht, sondern nur sein Kind verdeütet könne Vögel 
+            <lb/>machen, welches hernach sein Frau der Frau Pfarreren 
+            <lb/>angezeigt, einmahl kurtz a weg, er wüsse weiters nichts {[gestrichen] als das diss
+                Barbeli Senn selbst bey ihmme versorget 
+            <lb/>gewesen.} Endtlich und zum 
+            <lb/>5.
+            <lb/>So wurde das Barbeli Senn selbsten in dem Ödten-
+            <lb/>bach folgender maassen examiniert und verhört
+            <lb/>1.q: Wie es heisse?
+            <lb/>R: Barbeli Senn
+            <lb/>2.Q. Wo her?
+            <lb/>R: von Aügst
+            <lb/>{Wie Alt. R: Elff jahr}
+            <lb/>3.Q. Warum vorhanden?
+            <lb/>R: wegen Vögeli machens
+            <lb/>4.Q. Obs denn dergleichen machen könne?
+            <lb/>R: Ja
+            <lb/>5.q. wes er gelehrt? 
+            <lb/>R: Sein Adti
+            <lb/>6.Q. Wie lang sinth denn?
+            <lb/>R: Ey fahrt schon lang, wüss es eigentlich nit mehr
+            <lb/>7.q. Wo er selbiges gelehrt
+            <lb/>R: In der Mäss um Brämgarten in einem Holtz
+            <lb/>8q: Warum Er selbiges gelehrt?
+            <lb/>R: Habe g‘sagt, wolls schlagen wenn es solches nicht lehrne
+            <lb/>9.Q. Ob es etwas sagen müsse, wenn es solle Vögel machen?
+            <lb/>R: Nein nüd ä Wort, sondern nur die Kraüter in ein Wasser 
+            <lb/>werffen und mit einer Ruthen darauf schlagen
+            <lb/>10.q. Was gatung die Ruthen wormit es die Kraüter schlagen?
+            <lb/>R: Jä es wüsse solches nicht
+            <lb/>11.q. Was das für Kraüter die es zu diser Kunst brauche, zu 
+            <lb/>dem ob es vill oder nur einerley
+            <lb/>R. es seye viererley, {[gestrichen]nammlich Erdbeerkraut, Fünfffinger-
+            <lb/>kraut, und Äbhaü, das vierte wüsse es nicht mehr}
+            <lb/>{dis Kraüter aber es wüss nit wie sie heissendt}
+            <lb/>12.q. Wo es selbige abbreche und abhole?
+            <lb/>R. Im Holtz, dann die seyen am kräfftigsten zu dieseren
+            <lb/>13.q. Ob die jennigen Vögel auch fliegen können wo es mache, gleich 
+            <lb/>den anderen?
+            <lb/>R. Ja sie fliegend wie die anderen
+            <lb/>14.q. Wie vill es auf einmahl gebe?
+            <lb/>R Etwann 3 oder {[gestrichen]4}
+            <lb/>15.q. Wie gross die selbigen?
+            <lb/>R: Etwann wie ein kleines Maüssli
+            <lb/>16.q. Obs schon öffters gemacht?
+            <lb/>R. Ja, alle Tag, denn sein ädti habe g‘sagt müsse alle tag 
+            <lb/>machen, sonst holle es der Teüffel
+            <lb/>17.q. Ob es auch schon vor anderen Leüthen gemacht?
+            <lb/>R: Ja, und zwahr bey wesen des Heinrichen Maurers, der, da 
+            <lb/>er sie gesehen dem Tach zu fliegen sich beseegnet und ge-
+            <lb/>förchtet
+            <lb/>18.q. Ob es ihmme solches umsonsten gezeigt?
+            <lb/>R. Er habe selbigem 1 Schilling versprochen aber nit geben
+            <lb/>19.q. Ob es nicht auch jemanden machen lehren wollen?
+            <lb/>R: ja, und zwahr das Barbeli Murer
+            <lb/>20.q. Ob es ihmme umsonsten zeigen wollen?
+            <lb/>R: Nein, sondern habe von ihmme 20 Batzen gefordert, welches 
+            <lb/>gelt
+            <lb/>gelt es denn seinem bey sich gehabten grossen Vogel in den 
+            <lb/>Schnabel geben wollen, denn sein Vadter g‘sagt,solle es allso 
+            <lb/>machen 
+            <lb/>{der Vadter befohlen des geforderte geld in Schnabel geb, der wüsst wo Er seye undt
+                werde ihm bringen}
+            <lb/>21.q. Wie gross diser Vogel, und was farbs?
+            <lb/>R: Etwann wie ein Federgans und schwarz
+            <lb/>22.g. Ob sonsten jemand mehr diesere Kunst kenne als nur es allein?
+            <lb/>R: Seine Brüderen der Ädti habs auch g‘lehrt machen
+            <lb/>23.q. Warum es das barbeli Maurer heissen zuruck gehen
+            <lb/>R. Es dörffe niemand vor handen seyn wenns mit Vögelmachen 
+            <lb/>umgange
+            <lb/>24.q. Ob es aber auch selbst die Vögel g‘sehn so es gemacht?
+            <lb/>R. Nein, sondern die Leüth haben es so g‘sagt
+            <lb/>Hierüber wurde Ihmme von denen Meinen Herren Nachgängern 
+            <lb/>freündt-ernstliche zugesprochen, mit hin vernonfftmässig angezeigt 
+            <lb/>wie das diss {es diss nit selbst sinnte sachen} alles eine lautre einbildung, was es
+                verneint 
+            <lb/>dissfahls halben gemacht zu haben. Worauf es sich eines 
+            <lb/>besseren besinth und verdeütet glaube selbst dass es nit wahr 
+            <lb/>was ihmme sein Vadter angegeben s wolle hinkönfftig fleissig 
+            <lb/>bädten, die Sach aus dem Sinn schlagen und sich darfür i
+            <lb/>n das könfftige hüeten, ersuche Eüch meine gnädigen Herren um ein Erlassung 
+            <lb/>der Gefangenschafft
+            <lb/>3.7.21
+
+
+
+            
+            <lb/>B II 753, S.15
+            <lb/>Auff ablesend angehörter Ussagen 
+            <lb/>des im Ödtenbach verhafften Barbeli 
+            <lb/>Sennen ab Aügst, samt zerschiede-
+            <lb/>nen anderen Ussagen, haben meine 
+            <lb/>gnädigen Herren erkent, das die Herren Nach-
+            <lb/>gänger dasjennige, so es dem Ver-
+            <lb/>walter am Ödtenbach eröffnet, auch 
+            <lb/>selbst von ihne vernemmen, demme 
+            <lb/>nach und wenn seine Ussag cor-
+            <lb/>respondierte, ihns mit der Ruthen 
+            <lb/>züchtigen lassen, auch veranstalten 
+            <lb/>das selbiges in einem milteren Ohrt
+            <lb/>S.16
+            <lb/>noch etwann acht tag lang, ver-
+            <lb/>wahrt, danethin dem Herren Pfarrer 
+            <lb/>am Ödtenbach die acta zu dem 
+            <lb/>End hin zugestellt werden sollen, 
+            <lb/>damit Er dasselbige in dem Han-
+            <lb/>del des Heils underrichten, und 
+            <lb/>ihme midt hierzu erforderlicher vor-
+            <lb/>sichtigkeit dergleichen blendereyen 
+            <lb/>zuerleiden und aus dem sinn zu-
+            <lb/>schlagen, und hierauf der sachen 
+            <lb/>sich ausserende bewandtnus schrifft-
+            <lb/>lich widerum an meine gnädigen Herren bringen 
+            <lb/>thüege
+            <lb/>5.7.21
+
+            <lb/>A 27.134
+            <lb/>Acten Samstags den 5 ten July Anno 1721
+            <lb/>Presentibus Herren Rathsherr Johan Conrad Werdmüller und 
+            <lb/>Herren Zunftmeister Lavater
+            <lb/>Auf Eürer meiner gnädigen Herren ergangener Erkandtnus, sind wohlermeldt 
+            <lb/>die meinen Herren Nachgänger widermahlen zu dem im Ödtenbach 
+            <lb/>verhaffeten Barbeli Senn gekehret, selbigem, das es Godt die 
+            <lb/>Ehr {gebe} und der Obrigkeit die Wahrheit ausagen, gebührmässig zu-
+            <lb/>gesprochen, welches denn bekennt, seye in seinem Herzen über-
+            <lb/>zeüget dass es keine Vögel machen könne, sondern solches den 
+            <lb/>einfaltigen und leichtglaübigen leüthen allso angeben, als 
+            <lb/>obe selbiges dergleichen zu wegen bringen könne, so dass folg-
+            <lb/>samm auch nit wahr dass jemahlen ein schwarzer Vogel bey ihmme 
+            <lb/>gewesen, danke au bey Godt dem Herren dass ihmme nichts der-
+            <lb/>gleichen in wüssen, wolle ihnne bidten dass er ihns fehr-
+            <lb/>nerhin vor der gleichen sachen vergaume, eüch aber 
+            <lb/>meine gnädigen Herren erflehet dises annach minderjährige Kind, um 
+            <lb/>ein gnädig urtheil und gnad, mit verheissung wolle
+            <lb/>forthin fleissig bädten und arbeiten, auch ein ehrbahren 
+            <lb/>und frommen wandel führen
+            <lb/>6.7.21
+
+            <lb/>A 27.134
+            <lb/>Gnädiger herr Bürgermeister
+            <lb/>Hochgeachte usf gnädige Herren
+            <lb/>das arme in dem Oetenbach gefangen sizende und der 
+            <lb/>Hexerey und Vögelmacherey beklagte Barbeli Senn ab Aügst 
+            <lb/>ist von mir zufolg Eüer meiner gnädigen Herren hohn befehls besucht und 
+            <lb/>das nothwendige mit ihme geredet worden. Es beharret seiner 
+            <lb/>letzten gegen den herren Verwalter daselbst und auch meinen gnädigen Herren Nach-
+            <lb/>gängern gethander aussag, dass es niemahls weder Vögel ge-
+            <lb/>macht, noch selbige machen könne; so auch glaüblichr, als wenn es 
+            <lb/>das gegentheil praetendierte anbey bidtet es Godt und seine gnädigen 
+            <lb/>Herren der gegebenen ärgerniss halber um Verzeihung und gelobet hin-
+            <lb/>künftig an solche sachen nichtmehr weder zugedenken, noch darvon 
+            <lb/>zureden. Übrigens ist das arme Kind in der Religion unwüssend 
+            <lb/>kan weder schreiben noch lesen noch die kleinen fragstüklein aus-
+            <lb/>wendig sagen. Es hat zwahren etliche schöne gebedtlein gelehret 
+            <lb/>allein erzehlt solche so verkehrs und Rothwelsch, dass es zu er-
+            <lb/>barmen und ohne schreken kaum anzuhören, das mitleidenswürdige 
+            <lb/>Kind, so sonst einen guten natürlichen verstand scheinet zu haben, wänn
+            <lb/>wol zum heil seiner [seelen] am [beth] in dem weisenhaus, alwo 
+            <lb/>annach 3 seiner geschwisterten sind, erlaget, da dann gemelte sorg-
+            <lb/>falt seinetwegen anwenden wolte, dass es Godt zur seligkeit möchte 
+            <lb/>kennen lehrnen. Hoffete, es würde sich willig leithen lassen und herleiten 
+            <lb/>im heren an ihm nicht vergeblich sein [?] sie denn auch es seiner 
+            <lb/>Eltern schwehre, so vor etwas Zeiten von bern hierher gekommen, nicht 
+            <lb/>ohne sagen zu sein [Heimat] überlasse aber alles lediglich 
+            <lb/>Eüer meiner gnädigen Herren hoher und weiser disposition, 
+            <lb/>dern Gnad ich blos dises arme blut recommendieren 
+            <lb/>und nicht dess innigester anwieschung alles himmlischen 
+            <lb/>segens zu fürwere gesegneter Regierung etc. [??] 
+            <lb/>mehrer Ehrerbietigkeit des herzens verharre
+            <lb/>Eüer gnädigen und [???] meine gnädigen hochgeleitenden Herren
+            <lb/>Underthanigster getreüwer diener und bürger
+            <lb/>Josef Jacob Ulrich vmd im Oetenbach
+            <lb/>den 6. Juli 1721
+            <lb/>9.7.21
+            <lb/>B II 753, S. 19
+            <lb/>Meine gnädigen herren lassen es bey beschehener 
+            <lb/>Züchtigung des Anneli Sennen im 
+            <lb/>Schellen der Pfahr Aügst, vonwe-
+            <lb/>gen vermeintlicher Vögelin-machung 
+            <lb/>und weilen sich aus allem geaü-
+            <lb/>S. 20
+            <lb/>ssert, dass es solches einfalten 
+            <lb/>Leuthen nur vorgegeben, bewenden. 
+            <lb/>In der fehrneren Meinung, dass sel-
+            <lb/>biges für etwas Zeits in dem Ödten-
+            <lb/>bach erhalten, und in dem Handel 
+            <lb/>des Heils underrichtet, zu dem 
+            <lb/>End hin der Herr Pfarrer Ulrich er-
+            <lb/>rinneret, auf dises Kind fleissig 
+            <lb/>zu invigilieren, und mit ihme 
+            <lb/>welen es annach auf dem Vater, 
+            <lb/>das er Ihm solches angegeben, 
+            <lb/>verharret, die Nothwendigkeit zu
+            <lb/>reden: dem Herren Vogt Brämen zu 
+            <lb/>Knonau aber intimiert, auf sei-
+            <lb/>nen Vadter den Ruedi Senn ge-
+            <lb/>spräch machen, und ihne auf beser-
+            <lb/>ten allher sichen zulassen, da 
+            <lb/>enthin dem herren Obermeister am Allmosen-
+            <lb/>amt eine Erkantnus zugestellt 
+            <lb/>werden solle, dass das von obi-
+            <lb/>gen Barbeli Senn genossne Allmo-
+            <lb/>sen, weilen es sich im Ödtenbach be-
+            <lb/>findet cehsieren thüege</p>
+        </body>
+
+                <back>
+                    <div>
+                        <p>Der Fall «Barbeli Senn» passt in das Bild der späten Hexenprozesse im späteren 17. und frühen 18. Jahrhundert, in denen Kinderhexenprozesse 
+                        eine immer grössere Rolle spielten. Und er schickt Mädchen und Brief nicht wie üblich zum kleinen Rat, sondern zum Antistes den Vorsteher der Kirche, Johann Ludwig Nüscheler, der als ausgesprochener Vertreter der 
+                        Spätorthodoxie gilt. Schliesslich befasste sich der kleine Rat von Zürich mit dem Fall. Am 9. Juli wird beschlossen, dass Barbeli im Oetenbach bleiben soll, um unterrichtet zu werden, während
+                        sie von weiteren Körperstrafen verschont bleibt.</p></div>
+                </back>
+            </text>
+</TEI>

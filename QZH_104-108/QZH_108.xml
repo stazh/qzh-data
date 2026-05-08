@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Sylvie F. Matter</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Mara Haas</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_108</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294"
+                            >STAZH A 27.134 (Nr. 63)</idno>
+                    </msIdentifier>
+                    <head>Brief von Hans Jakob Amman, Pfarrer von Augst, an Antistes Johann Ludwig Nüscheler wegen Verdacht auf Hexerei im Fall "Barbeli Senn", 27.06.1721.</head>
+                    <msContents>
+                        <summary><!-- Regest --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Brief</filiation>
+                            <filiation type="original"><origDate when="1721-06-27"
+                            />27.06.1721</filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1721-06-27"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000945">Hexerei</term>
+                    <term ref="key001045">Geständnis</term>
+                    <term ref="key000057">Gericht</term>
+                    <term ref="key005386">Frömmigkeit</term>
+                    <term ref="key004196">Kinder/Jugendliche</term>
+                    <term ref="key000905">Strafvollzug</term>
+                    <term ref="key003233">Obrigkeit</term>
+                    <term ref="key000590">Delinquenz</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+                <body>
+   <p><lb/>A 27.134
+            <lb/>Gnädiger herr Bürgermeister
+            <lb/>Hochgeachte usf gnädige Herren
+            <lb/>das arme in dem Oetenbach gefangen sizende und der 
+            <lb/>Hexerey und Vögelmacherey beklagte Barbeli Senn ab Aügst 
+            <lb/>ist von mir zufolg Eüer meiner gnädigen Herren hohn befehls besucht und 
+            <lb/>das nothwendige mit ihme geredet worden. Es beharret seiner 
+            <lb/>letzten gegen den herren Verwalter daselbst und auch meinen gnädigen Herren Nach-
+            <lb/>gängern gethander aussag, dass es niemahls weder Vögel ge-
+            <lb/>macht, noch selbige machen könne; so auch glaüblichr, als wenn es 
+            <lb/>das gegentheil praetendierte anbey bidtet es Godt und seine gnädigen 
+            <lb/>Herren der gegebenen ärgerniss halber um Verzeihung und gelobet hin-
+            <lb/>künftig an solche sachen nichtmehr weder zugedenken, noch darvon 
+            <lb/>zureden. Übrigens ist das arme Kind in der Religion unwüssend 
+            <lb/>kan weder schreiben noch lesen noch die kleinen fragstüklein aus-
+            <lb/>wendig sagen. Es hat zwahren etliche schöne gebedtlein gelehret 
+            <lb/>allein erzehlt solche so verkehrs und Rothwelsch, dass es zu er-
+            <lb/>barmen und ohne schreken kaum anzuhören, das mitleidenswürdige 
+            <lb/>Kind, so sonst einen guten natürlichen verstand scheinet zu haben, wänn
+            <lb/>wol zum heil seiner [seelen] am [beth] in dem weisenhaus, alwo 
+            <lb/>annach 3 seiner geschwisterten sind, erlaget, da dann gemelte sorg-
+            <lb/>falt seinetwegen anwenden wolte, dass es Godt zur seligkeit möchte 
+            <lb/>kennen lehrnen. Hoffete, es würde sich willig leithen lassen und herleiten 
+            <lb/>im heren an ihm nicht vergeblich sein [?] sie denn auch es seiner 
+            <lb/>Eltern schwehre, so vor etwas Zeiten von bern hierher gekommen, nicht 
+            <lb/>ohne sagen zu sein [Heimat] überlasse aber alles lediglich 
+            <lb/>Eüer meiner gnädigen Herren hoher und weiser disposition, 
+            <lb/>dern Gnad ich blos dises arme blut recommendieren 
+            <lb/>und nicht dess innigester anwieschung alles himmlischen 
+            <lb/>segens zu fürwere gesegneter Regierung etc. [??] 
+            <lb/>mehrer Ehrerbietigkeit des herzens verharre
+            <lb/>Eüer gnädigen und [???] meine gnädigen hochgeleitenden Herren
+            <lb/>Underthanigster getreüwer diener und bürger
+            <lb/>Josef Jacob Ulrich vmd im Oetenbach
+            <lb/>den 6. Juli 1721
+            <lb/>9.7.21
+            <lb/>B II 753, S. 19
+            <lb/>Meine gnädigen herren lassen es bey beschehener 
+            <lb/>Züchtigung des Anneli Sennen im 
+            <lb/>Schellen der Pfahr Aügst, vonwe-
+            <lb/>gen vermeintlicher Vögelin-machung 
+            <lb/>und weilen sich aus allem geaü-
+            <lb/>S. 20
+            <lb/>ssert, dass es solches einfalten 
+            <lb/>Leuthen nur vorgegeben, bewenden. 
+            <lb/>In der fehrneren Meinung, dass sel-
+            <lb/>biges für etwas Zeits in dem Ödten-
+            <lb/>bach erhalten, und in dem Handel 
+            <lb/>des Heils underrichtet, zu dem 
+            <lb/>End hin der Herr Pfarrer Ulrich er-
+            <lb/>rinneret, auf dises Kind fleissig 
+            <lb/>zu invigilieren, und mit ihme 
+            <lb/>welen es annach auf dem Vater, 
+            <lb/>das er Ihm solches angegeben, 
+            <lb/>verharret, die Nothwendigkeit zu
+            <lb/>reden: dem Herren Vogt Brämen zu 
+            <lb/>Knonau aber intimiert, auf sei-
+            <lb/>nen Vadter den Ruedi Senn ge-
+            <lb/>spräch machen, und ihne auf beser-
+            <lb/>ten allher sichen zulassen, da 
+            <lb/>enthin dem herren Obermeister am Allmosen-
+            <lb/>amt eine Erkantnus zugestellt 
+            <lb/>werden solle, dass das von obi-
+            <lb/>gen Barbeli Senn genossne Allmo-
+            <lb/>sen, weilen es sich im Ödtenbach be-
+            <lb/>findet cehsieren thüege</p>
+              </body>
+
+                <back>
+                    <div>
+                        <p>Der Fall «Barbeli Senn» passt in das Bild der späten Hexenprozesse im späteren 17. und frühen 18. Jahrhundert, in denen Kinderhexenprozesse 
+                        eine immer grössere Rolle spielten. Und er schickt Mädchen und Brief nicht wie üblich zum kleinen Rat, sondern zum Antistes den Vorsteher der Kirche, Johann Ludwig Nüscheler, der als ausgesprochener Vertreter der 
+                        Spätorthodoxie gilt. Schliesslich befasste sich der kleine Rat von Zürich mit dem Fall. Am 9. Juli wird beschlossen, dass Barbeli im Oetenbach bleiben soll, um unterrichtet zu werden, während
+                        sie von weiteren Körperstrafen verschont bleibt.</p></div>
+                </back>
+            </text>
+</TEI>

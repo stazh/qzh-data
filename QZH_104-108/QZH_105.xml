@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					Quellen zur Zürcher Geschichte
+				</title>
+				<respStmt>
+					<persName>
+						Sylvie F. Matter
+					</persName>
+					<resp key="transcript" />
+				</respStmt>
+				<respStmt>
+					<persName>
+						Mara Haas
+					</persName>
+					<resp key="tagging" />
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>
+					Staatsarchiv des Kantons Zürich
+				</publisher>
+				<date type="electronic" when="2021-05-01" />
+			</publicationStmt>
+			<seriesStmt>
+				<title>
+					Quellen zur Zürcher Geschichte
+				</title>
+				<respStmt>
+					<persName>
+						Staatsarchiv des Kantons Zürich
+					</persName>
+					<resp>
+						Herausgeberschaft
+					</resp>
+				</respStmt>
+				<idno>
+					QZH_105
+				</idno>
+			</seriesStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294">
+							STAZH A 27.134 (Nr. 60)
+						</idno>
+					</msIdentifier>
+					<head>
+						Verhör mit Barbeli Senn wegen Verdacht auf Hexerei von Hans Jakob Amman, Pfarrer von Augst.
+					</head>
+					<msContents>
+						<summary>
+							<!-- Regest -->
+						</summary>
+						<msItem>
+							<textLang>
+								Deutsch
+							</textLang>
+							<filiation type="current">
+								Original, Doppelblatt, 2 Blätter 
+							</filiation>
+							<filiation type="original">
+								<origDate when="1721-06-28" />
+								27.06.1721
+							</filiation>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material>
+										Papier
+									</material>
+								</support>
+								<extent />
+							</supportDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<origDate when="1721-06-28" />
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl>
+				<p>
+					<ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien" />
+				</p>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc>
+		</profileDesc>
+		<profileDesc>
+			<textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key000945">
+						Hexerei
+					</term>
+					<term ref="key001045">
+						Geständnis
+					</term>
+					<term ref="key000057">
+						Gericht
+					</term>
+					<term ref="key005386">
+						Frömmigkeit
+					</term>
+					<term ref="key004196">
+						Kinder/Jugendliche
+					</term>
+					<term ref="key000905">
+						Strafvollzug
+					</term>
+					<term ref="key003233">
+						Obrigkeit
+					</term>
+					<term ref="key000590">
+						Delinquenz
+					</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+				<body>
+					<pb n="1" />
+					<head>
+						
+							<lb />
+							Etliche Fraagen so an
+							<persName>
+								Barbeli
+							</persName>
+							<lb />
+							Senn gethan worden.
+					</head>
+					<p>
+						<lb />
+						Qx: Ist es wahr kannst du vögel machen?
+					</p>
+					<p>
+						<lb />
+						Rx: Ja.
+					</p>
+					<p>
+						<lb />
+						Qx: Wer hat dich doese kunst gelehrt?
+					</p>
+					<p>
+						<lb />
+						Rx: Mein vater hat mirs zeiget.
+					</p>
+					<p>
+						<lb />
+						Qx: Wie lang ist sinther?
+					</p>
+					<p>
+						<lb />
+						Rx: Es ist schon lang sinther, ich noch bey
+						<lb />
+						ihm gewesen.
+					</p>
+					<p>
+						<lb />
+						Qx: Wo hat ers dich gelehrt?
+					</p>
+					<p>
+						<lb />
+						Rx: an einem papistischen ohrt, kan nit mehr
+						<lb />
+						sag wie es heisst, in einem grossen holtz.
+					</p>
+					<p>
+						<lb />
+						Qx: Warum hat ers dich gelehrt?
+					</p>
+					<p>
+						<lb />
+						Rx: Ich weiss nit warum? Er hat gsagt, wann ihs
+						<lb />
+						nit lehrne, so wolle er mich todschlagen.
+					</p>
+					<p>
+						<lb />
+						Qx: Aber was
+						<unclear>
+							[sint]
+						</unclear>
+						oder sage und thun wann du
+						<lb />
+						vögel machst?
+					</p>
+					<p>
+						<lb />
+						Rx: Ich muss nüt sage, aber Ich muss ein hand voll
+						<lb />
+						kraüter nemmen un das wasser legen, und mit
+						<lb />
+						einem stecken schlagen, dass gibt’s vögel.
+					</p>
+					<p>
+						<lb />
+						Qx: Wo hollest die kraüter, und wachsend
+						<lb />
+						sie?
+					</p>
+					<p>
+						<lb />
+						Rx: Ich musst sie im holtz hollen, aber ich weiss nit
+						<lb />
+						wie sie alle heissend, doch kenne sie.
+					</p>
+					<p>
+						<lb />
+						Rx: gibt es vil vögel wenn die kraüter schla<lb break="no"/>gest?<lb/>
+					</p>
+					<p>
+						<lb />
+						Rx: Zwei, doch nid mehr.
+					</p>
+					<p>
+						<lb />
+						Rx: machst alle tag?
+					</p>
+					<p>
+						<lb />
+						Rx: Ja, der vater hts g‘sagt, Ich müsse alle tag
+						<lb />
+						machen. [..] Und er wolle mich todschlagen, und
+						<lb />
+						wenn ich nit mache, so nenne mich des tüffel.
+					</p>
+					<pb n="2" />
+					<p>
+						<lb />
+						Qx: Ob niemand bey ihm seye wenns vögel
+						<lb />
+						mache?
+					</p>
+					<p>
+						<lb />
+						Rx: Ja es seye nur grosser schwarzer vogel bey ihmm,
+						<lb />
+						es seye der vogel wo auch bey ihm seye, wenn es die
+						<lb />
+						kräuter im holz holle.
+					</p>
+					<p>
+						<lb />
+						Qx: Wie gross dieser vogel seye?
+					</p>
+					<p>
+						<lb />
+						Rx: schier wie en federgans.
+					</p>
+					<p>
+						<lb />
+						Qx: Ob er auch mit ihm rede?
+					</p>
+					<p>
+						<lb />
+						Rx Ja er sage es schade nüt, es seye nit sünd.
+					</p>
+					<p>
+						<lb />
+						Qx: Wer diese kunst mehr känne?
+					</p>
+					<p>
+						<lb />
+						Rx: seine brüeder kännend sie auch, der
+						<lb />
+						vater habe sie auch gelehrt.
+					</p>
+					<p>
+						<lb />
+						Qx: ob es ein
+						<unclear>
+							[vieter]
+						</unclear>
+						auch mache?
+					</p>
+					
+						<p><lb />
+						Rx: Nein, es gebe dann keine kraüter.
+						<lb />
+						</p>
+						<p><lb/>Durch mehrere frag 
+						vird ohne zweiffel
+						<lb/>nach viel zu vernemmen seye.
+					</p>
+				</body>
+				<back>
+					<div>
+						<p>
+							Der Fall «Barbeli Senn» passt in das Bild der späten Hexenprozesse im späteren 17. und frühen 18. Jahrhundert, in denen Kinderhexenprozesse
+							eine immer grössere Rolle spielten. Und er schickt Mädchen und Brief nicht wie üblich zum kleinen Rat, sondern zum Antistes den Vorsteher der Kirche, Johann Ludwig Nüscheler, der als ausgesprochener Vertreter der
+							Spätorthodoxie gilt. Schliesslich befasste sich der kleine Rat von Zürich mit dem Fall. Am 9. Juli wird beschlossen, dass Barbeli im Oetenbach bleiben soll, um unterrichtet zu werden, während
+							sie von weiteren Körperstrafen verschont bleibt. Das Verhörsprotokoll mit Barbeli Senn ist eine Beilage des Briefes. Ratsmanual (B II 753, S. 5-6)
+						</p>
+					</div>
+				</back>
+	</text>
+</TEI>
