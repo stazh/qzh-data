@@ -4781,12 +4781,6 @@
                     <geo>47.57599 8.94028</geo>
                 </location>
             </place>
-            <place xml:id="LOC_47.368694_8.542611" n="Wellenberg">
-                <placeName type="main">Wellenberg</placeName>
-                <location>
-                    <geo>47.368694 8.542611</geo>
-                </location>
-            </place>
             <place xml:id="LOC_47.368744_8.542639" n="Wellenberg, Wellennberg, Welenberg, Wellenbärg">
                 <placeName type="main">Wellenbärg</placeName>
                 <placeName type="main">Welenberg</placeName>
