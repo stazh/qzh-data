@@ -32,19 +32,30 @@
                         <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294"
                             >STAZH A 27.134 (Nr. 59)</idno>
                     </msIdentifier>
-                    <head>Brief von Hans Jakob Amman, Pfarrer von Augst, an Antistes Johann Ludwig Nüscheler wegen Verdacht auf Hexerei im Fall "Barbeli Senn", 27.06.1721.</head>
+                    <head>Brief von Hans Jakob Ammann, Pfarrer von Aeugst am Albis, an Antistes
+                        Johann Ludwig Nüscheler wegen Verdacht auf Hexerei im Fall "Barbeli Senn",
+                        27.06.1721.</head>
                     <msContents>
-                        <summary> Im Brief wendet sich Hans Jakob Amman, der Pfarrer von Augst an den Antistes Johann Ludwig Nüscheler. Im Brief denunziert er Barbeli Senn wegen Hexerei. Barbeli 
-                        ist ein zehnjähriges Mädchen, das aufgrund des Lebenswandels ihrer Eltern verdingt wurde. Bevor er den eigentlichen Fall beschreibt, erzählt Amman die Geschichte der Familie 
-                        Senn, die zwischen Bern und Zürich "beständig im Land herum gezogen". Barbeli Senn wird der Hexerei verdächtigt, weil sie gegen die Bezahlung von 20 Bazen angeboten habe, 
-                        schwarze Vögel zu zaubern. Die Kinder der Bauernfamilie, bei der Barbeli seit sechs Wochen lebe, bezeugen dies. Der Bauernsohn habe gesehen, wie sie Kräuter in den Bach legte, 
-                        diese mit einem Stecken schlug und schwarze Vögel davon flogen. Die 20 Bazen habe sie ihrem Vater gegeben, indem sie es einem schwarzen Vogel ins Mund legt und dieser es ihrem 
-                        Vater bringt. Pfarrer Amman verweist im Brief auf das "fründlich Examen", in dem er Barbeli Senn selbst verhörte.</summary>
+                        <summary> Im Brief wendet sich Hans Jakob Amman, der Pfarrer von Aeugst an
+                            den Antistes Johann Ludwig Nüscheler. Im Brief denunziert er Barbeli
+                            Senn wegen Hexerei. Barbeli ist ein zehnjähriges Mädchen, das aufgrund
+                            des Lebenswandels ihrer Eltern verdingt wurde. Bevor er den eigentlichen
+                            Fall beschreibt, erzählt Amman die Geschichte der Familie Senn, die
+                            zwischen Bern und Zürich "beständig im Land herum gezogen". Barbeli Senn
+                            wird der Hexerei verdächtigt, weil sie gegen die Bezahlung von 20 Batzen
+                            angeboten habe, schwarze Vögel zu zaubern. Die Kinder der Bauernfamilie,
+                            bei der Barbeli seit sechs Wochen lebe, bezeugen dies. Der Bauernsohn
+                            habe gesehen, wie sie Kräuter in den Bach legte, diese mit einem Stecken
+                            schlug und schwarze Vögel davon flogen. Die 20 Batzen habe sie ihrem
+                            Vater gegeben, indem sie es einem schwarzen Vogel ins Mund gelegt und
+                            dieser es ihrem Vater gebracht habe. Pfarrer Ammann verweist im Brief
+                            auf das "fründlich Examen", in dem er Barbeli Senn selbst verhört
+                            habe.</summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Brief</filiation>
                             <filiation type="original"><origDate when="1721-06-27"
-                            />27.06.1721</filiation>
+                                />27.06.1721</filiation>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -88,7 +99,7 @@
                 <body> 
                     <div>
             <pb n="1"/>   
-			<head><lb/><persName>Emanuel</persName>!</head>
+			<head><lb/>Emanuel!</head>
             <head><abbr>T.S.</abbr> Wohlerwürdiger, frommer, hochgelehrter, in sonders 
             <lb/>hochgeehrter herr antistes.</head>
 			<p><lb/>Nach dem im <date when="1718-02">hornung 1718</date> <persName>Rudi Senn</persName> mit seiner frauwen, 
