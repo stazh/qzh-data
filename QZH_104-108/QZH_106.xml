@@ -81,6 +81,7 @@
     </teiHeader>
             <text>
                 <body>
+                    <pb n="1"/>
                     <p>
             <lb/>Actum dienstags den 1ten Julij <!--Julii?--> anno 1721
             <lb/>Prasentibus Herr Ratsherr Johann Conrad Werdmüller und 
@@ -118,6 +119,7 @@
             <lb/>güte zum vögelimachen bringen, worüber das Barbeli 
             <lb/>Murer selbigem auch einen schilling versprochen wann es ihms 
             <lb/>weise
+                        <pb n="2"/>
             <lb/>seyen darüber beyde mit ein anderen ohngefahr vor 8 tagen 
             <lb/>in circa um 10 uhr in ein holtz gangen, Barbeli Senn habe 
             <lb/>kraüter gewunnen, selbige in ein wasser gelegt, mit einer 
@@ -145,7 +147,7 @@
                 Barbeli Senn selbst bey ihmme versorget 
             <lb/>gewesen.</del> Endtlich und zum 
             <lb/>5.
-            <lb/>So wurde das Barbeli Senn selbsten in dem Ödten-
+            <lb/>So wurde das Barbeli Senn selbsten in dem Ötten-
             <lb/>bach folgender maassen examiniert und verhört
             <lb/>1.Q: Wie es heisse?
             <lb/>R: Barbeli Senn
@@ -154,60 +156,62 @@
             <add place="right">Wie Alt. R: Eff jahr</add>
             <lb/>3.Q. Warum vorhanden?
             <lb/>R: wegen vögeli machens
+                        <pb n="3"/>
             <lb/>4.Q. Obs denn dergleichen machen könne?
             <lb/>R: Ja
-            <lb/>5.Q. wes er gelehrt? 
-            <lb/>R: Sein Adti
+            <lb/>5.Q. wer er gelehrt? 
+            <lb/>R: Sein ätti
             <lb/>6.Q. Wie lang sinth denn?
             <lb/>R: Ey fahrt schon lang, wüss es eigentlich nit mehr
             <lb/>7.Q. Wo er selbiges gelehrt
-            <lb/>R: In der Mäss um Brämgarten in einem Holtz
-            <lb/>8.Q: Warum Er selbiges gelehrt?
-            <lb/>R: Habe g‘sagt, wolls schlagen wenn es solches nicht lehrne
-            <lb/>9.Q. Ob es etwas sagen müsse, wenn es solle Vögel machen?
-            <lb/>R: Nein nüd ä Wort, sondern nur die Kraüter in ein Wasser 
-            <lb/>werffen und mit einer Ruthen darauf schlagen
-            <lb/>10.Q. Was gatung die Ruthen wormit es die Kraüter schlagen?
+            <lb/>R: In der mäss um Brämgarten in einem holtz
+            <lb/>8.Q: Warum er selbiges gelehrt?
+            <lb/>R: Habe g‘sagt, wolls schlagen wann es solches nicht lehrne
+            <lb/>9.Q. Ob es etwas sagen müsse, wann es solle vögel machen?
+            <lb/>R: Nein nüd ä wort, sondern nur die kraüter in ein wasser 
+            <lb/>werffen und mit einer ruthen darauf schlagen
+            <lb/>10.Q. Was gatung die ruthen wormit es die kraüter schlagen?
             <lb/>R: Jä es wüsse solches nicht
-            <lb/>11.Q. Was das für Kraüter die es zu diser Kunst brauche, zu 
+            <lb/>11.Q. Was das für kraüter die es zu diser kunst brauche, zu 
             <lb/>dem ob es vill oder nur einerley
-            <lb/>R. es seye viererley, {[gestrichen]nammlich Erdbeerkraut, Fünfffinger-
-            <lb/>kraut, und Äbhaü, das vierte wüsse es nicht mehr}
-            <lb/>{dis Kraüter aber es wüss nit wie sie heissendt}
+            <lb/>R. es seye viererley, <del>nammlich erdbeerkraut, fünfffinger-
+            <lb/>kraut, und äbhaü, das vierte wüsse es nicht mehr</del>
+            <lb/><add place="above">dis kraüter aber es wüss nit wie sie heissendt</add>
             <lb/>12.q. Wo es selbige abbreche und abhole?
-            <lb/>R. Im Holtz, dann die seyen am kräfftigsten zu dieseren
-            <lb/>13.q. Ob die jennigen Vögel auch fliegen können wo es mache, gleich 
+            <lb/>R. Im holtz, dann die seyen am kräfftigsten zu dieseren
+            <lb/>13.q. Ob die jennigen vögel auch fliegen können wo es mache, gleich 
             <lb/>den anderen?
             <lb/>R. Ja sie fliegend wie die anderen
             <lb/>14.q. Wie vill es auf einmahl gebe?
-            <lb/>R Etwann 3 oder {[gestrichen]4}
+            <lb/>R. Etwann 3 oder <del>4</del>
             <lb/>15.q. Wie gross die selbigen?
-            <lb/>R: Etwann wie ein kleines Maüssli
+            <lb/>R: Etwann wie ein kleines maüssli
             <lb/>16.q. Obs schon öffters gemacht?
-            <lb/>R. Ja, alle Tag, denn sein ädti habe g‘sagt müsse alle tag 
-            <lb/>machen, sonst holle es der Teüffel
-            <lb/>17.q. Ob es auch schon vor anderen Leüthen gemacht?
-            <lb/>R: Ja, und zwahr bey wesen des Heinrichen Maurers, der, da 
-            <lb/>er sie gesehen dem Tach zu fliegen sich beseegnet und ge-
+            <lb/>R. Ja, alle tag, denn sein ädti habe g‘sagt müsse alle tag 
+            <lb/>machen, sonst holle es der teüffel
+            <lb/>17.q. Ob es auch schon vor anderen leüthen gemacht?
+            <lb/>R: Ja, und zwahr beywesen des Heinrich Maurers, der, da 
+            <lb/>er sie gesehen dem tach zu fliegen sich beseegnet und ge-
             <lb/>förchtet
-            <lb/>18.q. Ob es ihmme solches umsonsten gezeigt?
-            <lb/>R. Er habe selbigem 1 Schilling versprochen aber nit geben
+            <lb/>18.q. Ob es ihmme solches umsonst gezeigt?
+            <lb/>R. Er habe selbigem 1 schilling versprochen aber nit geben
             <lb/>19.q. Ob es nicht auch jemanden machen lehren wollen?
-            <lb/>R: ja, und zwahr das Barbeli Murer
-            <lb/>20.q. Ob es ihmme umsonsten zeigen wollen?
-            <lb/>R: Nein, sondern habe von ihmme 20 Batzen gefordert, welches 
+            <lb/>R: Ja, und zwahr das Barbeli Murer
+            <lb/>20.q. Ob es ihmme umsonst zeigen wollen?
+            <lb/>R: Nein, sondern habe von ihmme 20 batzen gefordert, welches 
             <lb/>gelt
-            <lb/>gelt es denn seinem bey sich gehabten grossen Vogel in den 
-            <lb/>Schnabel geben wollen, denn sein Vadter g‘sagt,solle es allso 
+                       <pb n="4"/>
+            <lb/>gelt es denn seinem bey sich gehabten grossen vogel in den 
+            <lb/>schnabel geben wollen, denn sein vadter g‘sagt,solle es allso 
             <lb/>machen 
-            <lb/>{der Vadter befohlen des geforderte geld in Schnabel geb, der wüsst wo Er seye undt
+            <lb/>{der vadter befohlen des geforderte geld in schnabel geb, der wüsst wo er seye undt
                 werde ihm bringen}
-            <lb/>21.q. Wie gross diser Vogel, und was farbs?
-            <lb/>R: Etwann wie ein Federgans und schwarz
-            <lb/>22.g. Ob sonsten jemand mehr diesere Kunst kenne als nur es allein?
-            <lb/>R: Seine Brüderen der Ädti habs auch g‘lehrt machen
+            <lb/>21.q. Wie gross diser vogel, und was farbs?
+            <lb/>R: Etwann wie ein federgans und schwarz
+            <lb/>22.g. Ob sonsten jemand mehr diesere kunst kenne als nur es allein?
+            <lb/>R: Seine brüderen der ädti habs auch g‘lehrt machen
             <lb/>23.q. Warum es das barbeli Maurer heissen zuruck gehen
-            <lb/>R. Es dörffe niemand vor handen seyn wenns mit Vögelmachen 
+            <lb/>R. Es dörffe niemand vor handen seyn wenns mit vögelmachen 
             <lb/>umgange
             <lb/>24.q. Ob es aber auch selbst die Vögel g‘sehn so es gemacht?
             <lb/>R. Nein, sondern die Leüth haben es so g‘sagt
