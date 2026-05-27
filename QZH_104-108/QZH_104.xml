@@ -96,9 +96,10 @@
         </profileDesc>
     </teiHeader>
     <text>
+        <!--Transkriptionen-->
                 <body> 
                     <div>
-            <pb n="1"/>   
+                        <pb n="1" facs="A_27_134__Nr__59__S__1_.tif"/>   
 			<head><lb/>Emanuel!</head>
             <head><abbr>T.S.</abbr> Wohlerwürdiger, frommer, hochgelehrter, in sonders 
             <lb/>hochgeehrter herr antistes.</head>
@@ -108,76 +109,76 @@
             <lb/>im bernergebiet,  <del rend="strikethrough">auf</del> auf <placeName ref="LOC_47.26703_8.48539">Aügst</placeName> abgesungen godtslesterlichen 
             <lb/>liedleins, mit villen seinen kinderen im land aufgeführt mal in 
 			    <lb/><placeName ref="LOC_47.374444_8.541111">Öttenbach</placeName> gelegt worden, werd den <date when="1718-02-09">9. februar</date> coram senatu er<lb break="no"/>kennt:<!-- msr -->
-             Dass der <persName>Heinrlichli</persName> wägen ermelte godtlosen lieds zwey,
+             Dass der <persName>Heinrichli</persName> wägen ermelte godtlosen lieds zwey,
             <lb/>das <persName>Anneli</persName> einmahl durch den profosen in zusehen des <persName>Hanselis</persName>
-            <lb/>wie auch ihres vadters und muter gezüchtiget, auch darauff<lb break="no"/>hin
+            <lb/>wie auch ihres vadters und der muter gezüchtiget, auch darauff<lb break="no"/>hin
              ihnen und den herren nachgängern erforderlich zugesprochen, die 
             <lb/>muter aber, von welcher die kinder das liedli gehört und ge-
-            <lb/>lernt, in beyseyn der herren nachgängern den boden küssen, und 
-            <lb/>2. mahl mit der ruthenen an der stud gezüchtiget, hernach durch die
+            <lb/>lehrnt, in beyseyn der herren nachgängern den boden küssen, und 
+            <lb/>2. mahl mit der ruthen an der stud gezüchtiget, hernach durch die
             <lb/>profossen aus dem land geführt und 6 jahr lang das land bannisiert 
-            <lb/>sey, ihren mann aber ernstlich zugesprochen werde, sich ehrlich im 
+            <lb/>seyn, ihrem mann aber ernstlich zugesprochen werd, sich ehrlich im 
             <lb/>land durch fleissige arbeit und wolverhalten sich zuerhalten 
-            <lb/>trachten solle; die kinder aber im <placeName ref="LOC_47.374444_8.541111">Ödtenbach</placeName> verbleiben sollind; 
-            <lb/>als nun dies erkantnus effectuieret worden, hat diser <persName>Rudi</persName>, als 
+            <lb/>trachten solle; die kinder aber im <placeName ref="LOC_47.374444_8.541111">Ödtenbach</placeName> verbleiben sollind.
+            <lb/>Als nun dies erkantnus effectuieret worden, hat diser <persName>Rudi</persName>, als 
             <lb/>er ledig gelasen worden, sich mit seiner godtlosen frauwn zum land 
             <lb/>ausgemacht, und im fürgang sein jüngstes kind <persName>Barbara</persName> 
             <lb/>genant (welches hier gegenwärtig und dem <date when="1711-05-03">3 ten Maii 1711</date>
 			    <lb/>zu <placeName ref="LOC_46.55539_7.37302">Zweysimmen</placeName> im oberen <placeName ref="LOC_46.55_7.4">Sibenthal</placeName>, <placeName ref="LOC_LOC_46.87251_7.59563">Bernergebiets</placeName>, getauft 
-            <lb/>worden
-            <pb n="2"/><!-- msr -->
-			<lb/>worden, testibus literis <persName>Emanuelis Massè</persName>, pastoris) und 
-            <lb/>zu <placeName ref="LOC_47.29794_8.4483">Hedingen</placeName> um <num value="3">3</num>. brötli und <num value="12">12</num> schiling verdinget war, mit 
+            <lb/>worden</p>
+            <pb n="2"/>
+			<p><lb/>worden, testibus literis <persName>Emanuelis Massè</persName>, pastoris) und 
+            <lb/>zu <placeName ref="LOC_47.29794_8.4483">Hedingen</placeName> um <num value="3">3</num> brötli und <num value="12">12</num> schiling verdinget war, mit 
             <lb/>hinweg genommen, nach etlichen wuchen aber sein stiefftöchter-
             <lb/>lein und das <persName>Anneli</persName>, welche er, als die Ödtenbacher-
-            <lb/>kinder an einem Abend des moren ausgegangen, auch geraubet 
+            <lb/>kinder an einem abend des moren ausgegangen, auch geraubet 
             <lb/>und entführt, seiner beide aber zugleich nur wider <add place="left_margin">nach etlichen wuchen</add> zu
             <lb/>rük gesendt, dass <persName>Anneli</persName> ist wider in <placeName ref="LOC_47.374444_8.541111">Ödtenbach</placeName>
             <lb/>genommen worden, dem <persName>Barbeli</persName> aber sind widerum 3 brödtli
-            <lb/>und 12 schiling obrigkeitlich zu seiner enderhaltung verordnet 
-            <lb/>worden, seid welcher Zeit ich es an dridten tisch mit grosser 
-            <lb/>mühe bringen mögen. Disen abend aber um 4 uhren als 
-            <lb/>ich für das haus kommen, allwo es sich auhalten: dies 
-            <lb/>böse zeitung vernommen: Es kömmen vögeli machen, dess-
+            <lb/>und 12 schiling obrikeitlich zu seiner underhaltung verordnet 
+            <lb/>worden, sid welcher zeit ich es an dritten tisch mit grosser 
+            <lb/>mühe bringen möge. Disen abend aber um 4 uhren, als 
+            <lb/>ich für das haus kommen, allwo es sich aufhalt: dise
+            <lb/>böse zeitung vernommen: Es kömme vögeli machen, dess-
             <lb/>wegen ich mich ungesaumet mit meinem sohn <choice><abbr>v.d.m.</abbr><expan>verbi dei minister</expan></choice><!-- msr -->
             <lb/>zu disem kind begeben, ein fründlich examen mit 
             <lb/>ihme gehalten gegenwärtige red nach andere fragen 
             <lb/>mehr, wie auf beylag zersehen, gethan.</p>
             <p><lb/>Disere sach ist heüt aufkommen durch einen frommen ledigen 
             <lb/>jungen knaben, der mit ihme ins holz gangen, als es 
-            <lb/>die kreuter gesucht, dises kind sein recht zuerkündigen 
+            <lb/>die kreuter gesucht, dises kind sein recht zuerkundigen 
             <lb/>oder zuerfoschen, als sie heim kommen, hats die kräuter 
             <lb/>ins bächli glegt und selbige mit einer ruthen geschlagen 
             <lb/>aber nüt darzu gredet, worauf 2 schwarze vögel ent-
-            <lb/>standen, ohne schwanz, wie [schwalmen], den grossen 
-            <lb/>schwarze</p>
+            <lb/>standen, ohne schwanz, wie schwalmen, den grossen 
+            <lb/>schwarzen</p>
             <pb n="3"/>
-			<p><lb/>schwarze vogel aber, als es die kreuter geschlagen 
-            <lb/>zu dem es g‘sagt, gang dennen <unclear>unflaat</unclear> habe er nit 
-            <lb/>gsehen, als er die <add place="above">2</add><!-- msr --> vögel under dem tach oder bey dem 
+			<p><lb/>schwarzen vogel aber, als es die kreuter gschlagen 
+            <lb/>zu dem es g‘sagt, gang dennen <unclear>unflaat</unclear> <!--unklar-->habe er nit 
+            <lb/>gsehen, als er die <add place="above">2</add> vögel under dem tach oder bey dem 
             <lb/>tach gesehen habe er sich gförchtet. <persName>Hans Murers</persName>,
             <lb/>praesens est, töchterli, welches 14 jährig, hat 
             <lb/>es dies sach auch lehren wollen, wenn es ihme 20 
             <lb/>bazen gebe und als es ihns gfraget, wo es mit den 
             <lb/>20 bazen dann hie wolle? Habe es gsagt: Es müsse sie 
             <lb/>dem vadter gäben, der schwarz vogel bränge sie 
-            <lb/>ihme in schnabel, er wüsst wol wo er seye.</p>
-                    <p><lb/>Disere sach konte einem vor wie ein unehrlich, doch <damage agent="clipping">
-                        <gap quantity="3" unit="cm" />
+            <lb/>ihme in schnabel, er wüsst wol wo er seye.</p> 
+                    <p><lb/>Disere sach komt einem vor wie ein unehrlich, doch <damage agent="clipping">
+                        <gap quantity="3" unit="cm"/>
                     </damage>
-            <lb/>[..ters] böses herausen die selbige nun recht zu xxxx 
-            <lb/>hab ich einer nothwendigkeit zu seyn erachtet, xxx 
+            <lb/>eters böses herausen die selbige nun recht zu 
+            <lb/>hab ich einer nothwendigkeit zu seyn erachtet, 
             <lb/>ohne verzug dises armen kind, durch <persName>Hans Murer</persName>
-            <lb/>bey dem es am tisch ist, meinem gnädigen [gegl] herr zu-
-            <lb/>übersende. Sonste kann das kind schöne bäten und 
-            <lb/>quastiunculas; hat u der tischfrau den [Suhen] dass 
-            <lb/>es morgens und abends fleissig bädte.</p>
-            <p><lb/>wormit ich meine gnädigen herren antistitem<!-- msr -->der gnädigen 
-            <lb/>obsorg godtes herzlich befehle und verbleibe</p> 
-            <p><lb/>in Eyl den <date when="1721-06-27">27. te Jun</date> auf <date when="1721-10">Aügst anno 1721</date></p>
+            <lb/>bey dem es am tisch ist, meinem gnädigen [gegl] <!--unklar--> herr zu-
+            <lb/>übersenden. Sonsten kann das kind schöne bäten und 
+            <lb/>quastiunculas; hat u der tischfrau den [Suhen] <!--unklar-->dass 
+            <lb/>es morgens und abends fleissig bätte.</p>
+            <p><lb/>Wormit ich meine gnädigen herren antistitem der gnädigen 
+            <lb/>obsorg gottes herzlich befehle und verbleibe.</p> 
+            <p><lb/>In eyl den <date when="1721-06-27">27. te Jun</date> auf Aügst anno 1721</p>
             <p><lb/>Meinem gnädigen herren antistes
             <lb/>gehorsamter 
-            <lb/>herr <persName>Jac. Ammann <choice><abbr>VDM</abbr><expan>verbi dei minister</expan></choice></persName></p>	
+            <lb/>herr <persName>Jac. Ammann <choice><abbr>VDM</abbr><!--unklar--><expan>verbi dei minister</expan></choice></persName></p>	
                     </div>
          
         </body>
