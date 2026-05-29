@@ -96,7 +96,7 @@
         </profileDesc>
     </teiHeader>
     <text>
-        <!--Transkriptionen-->
+        
                 <body> 
                     <div>
                         <pb n="1" facs="A_27_134__Nr__59__S__1_.tif"/>   
@@ -108,7 +108,7 @@
             <lb/>beständig im land herum gezogen, vergäbende: Er arbeite 
             <lb/>im bernergebiet,  <del rend="strikethrough">auf</del> auf <placeName ref="LOC_47.26703_8.48539">Aügst</placeName> abgesungen godtslesterlichen 
             <lb/>liedleins, mit villen seinen kinderen im land aufgeführt mal in 
-			    <lb/><placeName ref="LOC_47.374444_8.541111">Öttenbach</placeName> gelegt worden, werd den <date when="1718-02-09">9. februar</date> coram senatu er<lb break="no"/>kennt:<!-- msr -->
+ <lb/><placeName ref="LOC_47.374444_8.541111">Öttenbach</placeName> gelegt worden, werd den <date when="1718-02-09">9. februar</date> coram senatu er<lb break="no"/>kennt:<!-- msr -->
              Dass der <persName>Heinrichli</persName> wägen ermelte godtlosen lieds zwey,
             <lb/>das <persName>Anneli</persName> einmahl durch den profosen in zusehen des <persName>Hanselis</persName>
             <lb/>wie auch ihres vadters und der muter gezüchtiget, auch darauff<lb break="no"/>hin
@@ -126,7 +126,7 @@
             <lb/>genant (welches hier gegenwärtig und dem <date when="1711-05-03">3 ten Maii 1711</date>
 			    <lb/>zu <placeName ref="LOC_46.55539_7.37302">Zweysimmen</placeName> im oberen <placeName ref="LOC_46.55_7.4">Sibenthal</placeName>, <placeName ref="LOC_LOC_46.87251_7.59563">Bernergebiets</placeName>, getauft 
             <lb/>worden</p>
-            <pb n="2"/>
+                        <pb n="2" facs="A_27_134__Nr__59__S__2_.tif"/>
 			<p><lb/>worden, testibus literis <persName>Emanuelis Massè</persName>, pastoris) und 
             <lb/>zu <placeName ref="LOC_47.29794_8.4483">Hedingen</placeName> um <num value="3">3</num> brötli und <num value="12">12</num> schiling verdinget war, mit 
             <lb/>hinweg genommen, nach etlichen wuchen aber sein stiefftöchter-
@@ -152,7 +152,7 @@
             <lb/>aber nüt darzu gredet, worauf 2 schwarze vögel ent-
             <lb/>standen, ohne schwanz, wie schwalmen, den grossen 
             <lb/>schwarzen</p>
-            <pb n="3"/>
+                        <pb n="3" facs="A_27_134__Nr__59__S__3_.tif"/>
 			<p><lb/>schwarzen vogel aber, als es die kreuter gschlagen 
             <lb/>zu dem es g‘sagt, gang dennen <unclear>unflaat</unclear> <!--unklar-->habe er nit 
             <lb/>gsehen, als er die <add place="above">2</add> vögel under dem tach oder bey dem 
@@ -179,6 +179,15 @@
             <p><lb/>Meinem gnädigen herren antistes
             <lb/>gehorsamter 
             <lb/>herr <persName>Jac. Ammann <choice><abbr>VDM</abbr><!--unklar--><expan>verbi dei minister</expan></choice></persName></p>	
+                        <pb n="4" facs="A_27_134__Nr__59__S__4_"/>
+                        <p>
+                        <lb/><!--unklar-->dem ehrwürdigen, frommen
+                        <lb/>hochgelehrten herren, herrn
+                        <lb/><persName>Ludwig Nüscheler</persName>, Antistiti
+                        <lb/>und pfarrer zum grossen
+                        <lb/>münster zu sonders hochgelehrte
+                            <lb/>gegenhand in <placeName ref="LOC_47.36667_8.55">Zürich</placeName>
+                        </p>
                     </div>
          
         </body>
