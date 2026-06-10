@@ -32,7 +32,7 @@
                         <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294"
                             >STAZH A 27.134 (Nr. 63)</idno>
                     </msIdentifier>
-                    <head>Brief von Hans Jakob Amman, Pfarrer von Augst, an Antistes Johann Ludwig Nüscheler wegen Verdacht auf Hexerei im Fall "Barbeli Senn", 27.06.1721.</head>
+                    <head>Brief von Josef Jacob Ulrich an Bürgermeister "Barbeli Senn", 27.06.1721.</head>
                     <msContents>
                         <summary><!-- Regest --></summary>
                         <msItem>
@@ -81,72 +81,51 @@
     </teiHeader>
     <text>
                 <body>
+                    <pb n="1" facs="A_27_134__Nr__63__S__1_.tif"/>
    <p><lb/>A 27.134
-            <lb/>Gnädiger herr Bürgermeister
-            <lb/>Hochgeachte usf gnädige Herren
-            <lb/>das arme in dem Oetenbach gefangen sizende und der 
-            <lb/>Hexerey und Vögelmacherey beklagte Barbeli Senn ab Aügst 
-            <lb/>ist von mir zufolg Eüer meiner gnädigen Herren hohn befehls besucht und 
+            <lb/>Gnädiger herr bürgermeister
+            <lb/>Hochgeachte usf<!--unklar--> gnädige herren
+       <lb/>Das arme in dem <placeName ref="LOC_47.374444_8.541111">Oetenbach</placeName> gefangen sitzende und der 
+            <lb/>hexerey und vögelmacherey beklagte <persName>Barbeli Senn</persName> ab <placeName>Aügst</placeName> 
+            <lb/>ist von mir zufolg eüer meiner gnädigen herren hohn befehls besucht und 
             <lb/>das nothwendige mit ihme geredet worden. Es beharret seiner 
-            <lb/>letzten gegen den herren Verwalter daselbst und auch meinen gnädigen Herren Nach-
-            <lb/>gängern gethander aussag, dass es niemahls weder Vögel ge-
-            <lb/>macht, noch selbige machen könne; so auch glaüblichr, als wenn es 
-            <lb/>das gegentheil praetendierte anbey bidtet es Godt und seine gnädigen 
-            <lb/>Herren der gegebenen ärgerniss halber um Verzeihung und gelobet hin-
+            <lb/>letzten gegen den herren verwalter daselbst und auch meinen gnädigen herren nach-
+            <lb/>gängern gethander aussag, dass es niemahls weder vögel ge-
+            <lb/>macht, noch selbige machen könne; so auch glaüblicher, als wann es 
+            <lb/>das gegentheil praetendierte anbey bidtet es godt und seine gnädigen 
+            <lb/>herren der gegebenen ärgerniss halber um verzeihung und gelobet hin-
             <lb/>künftig an solche sachen nichtmehr weder zugedenken, noch darvon 
-            <lb/>zureden. Übrigens ist das arme Kind in der Religion unwüssend 
+            <lb/>zureden. Übrigens ist das arme kind in der religion unwüssend 
             <lb/>kan weder schreiben noch lesen noch die kleinen fragstüklein aus-
             <lb/>wendig sagen. Es hat zwahren etliche schöne gebedtlein gelehret 
-            <lb/>allein erzehlt solche so verkehrs und Rothwelsch, dass es zu er-
+            <lb/>allein erzehlt solche so verkehrs <!--unklar-->und rothwelsch, dass es zu er-
             <lb/>barmen und ohne schreken kaum anzuhören, das mitleidenswürdige 
-            <lb/>Kind, so sonst einen guten natürlichen verstand scheinet zu haben, wänn
-            <lb/>wol zum heil seiner [seelen] am [beth] in dem weisenhaus, alwo 
-            <lb/>annach 3 seiner geschwisterten sind, erlaget, da dann gemelte sorg-
-            <lb/>falt seinetwegen anwenden wolte, dass es Godt zur seligkeit möchte 
+            <lb/>kind, so sonst einen guten natürlichen verstand scheinet zu haben, wänn
+            <lb/>wol zum heil seiner [seelen] am [beth] <!--unklar-->in dem weisenhaus, alwo 
+            <lb/>annach 3 seiner geschwisterten sind, verlaget, da dann gemelte sorg-
+            <lb/>falt seinetwegen anwenden wolte, dass es godt zur seligkeit möchte 
             <lb/>kennen lehrnen. Hoffete, es würde sich willig leithen lassen und herleiten 
-            <lb/>im heren an ihm nicht vergeblich sein [?] sie denn auch es seiner 
-            <lb/>Eltern schwehre, so vor etwas Zeiten von bern hierher gekommen, nicht 
-            <lb/>ohne sagen zu sein [Heimat] überlasse aber alles lediglich 
-            <lb/>Eüer meiner gnädigen Herren hoher und weiser disposition, 
-            <lb/>dern Gnad ich blos dises arme blut recommendieren 
+            <lb/>im heren an ihm nicht vergeblich sein<!--unklar-->sie denn auch es seiner 
+            <lb/>eltern schwehre, so vor etwas zeiten von bern hierher gekommen, nicht 
+       </p>
+                    <pb n="2" facs="A_27_134__Nr__63__S__2_.tif"/>  <p> 
+            <lb/>ohne sagen zu sein heimat <!--unklar--> überlasse aber alles lediglich 
+            <lb/>eüer meiner gnädigen herren hoher und weiser disposition, 
+            <lb/>dern gnad ich blos dises arme blut recommendieren 
             <lb/>und nicht dess innigester anwieschung alles himmlischen 
-            <lb/>segens zu fürwere gesegneter Regierung etc. [??] 
-            <lb/>mehrer Ehrerbietigkeit des herzens verharre
-            <lb/>Eüer gnädigen und [???] meine gnädigen hochgeleitenden Herren
-            <lb/>Underthanigster getreüwer diener und bürger
-            <lb/>Josef Jacob Ulrich vmd im Oetenbach
+            <lb/>segens zu fürwere gesegneter regierung etc. in
+            <lb/>mehrer ehrerbietigkeit des herzens verharre
+            <lb/>eüer gnädigen und wahrhaften <!--unklar--> meine gnädigen hochgeleitenden herren
+            <lb/>underthanigster getreüwer diener und bürger
+            <lb/><persName>Josef Jacob Ulrich</persName> vmd im <placeName>Oetenbach</placeName>
             <lb/>den 6. Juli 1721
             <lb/>9.7.21
-            <lb/>B II 753, S. 19
-            <lb/>Meine gnädigen herren lassen es bey beschehener 
-            <lb/>Züchtigung des Anneli Sennen im 
-            <lb/>Schellen der Pfahr Aügst, vonwe-
-            <lb/>gen vermeintlicher Vögelin-machung 
-            <lb/>und weilen sich aus allem geaü-
-            <lb/>S. 20
-            <lb/>ssert, dass es solches einfalten 
-            <lb/>Leuthen nur vorgegeben, bewenden. 
-            <lb/>In der fehrneren Meinung, dass sel-
-            <lb/>biges für etwas Zeits in dem Ödten-
-            <lb/>bach erhalten, und in dem Handel 
-            <lb/>des Heils underrichtet, zu dem 
-            <lb/>End hin der Herr Pfarrer Ulrich er-
-            <lb/>rinneret, auf dises Kind fleissig 
-            <lb/>zu invigilieren, und mit ihme 
-            <lb/>welen es annach auf dem Vater, 
-            <lb/>das er Ihm solches angegeben, 
-            <lb/>verharret, die Nothwendigkeit zu
-            <lb/>reden: dem Herren Vogt Brämen zu 
-            <lb/>Knonau aber intimiert, auf sei-
-            <lb/>nen Vadter den Ruedi Senn ge-
-            <lb/>spräch machen, und ihne auf beser-
-            <lb/>ten allher sichen zulassen, da 
-            <lb/>enthin dem herren Obermeister am Allmosen-
-            <lb/>amt eine Erkantnus zugestellt 
-            <lb/>werden solle, dass das von obi-
-            <lb/>gen Barbeli Senn genossne Allmo-
-            <lb/>sen, weilen es sich im Ödtenbach be-
-            <lb/>findet cehsieren thüege</p>
+        </p>
+                    <pb n="3" facs="A_27_134__Nr__63__S__3_.tif"/>
+                    <pb n="4" facs="A_27_134__Nr__63__S__4_.tif"/>
+                    <p><lb/><persName>Barbeli Senn</persName> ab <placeName>Aügst</placeName>
+                        <lb/>
+               </p>
               </body>
 
                 <back>
