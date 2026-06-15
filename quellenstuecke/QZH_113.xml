@@ -154,7 +154,7 @@
     <text>
         <body>
             <div>
-                <pb/>
+                <pb facs="C_I__Nr__379__r_.tif"/>
                <p><lb/>In dem namen des vatters, des sunes und des heiligen geistes, amen. Wir
                 burgermeister, die schultheissen, amman, raͤtte, burger, lanndtlütte und gemeinden
                 gemeinlich diser hienach gemeͣltten stetten und lenndern, namlich von <placeName
@@ -316,7 +316,9 @@
                     yegklichem ortt unnder unns einer geben ist <date when-custom="1481-12-22">uff
                         den nechsten sampstag nach sant Thomans tag des heiligen zwoͤlftbotten, als
                         man zallt von der gepurt Cristi unnsers herren tusend vierhunndert
-                        <lb/>achtzig und ein jaͧre.</date></seg></p></div>
+                        <lb/>achtzig und ein jaͧre.</date></seg></p>
+            <pb facs="C_I__Nr__379__v_.tif"/>
+            </div>
         </body>
         <back>
             <div> 
