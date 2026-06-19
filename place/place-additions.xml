@@ -1,9 +1,9 @@
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI">
     <text>
         <!--Hier können weitere Namen von Orten eingetragen werden, wenn diese in der Webapplikation erscheinen sollen, aber nicht bereits in den Quellenstücken vorhanden sind-->
-        <placeName ref="LOC_47.36453_8.79202">Pfäffikon ZH</placeName>
+        <placeName ref="LOC_47.36638_8.79372">Pfäffikon ZH</placeName>
         <placeName ref="LOC_47.36966_8.54145">Fraumünster</placeName>
-        <placeName ref="LOC_47.39254_8.04422">Aarau</placeName>
+        <placeName ref="LOC_47.38878_8.04826">Aarau</placeName>
         <placeName ref="LOC_47.36201_8.51497">Wiedikon</placeName>
         <placeName ref="LOC_47.12693_8.75345">Einsiedeln</placeName>
         <placeName ref="LOC_46.20222_6.14569">Genf</placeName>
@@ -25,24 +25,24 @@
         <placeName ref="LOC_47.29449_8.75548">Tägernau</placeName>
         <placeName ref="LOC_47.36911_8.45699">Uitikon</placeName>
         <placeName ref="LOC_47.36212_8.70093">Werrikon</placeName>
-        <placeName ref="LOC_47.34713_8.72091">Uster</placeName>
+        <placeName ref="LOC_47.35316_8.72156">Uster</placeName>
         <placeName ref="LOC_47.36334_8.82418">Hittnau</placeName>
         <placeName ref="LOC_47.37398_8.49007">Albisrieden</placeName>
-        <placeName ref="LOC_47.33996_8.66778">Maur</placeName>
+        <placeName ref="LOC_47.33609_8.65996">Maur</placeName>
         <placeName ref="LOC_47.32067_7.89986">Aarburg</placeName>
         <placeName ref="LOC_45.75_7.25">Aostatal</placeName>
         <placeName ref="LOC_47.3699_8.5425">Obere Brücke</placeName>
         <placeName ref="LOC_47.3699_8.5425">Münsterbrücke</placeName>
         <placeName ref="LOC_47.61175_8.72781">Ossingen</placeName>
         <placeName ref="LOC_47.60253_8.79765">Wilen</placeName>
-        <placeName ref="LOC_47.25686_8.69893">Männedorf</placeName>
+        <placeName ref="LOC_47.25965_8.69981">Männedorf</placeName>
         <placeName ref="LOC_47.20534_8.75842">Freienbach</placeName>
         <placeName ref="LOC_47.57335_8.52607">Eglisau</placeName>
         <placeName ref="LOC_47.374444_8.541111">Oetenbach</placeName>
         <placeName ref="LOC_47.30934_8.52127">Adliswil</placeName>
         <placeName ref="LOC_47.39052_8.61719">Dübendorf</placeName>
         <placeName ref="LOC_47.26825_8.52651">Albis</placeName>
-        <placeName ref="LOC_46.87251_7.59563">Bern (Kanton)</placeName>
+        <placeName ref="LOC_46.94809_7.44744">Bern (Kanton)</placeName>
         <placeName ref="LOC_46.88658_9.73945">Fideris</placeName>
         <placeName ref="LOC_46.6587_9.62296">Graubünden</placeName>
         <placeName ref="LOC_47.41814_8.5122">Affoltern</placeName>
@@ -79,15 +79,15 @@
          <placeName ref="LOC_47.47943_8.90722">Tänikon</placeName>
          <placeName ref="LOC_47.2367_8.7573">Uerikon</placeName>
          <placeName ref="LOC_47.27942_8.86162">Oberdürnten</placeName>
-         <placeName ref="LOC_47.27856_8.84156">Dürnten</placeName>
-         <placeName ref="LOC_47.45041_8.52993">Rümlang</placeName>
+         <placeName ref="LOC_47.27572_8.85378">Dürnten</placeName>
+         <placeName ref="LOC_47.44713_8.52938">Rümlang</placeName>
          <placeName ref="LOC_47.22557_8.82228">Rapperwil</placeName>
          <placeName ref="LOC_47.31279_8.72325">Mönchaltorf</placeName>
          <placeName ref="LOC_45.66667_9.5">Lombardei</placeName>
          <placeName ref="LOC_47.2946_8.78194">Ottikon</placeName>
-         <placeName ref="LOC_47.26652_8.82808">Bubikon</placeName> 
-        <placeName ref="LOC_47.45152_8.58491">Kloten</placeName> 
-        <placeName ref="LOC_47.58956_8.47121">Wasterkingen</placeName> 
+         <placeName ref="LOC_47.26648_8.80812">Bubikon</placeName> 
+        <placeName ref="LOC_47.45801_8.58528">Kloten</placeName> 
+        <placeName ref="LOC_47.59598_8.47196">Wasterkingen</placeName> 
         <placeName ref="LOC_47.67074_8.63542">Uhwiesen</placeName> 
         <placeName ref="LOC_47.62843_8.396">Griessen</placeName> 
         <placeName ref="LOC_47.61313_8.5435">Rafz</placeName> 
@@ -95,7 +95,18 @@
         <placeName ref="LOC_47.5823_8.69148">Adlikon bei Andelfingen</placeName> 
         <placeName ref="LOC_47.28167_8.45023">Affoltern am Albis</placeName> 
         <placeName ref="LOC_47.42575_8.69094">Effretikon</placeName> 
-        <placeName ref="LOC_47.371389_8.5425">Rathaus Zürich</placeName> 
-            
+        <placeName ref="LOC_47.37161_8.54501">Rathaus Zürich</placeName>
+        <placeName ref="LOC_47.36678210707137_8.39129524449027">Niederamt</placeName> 
+        <placeName ref="LOC_7.1881_21.09375">Afrika</placeName> 
+        <placeName ref="LOC_32.542275225496546_44.42111516210626">Babylon</placeName> 
+         <placeName ref="LOC_50_14.5">Böhmen</placeName>   
+         <placeName ref="LOC_47.373366804156106_8.544479235833343">Zürich, Brunngasse 8</placeName>  
+         <placeName ref="LOC_47_20">Ungarn</placeName> 
+         <placeName ref="LOC_47.37029_8.54133">Haus zum Kämbel</placeName> 
+         <placeName ref="LOC_45.66667_9.5">Lombardei</placeName> 
+          <placeName ref="LOC_49.5_17">Mähren</placeName> 
+          <placeName ref="LOC_47.55516_8.76671">Dinhard</placeName> 
+          <placeName ref="LOC_47.370886696226115_8.543203618444444">Haus zum Rüden</placeName> 
+          <placeName ref="LOC_47.76_8.13">St. Blasien</placeName> 
     </text>
 </TEI>

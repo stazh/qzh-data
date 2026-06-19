@@ -70,6 +70,10 @@
                         <desc xml:lang="deu">Bettel</desc>
                         <gloss>Hilfsbedürftiger, von Almosen lebender Mensch</gloss>
                         </category>
+                        <category xml:id="key004644">
+                        <desc xml:lang="deu">Beute</desc>
+                        <gloss>Kriegsbeute, Plünderung</gloss>
+                        </category>
                         <category xml:id="key000482">
                         <desc xml:lang="deu">Blasphemie</desc>
                         <gloss>Beleidigung Gottes</gloss>
@@ -380,6 +384,10 @@
                         <desc xml:lang="deu">Krieg</desc>
                         <gloss>Bewaffnete Auseinandersetzung</gloss>
                     </category>
+                     <category xml:id="key005407">
+                        <desc xml:lang="deu">Kriegsrecht</desc>
+                        <gloss>Gesamtheit der geschriebenen und ungeschriebenen Rechtssätze, die das Kriegswesen regeln</gloss>
+                    </category>
                     <category xml:id="key003261">
                         <desc xml:lang="deu">Kundschaft</desc>
                         <gloss>Rechtsauskünfte durch Zeugen</gloss>
@@ -557,7 +565,7 @@
                     </category>
                     <category xml:id="key005438">
                         <desc xml:lang="deu">Täufertum</desc>
-                        <gloss>Christliche Sekte, welche die Einwilligung des gläubigen Täuflings zur Vorbedingung der Taufe macht, daher die Kindertaufe verwirft und bei den ihr Beitretenden die Taufhandlung wiederholt.</gloss>
+                        <gloss>Christliche Bewegung, welche die Einwilligung des gläubigen Täuflings zur Vorbedingung der Taufe macht, daher die Kindertaufe verwirft und bei den ihr Beitretenden die Taufhandlung wiederholt.</gloss>
                     </category>
                     <category xml:id="key000649">
                         <desc xml:lang="deu">Territorium</desc>

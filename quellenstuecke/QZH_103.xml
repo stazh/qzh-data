@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quellen zur Zürcher Geschichte</title>
+            <respStmt>
+               <persName>Valerija Vlasic</persName>
+               <resp key="transcript"/>
+            </respStmt>
+            <respStmt>
+               <persName>Valerija Vlasic</persName>
+               <resp key="tagging"/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Staatsarchiv des Kantons Zürich</publisher>
+            <date type="electronic" when="2025-12-19"/>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Quellen zur Zürcher Geschichte</title>
+            <respStmt>
+               <persName>Staatsarchiv des Kantons Zürich</persName>
+               <resp>Herausgeberschaft</resp>
+            </respStmt>
+            <idno>QZH_103</idno>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5351943">STAZH A
+                     27.98 (Trucke 52, Bündel 11, Nr. 12.10)</idno>
+               </msIdentifier>
+               <head>Bericht des Spitalabwarts über die wegen Hexereiverdachts verhaftete Barbara
+                  Melliker</head>
+               <msContents>
+                  <summary>Spitalabwart Vollenweider berichtet von seinen nächtlichen
+                     Beobachtungen bei der wegen Hexereiiverdachts inhaftierten Barbara Melliker. Er habe abends Lärm in ihrer Zelle gehört
+                     und eine fremde Stimme vernommen. Beim Blick in die Zelle habe Vollenweider
+                     eine Gestalt mit blondem Bart am Bett wahrgenommen, die sich zu verstecken
+                     versuchte.</summary>
+                  <msItem>
+                     <textLang>Deutsch</textLang>
+                     <filiation type="current">Bericht</filiation>
+                     <filiation type="original"><origDate when="1661-08">ca.</origDate></filiation>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support><material>Papier</material></support>
+                        <extent/>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin><origDate when="1661-08">ca.</origDate></origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass default="false">
+            <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+               <term ref="key003369">Folter</term>
+               <term ref="key000334">Gefängnis</term>
+               <term ref="key000945">Hexerei</term>
+               <term ref="key003559">Spital</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <div>
+            <pb facs="A_27_98__Trucke_52__Buendel_11__Nr__12_10_.tif"/>
+            <head>
+               <lb/>Bricht wegen des, was <persName>N. Vollenweider</persName>, <lb/>der
+                  <persName>Melickerin</persName> abwart, gesehen und <lb/>gehört. </head>
+            <p>
+               <lb/>Er sagt, er habe eines abends umb bett<lb break="no"/>glocken ein ernstlichs
+               balgen bey ihro ghört, <lb/>zu vernemmen, wer bey ihro seye und was <lb/>solches
+               balgen were, habe er sich in der <lb/>stille zu der gätteri verfügt und von ihro dise
+               <lb/>wort, die sy in <unclear>unwihese</unclear> ausgesprochen, <lb/>offt gehört
+               repetieren: <quote>Nein, ihr haltend <lb/>mir nüt, ihr habends mir offt versprochen
+                  <lb/>und noch nie gehalten.</quote> Hierauff habe <lb/>er ein antwort-stimm
+               gehört: <quote>Ich wil dir halten.</quote>
+               <lb/>Als er sich nach der stimm gewanndt, habe er <lb/>unten am beth einen sehen
+               stahn mit einem <lb/>falben bärtlin. Als offt er denselben ange<lb break="no"
+               />schawet, seye er eins mahls gegen dem boden <lb/>gesuncken, als wolte er sich
+               verbergen, seye <lb/>aber bald wider auffgestanden. Disem habe <lb/>er bey hällem
+               monschyn etwan ein halbe <lb/>stund zugesehen und zugehört.</p>
+            <p>
+               <lb/>Diser ihrer red hat sy bisher nie wöllen <lb/>geständig syn, sonder das habe sy
+               geredt: <lb/><quote>Pfuy saw wuͦst, mach dich fort, behüte mich <lb/>gott, ich hab
+                  nüt mit dir.</quote> Seye bey <lb/>ihro auff dem beth gelegen.</p>
+         </div>
+      </body>
+      <back>
+         <div><p>Im Zürcher Herrschaftsgebiet wurden zwischen dem 15. und 18. Jahrhundert rund 80 Personen wegen Hexerei zum Tode verurteilt.
+            Viele andere wurden ebenso der Hexerei bezichtigt, verhört und gefoltert, kamen jedoch entweder frei, wurden
+            verbannt oder zu einer Arbeitsstrafe oder Spitalverwahrung verurteilt. Oft
+            mussten sie auch die Kosten für ihre Inhaftierung selbst übernehmen. Mitunter wurden aber
+            auch die Verleumder mit einer Geldstrafe gebüsst.</p>
+         <p>Der Hexereivorwurf kumulierte
+            verschiedene Vergehen, wie die Schädigung von Menschen und Tieren, Wetterzauber und die
+            Ergebung an den Teufel. Letzteres war bei Verhören
+            zentral für die damalige Justiz, weshalb vor allem Frauen detailliert dazu befragt wurden, wo sie dem
+            Teufel begegnet seien und in welcher Gestalt er aufgetreten sei. <lb/>Etwas später als in anderen Regionen
+            begann auch die zürcherische Obrigkeit ab dem 15. Jahrhundert, Untersuchungen wegen angeblicher Hexerei
+            durchzuführen. Mit mehreren Hoch- und Tiefphasen kam es in Zürich bis ins 18.
+            Jahrhundert immer wieder zu Verfolgungswellen. So wurden zuletzt im Jahre 1701 acht Menschen aus Wasterkingen wegen Hexerei
+            zum Tod verurteilt. Im Zusammenhang mit Hexerei standen aber auch andere Vergehen wie
+            Gotteslästerung, Lachsnerei, Schatzgraben, Alraunenhandel und Teufelsbeschwörungen,
+            wobei die Grenzen zwischen den verschiedenen imaginären und realen Vergehen wohl oft fliessend waren.</p>
+         <p>Der vorliegende Fall von Barbara Melliker illustriert die späte Phase der Hexereiverfolgung im Zürcher Herrschaftsgebiet.
+            Barbara Melliker wurde gemäss Taufbuch von Männedorf vermutlich am 26. November 1591 (vgl. <ref
+               target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=316271">StAZH E III
+            71.1</ref>, S. 103) geboren. Sie war die Witwe von Bernhart Bertschinger, den sie 1631
+            geheiratet und mit dem sie gemeinsame Kinder hatte. Die Untersuchung gegen sie kam ins Laufen,
+            nachdem einige Leute aus Männedorf sie als Hexe verleumdet und mit der Schädigung
+            eines Schweins in Verbindung gebracht hatten. Nachdem sie gemeinsam mit ihrem Sohn und ihrem
+            Schwiegersohn gegen diese Schmähungen geklagt hatte, liess der Vogt von Männdorf Zeugen vernehmen.
+            Einige sagten aus, dass der inzwischen verstorbene Lütold angab, seit seinem
+            Besuch bei der Mellikerin krank gewesen zu sein. Andere sagten aus, sie seien
+            nach einer Mahlzeit bei der Mellikerin geschwollen und krank geworden.
+            Zudem stand der Vorwurf weiterer Tierschädigungen im Raum, wobei diese Vorfälle
+            teils Jahre zurücklagen.</p>
+         <p>Am 22. Juni 1661 wurde beschlossen, die zu diesem Zeitpunkt 70-jährige Frau zu verhaften
+            und sie im Wellenbergturm in der Limmat einzusperren. Dort untersuchte der Scharfrichter sie auf Hexenmale (vgl. <ref
+               target="https://qzh.sources-online.org/quellenstuecke/QZH_102">QZH 102</ref>). Dieser fand zwar tatsächlich ein
+            verdächtiges Zeichen an ihrem Körper, doch wurde dieses in den weiteren Verhörprotokollen nicht mehr erwähnt oder
+            belastend thematisiert (vgl. <ref
+               target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5351943">StAZH A 27.98, 52.11.12</ref>). Als Barbara Melliker schliesslich in das Spital
+            verlegt wurde, berichtete der dortige Spitalwächter von einer ungewöhnlichen Begegnung: Er
+            habe den <q>bösen Geist</q> in Gestalt eines kleinen Männchens mit blondem Bart bei Barbara Melliker
+            in der <q>Lochkammer</q> gesehen und habe gehört, wie er mit ihr gesprochen habe.
+            Im anschliessenden Verhör gesteht sie die Teufelsbegegnung. Der Teufel solle sie geplagt und in Gestalt eines Jugendlichen
+            bei ihr im Bett gelegen haben. Dann erzählt sie von früheren Begegnungen: Damals
+            sei sie in Vogt Billeters Scheune von einem schwarzen Mann übermannt worden,
+            der ihr Geld gegeben habe. Als sie bei anderer Gelegenheit unter einem Birnbaum schlief, soll sie
+            etwas von dort weggezerrt haben. Darüber hinaus gesteht sie den Ehebruch mit einem bereits hingerichteten
+            Ueli Kramer und fügt hinzu, dass sie in ihrer Jugend am Sabbat getanzt, geflucht und
+            somit gesündigt habe.</p>
+         <p>In den Akten werden auch die diskursiven Strategien des
+            Gestehens, Zurücknehmens und Zurechtbiegens der Aussagen einer wegen Hexerei
+            verurteilten Person fassbar. So bekennt Barbara Melliker den Kirchendienern etwa den
+            Beischlaf mit dem Teufel und die Schädigung einer Katze, nimmt diese Aussagen jedoch
+            wieder zurück – sie sei verwirrt gewesen, schläfrig oder betrunken. Im Lauf der Verhöre
+            nennt Barbara jedoch zwei weitere potenzielle Begebenheiten: Einmal auf einer Wiese
+            und ein anderes Mal im Spitalzimmer. Während diesen Verhören im Wellenberg
+            wurde Barbara Melliker mehrmals gefoltert und mit dem Tod bedroht, um ein Geständnis von
+            ihr zu erlangen. Doch in den letzten Verhören bleibt sie standhaft: Sie sage die
+            Wahrheit, Gott möge über sie richten, und sie bitte die gnädigen Herren um ein gnädiges Urteil.
+            Da zu diesem Fall kein Urteil auffindbar ist, bleibt unklar, ob Barbara Melliker
+            weiterhin im Spital verwahrt oder welche Strafe verhängt wurde. Aus dem Kirchenbuch von
+            Männedorf (<ref
+               target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=316271">StAZH E III
+            71.1</ref>, S. 331) geht hervor, dass Barbara Melliker am 23. März 1663, also 
+            zwei Jahre später im Alter von fast 72 Jahren verstorben ist und somit nicht zum Tod verurteilt wurde.</p>
+         <p>Der Fall von Barbara Melliker ist insofern besonders, als sie trotz ihres
+            Geständnisses, mit dem Teufel verkehrt zu haben, nicht zum Tod verurteilt wurde.
+            Deshalb illustriert ihre Geschichte exemplarisch eine Übergangsphase des
+            Hexenglaubens.</p></div>
+      </back>
+   </text>
+</TEI>
