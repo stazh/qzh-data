@@ -29,17 +29,17 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294"
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748"
                             >STAZH A 27.134 (Nr. 63)</idno>
                     </msIdentifier>
-                    <head>Brief von Josef Jacob Ulrich an Bürgermeister "Barbeli Senn", 27.06.1721.</head>
+                    <head>Schreiben von Josef Jacob Ulrich an Bürgermeister im Fall Barbeli Senn</head> <!--Titel-->
                     <msContents>
                         <summary><!-- Regest --></summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Brief</filiation>
-                            <filiation type="original"><origDate when="1721-06-27"
-                            />27.06.1721</filiation>
+                            <filiation type="original"><origDate when="1721-07-06"
+                            />06.07.1721</filiation>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -51,7 +51,7 @@
                         </objectDesc>
                     </physDesc>
                     <history>
-                        <origin><origDate when="1721-06-27"/></origin>
+                        <origin><origDate when="1721-07-06"/></origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -118,13 +118,13 @@
             <lb/>eüer gnädigen und wahrhaften <!--unklar--> meine gnädigen hochgeleitenden herren
             <lb/>underthanigster getreüwer diener und bürger
             <lb/><persName>Josef Jacob Ulrich</persName> vmd im <placeName>Oetenbach</placeName>
-            <lb/>den 6. Juli 1721
-            <lb/>9.7.21
+            <lb/>den <date when="1721-07-06"> 6. Juli 1721</date>
+          
         </p>
                     <pb n="3" facs="A_27_134__Nr__63__S__3_.tif"/>
                     <pb n="4" facs="A_27_134__Nr__63__S__4_.tif"/>
-                    <p><lb/><persName>Barbeli Senn</persName> ab <placeName>Aügst</placeName>
-                        <lb/>
+                    <p><lb/><persName>Barbeli Senn</persName> ab <placeName ref="LOC_47.26703_8.48539">Aügst</placeName>
+                        <lb/>betreffend
                </p>
               </body>
 

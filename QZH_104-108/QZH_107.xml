@@ -45,8 +45,8 @@
 			<sourceDesc>
 				<msDesc>
 					<msIdentifier>
-						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294">
-							STAZH A 27.134 (Nr. 60)
+						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748">
+							STAZH A 27.134 (Nr. 62)
 						</idno>
 					</msIdentifier>
 					<head>
@@ -133,12 +133,12 @@
 				<body>
 					<p>
 						<pb n="1" facs="A_27_134__Nr__62__S__1_.tif"/>
-					<lb/>Actum samstags den 5 ten July anno 1721
+						<lb/>Actum samstags den <date when="1721-07-05">5 ten July anno 1721</date>
 					<lb/>Presentibus: herren raths herr <persName>Johan Conrad Werdmüller</persName> und 
 					<lb/>herren zoufftmstr <persName>Lavater</persName>.
 					<lb/>Auf eürer mghr ergangener erkandtnus, sind wohlermeldt 
-					<lb/>die mhrn nachgänger widermahlen zu dem im <placeName>Öttenbach</placeName> 
-					<lb/>verhaffeten <persName ref="LOC_47.374444_8.541111">Barbeli Senn</persName> gekehret, selbigem, das es godt die 
+						<lb/>die mhrn nachgänger widermahlen zu dem im <placeName ref="LOC_47.374444_8.541111">Öttenbach</placeName> 
+					<lb/>verhaffeten <persName>Barbeli Senn</persName> gekehret, selbigem, das es godt die 
 					<lb/>ehr <add>gebe</add> und der obrigkeit die wahrheit ausagen, gebührmässig zu-
 					<lb/>gesprochen, welches denn bekennt, seye in seinem herzen über-
 					<lb/>zeüget dass es keine vögel machen könne, sondern solches den 
@@ -158,9 +158,9 @@
 					<pb n="4" facs="A_27_134__Nr__62__S__4_.tif"/>
 					<p>
 					<lb/>15. <del>Zwyter</del> nachgäng
-						<lb/>wegen Barbeli Senn ab Aügst
+						<lb/>wegen <persName>Barbeli Senn</persName> ab <placeName ref="LOC_47.26703_8.48539">Aügst</placeName>
 						<lb/>um <add place="above">sin vermeinten</add> vögeli machens willen
-						<lb/>actum d. 5 ten Julii 1721.
+						<lb/>actum d. <date when="1721-07-05">5 ten Julii 1721</date>.
 			</p>
 					</body>
 				<back>

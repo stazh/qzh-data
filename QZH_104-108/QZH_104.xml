@@ -10,7 +10,7 @@
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
-                    <persName>Mara Haas</persName>
+                    <persName>Mara Haas</persName><persName>Helena Dobiess</persName>
                     <resp key="tagging"/>
                 </respStmt>
             </titleStmt>
@@ -29,11 +29,11 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294"
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748"
                             >STAZH A 27.134 (Nr. 59)</idno>
                     </msIdentifier>
                     <head>Brief von Hans Jakob Ammann, Pfarrer von Aeugst am Albis, an Antistes
-                        Johann Ludwig Nüscheler wegen Verdacht auf Hexerei im Fall "Barbeli Senn",
+                        Johann Ludwig Nüscheler wegen Verdacht auf Hexerei beim zehnjährigen Mädchen Barbeli Senn,
                         27.06.1721.</head>
                     <msContents>
                         <summary> Im Brief wendet sich Hans Jakob Amman, der Pfarrer von Aeugst an

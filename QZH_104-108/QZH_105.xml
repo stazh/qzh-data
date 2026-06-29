@@ -45,12 +45,12 @@
 			<sourceDesc>
 				<msDesc>
 					<msIdentifier>
-						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5115294">
+						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748">
 							STAZH A 27.134 (Nr. 60)
 						</idno>
 					</msIdentifier>
-					<head>
-						Verhör mit Barbeli Senn wegen Verdacht auf Hexerei von Hans Jakob Amman, Pfarrer von Augst.
+					<head>Verhör mit Barbeli Senn wegen Verdacht auf Hexerei von Hans Jakob Amman, Pfarrer von
+						Augst. <!-- Verhörprotokoll? Verhältnis zu Nr. 106?-->
 					</head>
 					<msContents>
 						<summary>
@@ -61,11 +61,11 @@
 								Deutsch
 							</textLang>
 							<filiation type="current">
-								Original, Doppelblatt, 2 Blätter 
+								Original, Doppelblatt, 2 Blätter <!--Was kommt hier korrekt hin?-->
 							</filiation>
 							<filiation type="original">
-								<origDate when="1721-06-28" />
-								27.06.1721
+								<origDate when="1721-06-28" /> <!--woraus ergibt sich dieses Datum?-->
+								28.06.1721
 							</filiation>
 						</msItem>
 					</msContents>
@@ -144,7 +144,7 @@
 					</head>
 					<p>
 						<lb />
-						Qx: Ist es wahr kannst du vögel machen?
+						Qx: Ist es wahr kannst du vögel machen?<!--Q / R abgekürzt? gross/kklein?-->
 					</p>
 					<p>
 						<lb />
@@ -303,7 +303,7 @@
 							Der Fall «Barbeli Senn» passt in das Bild der späten Hexenprozesse im späteren 17. und frühen 18. Jahrhundert, in denen Kinderhexenprozesse
 							eine immer grössere Rolle spielten. Und er schickt Mädchen und Brief nicht wie üblich zum kleinen Rat, sondern zum Antistes den Vorsteher der Kirche, Johann Ludwig Nüscheler, der als ausgesprochener Vertreter der
 							Spätorthodoxie gilt. Schliesslich befasste sich der kleine Rat von Zürich mit dem Fall. Am 9. Juli wird beschlossen, dass Barbeli im Oetenbach bleiben soll, um unterrichtet zu werden, während
-							sie von weiteren Körperstrafen verschont bleibt. Das Verhörsprotokoll mit Barbeli Senn ist eine Beilage des Briefes. Ratsmanual (B II 753, S. 5-6)
+							sie von weiteren Körperstrafen verschont bleibt. Das Verhörprotokoll mit Barbeli Senn ist eine Beilage des Briefes. Ratsmanual (B II 753, S. 5-6)
 						</p>
 					</div>
 				</back>
