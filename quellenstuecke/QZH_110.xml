@@ -16,7 +16,7 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>Staatsarchiv des Kantons Zürich</publisher>
-                <date type="electronic" when="2026-05-01"/>
+                <date type="electronic" when="2026-10-01"/>
             </publicationStmt>
             <seriesStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
@@ -32,15 +32,13 @@
                         <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5191097"
                             >STAZH A 66, Nr. 3</idno>
                     </msIdentifier>
-                    <head>Ratschlag wegen der Einrichtung der Stadtschreiber- und Unterschreiberkanzlei</head>
+                    <head>Ratschlag betreffend die Besetzung und Einrichtung der Stadtschreiber- und Unterschreiberkanzleien</head>
                     <msContents>
                         <summary>Aufgrund von Missständen im Kanzleiwesen ernennt der Grosse Rat eine Kommission zur Verbesserung der Besetzung und Einrichtung der Kanzleien.
-                        Im vorgelegten Ratschlag erklärt die Kommission in fünf Punkten ihre Empfehlungen betreffend Stadt- und Unterschreiber, Substituten, Kanzlisten sowie der Einführung eines Kanzleidirektoriums.
+                        Im vorgelegten Ratschlag erklärt die Kommission in fünf Punkten ihre Empfehlungen betreffend Stadt- und Unterschreiber, Substituten, Kanzlisten sowie die Einführung eines Kanzleidirektoriums.
                         Die Stelle des Stadtschreibers soll jeweils für eine Dauer von mindestens sechs Jahren besetzt werden, wobei der Inhaber in dieser Zeit keine Vogteien, Ämter oder sonstige Ehrenstellen übernehmen darf und
-                        gemäss einer Regelung von 1634 entschädigt wird (1).
-                        Der Unterschreiber bleibt bei seiner bisherigen Bestallung, soll jedoch eigene Räumlichkeiten erhalten (2).
-                        Bezüglich Rekrutierung der Substitute entweder nur aus Statt- und Unterschreiberkanzleien oder auch aus anderen Kanzleien
-                        überlässt die Kommission die Entscheidung dem Grossen Rat, ebenso bezüglich Erhöhung des Kanzleipersonals (3 und 4).
+                        gemäss einer Kompensationsregelung von 1634 entschädigt wird (1). Der Unterschreiber bleibt bei seiner bisherigen Bestallung, soll jedoch eigene Räumlichkeiten erhalten (2). Bezüglich Rekrutierung der Substitute entweder nur aus
+                        Stadt- und Unterschreiberkanzleien oder auch aus anderen Kanzleien überlässt die Kommission die Entscheidung dem Grossen Rat (3), ebenso bezüglich Erhöhung des Kanzleipersonals (4).
                         Zuletzt empfiehlt die Kommission die Einführung eines Direktoriums, welches die Abläufe in den Kanzleien überwachen und geeignetes Personal suchen soll (5).
                         </summary>
                         <msItem>
@@ -87,10 +85,10 @@
             <text>
                 <body>
                    <div>
-                       <pb n="1"/> <!-- TIF hinterlegen -->
+                       <pb n="1"/>
                        <p>
                            <lb/>Nach demme mein <choice><abbr>gn</abbr><expan>gnädigen</expan></choice> herren räth und burger bei anlaaß
-                           <lb/>der in der cantzley <hi rend="font_change">vac</hi>ierend stehender statt- und underschreiber<lb break="no"/>stellen
+                           <lb/>der in der cantzley vacierend stehender statt- und underschreiber<lb break="no"/>stellen
                            nothwendig befunden, einen ehren außschuß zu dem end
                            <lb/>zeverordnen, damit derselbe über die eint- und andere
                            <lb/>mißbraüch und dero nothwendige verbeßerung einen reiffen
@@ -100,8 +98,8 @@
                            <lb/>Hat <choice><abbr>hochged</abbr><expan>hochgedachter</expan></choice> ehrenaußschuß in geflißener nachforschung sich
                            <lb/>underschidenlicher bereits vor demme über eben disere materi
                            <lb/>wolbedächtlich zu papeir gebrachter rathschlägen erinneret
-                           <lb/>und dieselbe, absonderlich <del rend="strikethrough" hand="laterHand">eine</del> <add hand="laterHand" place="above" rend="pencil">der</add> erkantnuß<add hand="laterHand" rend="pencil" place="inline">en</add> vom <date when="1665-01-07">7ten <hi rend="font_change">januarii</hi>
-                               <lb/>1665</date> <add place="left_margin" type="sign" rend="laterHand">und <date when="1677">1677</date></add>, und einen rathschlag vom <date when="1667-01-15">15ten <hi rend="font_change">januarii</hi> 1667</date> abläsen                           
+                           <lb/>und dieselbe, absonderlich <del rend="strikethrough" hand="laterHand">eine</del> <add hand="laterHand" place="above" rend="pencil">der</add> erkantnuß<add hand="laterHand" rend="pencil" place="inline">en</add> vom <date when="1665-01-07">7ten januarii
+                           <lb/>1665</date> <add place="left_margin" type="sign" rend="laterHand">und <date when="1677">1677</date></add>, und einen rathschlag vom <date when="1667-01-15">15ten januarii 1667</date> abläsen                           
                            <lb/>laßen; auß allem aber befunden, daß es an der so noth<lb break="no"/>wendigen
                            beobachtung derselben erwunden.
                        </p>
@@ -115,23 +113,23 @@
                        </p>
                        <p>
                            <lb/>Daß bevorderst die stattschreiber stell umb des stands ehr,
-                           <lb/>villfaltigen nutzens und allerhand wichtiger <hi rend="font_change">motiv</hi>en willen
+                           <lb/>villfaltigen nutzens und allerhand wichtiger motiven willen
                            <lb/>auff <date dur-iso="P6Y">sechs jahr</date> lang wenigstens in der meinung gerichtet
                            <lb/>werden könte, daß nammlich der jehnige, wellicher vermitlest
                            <lb/>einer freyen und ledigen wahl darzu glangen wird, verpflichtet
-                           <lb/>und behaftet sein solle, innet diserem <hi rend="font_change">termin</hi> mit seinen cantzley
+                           <lb/>und behaftet sein solle, innet diserem termin mit seinen cantzley
                            <lb/>diensten ohnverenderet abzewarten und <del rend="blackened" quantity="3.3" unit="cm"><gap/></del><add place="above">keinen zugang</add>, weder
                            <lb/>auff einige vogtey, ampt nach andere ehrenstell, was nammens
                            <lb/>selbige seige, <del rend="blackened" quantity="1.9" unit="cm"><gap/></del><add place="above">haben solle</add>. <seg>Und weilen innzwüschent die ver<lb break="no"/>ordnete
                            herren in der hoffnung stehen, daß die wahl auff eine
-                           <lb/>wol<hi rend="font_change">qualific</hi>ierte persohn fallen werde, hielten dieselbe
+                           <lb/>wolqualificierte persohn fallen werde, hielten dieselbe
                        <pb n="2"/>
                            <lb/>darfür, daß sollichen fahls dem erwehlten die ergetzlichkeit
-                           <lb/>der <hi rend="font_change">competenz</hi> von <choice><abbr><hi rend="font_change">ao</hi></abbr><expan>anno</expan></choice> <date when="1634">1634</date> in ansehung diser sechsjährigen
+                           <lb/>der competenz von <choice><abbr>ao</abbr><expan>anno</expan></choice> <date when="1634">1634</date> in ansehung diser sechsjährigen
                            <lb/>verbindtlichkeit wol gedeyen, darbei aber meinen <choice><abbr>gn</abbr><expan>gnädigen</expan></choice> herren
                            <lb/>überlaßen werden <del rend="strikethrough">könte</del> solte, bei künftig- vorfallenden
-                           <lb/><hi rend="font_change">vacanz</hi>en diser bestallung halber, je nach beschaffenheit der
-                           <lb/>sachen und des <hi rend="font_change">subjecti</hi>, jederweilen ohngebundene <hi rend="font_change">dispo<lb break="no"/>sition</hi>
+                           <lb/>vacanzen diser bestallung halber, je nach beschaffenheit der
+                           <lb/>sachen und des subjecti, jederweilen ohngebundene dispo<lb break="no"/>sition
                            zehaben.</seg>
                        </p>
                        <p>
@@ -146,9 +144,9 @@
                            derselben abgehebt werden könte.
                        </p>
                        <p>
-                           <lb/>Und weilen dritens an der wahl <hi rend="font_change">qualific</hi>ierter <hi rend="font_change">substitu</hi><lb break="no"/>ten
+                           <lb/>Und weilen dritens an der wahl qualificierter substitu<lb break="no"/>ten
                            ein merckliches gelegen, als auß wellichen die statt-
-                           <lb/>und underschreiber stellen bei denen <hi rend="font_change">vacanz</hi>en ergentzt werden;
+                           <lb/>und underschreiber stellen bei denen vacanzen ergentzt werden;
                            <lb/>inzwüschent die herren verordnete verspüren, daß derselben
                            <lb/>halber ohngleiche gedancken und meinungen auff die ban
                            <lb/>kommen möchten, haben dieselbe dem ledigen hochoberkeit<lb break="no"/>lichen
@@ -156,7 +154,7 @@
                            <lb/><add place="left-margin">und hinvorigen rathschlägen</add> gemeß, allein auß der statt- und underschryber cantzley oder
                            <lb/>aber auch auß anderen cantzleyen besetzt werden solle. In
                            <lb/>der ohnmaßgäblichen meinung jedoch, dass, so vill die bestallung
-                           <lb/>betrift, die jehnige, so erwehlt werden, sich als junge <hi rend="font_change">subjec</hi>te
+                           <lb/>betrift, die jehnige, so erwehlt werden, sich als junge subjecte
                            <lb/>und persohnen, wegen habenden zugangs in den rath und geleg<lb break="no"/>enheit,
                            sich nutzlich und mit hoffnung fehrneren befürderung
                            <lb/>zeüeben, des bißharigen einkommens und bestallung ver<lb break="no"/>nüegen
@@ -170,24 +168,24 @@
                            anzahl derselben annach fehrner behalten oder nach
                            <lb/>obgedachten rathschlägen, je nach der eint- ald anderen noth<lb break="no"/>wendigkeit,
                            auff <num value="6">6</num> oder <num value="8">8</num> persohnen gerichtet werden könne.
-                           <seg><lb/>Und also disere <hi rend="font_change">materi</hi>, wegen allerhand vorfallender
+                           <seg><lb/>Und also disere materi, wegen allerhand vorfallender
                            <lb/>bedencken von nachdencken mehrerer zeit befunden, mynen
                            <lb/><choice><abbr>gn</abbr><expan>gnädigen</expan></choice> herren innzwüschent anheim stellende, obe disere
                            <lb/>verordnung, oder eine mehrere, mit etwas hochoberkeitlicher
-                           <lb/>andeütung der hierbei habenden <hi rend="font_change">intention</hi>, mit disen wichtigen
+                           <lb/>andeütung der hierbei habenden intention, mit disen wichtigen
                            <lb/>puncten mit reifferem nachsinnen eigentlich zu überleggen
                            <lb/>und hernach hinderbringen könte.</seg>
                        </p>
                        <p>
-                           <lb/>Endtlich solte ein höchstnuzliches <hi rend="font_change">directorium</hi> der cantzley ver<lb break="no"/>ordnet;
+                           <lb/>Endtlich solte ein höchstnuzliches directorium der cantzley ver<lb break="no"/>ordnet;
                            durch daßelbe ein geflißenes auffsehen auff beide cantz<lb break="no"/>leyen
-                           und ihre verrichtungen gehalten; gedeyliche <hi rend="font_change">examina</hi>
+                           und ihre verrichtungen gehalten; gedeyliche examina
                            <lb/>der persohnen, so nach befürderung e<damage agent="hole"><supplied resp="jon">r</supplied></damage>trachten, vorgenommen;
                            <lb/>nach dem exempel anderer ständen inn- und außert der eydt<lb break="no"/>g<supplied resp="jon">e</supplied>no<supplied resp="jon">ssen</supplied>schaft
-                           taugenliche <hi rend="font_change">archivarii</hi>, <hi rend="font_change">registratores</hi> und andere
+                           taugenliche archivarii, registratores und andere
                            <lb/>cantzley bediente erkieset; umb desto mehreren anmuthung
                            <lb/>willen aber denen cantzlisten die bereits durch vill erkantnußen
-                           <lb/>gewidmete landschreiberey <hi rend="font_change">prærogativ</hi>en, und was weither der<lb break="no"/>gleichen
+                           <lb/>gewidmete landschreiberey prærogativen, und was weither der<lb break="no"/>gleichen
                            sein möchte, in eine beständige beobachtung gezogen
                            <lb/>werden könten.
                        </p>
@@ -197,7 +195,7 @@
                        </p>
                        <p>
                            <lb/>Actum <del rend="strikethrough">fry</del><date from="1692-06-16" to="1692-06-17">donstags und freytags den 16ten und
-                               <lb/>17ten <hi rend="font_change">junii</hi> 1692</date>.
+                               <lb/>17ten junii 1692</date>.
                        </p>
                     </div>
                     <div>
@@ -244,34 +242,34 @@
                         </div>
                         <div>
                             <ab type="dorsal">
-                            <lb/>Vom <date from="1692-06-16" to="1692-06-17">16. und 17 <hi rend="font_change">junii</hi> 1692</date>.
+                            <lb/>Vom <date from="1692-06-16" to="1692-06-17">16. und 17 junii 1692</date>.
                         </ab>
                         </div>
                         <div>
                             <ab type="dorsal">
                             <lb/>Was darüber erkent, ist in
-                            <lb/>statschreibers <hi rend="font_change">manuali sub</hi>
-                            <lb/><date when="1692-06-18">18 <hi rend="font_change">junii</hi> 1692</date> zefinden.
+                            <lb/>statschreibers manuali sub
+                            <lb/><date when="1692-06-18">18 junii 1692</date> zefinden.
                         </ab>
                         </div>
                 </body>
                 <back>
                     <div>
-                        <p>Der vorliegende Ratschlag vom 16. und 17. Juni 1692 erfolgte, nachdem am 15. Juni sowohl der amtierende Stadtschreiber Caspar Gossweiler wie auch Unterschreiber Hans Conrad Lavater
+                        <p>Der vorliegende Ratschlag vom 16. und 17. Juni 1692 erfolgte, nachdem am 15. Juni sowohl der amtierende Stadtschreiber Caspar Gossweiler als auch Unterschreiber Hans Conrad Lavater
                         in neue Ämter gewählt worden waren und ihre Stellen neu besetzt werden mussten. Diese doppelte Vakanz reihte sich in eine längere Periode personeller Unstetigkeit in der Staatskanzlei ein. 
                         Acht Stadtschreiber hatten das Amt seit 1665 besetzt (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Richner 2024</ref>, S. 170-172</bibl>). Vor diesem Hintergrund ist die Bemühung um eine erhöhte personelle Kontinuität in der Staatskanzlei als
-                        einer der zentralen Aspekte des Ratschlages zu sehen. Die hierbei wichtige Regelung der Mindestdauer von sechs Jahren für das Amt des Stadtschreibers wurde in der Folge
+                        einer der zentralen Aspekte des Ratschlages zu sehen. Die hierbei wichtige Einführung einer Mindestbesetzung von sechs Jahren für das Amt des Stadtschreibers wurde in der Folge
                         jahrzehntelang eingehalten und erst 1762 wieder gebrochen (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Richner 2024</ref>, S. 174</bibl>).</p>
                         <p>Die zweite wichtige Änderung für die Stelle des Stadtschreibers betraf die Kompensation. In der Sitzung vom 18. Juni 1692 legte der Grosse Rat die Entlöhnung auf 20 Mütt Kernen,
                             15 Eimer Wein und 100 Gulden fest (<ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/1502530/detail?pageid=67">B II 636, S. 131</ref>). Diese Vergütung richtete sich nach der im Ratschlag erwähnten Erkenntnis von 1634 <!-- Diskrepanz KAT 465, S. 15 und RM B II 636, S. 131 klären --> (<ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/6562439/detail?pageid=17">B II 406, S. 28</ref>; <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=341987">KAT 465</ref>, S. 15)
                             und war höher als die geltende Entlöhnung von 1645, die aus 10 Mütt Kernen, 8 Eimern Wein und 60 Gulden bestand (<ref target="https://app.transkribus.org/deu/sites/zuercher-ratsmanuale/doc/4532931/detail?pageid=4">B II 452, S. 3</ref>). In derselben Sitzung wählte der Rat zudem David Holzhalb und Christoph Friedrich Werdmüller als Nachfolger auf
                             die Stelle des Stadt- resp. Unterschreibers (<ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/1502530/detail?pageid=67">B II 636, S. 133</ref>). Beide hatten seit 1689 als Ratssubstituten gedient (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Richner 2024</ref>, S. 171</bibl>).</p>
                         <p>Von den in der Kommission abgelesenen Ratschlägen aus früheren Jahren findet sich in den Beständen des Staatsarchivs Zürich lediglich derjenige vom 15. Januar 1667 (<ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=245418">B II 1084</ref>, S. 453-454). Damals schon hatten die Ratsherren darüber diskutiert, 
-                            dem Unterschreiber und seiner Kanzlei eigene Räumlichkeiten zur Verfügung zu stellen. Erst das neuerlich formulierterte Bestreben im vorliegenden Ratschlag von 1692 schien jedoch diesbezüglich Wirkung zu erzeugen. 
+                            dem Unterschreiber und seiner Kanzlei eigene Räumlichkeiten zur Verfügung zu stellen. Erst das neuerlich formulierte Bestreben im vorliegenden Ratschlag scheint diesbezüglich Wirkung gezeigt zu haben.
                             Bereits im August 1692 erwarb der Rat ein in der Schmalzgrub gelegenes Haus von Johannes Escher für den Preis von 3800 Gulden (<ref target="QZH_112.xml">QZH 112</ref>). Darin verblieb die Kanzlei des Unterschreibers bis 1724, als der Rat das Haus
                             am Licht (Weinplatz 1) kaufte, welches bis zum Ende des Ancien Régime als Sitz diente (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Richner 2024</ref>, S. 158-161</bibl>).</p>
                         <p>Die Beschränkung der Anzahl Kanzlisten ist eine weitere im Quellenstück berührte Thematik, die der Rat schon in früheren Jahren verhandelt hatte. Bereits erwähnter Ratschlag von 1667 (<ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=245418">B II 1084</ref>, S. 453-454) wie auch ein Eintrag in den Ratsmanualen von 1686 (<ref target="https://app.transkribus.org/deu/sites/zuercher-ratsmanuale/doc/1563962/detail?pageid=23">B II 612, S. 41</ref>) zeugen davon, dass die Ratsherren die personelle Besetzung der Kanzleien wiederholt als überhöht wahrnahmen.
-                            Jedoch fasste der Grosse Rat auch 1692 keinen verbindlichen Beschluss in der Angelegenheit, wie aus dem Protokoll der Ratssitzung vom 18. Juni hervorgeht. Ebenso legen die Aufzeichnungen jener Sitzung nahe, dass die im vorliegenden Ratschlag besprochene Limitierung auf 6 bis 8 Kanzlisten nicht kumuliert, sondern jeweils separat für Stadt- und Unterschreiberkanzlei hätte gelten sollen (<ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/1502530/detail?pageid=68">B II 636, S. 132</ref>). 
+                            Jedoch fasste der Grosse Rat auch 1692 keinen verbindlichen Beschluss in der Angelegenheit, wie aus dem Protokoll der Ratssitzung vom 18. Juni hervorgeht<!-- Link und Signatur Ratsmanuale! --> Ebenso legen die Aufzeichnungen jener Sitzung nahe, dass die im vorliegenden Ratschlag besprochene Limitierung auf 6 bis 8 Kanzlisten nicht kumuliert, sondern jeweils separat für Stadt- und Unterschreiberkanzlei hätte gelten sollen (<ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/1502530/detail?pageid=68">B II 636, S. 132</ref>). 
                             Auch in späteren Jahren enthalten die Ratsmanuale noch Äusserungen zur vermeintlichen Überbelegung der Kanzleien (<ref target="https://app.transkribus.org/sites/zuercher-ratsmanuale/doc/762761/detail?pageid=39">B II 720, S. 75</ref>, 1713).
                             Es ist deshalb davon auszugehen, dass eine Beschränkung der Anzahl Kanzlisten auf den Stadt- und Unterschreiberkanzleien nie nachhaltig umgesetzt wurde. Diese These stützt der Befund, dass in der Zürcher Jahresrechnung von 1713/14 die Zahl von 94 Kanzlisten genannt wird (<ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=324410">F III 32</ref>, unter <orig>Ußgeben von Allerlei</orig>).
                             Zwar inkludiert diese Menge nebst den Kanzlisten der Stadt- und Unterschreiberei jene der Rechenstube, doch ist die Anzahl insgesamt so hoch, dass eine Beschränkung im ungefähren Rahmen von 6 bis 8 Personen auf den beiden Schreiberkanzleien äusserst unwahrscheinlich erscheint (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Richner 2024</ref>, S. 191</bibl>).</p>
