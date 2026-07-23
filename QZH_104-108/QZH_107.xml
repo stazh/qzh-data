@@ -132,27 +132,24 @@
 	<text>
 				<body>
 					<p>
-						<pb n="1" facs="A_27_134__Nr__62__S__1_.tif"/>
-						<lb/>Actum samstags den <date when="1721-07-05">5 ten July anno 1721</date>
-					<lb/>Presentibus: herren raths herr <persName>Johan Conrad Werdmüller</persName> und 
-					<lb/>herren zoufftmstr <persName>Lavater</persName>.
-					<lb/>Auf eürer mghr ergangener erkandtnus, sind wohlermeldt 
-						<lb/>die mhrn nachgänger widermahlen zu dem im <placeName ref="LOC_47.374444_8.541111">Öttenbach</placeName> 
-					<lb/>verhaffeten <persName>Barbeli Senn</persName> gekehret, selbigem, das es godt die 
-					<lb/>ehr <add>gebe</add> und der obrigkeit die wahrheit ausagen, gebührmässig zu-
-					<lb/>gesprochen, welches denn bekennt, seye in seinem herzen über-
-					<lb/>zeüget dass es keine vögel machen könne, sondern solches den 
-					<lb/>einfaltigen und leichtglaübigen leüthen allso angeben, als 
-					<lb/>obe selbiges dergleichen zu wegen bringen könne, so dass folg-
-					<lb/>samm auch nit wahr dass jemahlen ein schwarzer vogel bey ihmme 
-					<lb/>gewesen, danke au bey godt dem herren dass ihmme nichts der-
-					<lb/>gleichen in wüssen, wolle ihnne bidten dass er ihns fehr-
-					<lb/>nerhin vor der gleichen sachen vergaume <del>wolle</del>, eüch aber 
-					<lb/>meine gnädigen herren erflehet dises annach minderjährige kind, um 
-					<lb/>ein gnädig urtheil und gnad, mit verheissung wolle
-					<lb/>forthin fleissig bätten und arbeiten, auch ein ehrbahren 
-					<lb/>und frommen wandel führen.
-					</p>
+				<pb n="1" facs="A_27_134__Nr__62__S__1_.tif"/>
+				<lb/>Actum samstags den <date when="1721-07-05">5ten July anno 1721</date>
+				<lb/>Presentibus: herren raths herr <persName>Johan Conrad Werdmüller</persName> und
+				<lb/>herren zoufftmstr <persName>Lavater</persName>. <lb/>Auf eürer mghr ergangener
+				erkandtnus, sind wohlermeldt <lb/>die mhrn nachgänger widermahlen zu dem im
+					<placeName ref="LOC_47.374444_8.541111">Öttenbach</placeName>
+				<lb/>verhaffeten <persName>Barbeli Senn</persName> gekehret, selbigem, das es godt
+				die <lb/>ehr <add>gebe</add> und der obrigkeit die wahrheit ausagen, gebührmässig
+				zu- <lb/>gesprochen, welches denn bekennt, seye in seinem herzen über- <lb/>zeüget
+				dass es keine vögel machen könne, sondern solches den <lb/>einfaltigen und
+				leichtglaübigen leüthen allso angeben, als <lb/>obe selbiges dergleichen zu wegen
+				bringen könne, so dass folg- <lb/>samm auch nit wahr dass jemahlen ein schwarzer
+				vogel bey ihmme <lb/>gewesen, danke au bey godt dem herren dass ihmme nichts der-
+				<lb/>gleichen in wüssen, wolle ihnne bidten dass er ihns fehr- <lb/>nerhin vor der
+				gleichen sachen vergaume <del>wolle</del>, eüch aber <lb/>meine gnädigen herren
+				erflehet dises annach minderjährige kind, um <lb/>ein gnädig urtheil und gnad, mit
+				verheissung wolle <lb/>forthin fleissig bätten und arbeiten, auch ein ehrbahren
+				<lb/>und frommen wandel führen. </p>
 					<pb n="2" facs="A_27_134__Nr__62__S__2_.tif"/>
 					<pb n="3" facs="A_27_134__Nr__62__S__3_.tif"/>
 					<pb n="4" facs="A_27_134__Nr__62__S__4_.tif"/>
