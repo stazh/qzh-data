@@ -24,20 +24,20 @@
                     <persName>Staatsarchiv des Kantons Zürich</persName>
                     <resp>Herausgeberschaft</resp>
                 </respStmt>
-                <idno>QZH_tbd</idno><!-- QZH-Nummerierung -->
+                <idno>QZH_112</idno><!-- QZH-Nummerierung -->
             </seriesStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5191097">STAZH Signatur</idno><!-- Signatur -->
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=251782">StAZH C I, Nr. 900</idno><!-- Signatur -->
                     </msIdentifier>
-                    <head><!-- Titel --></head>
+                    <head>Bürgermeister und Rat der Stadt Zürich beurkunden, dass sie von Johannes Escher sein in der Schmalzgrub gelegenes Haus um den Preis von 3800 Gulden zur Einrichtung eines ständigen Sitzes für den Unterschreiber und seine Kanzlei erworben haben. Sekretsiegel der Stadt.</head>
                     <msContents>
                         <summary><!-- Regest --></summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Aufzeichnungen</filiation>
-                            <filiation type="original"><origDate when="1645"/><!-- bei @when korrektes Datum eintragen -->
+                            <filiation type="original"><origDate when="1692-08-06"/><!-- bei @when korrektes Datum eintragen -->
                             </filiation>
                         </msItem>
                     </msContents>
@@ -50,7 +50,7 @@
                         </objectDesc>
                     </physDesc>
                     <history>
-                        <origin><origDate when="1645"/></origin><!-- bei @when korrektes Datum eintragen -->
+                        <origin><origDate when="1692-08-06"/></origin><!-- bei @when korrektes Datum eintragen -->
                     </history>
                 </msDesc>
             </sourceDesc>
