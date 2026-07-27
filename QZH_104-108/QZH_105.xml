@@ -130,11 +130,11 @@
 		</profileDesc>
 	</teiHeader>
 	<text>
-				<body>
+				<body><div>
 					<pb n="1" facs="A_27_134__Nr__60__S__1_.tif" />
 					<head>
 				<lb/> Etliche fraagen, so an <persName>Babeli </persName>
-				<lb/> Senn gethan worden. </head>
+				<lb/> Senn gethan worden </head>
 					<p>
 				<lb/> Qx: Ist es wahr, kannst du vögel machen?</p>
 					<p>
@@ -236,7 +236,7 @@
 						<p><lb/>Durch mehrere fraag wird ohne zweiffel <lb/>noch viel zu vernemmen seyn. </p>
 					<pb n="3" facs="A_27_134__Nr__60__S__3_.tif"/>
 					<pb n="4" facs="A_27_134__Nr__60__S__4_.tif"/>
-				</body>
+				</div></body>
 				<back>
 					<div>
 						<p>
