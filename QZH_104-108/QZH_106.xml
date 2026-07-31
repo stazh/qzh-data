@@ -103,14 +103,14 @@
                 <head><lb/>1. <lb/><persName>Heinrich Maurer</persName> ein 20 Jähriger knab ab
                         <placeName ref="LOC_47.26703_8.48539">Aügst</placeName>
                     <lb/>folgendes verdeütet.</head>
-                <p><lb/>Er habe zu allererst das <persName>Barbeli Senn</persName> dem
+                <p><seg n="1"><lb/>Er habe zu allererst das <persName>Barbeli Senn</persName> dem
                         <persName>Barbeli Maurer</persName>
                     <lb/>angezeigt, wie dass es vögeli machen könne, darauf habe es <lb/>das
                         <persName>Barbeli Maurer</persName> ihmme dem
                         <persName>Heinrichen</persName> gesagt, welches hernach <lb/>der frau
                         <persName>Pfarrer</persName> ab <placeName ref="LOC_47.26703_8.48539"
-                        >Aügst</placeName> verdeütet worden, die hernach be<lb break="no"/>fohlen
-                    man solle schauen ob diss kind mit vögelmachen um<lb break="no"/>gehen könne,
+                        >Aügst</placeName> verdeütet worden, die hernach be<lb break="no"/>fohlen,
+                    man solle schauen, ob diss kind mit vögelmachen um<lb break="no"/>gehen könne,
                     worüber er Heinrich diserem <persName>Barbeli Senn</persName> ein pfennig <!--abkürzen?-->
                     <lb/>versprochen, wann es dergleichen vor seinen augen mache, nach<lb break="no"
                     />diesem habe dieses kind eine hand voll kraüter genommen, <lb/>selbige auf ein
@@ -118,12 +118,12 @@
                     Bleistift]}<!--unklar--> gelegt, in den bach zu <lb/>nechst bey ihrem haus
                     gelegt, darauf geschlagen, worüber <lb/>2 oder 3 vögel gleich den schwalmen, dem
                     tach zu geflogen <lb/>worüber er <persName>Heinrich</persName> sich beseegnet
-                    und geförchtet, hierauf wurde</p>
+                    und geförchtet, hierauf wurde</seg></p>
             </div>
             <div>
                 <head><lb/>2. <lb/><persName>Barbeli Maurer</persName> ein 15 jähriges töchterlein
                     exami <lb/>niert, welches folgendes aussgesagt.</head>
-                <p><lb/>Das <persName>Barbeli Senn</persName> habe ihme verdeütet, könne mit
+                <p><seg n="2"><lb/>Das <persName>Barbeli Senn</persName> habe ihme verdeütet, könne mit
                         vögeli<lb break="no"/>machen umgehen, woll es auch lehrnen, wanns ihmme 21
                     batzen <lb/>gebe, dises nun habe sein mutter der frau
                         <persName>Pfarer</persName> ab <lb/><placeName ref="LOC_47.26703_8.48539"
@@ -135,21 +135,21 @@
                     10 uhr in ein holtz gangen, <persName>Barbeli Senn</persName> habe <lb/>kraüter
                     gewunnen, selbige in ein wasser gelegt, mit einer <lb/>ruthen darauf geschlagen,
                     das <persName>Barbeli Maurer</persName> geheissen <lb/>abseiths tretten, und
-                    hiermit keine vögel gesehen.</p>
+                    hiermit keine vögel gesehen.</seg></p>
             </div>
             <div>
-                <head><lb/>3. </head>
-                <p><lb/><persName>Hans Senn</persName>, ein 58 jähriger mann aus dem <placeName>Stalliker<lb/>Thal, im Scheller</placeName> genannt, sagte,
+                <head><lb/>3.</head>
+                <p><seg n="3"><lb/><persName>Hans Senn</persName>, ein 58 jähriger mann aus dem <placeName>Stalliker<lb/>Thal, im Scheller</placeName> genannt, sagte,
                     gedachtes <persName>Barbeli Senn</persName>
                     <lb/>seye anderthalb jahr lang bey ihme am tisch gewesen, <lb/>habe selbiges zum
                     betten und arbeiten gehalten, seye <lb/>aber mutwillig und hallstarrig gewesen,
                     endtlich schon <lb/>vor 6 wochen ohne wüssen seiner von ihmme zu des
                         <lb/><persName>Geris Maurers</persName><!--Name?--> geloffen, und bis dato
-                    bey ihnen ver- <lb/>bliben, wüsse nichts, dass es vögel bey ihmme gemacht.</p>
+                    bey ihnen ver- <lb/>bliben, wüsse nichts, dass es vögel bey ihmme gemacht.</seg></p>
             </div>
             <div>
                 <head><lb/>4. <lb/></head>
-                <p><persName>Hans Maurer</persName> ein 46 jähriger mann ab
+                <p><seg n="4"><persName>Hans Maurer</persName> ein 46 jähriger mann ab
                         <placeName>Aügst</placeName>, <lb/>gestunde, es seye das <persName>Barbeli
                         Senn</persName> vor ohngefahr 6 <lb/>wochen zu ihmme kommen, habe selbiges
                     um seidenwindes <lb/>halber auf recommendation der frau
@@ -160,15 +160,15 @@
                     der frau <persName>Pfarreren</persName>
                     <lb/>angezeigt, einmahl kurtz ä weg, er wüsse weiters nichts <lb/><del> als das
                         diss <persName>Barbeli Senn</persName> schlecht bey ihmme versorget
-                        <lb/>gewesen.</del> Endtlich und zum</p>
+                        <lb/>gewesen.</del> Endtlich und zum</seg></p>
             </div>
             <div>
                 <head><lb/>5. <lb/>So wurde das <persName>Barbeli Senn</persName> selbsten in dem
                         <placeName ref="LOC_47.305989_8.682064">Ötten- <lb/>bach</placeName>
                     folgender maassen examiniert und verhört </head>
                 <p>
-                    <lb/>1.Q. Wie es heisse? <!--Q / R ?-->
-                    <lb/>R: <persName>Barbeli Senn</persName>. <lb/>2.Q. Wo her? <lb/>R. von
+                    <seg n="5"><lb/>1.Q. Wie es heisse? <!--Q / R ?-->
+                    <lb/>R. <persName>Barbeli Senn</persName>. <lb/>2.Q. Wo her? <lb/>R. von
                         <placeName ref="LOC_47.26703_8.48539">Aügst</placeName>
                     <add place="right">Wie Alt. R: Eilff jahr</add>. <lb/>3.Q. Warum vorhanden?
                     <lb/>R. Wegen vögeli machens.<pb n="3" facs="A_27_134__Nr__61__S__3_.tif"/>
@@ -212,7 +212,7 @@
                         <persName>Barbeli Maurer</persName> heissen zuruck gehen. <lb/>R. Es dörfte
                     niemand vor handen seyn wanns mit vögelmachen<lb/>umgange. <lb/>24.Q. Ob es aber
                     auch selbst die vögel gesehn, so es gemacht? <lb/>R. Nein, sonder die leüth
-                    haben es so gesagt.<!--unklar?--><lb/>Hierüber wurde ihmme von denen meinen
+                    haben es so gesagt.<!--unklar?--></seg></p><p><seg n="6"><lb/>Hierüber wurde ihmme von denen meinen
                     herren nachgängern <lb/>freündt-ernstliche zugesprochen, mit hin vernonfftmässig
                     angezeiget, <lb/><del>wie das diss</del>
                     <add place="margin">ob diss nit selbst sinnte sachen</add> alles eine lauten
@@ -221,7 +221,7 @@
                     selbst, dass es nit wahr, <lb/>was ihmme sein vadter angegeben. S wolle
                     hinkönfftig fleissig <lb/>bädten, die sach aus dem sinn schlagen und sich darfür
                     in das könfftige hüeten, ersuche eüch meine gnädigen herren um ein erlassung
-                    <lb/>der gefangenschafft.<!--unklar-->
+                    <lb/>der gefangenschafft.</seg><!--unklar-->
                     <lb/>3.7.21 </p>
             </div>
         </body>
