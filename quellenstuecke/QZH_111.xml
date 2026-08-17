@@ -6,11 +6,11 @@
             <titleStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
-                    <persName><!-- Name der Transkriptor:in --></persName>
+                    <persName>Anina Steinmann</persName>
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
-                    <persName><!-- Name der Tagger:in --></persName>
+                    <persName>Anina Steinmann</persName>
                     <resp key="tagging"/>
                 </respStmt>
             </titleStmt>
@@ -24,16 +24,17 @@
                     <persName>Staatsarchiv des Kantons Zürich</persName>
                     <resp>Herausgeberschaft</resp>
                 </respStmt>
-                <idno>QZH_tbd</idno><!-- QZH-Nummerierung -->
+                <idno>QZH_111</idno>
             </seriesStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5191097">STAZH Signatur</idno><!-- Signatur -->
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5121664">STAZH A 67.1, Nr. 21</idno>
                     </msIdentifier>
-                    <head><!-- Titel --></head>
+                    <head>Weisung der Registraturkommission wegen des Meyerschen Promptuars zu den Ratsmanualen</head>
                     <msContents>
-                        <summary><!-- Regest --></summary>
+                        <summary>Bericht der Registraturkommission an Bürgermeister und Rat der Stadt Zürich, dass das von Pfarrer Hans Jakob Meyer (1731-1792) in Pfungen angefertigte Promptuar zu den Ratsmanualen in der Stadtschreiberkanzlei aufbewahrt
+                            und dort fortgesetzt werden sollte.</summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Aufzeichnungen</filiation>
@@ -78,16 +79,24 @@
                    <div>
                        <pb n="1"/>
                        <p>
-                           <lb/>
-                           <lb/>
-                           <lb/>
-                           <lb/>
+                           <lb/>Da durch die besondere sorgfalt, und
+                           <lb/>attention, Hherren Stadtschreiber Hirzels,
+                           <lb/>und derselben genaue Bekanntschaft mit
+                           <lb/>Herren Hs. Jacob Meyer von Win<lb break="no"/>terthur
+                           würdigsten pfarherren
+                           <lb/>zu Pfrungen, das so allgemein
+                           <lb/>bbelobte, und zum gebrauch son<lb break="no"/>heitlich zum nachschlagen sehr
+                           <lb/>bequem eingerichtete, nun <del>schon</del> 
                        </p>
                    </div>
                 </body>
                 <back>
                     <div>
-                        <p><!-- Kommentartext --></p>
+                        <p>Erwähnt werden 3 Beilagen, von denen aber nur 2 vorhanden sind (wenn es sich bei der Beilage C nicht um den Ratsbeschluss vom 4. Januar 1786 handelt, vgl. A 67.3.1, Nr. 17).
+                            Registraturtitel: Berichtsweisung einer Loblichen Registraturkommission betreffend das von Herrn Pfarrer Jakob Meyer zu Pfungen, Bürger von Winterthur, verfertigte und Meinen Gnädigen Herren zugeeignete gemeinnützige Werk eines systematischen
+                            alphabetisch-chronologischen Promptuarii über die hiesigen Staatsprotokolle, welches selbiger bei hiesiger Staatskanzlei in usum publicum niedergelegt habe, sub 7. Dezember 1785.
+                            Siehe: KAT 461 - KAT 498 Alphabetisch-chronologisches Promptuarium über die Staats-Protokolle (Meyerisches Promptuarium) (B II 6 - B II 1060), 1785-1798 (ca.) (Dossier)
+                            Siehe: A 67.3.1, Nr. 17 Ratsbeschluss betreffend die Promptuare zu den Ratsmanualen, 1786.01.04 (Dokument)</p>
                     </div>
                 </back>
             </text>
