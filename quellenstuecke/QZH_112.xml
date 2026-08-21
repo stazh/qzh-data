@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName><!-- Name der Transkriptor:in --></persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName><!-- Name der Tagger:in --></persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2026-05-01"/><!-- bei @when wird zum Schluss das finale Publikationsdatum eingetragen -->
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_112</idno><!-- QZH-Nummerierung -->
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=251782">StAZH C I, Nr. 900</idno><!-- Signatur -->
+                    </msIdentifier>
+                    <head>Bürgermeister und Rat der Stadt Zürich beurkunden, dass sie von Johannes Escher sein in der Schmalzgrub gelegenes Haus um den Preis von 3800 Gulden zur Einrichtung eines ständigen Sitzes für den Unterschreiber und seine Kanzlei erworben haben. Sekretsiegel der Stadt.</head>
+                    <msContents>
+                        <summary><!-- Regest --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Aufzeichnungen</filiation>
+                            <filiation type="original"><origDate when="1692-08-06"/><!-- bei @when korrektes Datum eintragen -->
+                            </filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1692-08-06"/></origin><!-- bei @when korrektes Datum eintragen -->
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                  <term></term><!-- terms noch einfüllen -->
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text>
+                <body>
+                   <div>
+                       <pb n="1"/>
+                       <p>
+                           <lb/>
+                           <lb/>
+                           <lb/>
+                           <lb/>
+                       </p>
+                   </div>
+                </body>
+                <back>
+                    <div>
+                        <p><!-- Kommentartext --></p>
+                    </div>
+                </back>
+            </text>
+        </group>
+    </text>
+</TEI>
