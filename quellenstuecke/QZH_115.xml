@@ -30,12 +30,13 @@
         <msDesc>
           <msIdentifier>
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355346">StAZH F II a
-              271, S. 442-444 (Abschrift, um 1534)</idno>
+              271, S. 442-444</idno>
           </msIdentifier>
           <head>Urfehdebrief des Täufers Hans Bächi</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
               <filiation type="original"><origDate when="1530-03-24"/></filiation>
             </msItem>
           </msContents>
@@ -86,8 +87,8 @@
           wyb und kind erloupt und lassen kommenn und mir enkhein<note type="editorial"> kein, Id.
             III, 316 u. 318.</note> andere straff nit uffgelegt, dann das ich da einen ufgehepten
           eyde lyblich<note type="editorial"> durch körperliche Berührung der Bibel, vgl.
-            http://fwb-online.de/go/leiblich.s.4adj_1732171365 (Frühneuhochdeutsches
-            Wörterbuch).</note> zů got geschworn, das ich vonn söllicher unnwarhafftenn töufferyg
+          <bibl><ref target="http://fwb-online.de/go/leiblich.s.4adj_1732171365">Frühneuhochdeutsches
+            Wörterbuch</ref></bibl>.</note> zů got geschworn, das ich vonn söllicher unnwarhafftenn töufferyg
           abston welle und mich dero myn lebenlang nit meer gebruchenn, ouch mich von allenn denen,
           so sich deren uͤben und der seckt sind, zeüssern, dhein<note type="editorial">
             keine</note> bywonung<note type="editorial"> Umgang, Id. XVI, 321f.</note> by jnen nit

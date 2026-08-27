@@ -29,12 +29,13 @@
         <msDesc>
           <msIdentifier>
             <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355349">StAZH F II a
-              271, S. 452-454 (Abschrift, um 1534)</idno>
+              271, S. 452-454</idno>
           </msIdentifier>
           <head>Bürgermeister und Rat von Zürich an Hans Rudolf Lavater</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
               <filiation type="original"><origDate when="1532-03-12"/></filiation>
             </msItem>
           </msContents>
@@ -70,8 +71,8 @@
   <text>
     <body>
       <div>
-        <p>Burgermeister und rath der statt Zürich. Unnsernn früntlichen willenn und alles gůts
-          zůvor. Frommer unnd wyser, insonders lieber, getrüwer burger unnd vogt, als dann <persName ref="Schmid, Heinrich">Heinrich Schmid</persName> von <placeName ref="LOC_47.45801_8.58528">Clotenn</placeName>
+        <p><seg>Burgermeister und rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.</seg> <seg>Unnsernn früntlichen willenn und alles gůts
+          zůvor.</seg> <seg>Frommer unnd wyser, insonders lieber, getrüwer burger unnd vogt, als dann <persName ref="Schmid, Heinrich">Heinrich Schmid</persName> von <placeName ref="LOC_47.45801_8.58528">Clotenn</placeName>
           unnd <persName ref="Walter, Cathrina">Trina</persName> sin husfrow desswegenn, dass sy
           sich der verjrrthenn sect der wider­toüf­fery wider unsere mandata, desshalb ussggangenn,
           underzogenn, jnn unser gefeͣngknus kommen unnd aber jetz, nach dem sy beyde bekennt, jn
@@ -94,8 +95,8 @@
           wüssen möge, daruff der gebür nach zehandlenn. Dann wir je gesinnet, söllichem jrsall unnd
           sect erneͣmpter ­toüf­fery, so wyt uns müglich, ußzerüten und keins weͣgs gruͤnen
           zelassen, daran thůstu unnser meynung<note type="editorial"> Beschluss, Weisung, vgl. <bibl><ref target="http://fwb-online.de/go/meinung.h2.1f_1709288851">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> früntlich umb dich jnn geneigtem gunst
-          zeerkennenn. Uss <placeName ref="LOC_47.36667_8.55">Zürich</placeName><bm id="20"/>,
-          zinstags nach mitfasten anno mv<sup>c</sup> xxxij.</p>
+          zeerkennenn.</seg> <seg>Uss <placeName ref="LOC_47.36667_8.55">Zürich</placeName><bm id="20"/>,
+          zinstags nach mitfasten anno mv<sup>c</sup> xxxij.</seg></p>
         <p rend="margin-top">Dem frommen unnd wysenn, unserm jnsonders liebenn, gethrüwenn burger
           unnd vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> <persName ref="GND_129995126">Hans Růdolff Lafatern</persName>.</p>
       </div>
