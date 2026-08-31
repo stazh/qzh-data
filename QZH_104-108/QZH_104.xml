@@ -103,7 +103,7 @@
 			<head><lb/>Emanuel!</head>
             <head><abbr>T.S.</abbr> Wohlerwürdiger, frommer, hochgelehrter, in sonders 
             <lb/>hochgeehrter herr antistes.</head>
-			<p><lb/>Nach dem im <date when="1718-02">hornung 1718</date>
+			<p><seg n="1"><lb/>Nach dem im <date when="1718-02">hornung 1718</date>
                     <persName>Rudi Senn</persName> mit seiner frauwen, <lb/><persName>Verena
                         Ernin</persName>, wägen einers von seinen kindern, mit dennen er
                     <lb/>beständig im land herum gezogen, vorgäbende: Er arbeite <lb/>im <placeName
@@ -133,9 +133,9 @@
                         1711</date>
                     <lb/>zu <placeName ref="LOC_46.55539_7.37302">Zweysimmen</placeName> im oberen
                         <placeName ref="LOC_46.55_7.4">Sibenthal</placeName>, <placeName
-                        ref="LOC_LOC_46.87251_7.59563">Bernergebiets</placeName>, getauft</p>
+                        ref="LOC_LOC_46.87251_7.59563">Bernergebiets</placeName>, getauft
                         <pb n="2" facs="A_27_134__Nr__59__S__2_.tif"/>
-			<p><lb/>worden, testibus literis <persName>Emanuelis Massè</persName>, pastoris) und <lb/>zu
+			<lb/>worden, testibus literis <persName>Emanuelis Massè</persName>, pastoris) und <lb/>zu
                         <placeName ref="LOC_47.29794_8.4483">Hedingen</placeName> um 3 brötli und 12
                     schiling verdinget war, mit <lb/>hinweg genommen, nach etlichen wuchen aber sein
                         stiefftöchter<lb break="no"/>lein und das <persName>Anneli</persName>,
@@ -147,7 +147,7 @@
                         break="no"/>genommen worden, dem <persName>Barbali</persName> aber sind
                     widerum 3 brötli <lb/>und 12  oberkeitlich zu seiner underhaltung verordnet
                     <lb/>worden, sid welcher zeit ich es an dritten tisch mit grosser <lb/>mühe
-                    bringen mögen. Disen abend aber um 4 uhren, als <lb/>ich für das haus kommen,
+                    bringen mögen.</seg> Disen abend aber um 4 uhren, als <lb/>ich für das haus kommen,
                     allwo es sich aufhalt, dise <lb/>böse zeitung vernommen: Es könne vögeli machen,
                         dess<lb break="no"/>wegen ich mich ungesaumt mit meinem sohn <choice>
                         <abbr>v.d.m.</abbr>
