@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<!-- seg und p kontrolliert, offene Kommentare noch durchzzugehen -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <teiHeader>
         <fileDesc>
@@ -10,7 +11,7 @@
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
-                    <persName>Mara Haas</persName>
+                    <persName>Mara Haas</persName><persName>Helena Dobiess</persName>
                     <resp key="tagging"/>
                 </respStmt>
             </titleStmt>
@@ -32,15 +33,38 @@
                         <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748"
                             >STAZH A 27.134 (Nr. 61)</idno>
                     </msIdentifier>
-                    <head>Zeugenaussagen und Verhör im Fall der wegen Hexerei verdächtigten und
+                    <head>Zeugenaussagen und Verhör im Fall der wegen Verdachts auf Vogelmachen
                         derzeit im Gefängnis Ötenbach festgehaltenen Barbeli Senn durch die
-                        Ratsherren Johann Conrad Werdmüller und Heinrich Lavater</head>
-                    <!-- 105?-->
-                    <msContents>
-                        <summary><!-- Regest --></summary>
+                        Ratsherren Johann Konrad Werdmüller und Heinrich Lavater</head>
+                                 <msContents>
+                        <summary>Die Ratsherren Johann Conrad Werdmüller und Heinrich Lavater
+                            vernehmen nach Erhalt des Berichts von Pfarrer Hans Jakob Ammann von
+                            Aeugst Barbeli Senn von Aeugst diverse Zeugen und die Beschuldigte
+                            selbst. Heinrich, der 20-jährige Sohn Hans Maurers sagt aus, dass er von
+                            seiner Schwester Barbeli über Barbeli Senns vermeintliches Vogelmachen
+                            erfahren habe. Ausserdem habe Barbeli Senn ihm gegen Bezahlung das
+                            Vogelmachen selbst vorgeführt (1). Die 15-jährige Barbeli Maurer gibt
+                            ebenfalls an, wie Barbeli Senn ihr gegen Bezahlung das Vogelmachen habe
+                            zeigen wollen. Maurer habe aber bei der Vorführung im Wald keine Vögel
+                            gesehen (2). Hans Senn aus dem Stalliker Tal bezeugt, dass Barbeli
+                            während eineinhalb Jahren bei ihm gelebt habe, ein eigensinniges Kind
+                            gewesen und sechs Wochen zuvor davongelaufen sei. Er verneint, vom
+                            Vogelmachen etwas mitbekommen zu haben (3). Hans Maurer bezeugt, dass
+                            Barbeli seit sechs Wochen bei ihm lebe und er das Mädchen auf Empfehlung
+                            der Frau Pfarrer aufgenommen habe. Barbeli habe vor ihm selbst keine
+                            Vögel gezaubert, sondern nur seinen Kindern davon erzählt, woraufhin
+                            diese der Frau Pfarrer davon berichtet hätten (4). Zum Schluss folgt das
+                            Protokoll des Verhörs von Barbeli Senn im Oetenbach mit Fragen darüber,
+                            wo das Mädchen das Vogelmachen gelernt habe, wie dieses funktioniere und
+                            ob es dafür Geld verlange (5). Die vernehmenden Ratsherren kommen zum
+                            Schluss, dass sich das Mädchen die Geschichten über das Vogelmachen
+                            ausgedacht habe und selbst nicht mehr daran glaube. Zum Schluss habe
+                            Barbeli versprochen, diese Ideen zu vergessen und künftig fleissig zu
+                            beten, weshalb die Ratsherren um Freilassung des Mädchens bitten
+                            (6).</summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
-                            <filiation type="current">Brief</filiation>
+                            <filiation type="current">Original, </filiation> <!-- 1 Doppelblatt + 1 einzelblatt ? -->
                             <filiation type="original"><origDate when="1721-07-01"
                                 />01.07.1721</filiation>
                         </msItem>
@@ -62,7 +86,7 @@
         <encodingDesc>
             <editorialDecl>
                 <p>
-                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+                    <ref target="https://schema.ssrq-sds-fds.ch/latest/base/transcription"/>
                 </p>
             </editorialDecl>
         </encodingDesc>
@@ -104,125 +128,144 @@
                         <placeName ref="LOC_47.26703_8.48539">Aügst</placeName>
                     <lb/>folgendes verdeütet.</head>
                 <p><seg n="1"><lb/>Er habe zu allererst das <persName>Barbeli Senn</persName> dem
-                        <persName>Barbeli Maurer</persName>
-                    <lb/>angezeigt, wie dass es vögeli machen könne, darauf habe es <lb/>das
-                        <persName>Barbeli Maurer</persName> ihmme dem
-                        <persName>Heinrichen</persName> gesagt, welches hernach <lb/>der frau
-                        <persName>Pfarrer</persName> ab <placeName ref="LOC_47.26703_8.48539"
-                        >Aügst</placeName> verdeütet worden, die hernach be<lb break="no"/>fohlen,
-                    man solle schauen, ob diss kind mit vögelmachen um<lb break="no"/>gehen könne,
-                    worüber er Heinrich diserem <persName>Barbeli Senn</persName> ein pfennig <!--abkürzen?-->
-                    <lb/>versprochen, wann es dergleichen vor seinen augen mache, nach<lb break="no"
-                    />diesem habe dieses kind eine hand voll kraüter genommen, <lb/>selbige auf ein
-                    aahornin stäcklein {Wasser [Alle Einfügungen andere Hand,
-                    Bleistift]}<!--unklar--> gelegt, in den bach zu <lb/>nechst bey ihrem haus
-                    gelegt, darauf geschlagen, worüber <lb/>2 oder 3 vögel gleich den schwalmen, dem
-                    tach zu geflogen <lb/>worüber er <persName>Heinrich</persName> sich beseegnet
-                    und geförchtet, hierauf wurde</seg></p>
+                            <persName>Barbeli Maurer</persName>
+                        <lb/>angezeigt, wie dass es vögeli machen könne, darauf habe es <lb/>das
+                            <persName>Barbeli Maurer</persName> ihmme dem
+                            <persName>Heinrichen</persName> gesagt, welches hernach <lb/>der frau
+                            <persName>Pfarrer</persName> ab <placeName ref="LOC_47.26703_8.48539"
+                            >Aügst</placeName> verdeütet worden, die hernach be<lb break="no"
+                        />fohlen, man solle schauen, ob diss kind mit vögelmachen um<lb break="no"
+                        />gehen könne, worüber er Heinrich diserem <persName>Barbeli Senn</persName>
+                        ein pfennig <!--abkürzen?-->
+                        <lb/>versprochen, wann es dergleichen vor seinen augen mache, nach<lb
+                            break="no"/>diesem habe dieses kind eine hand voll kraüter genommen,
+                        <lb/>selbige auf ein aahornin stäcklein {Wasser [Alle Einfügungen andere
+                        Hand, Bleistift]}<!--unklar--> gelegt, in den bach zu <lb/>nechst bey ihrem
+                        haus gelegt, darauf geschlagen, worüber <lb/>2 oder 3 vögel gleich den
+                        schwalmen, dem tach zu geflogen <lb/>worüber er
+                            <persName>Heinrich</persName> sich beseegnet und geförchtet, hierauf
+                        wurde</seg></p>
             </div>
             <div>
                 <head><lb/>2. <lb/><persName>Barbeli Maurer</persName> ein 15 jähriges töchterlein
                     exami <lb/>niert, welches folgendes aussgesagt.</head>
-                <p><seg n="2"><lb/>Das <persName>Barbeli Senn</persName> habe ihme verdeütet, könne mit
-                        vögeli<lb break="no"/>machen umgehen, woll es auch lehrnen, wanns ihmme 21
-                    batzen <lb/>gebe, dises nun habe sein mutter der frau
-                        <persName>Pfarer</persName> ab <lb/><placeName ref="LOC_47.26703_8.48539"
-                        >Aügst</placeName> verdeütet, die befohlen man soll das kind mit <lb/>güte
-                    zum vögelimachen bringen, worüber das <persName>Barbeli
-                    <lb/>Murer</persName>selbigem auch einen schilling versprochen, wann es ihms
-                        <lb/>weise<pb n="2" facs="A_27_134__Nr__61__S__2_.tif"/>
-                    <lb/>seyen darüber beyde mit ein anderen ohngefahr vor 8 tagen <lb/>in circa um
-                    10 uhr in ein holtz gangen, <persName>Barbeli Senn</persName> habe <lb/>kraüter
-                    gewunnen, selbige in ein wasser gelegt, mit einer <lb/>ruthen darauf geschlagen,
-                    das <persName>Barbeli Maurer</persName> geheissen <lb/>abseiths tretten, und
-                    hiermit keine vögel gesehen.</seg></p>
+                <p><seg n="2"><lb/>Das <persName>Barbeli Senn</persName> habe ihme verdeütet, könne
+                        mit vögeli<lb break="no"/>machen umgehen, woll es auch lehrnen, wanns ihmme
+                        21 batzen <lb/>gebe, dises nun habe sein mutter der frau
+                            <persName>Pfarer</persName> ab <lb/><placeName
+                            ref="LOC_47.26703_8.48539">Aügst</placeName> verdeütet, die befohlen man
+                        soll das kind mit <lb/>güte zum vögelimachen bringen, worüber das
+                            <persName>Barbeli <lb/>Murer</persName>selbigem auch einen schilling
+                        versprochen, wann es ihms <lb/>weise<pb n="2"
+                            facs="A_27_134__Nr__61__S__2_.tif"/>
+                        <lb/>seyen darüber beyde mit ein anderen ohngefahr vor 8 tagen <lb/>in circa
+                        um 10 uhr in ein holtz gangen, <persName>Barbeli Senn</persName> habe
+                        <lb/>kraüter gewunnen, selbige in ein wasser gelegt, mit einer <lb/>ruthen
+                        darauf geschlagen, das <persName>Barbeli Maurer</persName> geheissen
+                        <lb/>abseiths tretten, und hiermit keine vögel gesehen.</seg></p>
             </div>
             <div>
                 <head><lb/>3.</head>
-                <p><seg n="3"><lb/><persName>Hans Senn</persName>, ein 58 jähriger mann aus dem <placeName>Stalliker<lb/>Thal, im Scheller</placeName> genannt, sagte,
-                    gedachtes <persName>Barbeli Senn</persName>
-                    <lb/>seye anderthalb jahr lang bey ihme am tisch gewesen, <lb/>habe selbiges zum
-                    betten und arbeiten gehalten, seye <lb/>aber mutwillig und hallstarrig gewesen,
-                    endtlich schon <lb/>vor 6 wochen ohne wüssen seiner von ihmme zu des
-                        <lb/><persName>Geris Maurers</persName><!--Name?--> geloffen, und bis dato
-                    bey ihnen ver- <lb/>bliben, wüsse nichts, dass es vögel bey ihmme gemacht.</seg></p>
+                <p><seg n="3"><lb/><persName>Hans Senn</persName>, ein 58 jähriger mann aus dem
+                            <placeName>Stalliker<lb/>Thal, im Scheller</placeName> genannt, sagte,
+                        gedachtes <persName>Barbeli Senn</persName>
+                        <lb/>seye anderthalb jahr lang bey ihme am tisch gewesen, <lb/>habe selbiges
+                        zum betten und arbeiten gehalten, seye <lb/>aber mutwillig und hallstarrig
+                        gewesen, endtlich schon <lb/>vor 6 wochen ohne wüssen seiner von ihmme zu
+                        des <lb/><persName>Geris Maurers</persName><!--Name?--> geloffen, und bis
+                        dato bey ihnen ver- <lb/>bliben, wüsse nichts, dass es vögel bey ihmme
+                        gemacht.</seg></p>
             </div>
             <div>
                 <head><lb/>4. <lb/></head>
                 <p><seg n="4"><persName>Hans Maurer</persName> ein 46 jähriger mann ab
-                        <placeName>Aügst</placeName>, <lb/>gestunde, es seye das <persName>Barbeli
-                        Senn</persName> vor ohngefahr 6 <lb/>wochen zu ihmme kommen, habe selbiges
-                    um seidenwindes <lb/>halber auf recommendation der frau
-                        <persName>Pfarrer</persName> ab <placeName ref="LOC_47.26703_8.48539"
-                        >Aügst</placeName>
-                    <lb/>in sein haus genommen, vor ihmme habe es keine vögel <lb/>gemacht, sonder
-                    nur seinem kind verdeütet, könne vögel <lb/>machen, welches hernach sein frau
-                    der frau <persName>Pfarreren</persName>
-                    <lb/>angezeigt, einmahl kurtz ä weg, er wüsse weiters nichts <lb/><del> als das
-                        diss <persName>Barbeli Senn</persName> schlecht bey ihmme versorget
-                        <lb/>gewesen.</del> Endtlich und zum</seg></p>
+                            <placeName>Aügst</placeName>, <lb/>gestunde, es seye das
+                            <persName>Barbeli Senn</persName> vor ohngefahr 6 <lb/>wochen zu ihmme
+                        kommen, habe selbiges um seidenwindes <lb/>halber auf recommendation der
+                        frau <persName>Pfarrer</persName> ab <placeName ref="LOC_47.26703_8.48539"
+                            >Aügst</placeName>
+                        <lb/>in sein haus genommen, vor ihmme habe es keine vögel <lb/>gemacht,
+                        sonder nur seinem kind verdeütet, könne vögel <lb/>machen, welches hernach
+                        sein frau der frau <persName>Pfarreren</persName>
+                        <lb/>angezeigt, einmahl kurtz ä weg, er wüsse weiters nichts <lb/><del> als
+                            das diss <persName>Barbeli Senn</persName> schlecht bey ihmme versorget
+                            <lb/>gewesen.</del> Endtlich und zum</seg></p>
             </div>
             <div>
                 <head><lb/>5. <lb/>So wurde das <persName>Barbeli Senn</persName> selbsten in dem
                         <placeName ref="LOC_47.305989_8.682064">Ötten- <lb/>bach</placeName>
                     folgender maassen examiniert und verhört </head>
-                <p>
-                    <seg n="5"><lb/>1.Q. Wie es heisse? <!--Q / R ?-->
-                    <lb/>R. <persName>Barbeli Senn</persName>. <lb/>2.Q. Wo her? <lb/>R. von
-                        <placeName ref="LOC_47.26703_8.48539">Aügst</placeName>
-                    <add place="right">Wie Alt. R: Eilff jahr</add>. <lb/>3.Q. Warum vorhanden?
-                    <lb/>R. Wegen vögeli machens.<pb n="3" facs="A_27_134__Nr__61__S__3_.tif"/>
-                    <lb/>4.Q. Obs dann dergleichen machen könne? <lb/>R. Ja.<lb/>5.Q. wer es glehrt?
-                    <lb/>R. Sein ätti. <lb/>6.Q. Wie lang sinth dem? <lb/>R. Ey fahrt schon lang,
-                    wüss es eigentlich nit mehr. <lb/>7.Q. Wo er selbiges gelehrt <lb/>R. In der
-                    mäss um <placeName ref="LOC_47.35346_8.32984">Brämgarten</placeName> in einem
-                    holtz. <lb/>8.Q. Warum er selbiges gelehrt? <lb/>R. Habe gesagt, wolls schlagen,
-                    wann es solches nicht lehrne. <lb/>9.Q. Ob es etwas sagen müsse, wann es wolle
-                    vögel machen? <lb/>R. Nein, nüd ä wort, sondern nur die kraüter in ein wasser
-                    <lb/>werffen und mit einer ruthen darauf schlagen. <lb/>10.Q. Was gatung die
-                    ruthen, wormit es die kraüter schlage? <lb/>R. Jä es wüsse solches nicht.
-                    <lb/>11.Q. Was das für kraüter, die es zu diser kunst brauche, zu <lb/>dem ob es
-                    vill oder nur einerley <lb/>R. Es seye viererley, <del>nammlich erdbeerkraut,
-                            fünfffinger<lb break="no"/>kraut, und äbhaü, das vierte wüsse es nicht
-                        mehr.</del><lb/><add place="above">dis kraüter aber es wüss nit wie sie
-                        heissendt</add>
-                    <lb/>12.Q. Wo es selbige abbreche und abhole? <lb/>R. Im holtz, dann die seyen
-                    am kräfftigsten zu dieseren. <lb/>13.Q. Ob die jennigen vögel auch fliegen
-                    können, wo es mache, gleich <lb/>den anderen? <lb/>R. Ja sie fliegend wie die
-                    anderen. <lb/>14.Q. Wie vill es auf einmahl gebe? <lb/>R. Etwann 3 oder
-                        <del>4</del>. <lb/>15.Q. Wie gross die selbigen? <lb/>R: Etwann wie ein
-                    kleines maüssli. <lb/>16.Q. Obs schon öftters gemacht? <lb/>R. Ja, alle tag,
-                    dann sein ädti habe gesagt, müsse alle tag <lb/>machen, sonst holle es der
-                    teüffel. <lb/>17.Q. Ob es auch schon vor ander leüthen gemacht? <lb/>R: Ja, und
-                    zwahr in beywesen des <persName>Heinrich Maurers</persName>, der, da <lb/>er sie
-                    gesehen dem tach zu fliegen, sich beseegnet und ge- <lb/>förchtet. <lb/>18.Q. Ob
-                    es ihmme solches umsonst gezeigt? <lb/>R. Er habe selbigem 1 schilling
-                    versprochen aber nit gegeben. <lb/>19.Q. Ob es nicht auch jemanden machen lehren
-                    wollen? <lb/>R. Ja, und zwahr das <persName>Barbeli Murer</persName>. <lb/>20.Q.
-                    Ob es ihmme umsonst zeigen wollen? <lb/>R. Nein, sondern habe von ihmme 20
-                    batzen gefordert, welches<pb n="4" facs="A_27_134__Nr__61__S__4_.tif"/>
-                    <lb/><del>gelt es dann seinem bey sich gehabten grossen vogel in den <!-- Hinzufügung richtig taggen (betrifft ganze Seite) -->
-                        <lb/>schnabel geben wollen, dann sein vadter gesagt, solle es allso
-                        <lb/>machen.</del>
-                    <lb/><add place="margin">der vadter befohlen, dem grossen vogel in schnabel geb,
-                        der wüsst wo er seye undt werde ihm bringen.</add><lb/>21.Q. Wie gross diser
-                    vogel, und was farbs? <lb/>R: Etwann wie ein federgans und schwarz. <lb/>22.Q.
-                    Ob sonst jemand mehr diesere kunst könne als nur es allein? <lb/>R: Seine
-                    brüderen, der ätti habs auch gelehrt machen. <lb/>23.Q. Warum es das
-                        <persName>Barbeli Maurer</persName> heissen zuruck gehen. <lb/>R. Es dörfte
-                    niemand vor handen seyn wanns mit vögelmachen<lb/>umgange. <lb/>24.Q. Ob es aber
-                    auch selbst die vögel gesehn, so es gemacht? <lb/>R. Nein, sonder die leüth
-                    haben es so gesagt.<!--unklar?--></seg></p><p><seg n="6"><lb/>Hierüber wurde ihmme von denen meinen
-                    herren nachgängern <lb/>freündt-ernstliche zugesprochen, mit hin vernonfftmässig
-                    angezeiget, <lb/><del>wie das diss</del>
-                    <add place="margin">ob diss nit selbst sinnte sachen</add> alles eine lauten
-                    einbildung, was es vermeint <lb/>dissfahls halben gemacht zu haben
-                    <!--unklar-->. Worauf es sich eines <lb/>besseren besinth und verdeütet, glaube
-                    selbst, dass es nit wahr, <lb/>was ihmme sein vadter angegeben. S wolle
-                    hinkönfftig fleissig <lb/>bädten, die sach aus dem sinn schlagen und sich darfür
-                    in das könfftige hüeten, ersuche eüch meine gnädigen herren um ein erlassung
-                    <lb/>der gefangenschafft.</seg><!--unklar-->
-                    <lb/>3.7.21 </p>
+                                    <seg n="5"><p><lb/>1.Q. Wie es heisse? 
+                        <lb/>R. <persName>Barbeli Senn</persName>. </p>
+                        <p><lb/>2.Q. Wo her? <lb/>R. von
+                            <placeName ref="LOC_47.26703_8.48539">Aügst</placeName>
+                        <add place="right">Wie Alt. R: Eilff jahr</add>.</p> 
+                        <p><lb/>3.Q. Warum vorhanden?
+                        <lb/>R. Wegen vögeli machens.</p>
+                        <pb n="3" facs="A_27_134__Nr__61__S__3_.tif"/>
+                      <p>  <lb/>4.Q. Obs dann dergleichen machen könne?
+                          <lb/>R. Ja.</p>
+                        <p><lb/>5.Q. wer es
+                        glehrt? <lb/>R. Sein ätti. </p>
+                        <p><lb/>6.Q. Wie lang sinth dem?
+                            <lb/>R. Ey fahrt
+                        schon lang, wüss es eigentlich nit mehr.</p>
+                        <p><lb/>7.Q. Wo er selbiges gelehrt
+                        <lb/>R. In der mäss um <placeName ref="LOC_47.35346_8.32984"
+                            >Brämgarten</placeName> in einem holtz.</p> 
+                       <p> <lb/>8.Q. Warum er selbiges
+                        gelehrt? <lb/>R. Habe gesagt, wolls schlagen, wann es solches nicht lehrne.</p>
+                        <p><lb/>9.Q. Ob es etwas sagen müsse, wann es wolle vögel machen? <lb/>R. Nein,
+                        nüd ä wort, sondern nur die kraüter in ein wasser <lb/>werffen und mit einer
+                        ruthen darauf schlagen.</p> <p><lb/>10.Q. Was gatung die ruthen, wormit es die
+                        kraüter schlage? <lb/>R. Jä es wüsse solches nicht. </p><p><lb/>11.Q. Was das für
+                        kraüter, die es zu diser kunst brauche, zu <lb/>dem ob es vill oder nur
+                        einerley <lb/>R. Es seye viererley, <del>nammlich erdbeerkraut,
+                                fünfffinger<lb break="no"/>kraut, und äbhaü, das vierte wüsse es
+                            nicht mehr.</del><lb/><add place="above">dis kraüter aber es wüss nit
+                            wie sie heissendt</add></p>
+                        <p><lb/>12.Q. Wo es selbige abbreche und abhole? <lb/>R. Im holtz, dann die
+                        seyen am kräfftigsten zu dieseren.</p><p><lb/>13.Q. Ob die jennigen vögel auch
+                        fliegen können, wo es mache, gleich <lb/>den anderen? <lb/>R. Ja sie
+                        fliegend wie die anderen.</p> <p><lb/>14.Q. Wie vill es auf einmahl gebe? <lb/>R.
+                        Etwann 3 oder <del>4</del>. </p><p><lb/>15.Q. Wie gross die selbigen? <lb/>R:
+                        Etwann wie ein kleines maüssli. </p><p><lb/>16.Q. Obs schon öftters gemacht?
+                        <lb/>R. Ja, alle tag, dann sein ädti habe gesagt, müsse alle tag
+                        <lb/>machen, sonst holle es der teüffel.</p><p><lb/>17.Q. Ob es auch schon vor
+                        ander leüthen gemacht? <lb/>R: Ja, und zwahr in beywesen des
+                            <persName>Heinrich Maurers</persName>, der, da <lb/>er sie gesehen dem
+                        tach zu fliegen, sich beseegnet und ge- <lb/>förchtet. </p><p><lb/>18.Q. Ob es
+                        ihmme solches umsonst gezeigt? <lb/>R. Er habe selbigem 1 schilling
+                        versprochen aber nit gegeben.</p> <p><lb/>19.Q. Ob es nicht auch jemanden machen
+                        lehren wollen? <lb/>R. Ja, und zwahr das <persName>Barbeli Murer</persName>.</p>
+                        <p><lb/>20.Q. Ob es ihmme umsonst zeigen wollen? <lb/>R. Nein, sondern habe von
+                        ihmme 20 batzen gefordert, welches<pb n="4"
+                            facs="A_27_134__Nr__61__S__4_.tif"/>
+                        <lb/><del>gelt es dann seinem bey sich gehabten grossen vogel in den <!-- Hinzufügung richtig taggen (betrifft ganze Seite) -->
+                            <lb/>schnabel geben wollen, dann sein vadter gesagt, solle es allso
+                            <lb/>machen.</del>
+                        <lb/><add place="margin">der vadter befohlen, dem grossen vogel in schnabel
+                            geb, der wüsst wo er seye undt werde ihm bringen.</add></p><p><lb/>21.Q. Wie
+                        gross diser vogel, und was farbs? <lb/>R: Etwann wie ein federgans und
+                        schwarz.</p><p><lb/>22.Q. Ob sonst jemand mehr diesere kunst könne als nur es
+                        allein? <lb/>R: Seine brüderen, der ätti habs auch gelehrt machen.</p>
+                        <p><lb/>23.Q. Warum es das <persName>Barbeli Maurer</persName> heissen zuruck
+                        gehen. <lb/>R. Es dörfte niemand vor handen seyn wanns mit
+                        vögelmachen<lb/>umgange.</p>
+                        <p><lb/>24.Q. Ob es aber auch selbst die vögel gesehn,
+                        so es gemacht? <lb/>R. Nein, sonder die leüth haben es so
+                            gesagt.<!--unklar?--></p></seg>
+                   <p><seg n="6"><lb/>Hierüber wurde ihmme von denen meinen herren nachgängern
+                        <lb/>freündt-ernstliche zugesprochen, mit hin vernonfftmässig angezeiget,
+                            <lb/><del>wie das diss</del>
+                        <add place="margin">ob diss nit selbst sinnte sachen</add> alles eine lauten
+                        einbildung, was es vermeint <lb/>dissfahls halben gemacht zu haben
+                        <!--unklar-->. Worauf es sich eines <lb/>besseren besinth und verdeütet,
+                        glaube selbst, dass es nit wahr, <lb/>was ihmme sein vadter angegeben. S
+                        wolle hinkönfftig fleissig <lb/>bädten, die sach aus dem sinn schlagen und
+                        sich darfür in das könfftige hüeten, ersuche eüch meine gnädigen herren um
+                        ein erlassung <lb/>der gefangenschafft.<!--unklar-->
+                        <lb/>3.7.21</seg></p>
             </div>
         </body>
 

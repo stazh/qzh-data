@@ -10,7 +10,8 @@
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
-                    <persName>Mara Haas</persName><persName>Helena Dobiess</persName>
+                    <persName>Mara Haas</persName>
+                    <persName>Helena Dobiess</persName>
                     <resp key="tagging"/>
                 </respStmt>
             </titleStmt>
@@ -33,24 +34,31 @@
                             >STAZH A 27.134 (Nr. 59)</idno>
                     </msIdentifier>
                     <head>Brief von Hans Jakob Ammann, Pfarrer von Aeugst am Albis, an Antistes
-                        Johann Ludwig Nüscheler wegen Verdacht auf Hexerei beim zehnjährigen Mädchen Barbeli Senn,
-                        27.06.1721.</head>
+                        Johann Ludwig Nüscheler wegen Verdacht auf Vogelmachen beim zehnjährigen Mädchen
+                        Barbeli Senn, 27.06.1721.</head>
                     <msContents>
-                        <summary> Im Brief wendet sich Hans Jakob Amman, der Pfarrer von Aeugst an
-                            den Antistes Johann Ludwig Nüscheler. Im Brief denunziert er Barbeli
-                            Senn wegen Hexerei. Barbeli ist ein zehnjähriges Mädchen, das aufgrund
-                            des Lebenswandels ihrer Eltern verdingt wurde. Bevor er den eigentlichen
-                            Fall beschreibt, erzählt Amman die Geschichte der Familie Senn, die
-                            zwischen Bern und Zürich "beständig im Land herum gezogen". Barbeli Senn
-                            wird der Hexerei verdächtigt, weil sie gegen die Bezahlung von 20 Batzen
-                            angeboten habe, schwarze Vögel zu zaubern. Die Kinder der Bauernfamilie,
-                            bei der Barbeli seit sechs Wochen lebe, bezeugen dies. Der Bauernsohn
-                            habe gesehen, wie sie Kräuter in den Bach legte, diese mit einem Stecken
-                            schlug und schwarze Vögel davon flogen. Die 20 Batzen habe sie ihrem
-                            Vater gegeben, indem sie es einem schwarzen Vogel ins Mund gelegt und
-                            dieser es ihrem Vater gebracht habe. Pfarrer Ammann verweist im Brief
-                            auf das "fründlich Examen", in dem er Barbeli Senn selbst verhört
-                            habe.</summary>
+                        <summary> Hans Jakob Ammann, Pfarrer von Aeugst am Albis, wendet sich mit
+                            dem Fall von Barbeli Senn an Antistes Johann Ludwig Nüscheler. Ammann
+                            schildert zunächst die Geschichte der Familie Senn, die bereits seit
+                            Jahren im Land herumziehe und aufgrund ihres Lebenswandels schon
+                            mehrfach mit der Justiz in Berührung gekommen sei, wobei die Kinder
+                            zwischenzeitlich fürsorgerisch untergebracht wurden (1-2). Anschliessend
+                            kommt Ammann darauf zu sprechen, wie er heute durch Kinder Hans Maurers
+                            Kinder erfahren habe, dass Barbeli Senn gegen die Bezahlung von 20
+                            Batzen angeboten habe, schwarze Vögel zu zaubern, und wie er sich selbst
+                            beim Erhalt dieser Nachricht unverzüglich auf den Weg gemacht habe, das
+                            Mädchen zu examinieren (3). Maurers Sohn behaupte, mit Barbeli im Wald
+                            gewesen zu sein, wo das Mädchen Kräuter gesammelt, diese in einen Bach
+                            gelegt und anschliessend mit einem Stock darauf geschlagen habe,
+                            woraufhin zwei grosse schwarze Vögel erschienen seien. Auch die Tochter
+                            Hans Maurers habe erzählt, dass Barbeli ihr gegen Bezahlung das
+                            Vogelmachen habe beibringen wollen. Auf die Frage danach, was Barbeli
+                            mit dem Geld tun wolle, habe diese erwidert, der Vogel würde die Münzen
+                            in seinem Mund ihrem Vater bringen. (4) Obwohl Ammann die Erzählungen
+                            als Lügen betrachte, erachte er es als notwendig, das Kind dem Antistes
+                            ohne Verzug zur Untersuchung zu übersenden. Zuletzt betont Pfarrer
+                            Ammann, dass Barbeli ansonsten gut und viel bete. Er grüsst den Antistes
+                            und unterschreibt den Brief (5).</summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Brief</filiation>
@@ -75,7 +83,7 @@
         <encodingDesc>
             <editorialDecl>
                 <p>
-                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+                    <ref target="https://schema.ssrq-sds-fds.ch/latest/base/transcription"/>
                 </p>
             </editorialDecl>
         </encodingDesc>
@@ -96,83 +104,86 @@
         </profileDesc>
     </teiHeader>
     <text>
-        
-                <body> 
-                    <div>
-                        <pb n="1" facs="A_27_134__Nr__59__S__1_.tif"/>   
-			<head><lb/>Emanuel!</head>
-            <head><abbr>T.S.</abbr> Wohlerwürdiger, frommer, hochgelehrter, in sonders 
-            <lb/>hochgeehrter herr antistes.</head>
-			<p><seg n="1"><lb/>Nach dem im <date when="1718-02">hornung 1718</date>
-                    <persName>Rudi Senn</persName> mit seiner frauwen, <lb/><persName>Verena
-                        Ernin</persName>, wägen einers von seinen kindern, mit dennen er
-                    <lb/>beständig im land herum gezogen, vorgäbende: Er arbeite <lb/>im <placeName
-                        ref="LOC_46.87251_7.59563">Bernergebiet</placeName>, <del
-                        rend="strikethrough">auf</del> auf <placeName ref="LOC_47.26703_8.48539"
-                        >Aügst</placeName> abgesungen gottslesterlichen <lb/>liedleins, mit allen
-                    seinen kinderen im land aufgesucht und in <lb/><placeName
-                        ref="LOC_47.374444_8.541111">Öttenbach</placeName> gelegt worden, ward den
-                        <date when="1718-02-09">9ten februar</date> coram senatu er<lb break="no"
-                    />kennt: Dass der <persName>Heinrichli</persName> wägen ermelten gottlosen lieds
-                    zwey, <lb/>das <persName>Anneli</persName> einmahl durch den profosen in zusehen
-                    des <persName>Hanselis</persName>
-                    <lb/>wie auch ihres vatters und der muter gezüchtiget, auch darauff<lb
-                        break="no"/>hin ihnen und den herren nachgängeren erforderlich zugesprochen,
-                    die <lb/>muter aber, von welcher die kinder das liedli gehört und ge<lb
-                        break="no"/>lehrnet, in beyseyn der herren nachgängeren den boden küssen,
-                    und <lb/>2 mahl mit der ruthen an der stud gezüchtiget, hernach durch die
-                    <lb/>profosen aus dem land geführt und 6 jahr lang des land bannisiret
-                    <lb/>seyn, ihrem mann aber ernstlich zugesprochen werden, sich ehrlich im
-                    <lb/>land durch fleissige arbeit und wolverhalten sich zu erhalten <lb/>trachten
-                    solle, die kinder aber im <placeName ref="LOC_47.374444_8.541111"
-                        >Öttenbach</placeName> verbleiben sollind. <lb/>Als nun dise erkantnus
-                    effectuiret worden, hat diser <persName>Rudi</persName>, als <lb/>er ledig
-                    gelassen worden, sich mit seiner gottlosen frauen zum land <lb/>ausgemacht, und
-                    im fürgang sein jüngstes kind, <persName>Barbara</persName>
-                    <lb/>genant (welches hier gegenwürtig und dem <date when="1711-05-03">3ten Maii
-                        1711</date>
-                    <lb/>zu <placeName ref="LOC_46.55539_7.37302">Zweysimmen</placeName> im oberen
-                        <placeName ref="LOC_46.55_7.4">Sibenthal</placeName>, <placeName
-                        ref="LOC_LOC_46.87251_7.59563">Bernergebiets</placeName>, getauft
-                        <pb n="2" facs="A_27_134__Nr__59__S__2_.tif"/>
-			<lb/>worden, testibus literis <persName>Emanuelis Massè</persName>, pastoris) und <lb/>zu
-                        <placeName ref="LOC_47.29794_8.4483">Hedingen</placeName> um 3 brötli und 12
-                    schiling verdinget war, mit <lb/>hinweg genommen, nach etlichen wuchen aber sein
-                        stiefftöchter<lb break="no"/>lein und das <persName>Anneli</persName>,
-                    welche er, als die Öttenbacher<lb break="no"/>kinder an einem abend &amp;amp;
-                        mor<supplied>g</supplied>en ausgangen, auch geraubet <lb/>und entführt,
-                    seine beide aber zugleich mir wider <add place="left_margin">nach etlichen
-                        wuchen</add> zu <lb/>rük gesendt, dass <persName>Anneli</persName> ist wider
-                    in <placeName ref="LOC_47.374444_8.541111">Öttenbach</placeName> auff<lb
-                        break="no"/>genommen worden, dem <persName>Barbali</persName> aber sind
-                    widerum 3 brötli <lb/>und 12  oberkeitlich zu seiner underhaltung verordnet
-                    <lb/>worden, sid welcher zeit ich es an dritten tisch mit grosser <lb/>mühe
-                    bringen mögen.</seg> Disen abend aber um 4 uhren, als <lb/>ich für das haus kommen,
-                    allwo es sich aufhalt, dise <lb/>böse zeitung vernommen: Es könne vögeli machen,
-                        dess<lb break="no"/>wegen ich mich ungesaumt mit meinem sohn <choice>
+
+        <body>
+            <div>
+                <pb n="1" facs="A_27_134__Nr__59__S__1_.tif"/>
+                <head><lb/>Emanuel!</head>
+                <head><abbr>T.S.</abbr> Wohlerwürdiger, frommer, hochgelehrter, in sonders
+                    <lb/>hochgeehrter herr antistes.</head>
+                <p> <seg n="1"><lb/>Nach dem im <date when="1718-02">hornung 1718</date>
+                        <persName>Rudi Senn</persName> mit seiner frauwen, <lb/><persName>Verena
+                            Ernin</persName>, wägen einers von seinen kindern, mit dennen er
+                        <lb/>beständig im land herum gezogen, vorgäbende: Er arbeite <lb/>im
+                            <placeName ref="LOC_46.87251_7.59563">Bernergebiet</placeName>, <del
+                            rend="strikethrough">auf</del> auf <placeName ref="LOC_47.26703_8.48539"
+                            >Aügst</placeName> abgesungen gottslesterlichen <lb/>liedleins, mit
+                        allen seinen kinderen im land aufgesucht und in <lb/><placeName
+                            ref="LOC_47.374444_8.541111">Öttenbach</placeName> gelegt worden, ward
+                        den <date when="1718-02-09">9ten februar</date> coram senatu er<lb
+                            break="no"/>kennt: Dass der <persName>Heinrichli</persName> wägen
+                        ermelten gottlosen lieds zwey, <lb/>das <persName>Anneli</persName> einmahl
+                        durch den profosen in zusehen des <persName>Hanselis</persName>
+                        <lb/>wie auch ihres vatters und der muter gezüchtiget, auch darauff<lb
+                            break="no"/>hin ihnen und den herren nachgängeren erforderlich
+                        zugesprochen, die <lb/>muter aber, von welcher die kinder das liedli gehört
+                        und ge<lb break="no"/>lehrnet, in beyseyn der herren nachgängeren den boden
+                        küssen, und <lb/>2 mahl mit der ruthen an der stud gezüchtiget, hernach
+                        durch die <lb/>profosen aus dem land geführt und 6 jahr lang des land
+                        bannisiret <lb/>seyn, ihrem mann aber ernstlich zugesprochen werden, sich
+                        ehrlich im <lb/>land durch fleissige arbeit und wolverhalten sich zu
+                        erhalten <lb/>trachten solle, die kinder aber im <placeName
+                            ref="LOC_47.374444_8.541111">Öttenbach</placeName> verbleiben sollind.
+                        </seg><seg n="2"><lb/>Als nun dise erkantnus effectuiret worden, hat diser
+                            <persName>Rudi</persName>, als <lb/>er ledig gelassen worden, sich mit
+                        seiner gottlosen frauen zum land <lb/>ausgemacht, und im fürgang sein
+                        jüngstes kind, <persName>Barbara</persName>
+                        <lb/>genant (welches hier gegenwürtig und dem <date when="1711-05-03">3ten
+                            Maii 1711</date>
+                        <lb/>zu <placeName ref="LOC_46.55539_7.37302">Zweysimmen</placeName> im
+                        oberen <placeName ref="LOC_46.55_7.4">Sibenthal</placeName>, <placeName
+                            ref="LOC_LOC_46.87251_7.59563">Bernergebiets</placeName>, getauft <pb
+                            n="2" facs="A_27_134__Nr__59__S__2_.tif"/>
+                        <lb/>worden, testibus literis <persName>Emanuelis Massè</persName>,
+                        pastoris) und <lb/>zu <placeName ref="LOC_47.29794_8.4483"
+                            >Hedingen</placeName> um 3 brötli und 12 schiling verdinget war, mit
+                        <lb/>hinweg genommen, nach etlichen wuchen aber sein stiefftöchter<lb
+                            break="no"/>lein und das <persName>Anneli</persName>, welche er, als die
+                            Öttenbacher<lb break="no"/>kinder an einem abend &amp;amp;
+                            mor<supplied>g</supplied>en ausgangen, auch geraubet <lb/>und entführt,
+                        seine beide aber zugleich mir wider <add place="left_margin">nach etlichen
+                            wuchen</add> zu <lb/>rük gesendt, dass <persName>Anneli</persName> ist
+                        wider in <placeName ref="LOC_47.374444_8.541111">Öttenbach</placeName>
+                            auff<lb break="no"/>genommen worden, dem <persName>Barbali</persName>
+                        aber sind widerum 3 brötli <lb/>und 12  oberkeitlich zu seiner underhaltung
+                        verordnet <lb/>worden, sid welcher zeit ich es an dritten tisch mit grosser
+                        <lb/>mühe bringen mögen.</seg><seg n="3">Disen abend aber um 4 uhren, als <lb/>ich für
+                    das haus kommen, allwo es sich aufhalt, dise <lb/>böse zeitung vernommen: Es
+                    könne vögeli machen, dess<lb break="no"/>wegen ich mich ungesaumt mit meinem
+                    sohn <choice>
                         <abbr>v.d.m.</abbr>
                         <expan>verbi dei minister</expan>
                     </choice>
                     <lb/>zu disem kind begeben, ein fründlich examen mit <lb/>ihme gehalten
                     gegenwürtige red nach andere fraagen <lb/>mehr, wie auf beylag zu ersehen,
-                    gethan.</p>
-            <p><lb/>Disere sach ist heüt auskommen durch einen frommen ledigen <lb/>jungen knaben,
-                    der mit ihme ins holz gangen, als es <lb/>die kreüter gesucht, dises kind fein
-                    recht zu erkundigen <lb/>oder zu erfoschen, als sie heim kommen, hats die
-                    kreüter <lb/>ins bächli gelegt und selbige mit einer ruthen geschlagen,
+                            gethan.</seg></p>
+                <p><seg n="4"><lb/>Disere sach ist heüt auskommen durch einen frommen ledigen <lb/>jungen
+                    knaben, der mit ihme ins holz gangen, als es <lb/>die kreüter gesucht, dises
+                    kind fein recht zu erkundigen <lb/>oder zu erfoschen, als sie heim kommen, hats
+                    die kreüter <lb/>ins bächli gelegt und selbige mit einer ruthen geschlagen,
                     <lb/>aber nüt darzu geredt, worauf 2 schwarz vögel ent<lb break="no"/>standen,
-                    ohne schwanz, wie schwalmen, den grossen</p>
-                        <pb n="3" facs="A_27_134__Nr__59__S__3_.tif"/>
-			<p><lb/>schwarzen <del>aber</del> vogel aber, als es die kreüter gschlagen <lb/>zu dem es gesagt,
-                    gang dennen <unclear>unflaat</unclear>, habe er nit <lb/>gesehen, als er die
-                        <add place="above">2</add> vögel under dem tach oder bey dem <lb/>tach
-                    gesehen, habe er sich geförchtet. <persName>Hans Murers</persName>, <lb/>qui
-                    praesens est, töchterli, welches 14 jährig, hat <lb/>es dise sach auch lehren
-                    wöllen, wann es ihme 20 <lb/>bazen gebe, und als <add place="above">es</add>
-                    ihns gefraget, wo es mit den <lb/>20 bazen dann hin wölle, habe es gesagt, es
-                    müsse sie <lb/>dem vatter gäben, der schwarz vogel bringe sie <lb/>ihme im
-                    schnabel, er <add place="above">wüsst</add> wol, wo er seye.</p> 
-                    <p><lb/>Disere sach komt einem vor wie ein mährli, doch <damage agent="clipping">
+                    ohne schwanz, wie schwalmen, den grossen
+                <pb n="3" facs="A_27_134__Nr__59__S__3_.tif"/>
+                <lb/>schwarzen <del>aber</del> vogel aber, als es die kreüter gschlagen <lb/>zu
+                    dem es gesagt, gang dennen <unclear>unflaat</unclear>, habe er nit <lb/>gesehen,
+                    als er die <add place="above">2</add> vögel under dem tach oder bey dem
+                    <lb/>tach gesehen, habe er sich geförchtet. <persName>Hans Murers</persName>,
+                    <lb/>qui praesens est, töchterli, welches 14 jährig, hat <lb/>es dise sach auch
+                    lehren wöllen, wann es ihme 20 <lb/>bazen gebe, und als <add place="above"
+                        >es</add> ihns gefraget, wo es mit den <lb/>20 bazen dann hin wölle, habe es
+                    gesagt, es müsse sie <lb/>dem vatter gäben, der schwarz vogel bringe sie
+                    <lb/>ihme im schnabel, er <add place="above">wüsst</add> wol, wo er seye.</seg></p>
+                <seg n="5"><p><lb/>Disere sach komt einem vor wie ein mährli, doch <damage agent="clipping">
                         <gap quantity="3" unit="cm"/>
                     </damage>
                     <lb/>etwan böses heraus, die selbige nun recht zu <damage agent="clipping">
@@ -186,35 +197,40 @@
                         <expan>meinen gnädigen herren</expan>
                     </choice> zu <lb break="no"/>übersenden. Sonsten kann das kind schöne bäten und
                     <lb/>quaestiunculas, hat <unclear>von</unclear> der tischfrauen den ruhm, dass
-                    <lb/>es morgens und abends fleissig bätte.</p>
-            <p><lb/>Wormit ich <choice>
+                    <lb/>es morgens und abends fleissig bätte. </p>              
+                  <p> <lb/>Wormit ich <choice>
                         <abbr>mgh</abbr>
                         <expan>meinem gnädigen herren</expan>
                     </choice> antistitem der gnädigen <lb/>obsorg gottes herzlich befehle und
-                    verbleibe.</p> 
-            <p><lb/>In eyl den <date when="1721-06-27">27ten Juni</date> auf Aügst <lb/>anno 1721</p>
-            <p><lb/><choice>
+                    verbleibe.</p>
+               <p><lb/>In eyl den <date when="1721-06-27">27ten Juni</date> auf Aügst <lb/>anno
+                    1721
+               <lb/><choice>
                         <abbr>mgh</abbr>
                         <expan>meinem gnädigen herren</expan>
                     </choice> antistitem <lb/>gehorsamter <lb/>herr <persName>Jac. Ammann</persName>
-                    <abbr>l p</abbr></p>
-                <p> </p>	
-                        <pb n="4" facs="A_27_134__Nr__59__S__4_"/>
-                        <p>
+                   <abbr>l p</abbr></p> </seg>
+                <pb n="4" facs="A_27_134__Nr__59__S__4_"/>
+               
                     <lb/>Dem wol ehrwürdigen, frommen <lb/>hochgelehrten herren, herren
                         <lb/><persName>Ludwig Neüscheler</persName>, Antistiti <lb/>und pfarrer zum
                     grossen <lb/>münster zu sonders hochgeehrte <lb/>gegen handen in <placeName
-                        ref="LOC_47.36667_8.55">Zürich</placeName>. </p>
-                    </div>
-         
+                        ref="LOC_47.36667_8.55">Zürich</placeName>.
+            </div>
+
         </body>
 
-                <back>
-                    <div>
-                        <p>Der Fall «Barbeli Senn» passt in das Bild der späten Hexenprozesse im späteren 17. und frühen 18. Jahrhundert, in denen Kinderhexenprozesse 
-                        eine immer grössere Rolle spielten. Und er schickt Mädchen und Brief nicht wie üblich zum kleinen Rat, sondern zum Antistes den Vorsteher der Kirche, Johann Ludwig Nüscheler, der als ausgesprochener Vertreter der 
-                        Spätorthodoxie gilt. Schliesslich befasste sich der kleine Rat von Zürich mit dem Fall. Am 9. Juli wird beschlossen, dass Barbeli im Oetenbach bleiben soll, um unterrichtet zu werden, während
-                        sie von weiteren Körperstrafen verschont bleibt.</p></div>
-                </back>
+        <back>
+            <div>
+                <p>Der Fall «Barbeli Senn» passt in das Bild der späten Hexenprozesse im späteren
+                    17. und frühen 18. Jahrhundert, in denen Kinderhexenprozesse eine immer grössere
+                    Rolle spielten. Und er schickt Mädchen und Brief nicht wie üblich zum kleinen
+                    Rat, sondern zum Antistes den Vorsteher der Kirche, Johann Ludwig Nüscheler, der
+                    als ausgesprochener Vertreter der Spätorthodoxie gilt. Schliesslich befasste
+                    sich der kleine Rat von Zürich mit dem Fall. Am 9. Juli wird beschlossen, dass
+                    Barbeli im Oetenbach bleiben soll, um unterrichtet zu werden, während sie von
+                    weiteren Körperstrafen verschont bleibt.</p>
+            </div>
+        </back>
     </text>
 </TEI>
