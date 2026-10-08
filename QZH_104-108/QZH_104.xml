@@ -111,17 +111,18 @@
                 <head><lb/>Emanuel!</head>
                 <head><abbr>T.S.</abbr> Wohlerwürdiger, frommer, hochgelehrter, in sonders
                     <lb/>hochgeehrter herr antistes.</head>
-                <p> <seg n="1"><lb/>Nach dem im <date when="1718-02">hornung 1718</date>
+                <p>
+                    <seg n="1"><lb/>Nach dem im <date when="1718-02">hornung 1718</date>
                         <persName>Rudi Senn</persName> mit seiner frauwen, <lb/><persName>Verena
                             Ernin</persName>, wägen einers von seinen kindern, mit dennen er
-                        <lb/>beständig im land herum gezogen, vorgäbende: Er arbeite <lb/>im
+                        <lb/>beständig im land herum gezogen, vorgäbende, er arbeite <lb/>im
                             <placeName ref="LOC_46.87251_7.59563">Bernergebiet</placeName>, <del
                             rend="strikethrough">auf</del> auf <placeName ref="LOC_47.26703_8.48539"
                             >Aügst</placeName> abgesungen gottslesterlichen <lb/>liedleins, mit
                         allen seinen kinderen im land aufgesucht und in <lb/><placeName
                             ref="LOC_47.374444_8.541111">Öttenbach</placeName> gelegt worden, ward
                         den <date when="1718-02-09">9ten februar</date> coram senatu er<lb
-                            break="no"/>kennt: Dass der <persName>Heinrichli</persName> wägen
+                            break="no"/>kennt, dass der <persName>Heinrichli</persName> wägen
                         ermelten gottlosen lieds zwey, <lb/>das <persName>Anneli</persName> einmahl
                         durch den profosen in zusehen des <persName>Hanselis</persName>
                         <lb/>wie auch ihres vatters und der muter gezüchtiget, auch darauff<lb
@@ -157,32 +158,33 @@
                             auff<lb break="no"/>genommen worden, dem <persName>Barbali</persName>
                         aber sind widerum 3 brötli <lb/>und 12  oberkeitlich zu seiner underhaltung
                         verordnet <lb/>worden, sid welcher zeit ich es an dritten tisch mit grosser
-                        <lb/>mühe bringen mögen.</seg><seg n="3">Disen abend aber um 4 uhren, als <lb/>ich für
-                    das haus kommen, allwo es sich aufhalt, dise <lb/>böse zeitung vernommen: Es
-                    könne vögeli machen, dess<lb break="no"/>wegen ich mich ungesaumt mit meinem
-                    sohn <choice>
-                        <abbr>v.d.m.</abbr>
-                        <expan>verbi dei minister</expan>
-                    </choice>
-                    <lb/>zu disem kind begeben, ein fründlich examen mit <lb/>ihme gehalten
-                    gegenwürtige red nach andere fraagen <lb/>mehr, wie auf beylag zu ersehen,
-                            gethan.</seg></p>
-                <p><seg n="4"><lb/>Disere sach ist heüt auskommen durch einen frommen ledigen <lb/>jungen
-                    knaben, der mit ihme ins holz gangen, als es <lb/>die kreüter gesucht, dises
-                    kind fein recht zu erkundigen <lb/>oder zu erfoschen, als sie heim kommen, hats
-                    die kreüter <lb/>ins bächli gelegt und selbige mit einer ruthen geschlagen,
-                    <lb/>aber nüt darzu geredt, worauf 2 schwarz vögel ent<lb break="no"/>standen,
-                    ohne schwanz, wie schwalmen, den grossen
-                <pb n="3" facs="A_27_134__Nr__59__S__3_.tif"/>
-                <lb/>schwarzen <del>aber</del> vogel aber, als es die kreüter gschlagen <lb/>zu
-                    dem es gesagt, gang dennen <unclear>unflaat</unclear>, habe er nit <lb/>gesehen,
-                    als er die <add place="above">2</add> vögel under dem tach oder bey dem
-                    <lb/>tach gesehen, habe er sich geförchtet. <persName>Hans Murers</persName>,
-                    <lb/>qui praesens est, töchterli, welches 14 jährig, hat <lb/>es dise sach auch
-                    lehren wöllen, wann es ihme 20 <lb/>bazen gebe, und als <add place="above"
-                        >es</add> ihns gefraget, wo es mit den <lb/>20 bazen dann hin wölle, habe es
-                    gesagt, es müsse sie <lb/>dem vatter gäben, der schwarz vogel bringe sie
-                    <lb/>ihme im schnabel, er <add place="above">wüsst</add> wol, wo er seye.</seg></p>
+                        <lb/>mühe bringen mögen.</seg><seg n="3">Disen abend aber um 4 uhren, als
+                        <lb/>ich für das haus kommen, allwo es sich aufhalt, dise <lb/>böse zeitung
+                        vernommen: Es könne vögeli machen, dess<lb break="no"/>wegen ich mich
+                        ungesaumt mit meinem sohn <choice>
+                            <abbr>v.d.m.</abbr>
+                            <expan>verbi dei minister</expan>
+                        </choice>
+                        <lb/>zu disem kind begeben, ein fründlich examen mit <lb/>ihme gehalten
+                        gegenwürtige red nach andere fraagen <lb/>mehr, wie auf beylag zu ersehen,
+                        gethan.</seg></p>
+                <p><seg n="4"><lb/>Disere sach ist heüt auskommen durch einen frommen ledigen
+                        <lb/>jungen knaben, der mit ihme ins holz gangen, als es <lb/>die kreüter
+                        gesucht, dises kind fein recht zu erkundigen <lb/>oder zu erfoschen, als sie
+                        heim kommen, hats die kreüter <lb/>ins bächli gelegt und selbige mit einer
+                        ruthen geschlagen, <lb/>aber nüt darzu geredt, worauf 2 schwarz vögel ent<lb
+                            break="no"/>standen, ohne schwanz, wie schwalmen, den grossen <pb n="3"
+                            facs="A_27_134__Nr__59__S__3_.tif"/>
+                        <lb/>schwarzen <del>aber</del> vogel aber, als es die kreüter gschlagen
+                        <lb/>zu dem es gesagt, gang dennen <unclear>unflaat</unclear>, habe er nit
+                        <lb/>gesehen. Als er die <add place="above">2</add> vögel under dem tach
+                        oder bey dem <lb/>tach gesehen, habe er sich geförchtet. <persName>Hans
+                            Murers</persName>, <lb/>qui praesens est, töchterli, welches 14 jährig,
+                        hat <lb/>es dise sach auch lehren wöllen, wann es ihme 20 <lb/>bazen gebe,
+                        und als <add place="above">es</add> ihns gefraget, wo es mit den <lb/>20
+                        bazen dann hin wölle, habe es gesagt, es müsse sie <lb/>dem vatter gäben,
+                        der schwarz vogel bringe sie <lb/>ihme im schnabel, er <add place="above"
+                            >wüsst</add> wol, wo er seye.</seg></p>
                 <seg n="5"><p><lb/>Disere sach komt einem vor wie ein mährli, doch <damage agent="clipping">
                         <gap quantity="3" unit="cm"/>
                     </damage>
