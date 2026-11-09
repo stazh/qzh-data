@@ -6,11 +6,11 @@
             <titleStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
-                    <persName><!-- Name der Transkriptor:in --></persName>
+                    <persName>Jonathan Hauller</persName>
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
-                    <persName><!-- Name der Tagger:in --></persName>
+                    <persName>Jonathan Hauller</persName>
                     <resp key="tagging"/>
                 </respStmt>
             </titleStmt>
@@ -24,12 +24,12 @@
                     <persName>Staatsarchiv des Kantons Zürich</persName>
                     <resp>Herausgeberschaft</resp>
                 </respStmt>
-                <idno>QZH_112</idno><!-- QZH-Nummerierung -->
+                <idno>QZH_112</idno>
             </seriesStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=251782">StAZH C I, Nr. 900</idno><!-- Signatur -->
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=251782">StAZH C I, Nr. 900</idno>
                     </msIdentifier>
                     <head>Bürgermeister und Rat der Stadt Zürich beurkunden, dass sie von Johannes Escher sein in der Schmalzgrub gelegenes Haus um den Preis von 3800 Gulden zur Einrichtung eines ständigen Sitzes für den Unterschreiber und seine Kanzlei erworben haben. Sekretsiegel der Stadt.</head>
                     <msContents>
