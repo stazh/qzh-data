@@ -66,7 +66,9 @@
         <profileDesc>
             <textClass default="false">
                 <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-                  <term></term><!-- terms noch einfüllen -->
+                    <term ref="key000383">Kanzlei</term>
+                    <term ref="key000051">Schreiber</term>
+                    <term ref="key000204">Verwaltung</term><!-- terms noch einfüllen -->
                 </keywords>
             </textClass>
         </profileDesc>
@@ -78,9 +80,14 @@
                    <div>
                        <pb n="1"/>
                        <p>
-                           <lb/>
-                           <lb/>
-                           <lb/>
+                           <lb/><unclear>Der</unclear> burgermeister und raht der statt Zürich
+                           <lb/>thun kundt offentlich hiemit; demnach wir in sorgfeltige berahtschlagung gezogen wie ein und anders
+                           <lb/>in unseren statt cantzleyen verbesseret werden möchte und nebendt anderem gewahret das durch eines underschreibers abenderung die acta publica aus einem privat-haus
+                           <lb/>in das andere transportiert und hardurch in vilweg zu nachtheil des standts distrahiert und verzogen werden. Als haben wir eine ohnabweichliche noht<lb break="no"/>
+                           wendigkeit sein befunden, für einen jeweiligen underschreiber eine beständige behaußung und cantzley zuordnen, worzu sich auch ein bequeme gelegenheit
+                           <lb/>erzeigt, in dem der <unclear>edle, ehren veste</unclear>, unßer besonders getrüwe liebe burger <persName>Johannes Escher</persName> sein in der Schmaltzgrub gelegnes haus zu verkauffen
+                           <lb/>sich entschloßen hat, welche behausung wir durch einen ehren-ausschuß aus unserem rahtsmittel besichtigen laßen, mit ertheilter vollmacht
+                           <lb/>auff den 
                            <lb/>
                        </p>
                    </div>
