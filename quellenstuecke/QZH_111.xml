@@ -29,7 +29,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5121664">STAZH A 67.1, Nr. 21</idno>
+                        <idno source="https://archivkatalog.ji.zh.ch/detail.aspx?ID=5121664">StAZH A 67.1, Nr. 21</idno>
                     </msIdentifier>
                     <head>Weisung der Registraturkommission wegen des Meyerschen Promptuars zu den Ratsmanualen</head>
                     <msContents>
@@ -80,13 +80,81 @@
                        <pb n="1"/>
                        <p>
                            <lb/>Da durch die besondere sorgfalt, und
-                           <lb/>attention, Hherren Stadtschreiber Hirzels,
-                           <lb/>und derselben genaue Bekanntschaft mit
-                           <lb/>Herren Hs. Jacob Meyer von Win<lb break="no"/>terthur
+                           <lb/>attention, hherren stadtschreiber Hirzels,
+                           <lb/>und deselben genaue bekanntschaft mit
+                           <lb/>herren <choice><abbr>Hs</abbr><expan>Hans</expan></choice> Jacob Meyer von Win<lb break="no"/>terthur
                            würdigsten pfarherren
-                           <lb/>zu Pfrungen, das so allgemein
-                           <lb/>bbelobte, und zum gebrauch son<lb break="no"/>heitlich zum nachschlagen sehr
-                           <lb/>bequem eingerichtete, nun <del>schon</del> 
+                           <lb/>zu Pfungen, das so allgemein
+                           <lb/>belobte, und zum gebrauch son<lb break="no"/>derheitlich
+                           zum nachschlagen sehr
+                           <lb/>bequem eingerichtete, nun <del>schon</del> allbereit <add place="inline">schon</add>
+                           <lb/>seiet einniger zeit, ganz vollendete
+                           <lb/>staats-promtuarium zu
+                           <lb/>stande gebracht und in die hiesige
+                           <lb/>staats-kanzley eingelieffert
+                           <lb/>worden, deßen werth, ursprung
+                           <lb/>und bestimmung aus dem in beylag
+                           <lb/>enthalltenen sehr wohlabgefasten
+                           <lb/>promemoria deütlich erhellet.
+                           <lb/>Und da nun dieseres in <subst><del rend="rubbing "></del><add place="inline">37.</add></subst> folio
+                           <lb/>bänden enthalltennen, mit zierlichem
+                           <lb/>einband versehenen promtuarium,
+                           <lb/>ihro gnaden <choice><abbr>u</abbr><expan>und</expan></choice> übrigen <choice><abbr>hhhhrn</abbr><expan>herren</expan></choice>
+                           <lb/>der registratur-commißion
+                           <lb/>zu näherer einsicht und erdaurung
+                           <lb/>vorgelegt worden.
+                       </p>
+                       <p>
+                           <lb/>So fanden hochdieselben ein<lb break="no"/>müthig,
+                           daß solches allerdings ein in allen Rüksichten
+                           <lb/><del rend="strikethrough">ein</del> ganz vortreffliches werk
+                           <lb/>seye, das sowohl in absicht auf die
+                           <pb n="2"/>
+                           <lb/>systematische ordnung deselben,
+                           <lb/>die jedem ein eurstand umfaßlich
+                           <lb/>ist, als überhaupt des dabey
+                           <lb/>sich ausernden und accurateste
+                           <lb/>sich aus zeichnet, und sonderheitlich
+                           <lb/>vor die stadt-kanzley von
+                           <lb/>besonderem nuzen seyn dörfte.
+                       </p>
+                       <p>
+                           <lb/>Desnahen euch ungdhhhrn
+                           <lb/>geziemmend angetragen wird,
+                           <lb/>diesere so wichtige acquisition
+                           <lb/>zum nuzen und gebrauch der
+                           <lb/>stadt-kanzley zu machen, da
+                           <lb/>es dann einem jeweiligen hhrn
+                           <lb/>stadtschreiber obligen würde selbiges
+                           <lb/>alle halb jahr, oder zu end jeden
+                           <lb/>regierungs-semmester fortzusezen,
+                           <lb/>da dannzumahlen das in der stadt-<lb break="no"/>kanzley
+                           ligende promtuarium
+                           <lb/>in die unterschreiberey gelegt
+                           <lb/>würde.
+                       </p>
+                       <p>
+                           <lb/>Was dann aber eine allfällig
+                           <lb/>thätliche erkantlichkeit und be<lb break="no"/>scheinung
+                           des hochoberkeitlen
+                           <lb/>wohlgefallens gegen den
+                           <lb/>autor dieseres werks, herren
+                           <lb/>pfarrer Meyer zu Pfungen,
+                           <lb/>anbetrifft, so überläße
+                           <lb/>man solches der hoch. klugen
+                           <pb n="3"/>
+                           <lb/>disposition und einsicht euer
+                           <lb/>ungdhhhrn hochwelchen
+                           <lb/>auch dieser ehrenbietige
+                           <lb/>bericht geziemmend hinter<lb break="no"/>bracht
+                           wird.
+                       </p>
+                       <p>
+                           <lb/>Actum mittwochs d. 7ten decbrs. 1785.
+                           <lb/>Pstbs. ihro gnaden hhherr burgermeister
+                           <lb/>Kilchsperger <choice><abbr>u</abbr><expan>und</expan></choice> samtln.
+                           <lb/>hhhhhrn. der registratur-commission.
+                           <lb/>Registraturcommißions<lb break="no"/>secretarius.
                        </p>
                    </div>
                 </body>
@@ -97,6 +165,14 @@
                             alphabetisch-chronologischen Promptuarii über die hiesigen Staatsprotokolle, welches selbiger bei hiesiger Staatskanzlei in usum publicum niedergelegt habe, sub 7. Dezember 1785.
                             Siehe: KAT 461 - KAT 498 Alphabetisch-chronologisches Promptuarium über die Staats-Protokolle (Meyerisches Promptuarium) (B II 6 - B II 1060), 1785-1798 (ca.) (Dossier)
                             Siehe: A 67.3.1, Nr. 17 Ratsbeschluss betreffend die Promptuare zu den Ratsmanualen, 1786.01.04 (Dokument)</p>
+                        <p>
+                            Anhang A (StAZH A 67, Nr. 21.2): Insgesamt 37 Bände, Bände 1 bis 34 gehen chronologisch von A bis Z, Band 35 enthält Mandate, Band 36 ein Register und Band 37 behandelt das Spital.
+                            Heute sind auch (quasi) die Bände 35 bis 37 alphabetisch eingeordnet: Band 35 zwischen den Bänden 19 und 20, Band 37 zwischen 28 und 29, Band 36 ganz zum Schluss als "Uebersicht". KAT 495 ("Winterthur") kommt ausserdem nicht in der Auflistung
+                            im Anhang A vor, wird dafür jedoch auf der ersten Seite in KAT 498 (ehemals Band 36) ebenfalls genannt. An dieser Stelle des Übersichtsbands wird auch angebenen, dass sich der Inhalt sowohl auf die Bände des Meyerischen Promptuariums als auch auf
+                            das Wolfische Promptuarium mit dem Titel "Promptuarium Legum et Exemplorum" bezieht. Dies wirft einige Fragen auf, denn die vier Bände unter diesem Titel (KAT 451-454) stammen von Johann Heinrich Rahn, David Holzhalb und Salomon Hirzel - nicht aber
+                            von Salomon Wolf, dem Verfasser eines Grossteils des sogenannten Blauen Registers, das nicht direkt mit den Ratsmanualen zu tun hat.
+                            Anhang B (StAZH A 67, Nr. 21.3): Alphabetische Ordnungsstruktur
+                        </p>
                     </div>
                 </back>
             </text>
