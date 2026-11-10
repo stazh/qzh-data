@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<?xml-model href="http://www.tei-c.org/ns/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Barbara Schmid</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Michael Schaffner</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_091</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5099581"
+                            >StAZH W I 15.206</idno>
+                    </msIdentifier>
+                    <head>Liste der Ausgezogenen im grossen Pavierzug</head>
+                    <msContents>
+                        <summary><!-- Ergänzen --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Original</filiation>
+                            <filiation type="original"><origDate when="1512"></origDate></filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1512"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000266">Krieg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+          <div><!-- I [VII] Liste der Ausgezogenen im Grossen Pavierzug,
+                1512 -->
+              <pb n="1"/>
+            <head>Diss sind herren und gsellen so von minen herren
+            <lb/>zum Rüden und der Constavel usgnomen wúrden
+            <lb/>in den zug zuo dem bapst und den Venedigeren <date when="1512">1512</date></head>
+            <p><lb/>Herr <persName>Heinrich Göldi</persName> sin soldner was sin sun <persName>Jöry <del>gl</del> Göldi</persName>,
+             <lb/><persName>Jacob Schwend</persName> was fennrich / nam unss <num value="2">zwen</num> ab,
+            <lb/><persName>Hans Effinger</persName>,
+            <lb/><persName>Jacob Éscher</persName>,
+            <lb/><persName>Joery Grebel, der jung</persName>,
+            <lb/><persName>Hans Edlibach</persName>,
+            <lb/>frow <persName>Schulthessin</persName> / ir soldner was / ir sun <persName>Marx Schulthess</persName>,
+            <lb/>vogt <persName>Gugeltz</persName> sin söldner was <persName>Hanss Hab</persName>,
+            <lb/>frow von <persName>Mantz</persName> / ir soldner was <persName>Bendict Schenck</persName>,
+            <lb/><persName>Bernhart Keller</persName> von <placeName>Stein</placeName> / sin soldner was <persName>Heinrich Éscher</persName>,
+            <lb/><persName>Hans Clotter</persName> sin soldner was <persName>Hensi Ziegler</persName>,
+            <lb/>meister <persName>Niclauss Metzger</persName> / sin soldner was <persName>Hanselman Seholtzer</persName>,
+            <lb/><persName>Ruotsch Blüwler</persName> sin soldner was <persName>Hans Cuonrat Éscher</persName>,
+            <lb/><persName>Ludwig Dietschi</persName> sin soldner wass <persName>Ludwig Steinbock</persName>,
+            <lb/><persName>Chluntz</persName> zog an sins swéhers selgen statt
+            <lb/>Hanns Otth
+            <lb/>und
+            <pb n="2"/>
+             <lb/><persName>Fridli Holffelder</persName> was mit herrn <persName>Pfyffer</persName> zum fennli,
+            <lb/>der namm uns ouch ein ab /
+            <lb/><persName>Jacob Ebner</persName> sin soldner was <persName>Hans Salabach</persName>
+            <lb/><persName>Petter Kuechlibacher</persName> / und zog sin sun für inn
+            <lb/><persName>Hans Stricker</persName>
+            <lb/><gap/><!-- msr: unleserlich durch Streichung, noch richtig auszeichnen --></p>
+            <p><lb/>Die all zogend uss am 6 tag meyens und gaben
+            <lb/>wir deren jetlichem ein tag 6 s so lang und
+            <lb/>sy uss werenn uff <del>so</del>
+                sölichs gab man eim jetlichen
+            <lb/>4 1/2 gl inn seckel, doch mit dem gedinge, wenn
+            <lb/>sy her wider kemmen und innen dannen sold wer
+            <lb/>worden den selben sold allen sin, wer dann vil oder
+            <lb/>lützen, den söllen sy der Constavel geben und darmit
+            <lb/>sin reyss jetz also gethon haben. Werss aber sach dz
+            <lb/>einer oder all iren söld empfangen der Constavel nit
+            <lb/>gebend noch in legten sonder in selbs behalten unnd
+            <lb/>beheben wöltten, das sy ouch wol thuon mögen, so söllen
+            <lb/>sy doch der Constavel ir uss geben gelt und alles irs
+            <lb/>costens mit inen gehaben wider legen und entheben
+            <lb/>und dann also ire reyss nit verwésen noch gethon
+            <lb/>haben, und statt also die wal hin zuo inen.</p>
+            </div>
+        </body>
+        <back>
+            <div>
+                <p>Der <q>grosse Pavierzug</q> im Mai 1512 (siehe oben) folgte auf das im März 1510 mit <persName ref="118714090">Papst
+                        Julius II.</persName> eingegangene Bündnis. Die eidgenössischen Orte erreichten die
+                    Kapitulation von <placeName ref="LOC_45.13325_10.02129">Cremona</placeName>, <placeName ref="LOC_45.19205_9.15917">Pavia</placeName> und <placeName ref="LOC_45.45186_9.14586">Mailand</placeName> und vertrieben die Franzosen aus der
+                    <placeName ref="LOC_45.66667_9.5">Lombardei</placeName>. Papst <persName ref="GND_118714090">Julius</persName> ernannte sie für diese Leistung zu <q>Verteidiger der
+                        kirchlichen Freiheit</q> (<q>Ecclesiasticae libertatis defensores</q>)
+                        und übergab ihnen zwei Fahnen mit den Papstinsignien, ein geweihtes Prunktschwert
+                        sowie einen pelzverbrämten, mit Perlen bestickten Hut, der wie das Schwert bislang
+                        nur Personen in fürstlichem Rang zugedacht war. Zudem verlieh er
+                        Wappenverbesserungen und das Recht zur Führung eines <q>Zwickelbildes</q> im Banner. Die
+                        Orte sowie zahlreiche am Feldzug beteiligte Städte und Gemeinden brachten stolz die
+                        aus Seidendamast gefertigten, mit einem <q>Eckquartier</q> aus mailändischer Gold- und
+                        Silberstickerei versehenen Banner nachhause. (Einige der kleineren Städte begnügten
+                        sich mit einem gemalten Eckquartier.) 
+                        <lb/>Die Liste ist in der Vergangenheitsform gehalten (ausgenommen <hi rend="underline"
+                            >wurden</hi>, ihr Söldner <hi rend="underline">war</hi> ihr Sohn, <hi
+                                rend="underline">zog</hi> an Stelle seines seligen Schwagers…). Sie wurde nach
+                        Auszug – und auch nach dem entsprechenden Eintrag im Reisrödel erstellt, wie die
+                        folgenden Ausführungen zu den Soldmodalitäten zeigen.
+                        <lb/><bibl><ref>Durrer, Geschenke.</ref></bibl>
+                </p>
+                <p>Die Teilnehmer des <q>grossen Pavierzugs</q> erhielten Sold vom Papst. Die Constaffel
+                        rechnete bereits mit dieser Möglichkeit, als sie ihre Auszüger ausrüstete. Die
+                        Söldner erhielten pro Tag 6 s sowie 4 1/2 Gulden <q>in Seckel</q>. Dieser Betrag
+                        entspricht dem für die Auszüge 1513 belegten monatlichen Sold von 4 1/2 Pfund –
+                        Zürich rechnete also einer Dauer von zwei Monaten für den Zug im Dienst des Papstes.
+                        Sollten die Auszüger Sold vom Papst erhalten, so hatten sie nach der Rückkehr zwei
+                        Möglichkeiten: Sie konnten erstens das erhaltene Geld der Constaffel übergeben und
+                        damit ihre Reispflicht erledigen. Oder sie konnten, zweitens, das von der Constaffel
+                        bezahlte Geld zurückzahlen und den Sold vom Papst behalten. Damit würde ihr Auszug
+                        aber nicht als Erfüllung der Reispflicht gelten. Gemäss dem Eintrag im Reisrödel,
+                        fol. 17r, wählten die Auszüger die zweite Möglichkeit. 
+                        <lb/>Was hier auf den ersten Blick als Haarspalterei daherkommt, ist in Wirklichkeit ein
+                        seltener und bedeutsamer Hinweis auf eine Phase der militärischen Entwicklung der
+                        Eidgenossenschaft, die in der Regel nicht in den Blick kommt: In den ersten
+                        Jahrzehnten des 16. Jahrhunderts stehen sich offizielle Kriegszüge, die von den
+                        Obrigkeiten der eidgenössischen Orte sanktioniert sind, und unerlaubter Reislauf
+                        gegenüber. Die offiziellen Kriegszüge können aus der Staatskasse bezahlt sein (die
+                        wiederum in diesen Jahren zunehmend aus den Kassen der europäischen Herren gefüllt
+                        wird) oder direkt von den Auftraggebern selbst. In der militärischen Organisation
+                        des Auszugs wird dies kaum sichtbar, wohl aber in der Buchhaltung – und bei
+                        möglichen nächsten Kriegszügen: Wer nämlich sich entschieden hat, den Sold vom Papst
+                        als seine Bezahlung anzunehmen, wird beim nächsten Zürcher Zug erneut aufgrund
+                        seiner bürgerlichen Dienstverpflichtung ausgezogen und kann nicht auf eine bereits
+                        erfüllte Verpflichtung verweisen.
+                </p>
+            </div>
+        </back>
+    </text>
+               </TEI>

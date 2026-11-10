@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<?xml-model href="http://www.tei-c.org/ns/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Barbara Schmid</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Michael Schaffner</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_093</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5099609"
+                            >StAZH W I 15.208</idno>
+                    </msIdentifier>
+                    <head>Sold der Freiknechte im Zug nach Dijon (1513)</head>
+                    <msContents>
+                        <summary><!-- Ergänzen --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Original</filiation>
+                            <filiation type="original"><origDate when="1517-02-24"></origDate></filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1517-02-24"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000266">Krieg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <div>
+               <!-- III Sold der Freiknechte im Zug nach Dijon (1513), erstellt vor 24. Februar 1517 -->
+            <head>Der Constavel fryen knecht
+            <lb/>so in <placeName>Hochburgun</placeName> gewesen sind</head>
+            <p>gl + <persName>Jacob Schwend</persName> selig / von disem sinem
+            <lb/>sold / sind / siner <del>frawen</del> schwester geben <num value="4">4</num> lb <num value="16">16</num> s
+            <lb/><num value="3">3</num> d / und <persName>Hannsen Egly</persName> den
+            <lb/>er im ersten zug in <placeName>Mailand</placeName> an sin
+            <lb/>stat lausen stan / <num value="2">2</num> gulden und ist also zalt
+            <lb/><add place="margin">und <persName>Uely Leman</persName> gen <num value="7">7</num> lb <num value="11">11</num> s <num value="3">3</num> d</add>
+             <lb/>Sin knecht <persName>Frantzos</persName> / ist verboten denen
+            <lb/>gen <num value="1">1</num> lb <num value="17">17</num> s <num value="5">5</num> d <persName>Langhanns Stucki</persName> von
+            <lb/>sines veteren <persName>Rudolfen</persName> wegen
+            <lb/>+ <persName>Bernhart Blarer</persName> nam <persName>Kornel Schultheiss</persName>,
+            <lb/>+ <persName>Bernhart Blarers</persName> knecht nam auch <persName>Kornel</persName>,
+            <lb/>+ <persName>Dietschy</persName>,
+            <lb/>gl + <persName>Heinrich Asper</persName>,
+                <lb/>– <persName>Heiny Hohmeyer</persName>,
+            <lb/>gl + <persName>Heiny Lindiner</persName>, <persName>Edlibachs</persName> knecht,
+                <lb/>nam <persName>Edlibach</persName> <hi rend="italic">nam Edlibach</hi>,
+            <lb/>gl + <persName>Wolf von Winckelshein</persName>,
+            <lb/>gl + <persName>Beringer</persName>, sin knecht,
+            <lb/>nam <persName>Marx Schultheiss</persName> <hi rend="italic">Marx</hi>
+            <lb/>gl + <persName>Heiny Volmer</persName>, <persName>Marx Schultheissen</persName> knecht,
+            <lb/>nam <persName>Marx Schultheiss</persName> <hi rend="italic">nam Marx</hi>
+            <lb/>+ <persName>Heinrich Landenberger</persName> / ist <persName>Bernhart
+            <lb/>Reinharten</persName> geben.
+            <lb/>+ <persName>Michel Spöry</persName>,
+            <lb/>gl + <persName>Joerg Geille</persName>r / hat <persName>Wilhelm Spiegel</persName> <hi rend="italic">nam aber Spyegel</hi>
+            <lb/>gewonnen und sagt er heysse nit 
+            <lb/><persName>Jörg</persName> sonder <persName>Joss</persName>.
+            </p>
+            <note>Auch diese Liste der freien Knechte des Zugs nach <placeName>Dijon</placeName>, 1513, wurde nach dem
+            Ereignis erstellt. Wiederum ging es um eine Teilnahmekontrolle, bevor der
+            ausstehende Sold bezahlt wurde. Kontrolliert wurde auch, ob die Empfänger des Solds
+            zum Bezug berechtigt waren. Für <placeName>Wilhelm Spiegel</placeName> (Z. 27-29) war das einfach: er
+            konnte dem Schreiber beweisen, dass er den Auszüger, für den er das Geld
+            entgegennahm, persönlich kannte: auf der vorbereiteten Liste stand irrtümlich der
+            Vorname <persName>Jörg</persName> statt des richtigen Namens <persName>Joss</persName>.
+            </note>
+           </div>
+            <pb n="[III/1v]"/>
+            <div><p>gl + <persName>Ludwig Hösch</persName>,
+            <lb/>gl + <persName>Grosman</persName>, sin knecht nam <persName>Kornel Schultheiss</persName>,
+            <lb/>+ <persName>Uolrich Schriber</persName>, nam herr <persName>Jacob Escher</persName>,
+            <lb/>+ <persName>Hanns Richart</persName>,
+            <lb/>+ <persName>Ueli Gugoltz</persName>, pannerherren knecht, nam sin
+            <lb/>bruder <persName>Wernly Gugoltz</persName>
+            <lb/>+ <persName>Hanns Schnider</persName> <hi rend="italic">ist verbotten</hi>
+            <lb/>gl + <persName>Jörg Franck</persName>, <persName>Cornellen</persName> knecht,
+            <lb/>gl + <persName>Peter Löfler</persName>,
+            <lb/>+ <persName>Cuonrat Kochlöffel</persName>,
+            <lb/>gl + <persName>Schwitzer Hanns</persName>, nam <persName>Lienhart Ebner</persName>,
+            <lb/>spengler,
+            <lb/>gl + <persName>Uolrici</persName> nam jung <persName>Körber</persName>,
+            <lb/>gl + <persName>Jörg Franck</persName>,
+            <lb/>gl + <persName>Hanns Pur</persName> <hi rend="italic">das verbot ist ab</hi>,
+            <lb/>gl + <persName>Junghanns Körber</persName>,
+            <lb/>+ <persName>Eberhart von Rischach, der jung</persName>,
+            <lb/>ist <persName>Eberharten von Rischach <del>hie</del> dem 
+            <lb/>elteren</persName> hie <placeName>Zúrich</placeName> worden /
+            <lb/>gl + <persName>Thoman Mul</persName> <hi rend="italic">nam <persName>Kornell</persName></hi>,
+            <lb/>gl + <persName>Heinrich Karli</persName> <hi rend="italic">nam <persName>Thoman Mul</persName></hi>,
+            <lb/>o + <persName>Schultheiss Efingers</persName> somer <del>worden</del>
+            <lb/>ist <persName>Jacob Wirtzen</persName> worden,
+            <lb/>gl + <persName>Hanns von Lachen</persName>, des von <persName>Knöringer</persName>
+            <lb/>knecht, <hi rend="italic">hat meister <persName>Rubly</persName> genomen</hi>,
+            <lb/><hi rend="italic">nam sin frow</hi>,
+            <lb/>+ <persName>Felix Rordorff</persName> <hi rend="italic">nam sin sun</hi>,
+            <lb/>gl + <persName>Hanns Grünenberg</persName> nam <persName>Wilhelm
+            <lb/>Spiegel</persName> und sagt es war im nit
+            <lb/>verboten, darunder wolt er werschaft
+            <lb/>tuon, <hi rend="italic">nam aber der <persName>Spyegel</persName></hi>,
+            <lb/>gl + <persName>Marty Schuomacher</persName> oder <persName>Schmacker</persName>
+            <lb/>nam <persName>Lienhart Ebner</persName>, spengler,
+            <lb/><hi rend="italic">nam aber <persName>Lienhart Ebner</persName></hi>.
+            </p>
+            <note>Erneut nimmt <persName>Wilhelm Spiegel</persName> für einen Auszüger – <persName>Hans Grünenberg</persName> (Z. 29) den Sold
+            entgegen. Der Schreiber der Constaffel ging davon aus, dass <persName>Grünenberg</persName> <q>verbotten</q>,
+            also wegen unerlaubten Reislaufs von Kriegstätigkeit im Dienst der Stadt
+            ausgeschlossen war. Spiegel aber wusste es besser und bürgte für den Grünenberg
+            (<q>werschaft tun</q>). 
+            <lb/>Die kleine Zeichnung neben dem Namen <persName>Konrad Kochlöffel</persName> meint wohl das gleiche, wie
+            <q>lueg im Rödel</q> – hier hat der Schreiber als Abkürzungsverweis eine kleine Skizze
+            des Reisrödels der Constaffel selbst gezeichnet!</note>
+            </div>
+            <pb n="[III/2r]"/>
+            <div><p>gl + <persName>Cristen Albis</persName> ist verboten, ist ab dan,
+            <lb/>gl + <persName>Hanns Spiegel</persName>,
+            <lb/>gl + <persName>Jörg Messmer</persName> nam <persName>Hannss Cluntz</persName>,
+            <lb/>
+            <hi rend="italic">nam aber <persName>Cluntz</persName></hi>
+            <lb/>gl + <persName>Hanns Eply</persName> nam meister <persName>Peters</persName>, dess
+            <lb/>nachrichters, frow,
+            <lb/><persName>Heiny Bertschy</persName>, sömer, 
+            <lb/>gl + <persName>Hanns Cuonrat Escher</persName> / verboten, <hi rend="italic">ist</hi>
+            <lb/><hi rend="italic">entschlagen</hi>,
+            <lb/>gl + <persName>Hanns Kirsiner</persName>,
+            <lb/>nam jung <persName>Hans Körber</persName> <hi rend="italic">hand min herren verboten, ist ab</hi>
+            <lb/>
+            <hi rend="italic">Körber</hi>
+            <lb/>+ <persName>Cuonrat Koch</persName>, <persName>Jörg Göldlis</persName> knecht,
+            <lb/>nam sin fraw,
+            <lb/>gl + <persName>Wernly Kerotz</persName> <hi rend="italic">nam <persName>Cuonrat Escher</persName></hi>,
+            <lb/>nam <persName>Cuonrat Escher</persName>,
+            <lb/>+ <persName>Heiny Fölmy</persName>.
+            <lb/>Disen obgeschriben yedem hand
+            <lb/>min herren geben
+            <lb/><num value="1">3</num> kronen und <num value="1">1</num> dicken blaphart
+            <lb/>und sind inen die geben <date when="1517-02-24">vor fasnacht
+            <lb/>im 17 jare</date>
+            </p>
+            <note>Die Buchhalter der Constaffel entdeckten eine ganze Reihe von <q>Verbotenen</q> unter den
+            Auszügern nach <placeName>Dijon</placeName>, doch konnten sie in der weiteren Kontrolle feststellen, dass
+            einige der Männer in der Zwischenzeit rehabilitiert worden waren. Sie fügten deshalb
+            der Notiz «verboten» die Bemerkung «ist entschlagen» und «ist ab» hinzu. 
+            <lb/>Als Fasnachtsbeginn gilt der Dienstag nach «Esto mihi» (der so nach dem Messeingang
+            «Esto mihi in deum protectorum» benannte siebte Sonntag vor Ostern) – 1517 war das
+            der 24. Februar.
+            </note>
+            </div>
+            <pb n="[III/2v]"/>
+            <pb n="[III/3r]"/>
+            <pb n="[III/3v]"/>
+            <!-- III/2v-III/3v leer -->
+        </body>
+        <back>
+            <div>
+                <p>
+                    Auch diese Kontrolle der Zahlungen an die Freiknechte im Dijonerzug wurde erst vier
+                    Jahre nach dem Ereignis durchgeführt. Eindeutig nachweisbar ist hier, dass der Sold
+                    des bei <placeName ref="LOC_45.35781_9.3236">Marignano</placeName> gefallenen <persName>Jakob Schwend</persName> an dessen Schwester ausbezahlt wurde. Bei
+                    <persName>Eberhard von Reischach dem Jüngeren</persName> muss es sich um einen bislang nicht bekannten
+                    (ältesten) Sohn des Söldnerführers gleichen Namens handeln. Der ältere <persName ref="1203885490">Eberhard von
+                        Reischach</persName> heiratete 1525 die letzte Äbtissin des Fraumünsters, <persName ref="121500020">Katharina von
+                    Zimmern</persName>. Da der Sohn in der späteren Überlieferung fehlt, kann angenommen werden,
+                    dass er zwischen 1513 und 1517 ums Leben kam – möglicherweise auch bei Marignano.
+                    Sein Vater und sein Bruder <persName>Anstett</persName> sollten dann bei <placeName>Kappel</placeName> fallen.
+                    <lb/>Stammbaum von Reischach: <bibl><ref>Christ-von Wedel, Äbtissin, S. 350</ref></bibl>.
+                </p>
+            </div>
+        </back>
+    </text>
+</TEI>

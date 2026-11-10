@@ -1,0 +1,2241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<?xml-model href="http://www.tei-c.org/ns/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Barbara Schmid</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Michael Schaffner; Sarah Murer</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_090</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5099495"
+                            >StAZH W I 15.205</idno>
+                    </msIdentifier>
+                    <head>Reisrodel (Auszugsliste) der Constaffel</head>
+                    <msContents>
+                        <summary><!-- Ergänzen --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Original</filiation>
+                            <filiation type="original"><origDate from="1505-01-01" to="1583-12-31"></origDate></filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1505"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+             <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000266">Krieg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+          <div>  <pb/>
+            <head>Der Constavell
+            <lb/>Reys Rodell</head></div>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb n="2 r"/>
+            <div>
+           <head type="subtitle"> Item diss ist miner herren zum <placeName>Rüden</placeName> reyss rodell</head>
+                <p>
+            <lb/>Her <persName>Marx Röyst</persName>, burgermeister,
+                    <lb/><persName>Her Heinrich Göldi</persName>, ritter, alt burgermeister,
+                    <lb/>her <persName>Ruodolff Èscher</persName>
+            <lb/>her <persName>Felix Grebell</persName> ritter,
+                    <lb/>her <persName>Jacob Èscher</persName> ritter,
+                    <lb/>her <persName>Rennwartt Göldi</persName> ritter,
+                    <lb/>her <persName>Wernher Radt</persName> ritter,
+                    <lb/><persName>Gerold Meyer von Knonouw</persName>,
+                    <lb/><persName>Eberhartt von Ryschach</persName>,
+                    <lb/><persName>Uorich Schwend</persName>,
+                    <lb/><persName>Jöry Grebel</persName>,
+                    <lb/><persName>Hannss Krieg</persName>,
+                    <lb/><persName>Casper Murer</persName>,
+                    <lb/><persName>Schwederus Schwend</persName>,
+                    <lb/><persName>Jöry Göldi</persName>,            
+                    <lb/><persName>Casper Göldi</persName>,    
+                    <lb/><persName>Hanss Effinger</persName> schulthess,
+                    <lb/><persName>Felix Schwend</persName>,
+                    <lb/><persName>Gerold Edlibach</persName>,
+                    <lb/><persName>Othmar Rordorff</persName>,
+                    <lb/><persName>Jacob Meyss</persName>,
+            <pb n="2 v"/>
+            <lb/><persName>Casper Röyst</persName>,
+                    <lb/><persName>Cornnell Schulthess</persName>,
+                    <lb/><persName>Hanss Meyer von Knonouw</persName>,
+                    <lb/><persName>Wilperg Zoller</persName>,
+                    <lb/><persName>Hartman Rordorff</persName>,
+                    <lb/><persName>Heinrich</persName> Èscher,
+                    <lb/><persName>Jacob Schwend</persName>,            
+                    <lb/><persName>Ludwig Hösch</persName>,
+                    <lb/><persName>Jacob Èscher</persName>,
+                    <lb/><persName>Hannss Edlibach</persName>,
+                    <lb/><persName>Diethelm Röyst</persName>,
+                    <lb/><persName>Jacob Schenck</persName>,
+                    <lb/><persName>Jöry Grebell der jung</persName>,
+                    <lb/><persName>Marx Schulthess</persName>,        
+                    <lb/><persName>Meister Niclauss Metzger</persName>,
+                    <lb/><persName>Jóss Oessennbry</persName>,      
+                    <lb/><persName>Jacob Murer</persName>,
+                    <lb/><persName>Alixander Metzger</persName>,
+                    <lb/><persName>Felix Sickust</persName>,     
+                    <lb/><persName>Hannss Clotter</persName>,
+                    <lb/>Vogtt <persName>Gugeltz</persName> ,      
+                    <lb/><persName>Keller</persName> von <placeName>Stein</placeName>.
+            <pb n="3 r"/>
+            <lb/>Meister <persName>Cuonradt Bachoffner</persName>,
+            <lb/>doctor <persName>Petter Holtzrütti</persName>,
+            <lb/>her <persName>Johannes de Cecilia</persName>, phisicus,
+            <lb/><persName>Hanss Ludwig Dietschy</persName>,
+            <lb/>frow <persName>Èscherin</persName>,
+                    <lb/>frow <persName>Schwendin</persName>,
+                    <lb/>frow <persName>Schulthessin</persName>,
+                    <lb/>frow von <persName>Mantz</persName>.
+                     <pb n="3 v"/>
+            <lb/><persName>Jacob Gèssnnower</persName>,
+            <lb/><persName>Felix Murer</persName>, armbruster,               
+                    <lb/><persName>Hanss Mennher</persName>, armbruster,        
+                    <lb/><persName>Hanss Rueger</persName>, goldschmid,
+            <lb/><persName>Uorich Wèber</persName>,       
+            <lb/><persName>Heller</persName>,
+            <lb/><persName>Weidelich</persName>,
+            <lb/><persName>Welti Peyer</persName>,
+            <lb/><persName>Herman Struss</persName>,
+                    <lb/><persName>Hensi Goeldi</persName>,
+                    <lb/><persName>Heini Schmid</persName>,
+                    <lb/><persName>Uely Schèrer</persName>,    
+                    <lb/><persName>Felix Jung</persName>,
+                    <lb/><persName>Ruodolff Boeni</persName>,
+                    <lb/><persName>Hanss Bruwald</persName>,            
+                    <lb/><persName>Marx Sutter</persName>,
+                    <lb/><del><persName>Ruedi Schmid</persName></del> <add place="right">tod</add>,
+                    <lb/><persName>Uely Wèber</persName>,
+                    <lb/><persName>Hanss</persName>,
+                    <lb/><persName>Heini</persName>, die <persName>Meyer</persName> von <persName>Oerlickon</persName>,
+                    <lb/><persName>Uorich Dellickon</persName>,
+                    <lb/><persName>Cuontz Hanselman</persName>,
+                    <pb n="3 v"/>
+                    <lb/><persName>Ruotsch Blüwler</persName>,
+                    <lb/><persName>Hannss Ràdt</persName>,
+                    <lb/><persName>Hölderli</persName>,
+                    <lb/><persName>Jacob Stoll</persName>,
+                    <lb/><persName>Hannss Joss</persName>,
+                    <lb/><persName>Heinrich Asper</persName>,
+                    <lb/><persName>Cuonradt Buman</persName>,
+                    <lb/><persName>Jacob Wèber</persName>,
+                    <lb/><persName>Meister Bernhardt Wyss</persName>,
+                    <lb/><persName>Urban Bropst</persName>,
+                    <lb/><persName>Bildhouwer</persName>,
+                    <lb/><persName>Hannss Otth</persName>,   
+                    <lb/><persName>Lanng Jörg</persName>,
+                    <lb/><persName>Heini Göwhy</persName>,      
+                    <lb/><persName>Rottheini zur Wiegen</persName>,
+                    <lb/><persName>Hannss Leimbacher</persName>,
+                    <lb/> <persName>Heini Fölmy</persName>,
+                    <lb/><persName>Meister Uorich Pan</persName> glaser,
+                    <lb/><persName>Heinrich Wyenstein</persName>,
+            <pb n="4 v"/>
+                    <lb/> <persName>Cuonradt Fuchs</persName>,
+                    <lb/><persName>Hannss Keller</persName>,
+                    <lb/><persName>Ruedi Grob</persName>,
+                    <lb/><persName>Hannss Byland</persName>,
+                    <lb/><persName>Uorich Ritter</persName>,  
+                    <lb/><persName>Hannss Wypf</persName>,
+                    <lb/><persName>Hannss Karrer</persName>,
+                    <lb/><persName>Joder Mülibach</persName>,
+                    <lb/><persName>Hanss Margstein</persName>,
+                    <lb/><persName>Petter von Bèrgen</persName>,
+                    <lb/><persName>Hanss Brög</persName>,
+                    <lb/><persName>Cristoffel Glaser</persName>,<note>Karrer, Glaser, Bildhauer.... Berufsbezeichnungen oder
+                        schon Familiennamen? Zu Beginn des 16. Jahrhunderts sind im städtischen Kontext
+                        Familiennamen bereits weitgehend gefestigt, doch ist es gerade bei einfacheren
+                        Leuten durchaus noch möglich, dass ein <persName>Cristoffel</persName> oder ein <persName>Lienhart</persName> durch ihren 
+                        Beruf Glaser und Bildhauer erkennbar gemacht sind. Im
+                        vorliegenden Fall des Reisrödels sind allerdings in der Regel Namen eindeutig
+                        als Familiennamen erkennbar. <persName>Heinrich Schóttli</persName> war ein <q>Frauenwirt</q>,
+                        also der Vorsteher eines der Zürcher Bordelle. Er gehörte sicher nicht zur
+                        städtischen Elite, hatte aber bereits einen Familiennamen. Man kann deshalb
+                        davon ausgehen, dass die meisten der aufgeführten Männer nicht mit der
+                        Berufsbezeichnung, sondern bereits mit einem festen Nachnamen identifiziert
+                        sind. Wenn einem Vor- ein Berufsname folgt, wurde dieser für hier als
+                        Familiennamen aufgefasst und in der Edition gross geschrieben.</note>
+                    <lb/><persName>Lienhart Bildhower</persName>,
+                    <lb/><persName>Uely von Roschach</persName>,
+                    <lb/><persName>Cossman Pfister</persName>,
+                    <lb/><persName>Hanss Vetter</persName>,
+                    <lb/><persName>Lienhardt Murer</persName>,
+                    <lb/><persName>Jöry Falckysen</persName>,
+                    <lb/><persName>Uely Gügy</persName>,
+                    <lb/><persName>Uely Hürnner</persName>,
+                    <lb/><persName>Heinrich Schóttli</persName>, frouwen wyrtt,
+                    <lb/><persName>Jacob Frölich</persName>,
+            <pb n="5 r"/>
+                    <lb/><persName>Clauss Rysècher</persName>,
+                    <lb/> <persName>Fridli Holffelder</persName>,
+                    <lb/> <persName>Uely Schmid</persName>, leister,
+                    <lb/><persName>Heinrich Ströffi</persName>,
+                    <lb/><persName>Petter Walch</persName>,
+                    <lb/><persName>Hanns Grètzer</persName>,
+                    <lb/> <persName>Heini Rosenberg</persName>,
+                    <lb/><persName>Hègaly</persName>,
+                    <lb/><persName>Jacob Engali</persName>,
+                    <lb/><persName>Uorich Spyssegger</persName>,
+                    <lb/><persName>Gorius Fuchs</persName>,
+                    <lb/><persName>Niclaus Lamparter</persName>,
+                    <lb/><persName>Baltasser Nogger</persName>,
+                    <lb/><persName>Baewyler</persName>,
+                    <lb/><persName>Heini Fyscher, genant Guottag</persName>,
+                    <lb/><persName>Hanss Seyler</persName>,
+                    <lb/><persName>Basthon Steinhüwel</persName>.<note>Nicht alle Namen sind einfach zu lesen. Die Schreibweise
+                        ist nicht festgelegt, und Vornamen kommen in allen möglichen Kurzformen daher.
+                        Basthon (oder Baschon) Steinhüwel ist wohl die Kurzform von Sebastian.
+                        Gelegentlich entspricht der Rufname auch nicht dem Taufnamen, wie das bei <persName>Heini
+                        Fyscher</persName> der Fall ist, der unter dem schönen Namen <q>Gut[en] Tag</q> (<q>Guottag</q>)
+                        bekannt ist. Der Zusatz <q>leister</q> neben dem Namen von <persName>Uely Schmid </persName>
+                        ist die Bezeichnung für den sogenannten Leistschneider, der Schuhmacherleisten
+                        herstellt (Leister / Leistenschneider: Idiotikon 3, 1471, Anmerkung und 9, 1133).</note>
+                </p>
+                <p>
+            <lb/>Wittwen, die ouch reysen sond:
+                    <lb/><persName>Zollerin</persName>,
+                    <lb/><persName>Margreth Müllerin</persName> oder von <placeName>Lindouw</placeName>,
+                    <lb/><persName>Landabergerin</persName>.
+                </p>
+            </div>
+            <pb n="5 v"/>
+            <div>
+               <head type="subtitle"><persName>Cratz</persName> </head>
+                <p>
+                    <lb/><persName>Uolritze Medick</persName>,<note>Die Seite verrät, dass der Schreiber seine Liste der
+                        Männer aus dem <placeName>Kratz</placeName>, dem Zürcher Armenquartier, mehrfach durchgegangen ist. Die
+                        regelmässige, klare Schrift zeigt, dass er in aller Ruhe eine Vorlage kopierte,
+                        die die Namen der Männer enthielt, die für die Constaffel reispflichtig waren.
+                        Unterdessen waren aber <persName>Jacob Ryss</persName> und <persName>Cunly</persName> (Conrad) bereits verstorben. Er
+                        setzte deshalb das Wort <q>tod</q> neben ihre Namen und strich anschliessend Name und
+                        Zusatz ganz durch. Welche Kontrollschritte die Kreise und <q>Kommas</q> markieren
+                        muss offenbleiben. Angeführt wird die Liste übrigens von einem gewissen <persName>Ulritz
+                        Medick</persName>. <persName>Ulritz</persName> ist eine für den schweizerischen Raum ganz unübliche Schreibweise
+                        des Vornamens <persName>Ulrich</persName>, und tatsächlich stammte der Kesselflicker aus <placeName>Wallgau</placeName> bei
+                        <placeName>Garmisch-Partenkirchen</placeName> und war 1500 mit seiner Tochter <persName>Afra</persName> in <placeName>Zürich</placeName>
+                        eingebürgert worden. Ulrich und Afra Medick: Illi, Constaffel, S. 57.</note>
+                    <lb/> <persName>Jung Hanss</persName>,
+                    <lb/><persName>Byber</persName>,
+                    <lb/><persName>Pfaffenhoffer</persName>,
+                    <lb/><persName>Petter Kuekhlibacher</persName>,
+                    <lb/><persName>Jung Kuechlibacher</persName>,
+                    <lb/><del><persName>Jacob Ryss</persName></del>, <add place="right">tod</add>     
+                    <lb/> <persName>Petter Andres</persName>,
+                    <lb/><persName>Jöry Franck</persName>,
+                    <lb/><persName>Hanss Kürsiner</persName>,
+                    <lb/><persName>Uorich Gyr</persName>,
+                    <lb/><persName>Hanss Gruober</persName>,
+                    <lb/><persName>Jacob Ebner</persName>,
+            <lb/><persName>Wilhelm Spyegel</persName>
+           <lb/><persName>Crista Quader</persName>
+            <lb/><persName>Cuonradt</persName>,
+                    <lb/> <persName>Michel</persName>, die <persName>Spoery</persName>,
+                <lb/> <persName>Hanss Graff</persName>,
+            <lb/><persName>Zimpprecht</persName>,
+               <lb/><del><persName>Cuonly</persName>,</del> <add place="right">tod</add>
+                <pb n="6r"/>
+            <lb/><persName>Hannss Salabach</persName>,
+                <lb/><persName>Hannss Metzger</persName>,
+                 <lb/><persName>Hanss Stricker</persName>,
+            <lb/><persName>Jössly Wernli</persName>,
+            <lb/><persName>Cuonradt <subst><del>Fricka</del><add place="right">Meyer</add></subst></persName>,
+            <lb/><persName>Jacob Schoenenberg</persName>
+                    </p>
+            </div>
+            <pb n="6 v"/>
+                    <pb n="7 r"/>
+                    <pb n="7 v"/>
+                    <pb n="8 r"/>
+                    <pb n="8 v"/>
+                    <pb n="9 r"/>
+                    <pb n="9 v"/>
+                    <pb n="10 r"/>
+                    <pb n="10 v"/>
+                    <pb n="11 r"/>
+                    <pb n="11 v"/>
+            <pb n="12 r"/>
+            <div>
+                <head type="subtitle">Item im 1503 jar zog man ge <persName>Lokarniss</persName> vie <persName>Kur</persName> uf
+                    <lb/>uiber den <placeName>Fogell</placeName><!-- San Bernardino GR --> und war uns im Konstafell 18 man
+                    <lb/>uf geleitt</head><note><placeName>Zürich</placeName> folgte am 20. März 1503 der Mahnung von <placeName>Uri</placeName>, <placeName>Schwyz</placeName>
+                        und <placeName>Nidwalden</placeName> um kriegerischen Beistand, um <persName>Ludwig XII. von Frankreich</persName> zur
+                        Übergabe der von den drei Orten beanspruchten Grafschaft <placeName>Bellinzona</placeName> zu zwingen
+                        (sog. <q>Bellenzerzug</q>). Die Constaffel mussten 18 Mann stellen. Die meisten der
+                        zur Kriegsleistung aufgerufenen Männer reisten allerdings nicht persönlich nach
+                        <placeName>Chur</placeName> und von da über den <placeName>San Bernardino</placeName> Pass (den <q>Fogell</q> bzw. <placeName>Vogelberg</placeName>),
+                        sondern bezahlten einen Söldner. Anstelle von <persName>Gerold Edlibach</persName> (1454-1530), der
+                        in seiner Chronik kurz von diesem Auszug berichtet (Edlibach, S. 234), reiste
+                        ein <persName>Caspar Femgy</persName>, <q>Herr Escher</q> (da dieses Mitglied der grossen Familie Escher
+                        als <q>Herr</q> bezeichnet ist, ist wohl der fol. 2r an fünfter Stelle genannte
+                        Ritter <persName>Jacob Escher</persName> gemeint) bezahlte <persName>Hensly Geldlin</persName>, für <persName>Hans Meiss</persName> ging <persName>Hans
+                        Schwab</persName>, für <persName>Hans Schwend</persName> <persName>Hans Teck</persName>, usw. Die Constaffel musste aber nur 15 Mann
+                        stellen. Bürgermeister <persName>Marx Röist</persName> <q>nahm</q> der Constaffel <q>zwei Mann ab</q> –
+                        d.h. übernahm aus der Stadtkasse die Kosten für zwei der Männer – und der
+                        Vorsteher der Armbrustschützen (<q>arbroster</q>) bezahlte einen Mann aus der
+                        Kasse der Schützengesellschaft. Die Constaffler bezahlten zudem den Säumer, <persName>Hans
+                        Irnig</persName>. Er stellte zwei Maultiere zur Verfügung und erhielt pro Tag 15
+                        Schilling Sold für seine Dienste. Der ganze Trupp war 31 Tage unterwegs, kehrte
+                        also am 20. April nach <placeName>Zürich</placeName> zurück. (Edlibach, Zürcher- und Schweizerchronik, S. 234; EA 3,2, Nr. 117 (21. März 103), Nr.
+                        118 (28. März 1503), Nr. 120 (4. April 1503), Nr. 121 (<q>Friede von <placeName>Arona</placeName></q>, 10.-11.
+                        April 1503: Stadt und Grafschaft <placeName>Bellinzona</placeName> gingen an <placeName>Uri</placeName>, <placeName>Schwyz</placeName> und <placeName>Nidwalden</placeName>, die
+                        das Gebiet bis 1798 als <q>ennetbirgische Vogtei</q> regierten).
+                    </note>
+                <p>
+            <lb/> <persName>Gerold Edlybach</persName> – sin soldner <persName>Casper Femgy</persName>,
+                    <lb/><persName>Tapfer Vogt</persName>,
+            <lb/><persName>Felix Wisreder</persName>,
+                    <lb/><persName>Bernhartt Zùfell</persName>,
+                    <lb/>Herr <persName>Escher</persName> – sin soldner <persName>Hensly Geldlin</persName>,
+                    <lb/><persName>Jung Hans Meiss</persName> – sin soldner <persName>Hans Schwab</persName>,
+                    <lb/><persName>Metely</persName>,
+                    <lb/><persName>Hans Schwend</persName> – sin soldner <persName>Hans Teck</persName>,
+                    <lb/><persName>Glat</persName> – sin soldner <persName>Heiny Fischer</persName>,
+                    <lb/><persName>Hensly Widerker</persName> – sin soldner <persName>Conrat Kesler</persName>,
+                    <lb/><persName>Hans Krieg</persName> – sin soldner <persName>Hensly Meyer</persName> metzer,
+                    <lb/><persName>Pafenhofer</persName>,
+                    <lb/><persName>Casper Múer</persName> – sin solldner <persName>Vitt</persName>,
+                    <lb/><persName>Tony</persName>,
+            <lb/><persName>Bernhart Gintz</persName>.
+                    </p>
+                <p>
+            <lb/> Item so nam uns min herr <persName>Rost</persName><!-- msr: <persName>Röist</persName> --> 2 man ab und der
+            <lb/>arbroster 1 man
+                </p>
+                <p>
+            <lb/> <persName>Item Hans Irnig</persName> was semer und gab man im all tag
+                    <lb/> von 2 rosen<note>Interessant ist die Schreibweise <q>rosen</q> (Z. 22). Ich gehe
+                        davon aus, dass es sich hier nicht um eine Schreibvariante vor <q>Ross</q> handelt,
+                        denn der Schreiber unterscheidet sehr genau zwischen scharfem und weichem -s-.
+                        Dies würde aber darauf hinweisen, dass wir es mit dem Wort <q>rous</q> zu tun haben,
+                        das für deutschsprachige <placeName>Alagna</placeName> im <placeName>Piemont</placeName> belegt ist und Maultier bedeutet. Ein
+                        Säumer am <placeName>San Bernardino</placeName>, der einen Südwalser Dialekt spricht? Eine Vorstellung,
+                        die für diese Zeit höchster Mobilität über alle Alpenpässe zwischen der heutigen
+                        <placeName>Schweiz</placeName> und <placeName>Italien</placeName> keineswegs abwegig sein muss! (rous: Idiotikon 6, 1424.)</note> 15 s und warend uss 31 tag.
+                </p>
+            </div>
+            <pb n="12 v"/>
+            <div>
+                <head type="subtitle">Disy reisend mit der stat paner und esend mit minen
+            <lb/>heren im Constafell im zug gen <placeName>Lokarniss</placeName> im 1503
+                jar</head>
+               <p>
+            <del><lb/><persName>Item Boshart</persName> zu <placeName>Hurnnen</placeName><!-- msr: Allenfalls Hürnen, Meilen ZH --> – sin soldner <persName>Hensly Widerker</persName>,
+                   <lb/>Item der uf <placeName>Widen</placeName><!-- vgl. note -->,
+                   <lb/>item <persName>Boshartt</persName> von <placeName>Wagenberg</placeName>,
+                   <lb/>item <persName>Trieb</persName>,
+                   <lb/>item her <persName>Gethartt von Landenberg</persName>,
+                   <lb/>item <persName>Fulach</persName>,
+                   <lb/>item <persName>Rogwiller</persName></del>
+               </p>
+                <p>
+                    <lb/>Item so tuet der kost uf ain man 8 lb.<note>Eine vergleichbare Liste von Männern, die <q>mit meinen Herren im Constaffel essen</q> –
+                        also Angehörige der Trinkstube sind (und jährlich 8 Schilling Fronfastengeld
+                        bezahlen) – befindet sich auf fol. 14v. Es handelt sich um Inhaber von im Zürcher
+                        Gebiet gelegenen Gerichtsherrschaften. Drei davon, nämlich <persName>Trieb</persName>, <persName>Rogwiller</persName> (fol.
+                        14v als Junker bezeichnet) und <q>der <persName>uf Widen</persName></q> waren demnach 1503 wie auch 1511 der
+                        Constaffel und damit dem Stadtbanner zugeschlagen. Es handelt sich um folgende
+                        Personen: <persName>Bosshard von Hürnen</persName>: Ursprünglich Bauern aus
+                        <placeName>Bauma</placeName>. Ein <persName>Bosshard</persName> übernahm die Burg <placeName>Gryffenberg</placeName> ob <placeName>Bäretswil</placeName>.
+                        <placeName>Wyden</placeName> ist ein Schloss (Gem. <placeName>Ossingen</placeName>, ZH), das 1503 im Besitz der H<persName>app von Happerg</persName> war (vgl. fol. 14v. 
+                        <persName>Heini Boshart</persName> hatte Hof und Burgstall <placeName>Wagenberg</placeName> (bei <placeName>Oberembrach</placeName>, ZH) am 8. März 1485 gekauft. 
+                        Die Familie <persName>Trüb</persName> war 1493 bis 1607 Inhaberin
+                        der Vogtei über <placeName>Ebmatingen</placeName> und <placeName>Dickenau</placeName>, ein Lehen der Stadt <placeName>Zürich</placeName> (HBLS,
+                        7, S. 64).
+                        <persName>Gotthard von (Breiten-)Landenberg</persName>war 1503 Herr zu <placeName>Wetzikon</placeName>. 
+                        Die ersten Vertreter des Schaffhauser
+                        Niederadelsgeschlechts (von) <persName>Fulach</persName> traten Mitte des 15. Jahrhunderts in das
+                        Zürcher Bürgerrecht ein. Zu Beginn des 16. Jahrhunderts waren sie Inhaber
+                        der Herrschaft <placeName>Laufen-Dachsen</placeName>.
+                        Die <persName>Roggwil</persName> waren ein Thurgauer Rittergeschlecht, das ab 1502 die Herrschaft <placeName>Schwandegg</placeName> im Zürcher <placeName>Weinland</placeName> (Gem. <placeName>Waltalingen</placeName>) besass; 1503 war der Besitzer <persName>Gregorius von Roggwil</persName>. 
+                        Der Grund für die Streichung der Namen ist nicht bekannt. 
+                        Eine Reihe anderer Adliger und Landsässen, die in <placeName>Zürich</placeName> reispflichtig und
+                        nachweislich Angehörige der Constaffel waren, sind im Reisrödel nicht erwähnt.
+                        Gründe dafür könnte wohl erst eine gründliche Untersuchung der rechtlichen Stellung
+                        der verschiedenen Landsässen und ihres Verhältnisses zur Stadt <placeName>Zürich</placeName>
+                        beibringen.
+                        HLS; Niederhäuser, Gerichtsherren; <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=250027">StAZH C I, Nr. 1995</ref></bibl>
+                        (nach dem 8.3.1485): <q><persName>Heini Bosshart</persName> von <placeName>Wagenberg</placeName> lässt betreffend die Frage,
+                        ob die Ebne zum Hof <placeName>Wagenberg</placeName> gehöre, Zeugen einvernehmen. Dorsualnotiz: Die
+                        gericht zuo <placeName>Wagenberg</placeName> hat der Küfer minen herren geschenckt. Zur Datierung: Hof
+                            und Burgstall <placeName>Wagenberg</placeName> wurden am 8. März 1485 von den <persName>Bosshart</persName> gekauft.</q> <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=292940">StAZH
+                        F II a 490</ref></bibl>: Schloss <placeName>Wyden</placeName>: <q>In disem Rodel sind begriffen die Stuck, Zinss und
+                        Güter, so der Vest <persName>Hanns von Griesshain</persName> dem Vesten <persName>Micheln Happen</persName> von Happerg in
+                        dem Koff dess Schloss <placeName>Wyden</placeName> gegeben hat…</q>, 1492. (Vgl. die Verzeichnisse der
+                        reispflichtigen <q>edellüt</q> bzw. <q>edlinge</q> in <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5065001">StAZH A 30.2, Nr. 5</ref></bibl>, fol. 5r (1512)
+                        und <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5065146">StAZH A 30.3., Nr. 141</ref></bibl> (1529), fol. 2v.)
+                    </note>
+                </p>
+            <pb/>
+                <p>
+            <lb/>[<persName>Eingefügter Zettel</persName>]<!-- msr: noch kollationieren -->
+            <lb/>Die erst bezalung ainem uss zognen 4 kronen 1 dicken
+                    einem
+            <lb/>
+                fryen 3 kronen 1 dicken und den frembden 2 kronen
+            <lb/>Die ander bezalung einem uss zognen 10 dick, einem
+            <lb/>
+                fryen 6 dick 10 s und den frembden 1 kronen
+            <lb/>Die drit bezalung ainem uszognen 2 gl und einem
+            <lb/>
+                    fryen 1 gl und den frömden frit nüdt.<note>Der kleine Zettel fand sich hinter den Bund eingeschoben, auf dem die Auszüge zwischen 1503 und 1515 festgehalten sind, doch ist unbekannt, in welchem Jahr diese Soldansätze galten. Die Handschrift hat ein paar Auffälligkeiten (etwa das kleine -b-, das mit einem Aufstrich ansetzt.) Sie erlauben festzustellen, dass ihr Schreiber nicht an der Entstehung des Reisrödels oder den dazugehörigen Rödeln beteiligt war. 
+                        <lb/>Aufschlussreich ist die Unterscheidung der <q>Lohnklassen</q>: ein <q>Ausgezogener</q>, also ein Mann, der aufgrund seines Bürgerrechts Kriegsdienst leistet, erhält am meisten Geld, ein <q>Freier</q>, also ein Mann, der sich freiwillig meldet, etwa einen Viertel weniger und ein <q>Fremder</q> nur die Hälfte des dem Bürger zustehenden Betrags bzw. erhält gar keine dritte Bezahlung (Z. 6: <q>frit nüt</q> heisst: er hat nichts zugute). <q>Freie</q> und <q>Fremde</q> werden unterschieden, was bedeuten würde, dass hier ausschliesslich Freiwillige aus Stadt und Landschaft Zürich oder aus der Eidgenossenschaft insgesamt als <q>Freiknechte</q> bezeichnet wurden. 
+                        <lb/>Unter der Annahme, dass 3 kr = 4 fl [Gulden] gerechnet
+                        wurden und 1 Dicken = 15 s ist, ergibt das folgende Beträge:
+                        <lb/>1. 6 lb 15 s; 5 lb 5 s; 3 lb
+                        <lb/>2. 7 lb 10 s; 5 lb; 1 lb 10 s
+                        <lb/>3. 4 lb; 2 lb; –
+                        <lb/>Romer, Herrschaft, Tab. 1, S. 334; Chro(n), in: Idiotikon
+                        III, 829; Geiger, Hans-Ulrich: "Dicken", in: Historisches Lexikon der Schweiz
+                        (HLS), Version vom 05.04.2005. Online:
+                        https://hls-dhs-dss.ch/de/articles/013691/2005-04-05/, konsultiert am
+                        25.06.2021; Zäch, Benedikt: "Krone", in: Historisches Lexikon der Schweiz (HLS),
+                        Version vom 01.02.2012. Online:
+                        https://hls-dhs-dss.ch/de/articles/013674/2012-02-01/, konsultiert am
+                        25.06.2021.</note>
+                    </p>
+            </div>
+            <pb n="13 r"/>
+            <div>
+            <head type="subtitle">Uss gen 2 seim zue laden gen <placeName>Lokarniss</placeName>
+                <lb/> im 1503 jar</head><note>Der von der Constaffel angestellte Säumer <persName>Hans Irnig</persName> (fol.
+                    12r) führte eine Ladung von zwei Saum (<q>seim</q>)
+                    mit
+                    sich. Sie enthielt, gemäss Abrechnung, Käse, Ziger, Hafermehl, Gersten, Heringe
+                    (gesalzen) und Bücklinge (<q>bicking</q>, ganze geräucherte Heringe), Zwiebeln
+                    (<q>bellen</q>) und Salz, Butter, Fässchen (<q>lagela</q>), <q>zulch</q>, Nüsse und <q>platra</q>, einen Ledersack, 
+                    <q>kercha</q>, Hafer, Scherter (d.h. weisse, feine Leinwand) und Brot. Zudem mussten ein Seiler, ein Maler, ein Sattler und ein Bote bezahlt werden. Viereinhalb Pfund kosteten Essen und Getränke, die im Rüden verzehrt worden waren. Insgesamt gab die Constaffel 40 Pfund und 5 Schilling für die Versorgung ihrer Krieger aus.
+                    Saum meint ursprünglich die Ladung (bestehend aus zwei Packen, Fässern o.ä.), die ein Saumtier tragen kann und entwickelte sich dann zu einer Mass- und Gewichtseinheit. 
+                    Die Wörter <q>zulch</q>, <q>platra</q> und <q>kercha</q> konnten nicht sicher identifiziert werden. Platra (wie
+                    Blettli) könnten getrocknete Scheiben von Rüben sein. Kerche meint möglicherweise die Chrieche also eine
+                    Pflaumenart. Ratlos macht das Wort zulch – da es fol. 15 das
+                    Wort Ziger ersetzt, könnte es sich um ein Milchprodukt
+                    handeln. – Nach Auskunft des Idiotikon-Teams verweisen die dialektalen Merkmale den
+                    Schreiber <q>mit ziemlicher Sicherheit</q> ins Urnerland. Oder führt die Spur etwa ins
+                    deutschsprachige Piemont? Es handelt sich ja um die Abrechnung mit Hans Irnig,
+                    dessen Maultiere mit einem Wort <q>ruos</q> bezeichnet werden, das
+                    für den Ort Alagna (Walserdeutsch: Lannja / Im Land) belegt ist. (Saum II, in: Idiotikon 7, 944-949).</note>
+                <p>
+                    <table><row><cell>Item umb keiss und ziger 4 1/2 lb</cell><cell>–h 4 s 10 d</cell></row>
+                <row><cell>Item umb haber mell 3 lb 5 s</cell><cell>h 3 s
+                5 d</cell></row>
+           <row><cell>Item dem seiller 1 lb</cell><cell>– h 1 s d</cell></row>
+            
+                <row><cell>Item umb gersten 15 s</cell><cell>–h 
+                s 15 d</cell></row>
+             <row><cell>Item hering und bicking 4 lb 15 s</cell><cell>– h 4 s 15 d</cell></row>
+            <row><cell>Item bellen und saltz 1 lb 8 s</cell><cell>– h 1 s 8 d</cell></row>
+                <row><cell>Item umb ancken 5 lb 19 s</cell><cell>– h 5 s 19 d</cell></row>
+            <row><cell>Item umb lagela 1 lb 8 s</cell><cell>– h 1 s 8 d</cell></row>
+            <row><cell>Item umb zulch 2 lb</cell><cell>– h 2 s d</cell></row>
+                <row><cell>Item nuss und platra 5 s</cell><cell> – h s 5 d</cell></row>
+                <row><cell>Item umb ein leder sack 12 s</cell><cell>–h s 12 d</cell></row>
+            <row><cell>Item umb kercha 12 s</cell><cell>– s 12 d</cell></row>
+            <row><cell>Item umb haber 11 s</cell><cell>– h s 11 d</cell></row>
+            <row><cell>Item umb wisen scherter 6 s</cell><cell>–  h s 6 d</cell></row>
+            <row><cell>Item dem maller 1 lb 6 s</cell><cell>– h 1 s 6 d</cell></row>
+                <row><cell>Item umb brott 2 lb 8 s</cell><cell>– h 2 s 8 d</cell></row>
+                <row><cell>Item dem satler 4 lb</cell><cell>– h 4 s</cell></row>
+                <row><cell>Item am boten 15 s</cell><cell>– h 15 d</cell></row>
+         <row> <cell>Item zerung zum <placeName>Riden</placeName> 4 1/2 lb</cell><cell>– h 4 s 10 d</cell></row>
+      <row><cell/><cell><persName>Summa</persName> 40 lb 5 s</cell></row></table>
+                </p>
+            </div>
+            <pb n="13 v"/>
+            <div> 
+                <head type="subtitle">Uss gen im zug gen <placeName>Lokarniss</placeName> im 1503 jar</head>
+                <p><lb/>Item <persName>Felix Wisen</persName><note>Die Namen von <persName>Felix Wiss</persName> und <persName>Ulrich (<q>Uorrich</q>) Leiser</persName> erscheinen im Rodel nur an dieser Stelle. Leiser kann nicht identifiziert werden, bei <persName>Felix Wiss</persName> könnte es sich um den Mann handeln, der 1512/13 eine französische Pension von 5 Kronen erhalten und deswegen verurteilt wurde (Rogger, Geld, 266). Jedenfalls gab er von den 70 Goldgulden und den 10 Gulden, welche in diesem Fall zu 15 Batzen gerechnet wurden, 24 Goldgulden und 8 Kronen wieder zurück. Weitere Details lassen sich den Zeilen nicht entnehmen, handelt es sich doch nicht um eine Abrechnung, sondern um eine Notiz, in der der Schreiber, der ja wusste, worum es ging, festhielt, wieviel Bargeld den Auszügern mitgegeben wurde. Es ist anzunehmen, dass die beiden Männer das Geld in Beuteln transportierten und dass sie möglicherweise nicht zusammen reisten, um so die Wahrscheinlichkeit zu erhöhen, dass wenigstens ein Teil des Geldes sicher ankam. 
+                    <lb/>Gulden und Kronen sind Goldmünzen. Ab Ende des 15.
+                    Jahrhunderts verdrängte in der Eidgenossenschaft die französische Krone (écu
+                    d’or) allmählich den rheinischen Gulden. Der Batzen war um die Zeit die
+                    beliebteste Münzeinheit. Batzen wurden in verschiedenen Ausführungen geprägt (in
+                    Silber oder in Silber-Kupfer-Legierung, sog. Billon). Um den Wert der Münzen
+                    festzuhalten musste also vermerkt werden, wie viele Batzen pro Gulden gerechnet
+                    wurden.
+                    <lb/>In Zürich galt im 16. Jahrhundert in der Regel: 1 Rheinischer Goldgulden (fl) = 480 Heller (hl) = 40 Schilling (sh) = 16 Batzen (bz) = 2 Pfund (lb) = 0.4 Mark Silber (mk). 1 Pfund Haller = 240 hlr = 20 sh = 8 bz = 0,2 mk = 0,5 fl. 1 Zürcher Batzen (bz) = 30 hlr = 2,5 sh. 1 Schilling = 12 hlr = 0,4 bz, = 0,05 lb. 1 Dickpfennig (dk) = 180 hlr = 15 sh = 6 bz = 0,75 lb. (Aufstellung in Romer, Herrschaft, Tab. 1, S. 334). 
+                    <lb/>HLS; Rogger, Krieg; Romer, Herrschaft. </note> gein 70 gulden an gold
+            <lb/>und 10 gulden an batzen 15 vir ein gulden</p>
+            <p><lb/>Item <persName>Uorrich Leiser</persName> gein 30 gulden an gold
+            <lb/>5 und 8 krona</p>
+            <p><lb/>Item so brachtt <persName>Felix Wiss</persName> wider 24 gl
+            <lb/>und 8 krona</p>
+                </div>
+            <pb n="14r"/>
+      <div>
+          <head type="subtitle">Im 1511 jar zog man gen <placeName>Belentz</placeName> und ward
+          <lb/>dem Constaffel uf gleit 22 man und zog man
+          <lb/>
+          uf sant <persName>Katrina</persName> tag uss uibler den <placeName>Fogell</placeName> <add place="inline">wider kùng
+          <lb/>von <placeName>Franckrich</placeName></add></head>
+          <p>
+                      <del><lb/>Wz houptmann
+                <lb/><persName>Jacob Stapfer</persName></del></p>
+          <p><persName>Kurnell Schultheiss</persName>,
+            <lb/><persName>Heinrich Escher</persName>,
+            <lb/><persName>Ludwig Hesch</persName>,
+            <lb/><persName>Jacob Schenck</persName>,
+            <lb/><persName>Hartman Rordorf</persName> – sin soldner, der seimer,
+              <lb/>herr <persName>Werher Ratt</persName> – sin soldner <persName>Iring</persName>,
+              <lb/>meister <persName>Bachoffen</persName> – sin soldner <persName>Felix Murer</persName>,
+              <lb/>schuolmeister <persName>Wiss</persName> – sin soldner <persName>Hans Notz</persName>,
+              <lb/><persName>Basty Schwartzmurer</persName> – sin soldner <persName>Pefly Ziegler</persName>,
+              <persName>Hans Jos</persName> – sin soldner <persName>Riedy Weber</persName>,
+              <lb/><persName>Toman</persName> von <placeName>Hutwill</placeName>, sin soldner <persName>Heyny Gal</persName>,
+            <lb/><persName>Hans Jacob</persName>,
+              <lb/><persName>Marx Suter</persName>,
+              <lb/><persName>Conrat Fuss</persName>,
+              <lb/> <persName>Heiny Folin</persName>,
+            <lb/><persName>Heiny Meyer</persName>,
+              <lb/><persName>Hans Salenbach</persName>,
+            <lb/><persName>Joder Milibach</persName>,
+            <lb/>buechtrucker,
+            <lb/><persName>Krista Quader</persName>,
+            <lb/><persName>Wilm Hechetz</persName> – sin soldner <persName>Benedick Schenck</persName></p>
+                <p>
+            <lb/><persName>Jacob Schwend</persName> was fenrich, nam unss ein man ab</p>
+          <note>
+              <lb/>Der Konflikt um die <placeName>Lombardei</placeName> zwischen den europäischen
+              Mächten ging nach 1510 seinem Höhepunkt zu. 1510 schlossen die Eidgenossen mit
+              Papst <persName>Julius II.</persName> ein (Sold-)bündnis ab, das sich gegen den französischen König
+              <persName>Ludwig XII.</persName> richtete. Auslöser für den erneuten Zug von Zürchern war aber die
+              Mahnung von <placeName>Schwyz</placeName> an die Eidgenossen, die einen Überfall französischer Söldner
+              auf ihren Läufer als Anlass für eine Kriegserklärung nahmen (EAII/2, Nr. 415,
+              9.9.1511). Am 17. November beschlossen die in Zürich tagenden Gesandten der
+              eidgenössischen Orte, hinter- und nicht miteinander in die <placeName>Lombardei</placeName> zu ziehen,
+              <q>da es der Speise und des Weges halb unmöglich ist, mit einander in Haufen über
+              den Berg und nach <placeName>Bellenz</placeName> zu ziehen</q>. (EA III/2, Nr. 420, S. 587). Am 25.
+              November 1511 reisten die Zürcher Truppen ab, und zwar auf der bewährten Strasse
+              über den <placeName>San Bernardino</placeName>. Hauptmann war <persName>Jakob Stapfer</persName> (1467-1526), der 1503-04
+              Zunftmeister der Meisen war und ab 1509 bis 1512 im Kleinen Rat sass. Er machte
+              als Söldner- und Heerführer Karriere: 1500 und 1507 diente er König <persName>Ludwig XII.</persName>
+              von <placeName>Frankreich</placeName>, 1511 Papst <persName>Julius II.</persName> und 1516 Kaiser <persName>Maximilian I.</persName>. <persName>Maximilian I.</persName> schlug ihn zum Ritter. 1512 wurde er vom Rat der Stadt <placeName>Zürich</placeName> ausgeschlossen
+              unter dem Vorwurf, im Pavierzug 1511 Geld unterschlagen zu haben. Vielleicht war
+              dies Anlass für einen weiteren Angehörigen der Constaffel, den Namen des
+              Hauptmanns als Randnotiz der Liste beizufügen. 1519 wurde <persName>Stapfer</persName> wegen
+              illegaler Söldnerwerbung angeklagt. Er gab 1522 das Bürgerrecht auf.
+              Im Auszug von 1511 musste die Constaffel 22 Mann stellen, wobei wiederum acht Aufgebotene es vorzogen, einen Stellvertreter zu bezahlen. Fähnrich Jacob Schwend übernahm einen dieser Männer, d.h. er sorgte selber (wohl aus der Stadtkasse) für dessen Bezahlung; die Constaffel waren also für 21 Mann zuständig. Jacob Schwend amtete auch in weiteren Auszügen der Constaffel als Fähnrich (17r, 17v, 18v). Er fiel bei Marignano. 
+              Von den für die Constaffel ausgezogenen Männern
+              interessiert wohl vor allem die Identität des <q>Buchdruckers</q>. Es kann
+              sich nicht um den berühmten Buchdrucker Christoffel Froschauer handeln, da
+              dieser erst nach 1515 nach Zürich kam. Sein damaliger Meister, Hans Rüegger
+              (oder Hans am Wasen), kommt wohl auch nicht als Auszüger der Constaffel in
+              Frage, soll er doch Mitglied der Zimmerleuten gewesen sein. Oder widerlegt der
+              Reisrödel hier diese Annahme und es war doch Rüegger, der als <q>Freiberufler</q> in
+              der Constaffel sass und als ihr Krieger Richtung Süden zog?
+              HLS; EA III/2; Hübner, Sieg; Leemann-van Elck Drucker.</note>
+      </div>
+            <pb n="14v"/>
+          <div>
+        <head type="subtitle">Item disy ziechend mit der stat paner und esend mit
+                    dem
+                 <lb/>Constafell und zalend nach marck zall im costen
+            <lb/>im zuog gen <placeName>Beletz</placeName> im 1511 jar und zog man
+            <lb/>uss uf sant <persName>Katrina</persName> tag uss</head>
+          <p>
+            <lb/>Item 2 <persName>Trieben</persName> von <placeName>Ementingen</placeName>,
+            <lb/>item der uf <placeName>Widen</placeName> <persName>Michel Hapten</persName>, sin soldner <persName>Toman Kiburg</persName>,
+            <lb/>item <persName>Jacob Hepler</persName>,
+            <lb/>item juncker <persName>Rogwiller</persName> – sin soldner <persName>Adam Meyer</persName>,
+            <lb/>item juncker von <persName>Schannaw</persName><!-- Hans von Schönau, siehe unten -->, sin soldner <persName>Andres Braner</persName>.
+          </p>
+              <p>
+            <lb/>Item tuet der kosten uf ein man 10 lb.</p>
+              <p><lb/>Item in dem zug was man uss 5 wuchen.<note>Auch 1511 rief die Constaffel einige Gerichtsherren zum
+                  Banner. Zu den Trüb, Michel Happ und Junker Roggwiler vgl. oben, fol. 2v. Der
+                  Winterthurer Jacob <q>Hepler</q> (Hoppler oder Hoppeler) besass die ehemalige
+                  Burg Langenhard bei Rikon im Tösstal, die allerdings nun ein Bauernhof war. Mit
+                  dem <q>Junker von Schannaw</q> ist Hans von Schönau gemeint, Besitzer von
+                  Schloss Schwandegg bei Stammheim und seit 1510 der Herrschaft Altikon (1517
+                  sollte er die <q>Waldmannburg</q> Dübelstein erwerben). Die Bemerkung, dass die
+                  angeführten Landsässen <q>nach marck zall im costen</q> bezahlt hätten, meint, dass
+                  sie dem Stadtbanner und damit der Constaffel zugewiesen waren, aber nicht
+                  regelmässig Fronfastengeld in die Gesellschaftskasse zahlten. Für die Dienste
+                  der Constaffel bezahlten sie einen einmaligen Betrag – hier von 10 Pfund.
+                  (Steuern <q>nach Markzahl</q> bedeutet eine Steuer, die in einem bestimmten
+                  Verhältnis zum Vermögen steht.)
+                  Die Zürcher Truppen verliessen die Stadt am 25. November
+                  (Katharinentag) und kehrten nach fünf Wochen, also um den 30. Dezember,
+                  zurück.
+                  HBLS: Schönau, von; Idiotikon: marchzahlsteuer sowie Deutsches Wörterbuch: Markzahl;
+                  Burgstelle Langenhard: http://www.burgenwelt.org/schweiz/langenhard/object.php.</note></p>
+          </div>
+            <pb n="15 r"/>
+          <div>
+           <head type="subtitle">Item uss gen im 1511 jar 3 seim zueladen </head>
+              <p>
+           <table> 
+                <row><cell>Item umb rind fleisch 2 lb 4 s</cell><cell> – h 2 s 4 d</cell></row>
+      <row><cell>Item umb speck 2 lb 7 s 3 d</cell><cell>– h 2 s 7 d 3</cell></row>
+               <row><cell>Item saltz terin hacken 15 s</cell><cell>– h s 15 d </cell>  </row>        
+           <row><cell>Item umb ancken <del>8 lb 14 s 8 d</del></cell><cell>– h 8 s 14 d 8</cell></row>
+           <row><cell>Item umb haber mell 3 lb</cell><cell>– h 3 s d</cell></row>
+         <row><cell>Item umb saltz </cell><cell>– h s 16 d</cell></row>
+             <row><cell>Item umb gersten 8 s</cell><cell>– h s 8 d</cell></row>
+            <row><cell>Item umb fisch 1 lb</cell><cell>h 1 s d</cell></row>
+            <row><cell>Item umb ris 15 s</cell><cell>– h s 15 d</cell></row>
+            <row><cell>Item umb bellen 5 s</cell><cell>– h s 5 d</cell></row>
+            <row><cell>Item umb kercha 10 s</cell><cell>– h s 10 d</cell></row>
+            <row><cell>Item umb platra 3 s</cell><cell>– h s 3 d</cell></row>
+            <row><cell>Item umb kuchy lumpen 2 s</cell><cell>– h s 2 d</cell></row>
+            <row><cell>Item umb ein schindell lad 1 s</cell><cell>h s 1 d</cell></row>
+            <row><cell>Item schnier und bendell 2 s</cell><cell>– h s 2 d</cell></row>
+            <row><cell>Item umb ziger 3 lb 3 s <add>zúlchen</add></cell><cell>h 3 s 3 d</cell></row>
+            <row><cell>Item umb scherter 5 s</cell><cell>– h s 5 d</cell></row>
+            <row><cell>Item die ross zue pschlachen 32 s</cell><cell>– h 1 s 12 d</cell></row>
+            <row><cell>Item dem satler 3 lb 6 s</cell><cell>h 3 s 6 d</cell></row>
+            <row><cell>Item dem seiller -b-2-b- 1 lb 10 s</cell><cell>h 1 s 10 d</cell></row>
+            <row><cell>Item umb kess 30 s</cell><cell>– h 1  s 10 d</cell></row>
+            <row><cell>Item umb ziger 1 lb 7 s 8 d</cell><cell>h 1 s 7 d 8</cell></row>
+            <row><cell>Item umb ein kesell 1 lb 7 s</cell><cell>– h s 7 d</cell></row>
+            <row><cell>Item umb lagell 4 lb 10 s</cell><cell>– h 4 s 10 d</cell></row>
+            <row><cell>Item 6 lagell zu pschlachen 30 s</cell><cell>h 1 s 10 d</cell></row>
+            <row><cell>Item umb ein ax 7 s</cell><cell>– h s 7 d</cell></row>
+            <row><cell>Item umb nepf und becher 12 s</cell><cell>– h s 12 d</cell></row>
+            <row><cell>Item haber mell zue resten</cell><cell>– h s d</cell></row>
+            <row><cell>Item haber den rosen 17 s 6 d</cell><cell>– h s 17 d 6</cell></row>
+            <row><cell>Item ross und lút zem <placeName>Riden</placeName> 8 lb 11 s</cell><cell>h 8 s 11 d 8</cell></row>
+            <row><cell>Item von seimen gen <placeName>Wallen</placeName> stat 15 s</cell><cell>h s 15 d</cell></row>
+            <row><cell>Item umb papir berment 3 s</cell><cell>– h s 3 d</cell></row>
+            <row><cell>Item dem schloser umb nagell gurtt</cell><cell>h 1 s</cell></row>
+            <row><cell>Item dem maller von allerley zue malen</cell><cell>h 1 s 2 d 6</cell></row>
+            <row><cell>Item gerechnott mit <persName>Urban</persName> und traf
+                <lb/> in suma 2 lb 7 d</cell><cell>– h 2 s d 7</cell></row>
+           </table>
+            <lb/>
+                Summa 56 h 12 s 10 d
+                  <note>
+                      Für den fünfwöchigen Auszug bepackten die Verantwortlichen
+                      der Constaffel drei Saumtiere. Der Schreiber trug die Ausgaben wohl von Zetteln
+                      auf die vorbereitete Seite ein. Er hatte die Rubriken Haller (Pfund) – Schilling
+                      – Denar (Pfennig) bereits vorgeschrieben und musste sie nur noch füllen.
+                      Interessant ist, dass er auf der einen Seite die römischen Zahlziffern benutzte,
+                      wie das bis Ende des 15. Jahrhunderts üblich war, in der eigentlichen
+                      Rechenspalte aber bereits auf arabische Ziffern zurückgriff. Die Zweigleisigkeit
+                      der beiden Zeichensysteme für Zahlen ist in Zürich typisch für die Zeit um
+                      1500.
+                      In der Reihenfolge der Liste bezahlten die Constaffel 56 Pfund, 12 Schilling und 10 Pfennig: 
+                      für Rindfleisch, Speck, Pökelsalz, Butter, Hafermehl, Salz, Gersten, Fisch, Reis, Zwiebeln, kercha, 
+                      platra, Küchenlumpen, ein Holzkästchen (eine <q>Lade</q> aus Schindeln), Schnüre, Bändel, zúlch,
+                      Stoff, für den Hufschmied (für das Beschlagen von Pferden), den Sattler, den
+                      Seiler, für Käse, Ziger, einen Kessel, für ein Fässchen, um kleine Fässer (
+                      lagella) zu bereifen, für eine Axt, um Näpfe und Becher, für das Rösten von Hafermehl (das war billig, 
+                      denn es kostete nichts), für Hafer für die Pferde, an die Verköstigung und Unterbringung von Pferden 
+                      und Leuten im Rüden, für Säumertarife bis Walenstadt (also für die Verschiffung über den Zürich- und 
+                      Walensee), für Papier und Pergament, dem Schlosser für einen Nagelgurt, dem Maler für diverse Arbeiten. 
+                      Schliesslich erhielt ein gewisser Urban noch 2 Pfund und 7 Pfennige. 
+                      Dubler, Anne-Marie, Arabische Ziffern, in: HLS, Version vom 24.08.2001. Online:
+                      https://hls-dhs-dss.ch/de/articles/013752/2001-08-24/, konsultiert am
+                      20.01.2021.</note>
+              </p>
+          </div>
+          <pb n="15 v"/>
+          <div>
+              <head type="subtitle">Item uss gein im zug gen <placeName>Beletz</placeName> im 1511 jar</head>
+            <p>
+                <table>
+           <row><cell>Item dem <persName>Conrat Fusch</persName> gen 10 lb </cell><cell>– h 10 s d</cell></row>
+            <row><cell>Item dem seimer gen 1 lb</cell><cell>– h 1 s d</cell></row>
+                </table>
+               </p>
+              </div>
+          <div>
+           <head type="subtitle">Item uss gein 1511 jar im letzen <del>z</del> uss nimen
+            <lb/>5 ward unss uf gleit 6 man und zog man
+            <lb/>nitt uss</head>
+              <p>
+                  <table>
+                      <row><cell>Item umb nepf 12 s</cell><cell>– h s 12 d</cell></row>
+                      <row><cell>Item umb 4 lagell zue machen 3 lb</cell><cell>– h 3 s d</cell></row>
+                      <row><cell>Item zue pschlachen 1 lb</cell><cell>h 1 s d</cell></row>
+                      <row><cell>10 Item dem maller umb schilt 8 s</cell><cell>h s 8 d</cell></row>
+                      <row><cell>Item dem knecht der mit mir selt 1 lb</cell><cell>h 1 s d</cell></row>
+                      <row><cell>Item 2 1/2 s umb ein gurtt </cell><cell>h s 2 d 6</cell></row>
+                  </table>
+                  <note>
+                      In Fortsetzung der Abrechnung des Auszugs von 1511 folgen Zahlungen an einen 
+                      Conrad Fusch, dessen Identität und Aufgaben unbekannt sind.
+                      Im Lauf des Jahres rief die Stadt ein letztes Mal in Zusammenhang mit dem Auszug 
+                      Leute zusammen, allerdings zogen die sechs Mann, die die Constaffel stellen musste, 
+                      nicht mehr aus. Die Näpfe, Fässchen und den Gurt (Z. 12) würde man auch später 
+                      brauchen können, auch die Arbeit des Hufschmieds und des Malers, der Wappen 
+                      (schilt) auf die Ausrüstungsgegenstände angebracht hatte, war wohl nicht umsonst 
+                      gewesen. Ein Knecht wird mit einem Pfund bezahlt – die Stelle ist schwierig zu lesen, 
+                      vermutlich aber spricht hier der Schreiber von seinem eigenen Knecht und zeigt damit 
+                      an, dass ihm ein Helfer zur Seite stand.
+                  </note> 
+            </p>
+          </div>
+                <pb n="16 r"/>
+            <div>
+                <head type="subtitle">Item eingnomen im 1511 jar</head>
+                <p>
+                    <table>
+                        <row><cell>Item in genumen von <persName>Casper Geldly</persName></cell><cell>h 24 s d</cell></row>
+                        <row><cell>Item in genumen vom herr <persName>Rest</persName></cell><cell>h 13 s d</cell></row>
+                        <row><cell>Item mer von <persName>Casper Geldly</persName></cell><cell>h 22 s d</cell></row>
+                        <row><cell>Item mer von <persName>Casper Geldly</persName></cell><cell>h 6 s d</cell></row>
+                        <row><cell>Item mer 5 1/2 batzen</cell><cell>– h s 14 d 6</cell></row>
+                        <row><cell>Item in genumen von <persName>Casper Geldly</persName></cell><cell>h 9 s d</cell></row>
+                    </table>
+                    <note>Zum Abschluss des Eintrags zum <q>Bellenzerzug</q> von 1511 notierte der Schreiber 
+                        die Einnahmen. Caspar Göldli und Bürgermeister Marx Röist (herr Rest) verteilten das 
+                        Geld, das von Papst Julius II. nach Zürich floss. Die Constaffel erhielten 54 Pfund, 14 
+                        Schilling, 6 Denar aus dem grossen Topf – was allerdings nicht ganz reichte, um alle 
+                        Ausgaben zu begleichen.
+                        Caspar Göldli (1468-1542), Mitglied der <q>Herrenstube</q> zum Rüden, war prädestiniert
+                        für die Mittlerposition. 1487 war er bereits Kämmerer am Mailänder Hof gewesen,
+                        1506-10 und dann wieder ab 1516 war er Reichsvogt, 1514 Landvogt in Lugano. 1506 bis
+                        1511 sass er als Constaffelherr im Rat der Stadt Zürich. Als Pensionär des Papstes
+                        betrieb er <q>nicht patriotische, sondern ausschliesslich päpstliche Politik</q> (Morf,
+                        Zunftverfassung, 74). Göldlis Leben ist ganz von seiner kriegerischen Tätigkeit
+                        bestimmt (Romer, Reisläufer, 39-40). Im Schwabenkrieg 1499 findet man ihn als
+                        Hauptmann der Zürcher bei der Schlacht von Frastanz. 1500 stand er in Zürich wegen
+                        Soldbetrugs vor Gericht, in den Italienkriegen wurde er als Truppenführer immer
+                        wieder aktenkundig – positiv und negativ. 1523 verliess er Zürich, weil er erneut
+                        als Soldunternehmer in Schwierigkeiten geraten war. Er wurde Bürger von Rapperswil,
+                        nahm das Landrecht von Schwyz an und kämpfte bei Kappel auf katholischer Seite –
+                        gegen den eigenen Bruder Georg und seine früheren Genossen aus der Constaffel.
+                        HLS; Schnyder, Ratslisten; Morf, Zunftverfassung, 64-76; Romer, Reisläufer.
+                    </note>
+                 </p>
+            </div>
+            <pb n="16 v"/>
+            <pb n="17 r"/>
+          <div>
+              <head type="subtitle">Item die zugend uss am 7 tag meyen und gab man ietlichem
+            <lb/>alltag 6 s so lang sy us sind mit dem fenly vir zerung
+            <lb/> im 1512 jar und zog man durch das <placeName>Echland</placeName> vyder den kung
+            <lb/> von <placeName>Franckrich</placeName> zue hilf dem bapst</head>
+              <p>
+            <lb/>Item her <persName>Heinrich Geldly</persName> – zog <persName>Jerg Geldly</persName> vir in,
+                  <lb/>item <persName>Jacob Schwend</persName> fenrich,
+                  <lb/>item <persName>Jacob Schwenden</persName> knecht,
+                  <lb/>item <persName>Hans Efinger</persName>,
+                  <lb/>item <persName>Jacob Escher</persName>,
+                  <lb/>item <persName>Jerg Grebell</persName> der jung,
+                  <lb/>item <persName>Hans Edlybach</persName>,
+                  <lb/>item frau <persName>Schultheisin</persName> – ir soldner <persName>Marx</persName> ier sun,
+                  <lb/>item vog <persName>Gugeltz</persName> – sin soldner <persName>Hans Hab</persName>,
+                  <lb/>item frow von <persName>Mantzen</persName> – ir soldner <persName>Benedick Schenck</persName>,
+                  <lb/>item <persName>Bernhart Keller</persName> von <placeName>Stein</placeName> – sin soldner <persName>Heinrich Escher</persName>,
+                  <lb/>item <persName>Hans Kloter</persName> – sin soldner <persName>Hensly Ziegler</persName>,
+                  <lb/>item meister <persName>Niclas Metzer</persName> – sin soldner <persName>Hans Seholtzer</persName>,
+                  <lb/>item <persName>Rüch Blùler</persName> – sin soldner <persName>Hans Conrat Escher</persName>,
+                  <lb/>item <persName>Ludy Diechy</persName> – sin soldner <persName>Hans Ludwig Steinbock</persName>,
+                  <lb/>item <persName>Kluntz</persName>,
+                  <lb/>item <persName>Hans Ott</persName>,
+                  <lb/>item <persName>Fridly Hochstraser</persName>, pifer,
+                  <lb/>item <persName>Jacob Ebner</persName> – sin soldner <persName>Hans Salenbach</persName>,
+                  <lb/>item <persName>Peter Kiechlybacher</persName> – sin soldner sin sun,
+                  <lb/>item <persName>Hans Stricker</persName>.
+                  <add>Item aber diss ob geschriben hand hiemit kein reyss ver<lb break="no"/>wèsen
+                  in der Constavel, wann inenn ist sold worden
+                 <lb/>und hand der Constafel ir gelt wider müssen geben und
+                 <lb/>kein reyss thon han oder den sold der inen worden
+                 <lb/>wass und sich allein der 6 s taeglichen lassen bnuegen
+                 <lb/>die wir inn gaben und dann ein reyss verwesen han.
+                 <lb/>Aber dz selb hands nit thon, sy hand den sold bhan vom bapst etc.
+             </add>
+                  <note>Im Sommer 1512 zogen etwa 18'000 Eidgenossen im <q>Grossen Pavierzug</q> 
+                      nach Italien, im Dienst des Papstes. Das Unternehmen gipfelte in der Vertreibung 
+                      der Franzosen aus der Lombardei und in der gewaltsamen Einsetzung des 
+                      19-jährigen Maximilian Sforza (1493-1530) als Herzog von Mailand durch die 
+                      Schweizer Truppen und unter der Ägide von Kardinal Matthäus Schiner. Als 
+                      Gegenleistung für diesen Coup, der Mailand und die Lombardei faktisch für 
+                      drei Jahre unter eidgenössische Herrschaft stellte, musste Sforza Lugano, 
+                      Locarno, Mendrisio, das Maggiatal und die Herrschaft Domodossola an die 
+                      eidgenössischen Orte abtreten. Das Veltlin, die Grafschaft Chiavenna und 
+                      die Herrschaft Bormio kamen an die drei Bünde. Forderungen nach Zahlungen 
+                      in immenser Höhe, die neben den Eidgenossen auch Kaiser Maximilian I. 
+                      und der Papst erhoben, konnte der <q>Marionettenherzog</q> nur teilweise nachkommen.
+                      Im April 1512 beschloss die Tagsatzung die Besammlung der Truppen am 6. 
+                      Mai in Chur. Das Heer setzte sich nur zögernd in Gang. So reisten  auch die 
+                      Freiburger erst nach dem 6. Mai ab, die Zürcher dann wie oben angegeben am 
+                      7. Mai 1512. Von Chur ging es über die Lenzerheide, Albulapass, Ofenpass ins 
+                      Münster- und Etschtal (Echland, Z. 3) bis Trient, wo die Hauptleute Ulrich von 
+                      Hohensax zum Anführer wählten. (Zimmermann, 36). Mehr als die Hälfte der zur 
+                      Kriegsleistung aufgebotenen Männer und Frauen der Constaffel schickten Stellvertreter 
+                      (<q>Söldner</q>). Anstelle des bejahrten Heinrich Göldli (vor 1445-1514), der 1486 
+                      massgeblich am Sturz von Hans Waldmann beteiligt gewesen war, reiste Sohn 
+                      Jörg (Georg) (um 1466-1536). Auch die  Schultheissin (die Ehefrau von Götz Schultheiss 
+                      und Mutter von Kornell und Marx, siehe unten zu fol. 17v) griff auf ihren Sohn 
+                      Marx  zurück. Dem Fähnrich, Jakob Schwend, war ein Knecht zugeteilt und mit 
+                      dem  Trupp zog der Pfeifer Fridli Hochstrasser. Der weite Weg in die Lombardei 
+                      lässt sich halt einfacher bewältigen, wenn Musik den Marschtakt vorgibt!
+                      Die ausführliche Notiz am Ende des Eintrags gibt interessante Einblicke in die 
+                      praktische Seite des Auszugs. Da die Männer schliesslich Sold vom Papst erhielten 
+                      und sie das Geld, das sie von der Constaffel erhalten hatten, zurückgaben, galt 
+                      ihre Leistung nicht als Ausübung der Reispflicht im Dienst der Constaffel, denn 
+                      sie hatten <q>kein reyss verwèsen in der Constavel</q>. (Das Verb  verwesen hat die 
+                      Bedeutung von vertreten.) (Mehr zu diesem Vorgehen im Kommentar zum Rödel I.)
+                      HLS; Idiotikon; Zimmermann, Peter Falk.</note>
+              </p>
+          </div>
+            <pb n="17 v"/>
+            <div>
+                <head type="subtitle">Item die zugend uss am 4 tag meyen im 1513 jar umb iren
+                <lb/>sold zum hertzog von <placeName>Meyland</placeName> nach innhalt siner vereinung
+                <lb/>ess verwyst inn aber kein reyss in der Constavel wann man liess pitten
+                <lb/>in der Constavel und wass innen 6 man uffgleitt
+                    <add place="margin">I Wz <persName>Cuenrat Engel<lb break="no"/>hart</persName> houptmann
+                        <lb/>mit
+                    </add>
+                </head>
+                <p>
+                    <persName>Ludwig Hösch</persName>
+                    <lb/><persName>Hanss Cuonratt</persName> Éscher
+                    <lb/><persName>Heini Fölmy</persName>
+                    <lb/><persName>Balthasser Nogger</persName>
+                    <lb/><persName>Jöry Franck</persName>
+                    <lb/><persName>Wilhelm Spiegel</persName>
+                    <add place="margin">II Beschach die schlacht zu <placeName>Nawern</placeName>
+                        <lb/>uff den 6ten tag brachmanot
+                        <lb/>und verlurrend min heren von <placeName>Zürch</placeName> 75 verschribner
+                        <lb/>mannen etc.
+                    </add>
+                </p>
+                </div>
+                <div>
+                <head type="subtitle">Item die zugend uss am 27 tag meyens aunda zum hertzog in
+                    <lb/><placeName>Meyland</placeName> und gaben min herren jettlichem all tag 6 ss so lang
+                    <lb/>IV dass fennli uss wass für ir lyffrung und wz uns 11 man uffgleit.
+                    <lb/>Da nammen unss her <persName>Felix Grebel</persName> schützen houptman, <persName>Jacob Schwend</persName> fenn<lb break="no"/>rich und <persName>Cornnel Schulthess</persName> dry man ab, dz warend ire knecht
+            <lb/>�<note place="margin" type="conversion" resp="#docxtotei"
+                            >unable to handle picture here, no embed or
+                            link</note>
+                    <add place="margin">IV Wz her <persName>Schmid</persName>
+                        <lb/>houptmann mit</add>
+                </head>
+                <p>Her <persName>Felix Grebel</persName> °
+                    <lb/><persName>Jacob Schwend</persName> fennrich °
+                    <lb/><persName>Cornnell Schulthess</persName> °
+                    <lb/><persName>Wilperg Zoller</persName>
+                    <lb/><persName>Hanss Clotter</persName> – sin soldner wass <persName>Jacob Èscher</persName>
+                    <lb/><persName>Heinrich Ströffi</persName>
+                    <lb/><persName>Uorich Spyssegger</persName>
+                    <lb/><persName>Ruedi Schmid</persName> und zog für inn sin sun.
+                </p>
+                <p>
+                    <add  place="margin">III Item die zwei fennly
+                        <lb/>kammend wider hein
+                        <lb/> am 13 tag hoewmonatz
+                        <lb/> und hatt innen kein reys
+                        <lb/>thon wann inen ward 
+                        <lb/>sold vom hertzog.</add>
+                </p>
+                    <note>Mit dem <q>grossen Pavierzug</q> waren die Franzosen aus der Lombardei 
+                        vertrieben worden und die Eidgenossen setzten Massimiliano Sforza am 29. 
+                        Dezember 1512 als Herzog ein. Papst Julius II., der den Schweizern am 5. 
+                        Juli 1512 den Titel <q>Beschützer der Freiheit der Kirche</q>, Ehrenbanner, 
+                        Schwert und Hut verliehen hatte, starb am 20. Februar 1513. Ludwig XII. 
+                        schloss nun ein Bündnis mit Venedig mit dem Ziel, die Lombardei und mit 
+                        ihr Mailand zurückzuerobern. Das französische Heer drang unter der Führung 
+                        von Gian Giacomo Trivulzio und Louis II de la Trémoille in die Lombardei 
+                        ein. Massimiliano Sforza rief die Tagsatzung an und erhielt aufgrund der 
+                        <q>mailändischen Vereinigung</q> von 3. Oktober 1512 (vgl. Z. 2, der Text in EA 
+                        3/2, Anhang 21) die Zusage für zunächst 4000 Krieger (Gagliardi, Novara, 
+                        73-74; EA 3/2, Nr. 492h).
+                        Die eidgenössischen Truppen zogen in zwei Wellen aus. Die Zürcher 
+                        marschierten am 4. und am 27. Mai. Am 13. Juli (Heumonat) kehrten die
+                        Überlebenden zurück. Für die Aushebung zum ersten Zug stützte sich die
+                        Constaffel nicht auf die rechtliche Dienstpflicht, sondern <q>liess bitten</q> (Z.
+                        3-4), d.h. sie fragte bei ihren Mitgliedern herum, wer mitmachen wolle. Im
+                        zweiten Zug gingen elf Mann mit, wobei drei davon den Hauptleuten
+                        (Schützenhauptmann Felix Grebel, Fähnrich Jakob Schwend und Kornell Schulthess,
+                        der Bruder von Marx) zugewiesen wurden. Anführer des ersten Zürcher Auszugs
+                        unter dem Stadtbanner war der bewährte Conrad Engelhart (zu ihm: Gagliardi,
+                        Novara, 75, Anm. 1). Der zweite Auszug der Zürcher wurde von Bürgermeister Felix
+                        Schmid persönlich geleitet. Am 6. Juni kam es zur Schlacht bei Novara. Die
+                        Eidgenossen gewannen die Schlacht, allerdings mit hohen Verlusten: Etwa 1000 bis
+                        1500 Männer aus der Eidgenossenschaft verloren das Leben. Die Zahl von 75
+                        getöteten Zürchern wird andernorts bestätigt (Gagliardi, Novara, 166-167).
+                        Zusatz III stammt vom Schreiber der beiden Auszugslisten, der wie auf fol. 17r zu 
+                        vermerken hat, dass die Constaffel diese Auszüger nicht bezahlen musste, da der 
+                        Herzog von Mailand sie als Söldner engagiert hatte. Die Zusätze I, II und IV stammen 
+                        vom gleichen Schreiber, der fol. 14r und 18r die Namen der Hauptleute anfügte. Die 
+                        an allen Stellen gleiche Farbe der Tinte zeigt, dass der Schreiber seine Bemerkungen 
+                        in einem Durchgang einfügte. Sie haben in gewisser Weise den Charakter historischer 
+                        Notizen. Die Schrift gleicht sehr derjenigen von Gerold Edlibach (1454-1530), und es 
+                        wäre verführerisch, den Chronisten als Nutzer des Reisrödels zu sehen. Als Constaffler 
+                        hätte er ja ohne Weiteres Zugang zu den Dokumenten der Gesellschaft gehabt. 
+                        HLS; StAZH C II 1, Nr. 802 (11.11.1515) (Brüder Kornell und Marx Schulthess, Vater
+                        Götz Schulthess); EA III/2; Gagliardi, Novara und Dijon; Troso, I precedenti.</note>
+            </div>
+            <pb n="18 r"/>
+          <div>
+            <head type="subtitle">Item die zugend uss am 20 tag ougsten im 1513 jar mit
+                <add place="margin">meister <persName>Heinrich Winckler</persName>
+                    <lb/>houptman mit 
+                    <lb/>2000 mannen etc.</add>
+            <lb/>miner herren paner ins <placeName>Hochburgun</placeName> widern küng von
+            <lb/><placeName>Franckrych</placeName> und wz der Constavel 26 man uff gleit und
+            <lb/>gabend innen 4 1/2 gl an monat für dlifrung</head>
+              <p>
+                <add place="margin"><persName>Jacob Spruengly</persName>
+                    <lb/>hat sin sold gnan</add>
+                  <lb/>gl +++ <persName>Jacob Meyss</persName> panerher mit zwey knèchten nam unss ein man ab
+                  <add place="margin"><persName>Jacob Sprüngli</persName> ist
+                      <lb/>ein knecht verzalt –
+                      <lb/><persName>Zwifel</persName> auch – sin 
+                      <lb/>knecht ist vertingt [?]– zalt
+                  </add>
+                  <lb/> gl + gl + <persName>Hanss Effinger</persName> und sin knecht <add place="inline">ist alles sinem sun <persName>Bath</persName> abgerechnot</add>
+                  <lb/>gl + <persName>Jöry Göldi</persName>
+                  <lb/>gl + <persName>Cornell Schulthes</persName> nam unss ein man ab
+                  <lb/>+ <persName>Othmar Rordorff</persName> <add  place="inline">nam sin bruder <persName>Hartmann</persName></add>
+                  <lb/>gl + <persName>Diethelm Röyst</persName>
+                  <lb/>gl + <persName>Hanss Edlibach</persName>
+                  <lb/>gl gl + + <persName>Joss Ösenbry</persName> mit dem knècht nam unss ein man ab <add  place="inline"><persName>Nam Joss</persName> alles / nam <persName>Lyen<lb break="no"/>hart Byldhouwer</persName></add>
+                  <lb/>gl + <persName>Jacob Èscher</persName> schickt man <persName>Kuonraten Escher</persName> <add  place="inline">nam <persName>Cuonrat Escher</persName></add>
+                  <lb/>gl + <persName>Marx Schulthess</persName> gen
+                  <lb/>gl + <persName>Clauss Rysecher</persName>
+                  <lb/>gl + <persName>Hans Oth</persName> verboten min herren
+                  <lb/>+ <persName>Ruedi Grob</persName>
+                  <lb/>gl + <persName>Hanss Karrer</persName>
+                  <lb/>gl + <persName>Cristoffel Maler</persName>
+                  <lb/>gl + <persName>Hanss Margstein</persName> trummanschlaher
+                  <lb/>gl + <persName>Hanss Vetter</persName>
+                  <lb/>+ <persName>Uorich Spyssegger</persName> <del>verboten</del> <add  place="inline"><persName>Nam Jörg Franck</persName> dem gehort dz</add>
+                  <lb/>gl + <persName>Wilhelm Spiegel</persName> <add  place="inline">zalt</add>
+                  <lb/>+ <persName>Goriuss Fuchs</persName> <add  place="inline">nam <persName>Kornel</persName></add>
+                  <lb/>gl + <persName>Chluntz</persName>
+                  <lb/><del><persName>Heinrich Schöttli</persName> frowenn wirt</del>
+              </p>
+              <p>Item unnd kommen wider hein am zinstag wz sant
+                  <lb/><persName>Matheus</persName> abend des 12 botten und der 20 tag des ersten herpst monatz
+              </p>
+              <p><persName>Disem</persName> yeden gehört uff dz so im vor geben ist 4 lb 1 s 3 d
+              </p>
+              <note>Nach der Niederlage von Novara am 6. Juni zog König <persName>Ludwig</persName>
+                  XII. seine Armeen aus <placeName>Norditalien</placeName> nach <placeName>Frankreich</placeName> ab. Am 16. August 1513 wurde
+                  er bei <placeName>Guinegate (Pas-de-Calais)</placeName> von den verbündeten Armeen des englischen
+                  Königs <persName>Heinrich VIII.</persName> und Kaiser <persName>Maximilians I.</persName> geschlagen. <persName>Maximilian I.</persName> suchte
+                  mithilfe der Eidgenossen die Schwäche <persName>Ludwigs</persName> auszunutzen. Die Eidgenossen
+                  machten sich, unterstützt von österreichischem Geld, Truppen und Kanonen
+                  sogleich auf den Weg nach <placeName>Dijon</placeName>. Der Zürcher Auszug war am 20. August. Die
+                  Eidgenossen plünderten in verschiedenen Gruppen das Umland und belagerten
+                  schliesslich die Stadt. Am 13. September schloss der Vertreter des französischen
+                  Königs und Verteidiger von <placeName>Dijon</placeName>, <persName>Louis de la Trémoïlle</persName>, mit den Eidgenossen
+                  einen Friedensvertrag ab. Darin verzichtete <persName>Ludwig XII.</persName> auf das Herzogtum
+                  <placeName>Mailand</placeName>, <placeName>Cremona</placeName> und <placeName>Asti</placeName>, versprach, die vom Papst eroberten Gebiete
+                  zurückzugeben und die Eidgenossenschaft mit 400'000 Sonnenkronen für den Krieg
+                  zu entschädigen. Die eidgenössischen Hauptleute und Ratsboten bestanden auf die
+                  sofortige Auszahlung von 25'000 Livres und zogen, weil sie sich nicht einig
+                  werden konnten über das weitere Vorgehen, von <placeName>Dijon</placeName> ab – zum Ärger <persName>Maximilians</persName>.
+                  Die Zürcher kehrten am Dienstag, 20. September – am Vorabend des Matthäus-Tags
+                  (Z. 23) – zurück. <persName>Ludwig XII.</persName> weigerte sich, den Vertrag zu ratifizieren. In der
+                  Folge wurde der Krieg in Italien weitergeführt.
+                  <lb/>Mit ihren zahlreichen Notizen und Änderungen spiegeln
+                  diese und die folgenden Seiten auch optisch die verwirrende Situation der Zeit
+                  zwischen 1513 und 1515, zwischen <placeName>Novara</placeName> und <placeName>Marignano</placeName>. Die Regierungen
+                  versuchten ihrer Aufgabe, für Sicherheit und Ordnung in der Stadt zu sorgen
+                  nachzukommen und wollten zugleich vom Soldgeschäft profitieren. So war <persName>Hans Ott</persName>
+                  (Z. 16) gegen das Gebot der städtischen Obrigkeit in den Krieg gezogen und
+                  konnte als <q>Verbotener</q> nicht im offiziellen Auszug dabei sein. Mit dem Kürzel
+                  <q>gl</q> vermerkte der Schreiber wohl, dass der Sold von 4 1/2 Pfund pro Monat (Z.
+                  4) bezahlt worden sei. Mit den Kreuzen zählte er die Männer, die effektiv von
+                  der Constaffel bezahlt worden waren – es waren weniger als die <q>aufgelegten</q> 26,
+                  weil Bannerherr <persName>Jakob Meiss</persName>, <persName>Kornell Schulthess</persName> und <persName>Jos Oesenbry</persName> drei Männer
+                  übernahmen, d.h. selber bezahlten. Schliesslich wird hier erstmals deutlich,
+                  dass der Sold in vielen Fällen nicht den Auszügern selbst, sondern Verwandten
+                  (Z. 6, 9, 13) ausbezahlt wurde, wohl, weil die Väter und Brüder noch unterwegs
+                  oder verstorben waren. Zusätzlich erhielten die Männer übrigens nach Rückkehr je
+                  4lb 5s 3d, was fast einem weiteren Monatssold entsprach. Ob das Geld dafür aus
+                  den 25'000 Livres Brandschatz stammte? Die Grenzen zwischen ordentlichem Auszug
+                  unter städtischer Führung und ungeregeltem Reislauf, zwischen Miliz und Söldner
+                  sind zunehmend verwischt.
+                  <lb/>HLS; 1513, l’année terrible. Le siège de Dijon, hg. v. Laurent Vissière, Alain
+                  Marchandisse, Jonathan Dumont, Dijon 2013; Niederhäuser, Versuchung; Gagliardi,
+                  Novara; Rogger / Schmid, Miliz oder Söldner? Einleitende Bemerkungen.</note>
+          </div>
+              <pb n="18 v"/>
+          <div>
+           <p>min herren zuchen mit 500</p>
+            <p><del><persName>Matheus</persName> abend</del></p>
+          </div>
+          <div>
+              <head type="subtitle">Die zuegond us an mitwoch was der núnt tag meyen im 15 jar
+                <lb/>zum hertzogen von <placeName>Meyland</placeName> umb sold und nach sag der vereynug
+                <lb/>und verwist inen kein reiss und ist ir houptman <persName>Ruodolf Ran</persName></head>
+              <p>
+                  <lb/>gl + <persName>Junckher Jacob Schwend</persName> <add  place="inline">an sin stat <persName>Hanns Egly</persName> / hat genomen 7 lb 11 s 3 d</add>
+                  <lb/> + Spíssegger <add  place="inline">verboten</add> <add  place="inline"><persName>Nam Hanns Teck</persName> zù handen Spíseggers frowen</add>
+                  <lb/> gl + <persName>Jörg Franck</persName> <del>verboten der scherer</del> <add  place="inline">hab inn zalt</add>
+                  <lb/>gl + Spíegel <add  place="inline">zalt</add> <add place="right">summa 7</add>
+                  <lb/>gl + <persName>Kropf Schonenberg</persName> <add place="inline">zalt</add>
+                  <lb/>gl + <persName>Hanns Bader</persName> <add place="inline">zalt</add>
+                  <lb/>gl + <persName>Gratwol</persName> <add place="inline">zalt</add> <add place="inline">nam <persName>Spiegel</persName></add> <add place="inline">nam <persName>Spyegel</persName></add>
+              </p>
+              <note>Diese und die nächsten Seiten sind die fernen Zeugnisse
+                  des Sommers 1515, der am 13. und 14. September mit dem Blutbad von <placeName>Marignano</placeName>
+                  seinen traurigen Höhepunkt fand. Am 9. Mai zog das erste Zürcher Kontingent <q>umb
+                  sold</q> gemäss den Abkommen mit Herzog <persName>Massimiliano Sforza</persName> (Z. 4) unter Hauptmann
+                  <persName>Rudolf Rahn</persName> Richtung <placeName>Mailand</placeName>. Ausschlaggebend für den Auszug war die vom Berner
+                  <persName>Albrecht vom Stein</persName> in die Tagsatzung gebrachte Nachricht gewesen, dass der Doge
+                  von <placeName>Genua</placeName> mit dem jungen König von <placeName>Frankreich</placeName>, <persName>Franz I.</persName>, Friede geschlossen
+                  hatte. Der Hafen von <placeName>Genua</placeName> präsentierte sich nun als perfektes Einfallstor für
+                  einen französischen Kriegszug zur Rückeroberung <placeName>Mailands</placeName>. Der von der Tagsatzung
+                  am 25. April eilends beschlossene Auszug hatte so zunächst die Wiedereroberung
+                  der Stadt <placeName>Genua</placeName> zum Ziel. (Usteri, Marignano, 117). Unterschiedliche Interessen,
+                  ein Versuch <placeName>Savoyens</placeName>, zwischen der Eidgenossenschaft und der französischen Krone
+                  zu vermitteln und eine Reihe von Unsicherheiten verzögerten zunächst den Auszug
+                  (Usteri, Marignano, 121-125), erst am 9. Mai zogen die 4000 Mann aus (Usteri,
+                  Marignano, 128). Nur wenig später überschlugen sich die in der Tagsatzung
+                  zusammenlaufenden Nachrichten über einen unmittelbar bevorstehenden
+                  französischen Einfall in die <placeName>Lombardei</placeName> erneut. Am 14. Mai verhandelte die
+                  Tagsatzung über einen weiteren Auszug, nun mit insgesamt 13600 Mann
+                  – einschliesslich Walliser und Bündner (Usteri, Marignano, 140). Der Auszug galt
+                  nun aber nicht mehr einer Eroberung <placeName>Genuas</placeName>, sondern das wachsende Heer sollte
+                  die Franzosen um Mailand bekämpfen. Am 24. Mai begann die Aushebung. Der
+                  Abmarsch von 1000 Zürchern – darunter 18 von der Constaffel gestellte Männer
+                  unter Hauptmann <placeName>Engelhard</placeName> – erfolgte dann allerdings erst am 25. Juni.
+                  Zufällig hat sich ein städtischer Rödel mit den Namen der
+                  Männer, die im ersten Auszug nach <placeName>Mailand</placeName> dabei sein sollten, erhalten (<bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5065057">StAZH A
+                  30.3, Nr. 53</ref></bibl>). Für die Constaffel sind aufgeführt: Junker <persName>Jacob Schwend</persName>, <persName>Ulrich
+                  Spisenegger</persName>, der gemäss einer Notiz 15 Solde (!) entgegennahm, <persName>Wilhelm Spiegely</persName>,
+                  <persName>Bastian Gratwol</persName>, <persName>Jörg Franck</persName>, <persName>Jacob Schönenberg</persName>, <persName>Hans Bader</persName>. Diese <q>Soll</q>-Liste
+                  kann der <q>Ist</q>-Liste der Constaffel entgegengestellt werden. Sie gibt einen
+                  seltenen Einblick in das private Leben der Zürcher Krieger: <persName>Ulrich Spissegger</persName>
+                  (Z. 7, auch oben fol. 18r; unten Nr. 2, 2r, Z. 6-7 und 2v, Z 9-10) ist
+                  offensichtlich ein kleiner Kriegsunternehmer, der Geld für sich selbst sowie
+                  vierzehn weitere Krieger entgegennahm. 1515 war ihm aber verboten worden mit den
+                  offiziellen Zürcher Kontingenten zu ziehen, da er zuvor gegen den Willen der
+                  Regierung angeworben worden war. An seine Stelle trat <persName>Hans Teck</persName>, der das Geld
+                  zuhanden von <persName>Spisseggers</persName> Frau entgegennahm (vgl. Nr. 2, fol. 2v, Z. 9-10 <q>nam
+                  <persName>Hanns Teck</persName> unnd sin frow</q>). <persName>Teck</persName> tauchte bereits 1503 als Söldner von <persName>Hans
+                  Schwend</persName> auf, ist also über einen Zeitraum von 12 Jahren fassbar. Die Vermutung
+                  drängt sich auf, dass er mit <persName>Spissegger</persName> und dessen Frau eine Art
+                  <q>Berufsgemeinschaft</q> bildete, in der Risiken und Chancen des bezahlten
+                  Kriegsdiensts geteilt wurden.
+                  <lb/>StAZH A 30.3, Nr. 53, fol. 3r-3v; Usteri, Marignano. Die drei Auszüge sind aus
+                  Zürcher Sicht mit ihren Hauptleuten aufgelistet in einer Zürcher Chronik: Luginbühl,
+                  Rudolf, Anonyme Zürcher- und Schweizerchronik aus den Dreissigerjahren des 16.
+                  Jahrhunderts, nach ihren Quellen untersucht, in: Jahrbuch für schweizerische
+                  Geschichte 32 (1907), 139-203; hier 190-191.</note>
+          </div>
+            <pb n="19 r"/>
+          <div>
+            <p><persName>Min</persName> herren zuchen mít 1000</p>
+          </div>
+          <div>
+              <head type="subtitle"><persName>Dis</persName> sind ufgenomen uff donstag vor pfingsten im 15 jar / mit hoptman
+                <lb/><persName>Enngelharten</persName> zuo ziechen – und ist der <persName>Constavel</persName> ufgelegt 14 mann
+                <lb/>und sind hinweg zogen an mendtag nach sant <persName>Johanns</persName> tag was 25 tag
+                <lb/>brach monadt und zugen über sant <persName>Bernhartz</persName> berg / den vor uszognen knechten zuo</head>
+              <p>gl <persName>Herr Rennwart Göldly</persName> &gt; <add place="inline">riter er ist zalt</add> <add place="inline">nam sin knecht</add>
+                  <lb/>+ herr <persName>Jacob Escher</persName> – <add place="inline">sin knecht <persName>Uely Steiner</persName></add>
+                  <lb/>+ junckher <persName>Gerold Meyer</persName> <add place="inline">sin knecht <persName>Bat Efinger</persName></add>
+                  <lb/>+ alt <persName>Jörg Grebel</persName> <add place="inline">sin knecht <persName>Jacob</persName> Rúbiger gehoren 8 gulden</add> <add place="inline">dann im ist im land 1 gulden worden</add>
+                  <lb/>+ <del>+</del> <persName>Uely</persName> von <persName>Roschach</persName> <add place="inline">verboten minen herren</add>
+                  <lb/>+ <persName>Vit</persName> Húpscher <add place="inline">sin frow hatt 2 kronen am sold wydergen an dy schuld<lb/><persName>Summa</persName> 14</add>
+                  <lb/>+ + <persName>Fridly Metzger</persName>
+                  <lb/>+ + <persName>Hannss Niggely</persName>.
+                  <lb/>+ <persName>Fridly Meyer</persName> von <persName>Buech</persName> <add place="inline">sin knecht <persName>Uely Kalcher</persName></add>
+                  <lb/>+ + <persName>Hanns Wipf</persName>
+                  <lb/>+ + <persName>Hanns Gretzer</persName> <add place="inline">verboten</add>
+                  <lb/>+ + <persName>Heinrich Frick</persName>
+                  <lb/>gl + <persName>Cristen Albiss</persName> <add place="inline">verboten</add>
+                  <lb/><del>+</del>° gl + <persName>Kratz</persName> 1 heisst Zúnbrecht <persName>Geinenberger</persName> <add place="inline">hat sin sold wyder gen an sin schuld</add>
+              </p>
+              <p><persName>Diss</persName> obgemelt soeld hand wyr all inn behalten <del>an dye schuld</del>
+                  <lb/>an die schuld, so sy minen herren vom <persName>Constavel</persName> schuldig
+                  <lb/>sind unnd ist <persName>Jacoben Murer</persName> ueber antwurt
+              </p>
+              <p><persName>Sy</persName> sínd wider komen am nechsten sontag nach sant <persName>Matheus</persName> tag
+                  <lb/>ist der 21 tag erst herbst monadt / gepurt sich 12 wuchen und
+                  <lb/>5 tag / <del>daran ist</del> daran ist ir yedem vernn uss geben 4 1/2 gl
+                  <lb/>und im sold vom hertzogen 3 gulden ist 7 1/2 gulden
+                  <lb/><persName>Jacob Ruedger</persName> ist vom hertzogen nun 1 gulden worden
+                  <lb/><persName>Noch</persName> ist man ir einem 7 gulden schuldig und dem <persName>Ruedger</persName> 9 gl
+                  <lb/><persName>Dz</persName> ist inen von der <persName>Constavel</persName> zalt / <persName>Also</persName> ist ir yedem von der <persName>Constavel</persName>
+                  <lb/>worden 11 1/2 gulden und dem <persName>Ruedger</persName> 13 1/2 gulden / <persName>Dar</persName> <del>an ist</del> nach ist 
+                  <lb/>noch iedem worden 11 1/2 batzen und sind also gar bezalt
+              </p>
+              <p><persName>Summa</persName>
+                  <lb/>93 gulden
+              </p>
+              <note>Die Kreuze und Kreise und die zahlreichen Nachträge der
+                  Schreiber zeigen auf, wie kompliziert die korrekte Auszahlung des Soldes war.
+                  Die Constaffel gaben schlussendlich 93 Gulden aus. Drei Männer waren trotz
+                  obrigkeitlichen Verbots in den Krieg gezogen, nämlich Ueli von Roschach, Hanns
+                  Grotzer und Cristen Albis. Anderen wurde nur ein Teil des Soldes ausgezahlt, der
+                  Rest mit ihrer Schuld verrechnet; entweder hatte die Constaffel den für sie
+                  ausziehenden Leuten Geld für die Ausrüstung vorgeschossen oder die Auszüger
+                  bezahlten mit ihrem Kriegsdienst den Betrag, den sie der Constaffel jährlich an
+                  Fronfasten zu entrichten hatten. Anderen war der Sold oder ein Teil davon im
+                  Feld ausbezahlt worden – dies ist der Fall bei Jacob Rüdiger, Knecht von Jörg
+                  Grebel, der seinen Anteil aus dem vom Herzog von Mailand wiederholt
+                  versprochenen Sold in Italien erhalten hatte und dessen Fall vom
+                  Constaffelschreiber genau notiert wird (Z. 9, 27, 28, 30). Durch zwei weitere
+                  Details erfahren wir schliesslich ein wenig mehr über die Männer, die sich im
+                  Sommer 1515 in der Lombardei aufhielten: Veit Hübscher war verheiratet, seine
+                  Frau zahlte einen Teil seiner Schulden aus dem Soldgeld zurück (Z. 11). War
+                  Hübscher etwa nicht aus Italien zurückgekehrt? Und welcher der aufgelisteten
+                  Knechte neben Zumbrecht Geinenberger stammte aus dem Kratz, wo die ärmsten
+                  Bewohner der Stadt lebten (Z. 19)?
+                  <lb/>Die Schlacht von Marignano vom 13. und 14. September 1515
+                  wird im Reisrodel der Constaffel nicht explizit erwähnt. Der Schreiber vermerkt,
+                  dass die Ausgezogenen am 21. September (Z. 23) wieder in Zürich waren, nach 12
+                  Wochen und fünf Tagen – und weniger als eine Woche nach der Schlacht, die etwa
+                  850 Zürchern das Leben kostete.
+                  <lb/>Nach zunehmend sichtbaren Truppenzusammenzügen, welche die eidgenössischen 
+                  Orte bewegt hatten, grössere Teile ihres Heers zur Sicherung der Pässe ins Piemont 
+                  zu schicken, war Franz I. in einem überraschenden Marsch über den wenig begangenen 
+                  Col d'Argentière zwischen dem 9. und 12. August mit einem Grossteil seiner Truppen 
+                  und der leichten Artillerie in die Ebene des Piemont gelangt. In der Folge – für die 
+                  Details kann auf die minutiöse Studie von Emil Usteri verwiesen werden – zogen 
+                  sich die eidgenössischen Truppen – darunter die Zürcher unter Engelhard – aus 
+                  dem Piemont zurück (Usteri, Marignano, 313-314). Der französische König suchte 
+                  sofort Kontakt zu den Hauptleuten der eidgenössischen Orte herzustellen, und in 
+                  den gleichen Tagen Ende August liefen zahlreiche Knechte heim – Krankheiten und 
+                  Hunger machten ihnen ebenso zu schaffen wie fehlender Sold, mangelnde Möglichkeiten 
+                  zum Plündern und wohl auch die offensichtliche militärische Überlegenheit der 
+                  technisch hoch gerüsteten Franzosen. Die Berner berichteten am 28. August eindrücklich 
+                  von weit verbreiteter Desertion, denn <q>der gemein man hat niendert gelt und müssen 
+                  armut halb heimziechen</q> (zit. nach Usteri, 330). Wiederum unter Vermittlung Savoyens 
+                  begannen in der letzten Augustwoche Friedensverhandlungen zwischen den Hauptleuten 
+                  und Gesandten im Feld und den Franzosen. Gleichzeitig beschloss aber Bern – und mit 
+                  ihm in alter Verbundenheit Freiburg und Solothurn – einen dritten Auszug. Nach einem 
+                  ersten Zögern schickte dann auch Zürich Truppen unter Hauptmann Röist nach Italien. 
+                  Sie trafen am 29. August in Bellinzona ein – und trafen hier bereits auf zahlreiche 
+                  Rückkehrer aus der Lombardei. 
+                  <lb/>Usteri, Marignano.</note>
+          </div>
+          <pb n="19 v"/>
+          <div>
+              <head type="subtitle"><persName>Dis</persName> sind uszogen zum panner mit herr burgermaister <persName>Röisten</persName> houptmann
+                <lb/>zuo ziechen / uff sannt <persName>Jacobs</persName> tag im 1500 und 15 jar / und zúchen
+                <lb/>min herren mit 2000 mannen und ist der <persName>Constavel</persName> ufgelegt
+                <lb/>26 man und sind hinweg zogen und zog man hín weg
+                <lb/>uf samstag nach <persName>Barttollomeygy</persName>
+            </head>
+              <p><add place="above"><persName>Item Hanns Edlibach</persName> hatt in gnommen <add place="margin">sin sun <persName>Diethelm</persName> nam sines <lb/>vaters sold</add>
+                  <lb/>4 söld so mim hern <persName>Rösten</persName> und dem <persName>Dyethelmen</persName> hörent <lb/><persName>Bachholtzer</persName> hat sin sold ist ein knecht</add>
+                  <lb/>gl gl gl ++ Item her burgermaister <persName>Röist</persName> hauptman <del><persName>Jacob Sprüngli</persName> ist ein knecht und zalt</del>
+                  <lb/><add place="below">°<persName>Jacob Sprüngli</persName> ist ein knecht und zalt / <persName>Ist</persName> aber zalt /<lb/><persName>Zwifel</persName> auch sin knecht – [b…?] <persName>Ist</persName> aber zalt<lb/><persName>Utinger</persName> zalt</add>
+                  <lb/>gl +++ <persName>Jacob Meiss</persName> panerher
+                  <lb/>gl gl ++ <persName>Kornell Schultheiss</persName> ° <add place="inline"><persName>Nam Kornel</persName> alles</add>
+                  <lb/>gl gl + + <persName>Diethelm Röist</persName> °
+                  <lb/><del><persName>Herr</persName> F <persName>Grebel</persName> riter°</del>
+                  <lb/>+ + <persName>Herr Jacob Escher</persName> ° <add place="inline"><persName>Nam Jacob Murer</persName> 4 lb 7 1/2s ist im geben</add>
+                  <lb/>gl + <persName>Jung Jörg Grebel</persName> . <add place="inline"><persName>Nam</persName> auch <persName>Jacob Murer</persName> 2 lb 5 1/2 batzen / ist im geben</add>
+                  <lb/>gl gl + + <persName>Wilberg Zoller</persName> ° <add place="inline">hat <persName>Wilberg</persName> empfangen</add>
+                  <lb/>gl gl + + <persName>Gerold Edlibach</persName> <add place="inline"><persName>Klauss Rot</persName> sin knecht</add>
+                  <lb/>gl gl + + <persName>Marx Schultheiss</persName> <add place="inline"><persName>Nam</persName> meister <persName>Niclauss</persName> metzgers knecht <persName>Jacob</persName></add>
+                  <lb/>gl gl + + <persName>Allixander Meyger</persName> ° <add place="inline"><persName>Nam</persName> maister <persName>Niclaus</persName> metzgers knecht <persName>Jacob</persName>  – nam <persName>Schwy</persName><lb break="no"/>deryss <persName>Schwend</persName></add>
+                  <lb/>+ <persName>Ludwig Dietschy</persName> <del><persName>Nam Conrad Schuldhess</persName></del> zalt
+                  <lb/>+ <persName>Hanns</persName> Hùbscher <add><persName>Nam</persName> er selbs</add>
+                  <lb/>gl + <persName>Hanns Bücheler</persName> <add><persName>Nam</persName> er selb</add>
+                  <lb/>gl <persName>Kuonrat Meyer</persName>
+                  <note>Zu Hans Hübscher und Konrad Meyer notierte der Schreiber am linken 
+                      Rand den Betrag von 8 s (bzw. die Zahl 8) sowie das Wort fronvasten. Die Abkürzung 
+                      gl vor dem Namen von Hans Veter ist mit einem Strich Hans Bücheler zugewiesen.
+                  </note>
+                  <lb/>+ <persName>Hanns Veter</persName>
+                  <lb/><persName>Heinrich Schötli</persName> an sin stat <persName>Marx</persName> Schultheìssen knecht /
+                  <lb/><persName>Lyenhart Byldhower</persName> hat dess <persName>Cochloeffels</persName> sold gnon
+                  <lb/>gl + Der <persName>Kuenrat Kochlöffel</persName> ist an <persName>Heinrich Schötlis</persName> stat angenomen von 
+                  <lb/><persName>Jacob Meisen</persName> seligen / ist <add place="margin">uff dem rathuss nit<lb/>anders dann</add> fuer ein frigen angenomen und also zalt, 
+                  <lb/>aber wir habend daruf 1 kronen geben / und die an <persName>Jacob Meisen</persName> sold 
+                  <lb/>inn gehept / die will er inn angenomen hat und nit min herren[,] 
+                  <lb/>sonder min herren <persName>Marx Schultheissen</persName> knecht angenomen haben.
+              </p>
+              <note>Die Situation wurde zunehmend unübersichtlich – sowohl in
+                  Mailand wie auf dem Rödel. Mindestens zwei Schreiber vermerkten die
+                  Soldzahlungen auf der Liste der 26 Auszüger der Constaffel. Nicht alle Details
+                  ihres Vorgehens können heute noch geklärt werden. Sicher erfolgten die letzten
+                  Soldzahlungen nach der Rückkehr der Truppen, wird doch Jacob Meiss als <q>selig</q>
+                  bezeichnet (Z. 31): der Bannerherr hatte die Schlacht bei Marignano nicht
+                  überlebt. Die Liste belegt zunächst, dass das Geld zum einen an <q>Knechte</q> der
+                  Aufgebotenen ging (Jacob Sprüngli, Z. 7; Zwifel, Z. 7; Utinger, Z. 7; Klaus Rot
+                  Z. 20; Jacob, Z. 21, Z. 22; der Knecht von Marx Schultheiss, Z. 29) und zum
+                  anderen direkt den Männern auf der Liste ausgezahlt wurde (Z. 24, 25) (<q>zalt</q>
+                  ist als <q>
+                  bezahlt</q> zu übersetzen). Die Notiz am Schluss gibt die deutlichsten Informationen 
+                  zum Verfahren: Jakob Meiss hatte anstelle von Heinrich Schoettli – der von der 
+                  Constaffel gestellt worden wäre – Konrad Kochlöffel als persönlichen Begleiter 
+                  gewählt. Bezahlt wurde Kochlöffel einerseits von Meiss, andererseits von der Stadt: 
+                  Kochlöffel erhielt im Rathaus den Sold eines <q>freien Knechts</q>, d. h. eines Freiwilligen. 
+                  Die Constaffel bezahlte dem Kochlöffel aus der eigenen Kasse 1 Krone, zogen diese 
+                  aber vom Jakob Meiss zustehenden Sold ab. Heinrich Schöttli aber wurde aus der 
+                  Stadtkasse bezahlt (<q>min herren</q> bezeichnet die Zürcher Regierung) und nicht von 
+                  den Constaffel. Entsprechend findet sich neben seinem Namen (Z. 28) keines der 
+                  in der Umschrift mit <q>gl</q> und <q>+</q> wiedergegebenen Zeichen. 
+                  <lb/>Am 25. Juli (dem Jakobstag, Z. 2) bereits stand fest, dass die eidgenössischen 
+                  Orte eine dritte Aushebung an die Hand nehmen wollten. Am 25. August zogen 2000 
+                  weitere Zürcher unter der Hauptmannschaft von Bürgermeister Marx Röist (1454-1524) 
+                  persönlich los. Der 61-jährige Röist war wohl der bedeutendste Heerführer Zürichs: 
+                  Er war nach der Schlacht von Murten 1476 neben Hans Waldmann und Herzog René 
+                  von Lothringen zum Ritter geschlagen worden und befehligte Zürcher Truppen in 
+                  allen folgenden Kriegszügen – über 40 Jahre lang! In der Schlacht von Marignano 
+                  war er oberster Hauptmann der eidgenössischen Truppen. Verheiratet war er mit 
+                  Dorothea, der Tochter des Heinrich Göldli. Sein Sohn Diethelm (1482-1544) (Z. 12) 
+                  vertrat die Constaffel ab 1513 im Grossen, ab 1518 im Kleinen Rat und sollte 1525-1544 
+                  Bürgermeister von Zürich sein. Er galt als der reichste Zürcher seiner Zeit. 
+                  <lb/>Am 8. September schlossen zwölf der eidgenössischen Orte
+                  in Gallarate einen Vertrag mit dem französischen König François I. ab, der den
+                  Frieden zusicherte und den Eidgenossen eine Million Kronen versprach. Bern,
+                  Solothurn, Freiburg und Biel zogen aus Italien ab. Die Zürcher wurden von ihren
+                  Eidgenossen mit in die Schlacht gerissen. Der anonyme Zürcher Chronist
+                  beschreibt dies so: <q>Als der Herzog und der Kardinal (Schiner) vom Frieden
+                  hörten, zogen sie zu denen von Schwyz und Uri, lösten so einen Alarm aus und
+                  machten sich bereit, den König wider Brief und Siegel anzugreifen während noch
+                  die Eidgenossen beim König in Aronna und die von Bern, Freiburg, Solothurn und
+                  dem Wallis aufgebrochen waren und heimzogen. In der Folge schlugen die drei Orte
+                  einen Alarm nach dem andern (Demnach machtend die 3 ort ein lärmen über
+                  den andern), bis sie die anderen Eidgenossen aus
+                  der Stadt Mailand heraus an die Feinde gebracht hatten…</q>. (Luginbühl, 190). Nach
+                  der für die eidgenössischen Krieger verheerenden Schlacht war es dann Hauptmann
+                  Röist, der den Rückzug führte. Etwa 850 Männer aus Stadt und Landschaft Zürich,
+                  darunter die Ratsherren Fähnrich Jakob Meiss, Alexander Metzger, Anton Clauser,
+                  Niklaus Keller, Heini Burckhard, Rudolf Seng, Jost Wätlich, Heini Binder, Uli
+                  Lochmann, Hans Bürkli, Jakob Escher und Jakob Schwend verloren ihr Leben
+                  (Luginbühl, 190).
+                  <lb/>StAZH A 30.3, Nr. 55; HLS; Usteri, Marignano; Schnyder, Ratslisten; Luginbühl,
+                  Anonyme Zürcher- und Schweizerchronik.</note>
+          </div>
+            <pb n="20 r"/>
+            <div>
+                <head type="subtitle">• 1528 •
+                </head>
+            <p><add place="margin"><persName>Dise</persName> zúg mit dem 
+                <lb/>paner und den 
+                <lb/>fenlinen beschachent 
+                <lb/>nit darumm sind sy
+                <lb/>durchstrichen</add>
+                <lb/><del><persName>Dis</persName> sind usgnomen zum paner mit hern
+                <lb/>burgermeistern <persName>Diethelm Röisten</persName> hoptmann
+                <lb/>mit viertusendt mannen zewarten uff den
+                <lb/>zug als die von <persName>Schwytz</persName> die von <persName>Toggenburg</persName>
+                <lb/>understündent ze straffen, das sy die bilder
+                <lb/>uss etlichen kilchen gethan hatten. <persName>Und</persName> nam
+                <lb/>man zuo disem paner von der <persName>Constafel</persName> 31
+                <lb/>mann. <persName>Unnd</persName> gab man zuo junckher <persName>Jörgen</persName>
+                <lb/><persName>Göldlis</persName> fennlin der dartzuo ein haptman was
+                <lb/>fünffhundert knechten auch 31 mann.
+                <lb/><persName>Unnd</persName> beschach diss usnemen uff frytag
+                <lb/>des fünfften tag brachmonet im 15 und 28. jar
+                <lb/><persName>Von</persName> dem stüblin zum paner usgenomen
+                <lb/>hoptmann
+                <lb/>her burgermeister <persName>Röist</persName> selb vierdt
+                <lb/><persName>Heinrich Äscher</persName>
+                <lb/><persName>Adrian Grebel</persName>
+                <lb/><persName>Ludwig Edlibach</persName>
+                <lb/><persName>Dis</persName> sind burger von der <persName>Constafel</persName> zum paner
+                <lb/><persName>Burckhart Wirtz</persName> selbander
+                <lb/><persName>Keller</persName> an <persName>Stampfenbach</persName>
+                <lb/><persName>Hans Klinger Im Ror</persName></del>
+            </p>
+                <note>Ausgehoben aber nicht ausgezogen. Die Liste zum Jahr 1528
+                    zeigt erneut, wie die Aushebung vonstatten ging: Der Rat beschloss einen
+                    Kriegszug und bestimmte, wie viele Männer jede Zunft bzw. die Constaffel zu
+                    stellen hatte. Die Kompetenz, die Auszüger zu bestimmen, ging dann auf die Ebene
+                    der Zunft. Nachdem die Namen festgestellt waren, entschieden die
+                    Zunftverantwortlichen, sicher nach Verhandlungen mit jedem einzelnen Mann, ob
+                    dieser persönlich ausziehen, direkt einen Stellvertreter stellen oder der Zunft
+                    mit einer Geldzahlung die Anstellung eines Söldners ermöglichen würde.
+                    Bürgermeister Röist amtete wieder als Hauptmann; seine drei Begleiter (er wurde
+                    <q>selbviert</q> aufgeboten) wählte er selbst. Auch Burkart Wirz kam <q>selbander</q>,
+                    d.h. noch mit einem weiteren Mann.
+                    <lb/>Die ganze Liste ist durchgestrichen, und der Grund dafür ist am Rand notiert: <q>Dieser
+                    Zug mit Banner und den Fähnlein fand nicht statt, sie [die Namen] sind deshalb
+                    durchgestrichen.</q> In den 13 Jahren seit Marignano hatte die Zürcher Regierung zwar
+                    gelegentlich die Soldwerbung auf ihrem Gebiet erlaubt, doch war der Piacenzerzug im
+                    Dienst des Papstes im September 1521 der letzte offizielle Auszug gewesen – der
+                    übrigens gegen den expliziten Willen Zwinglis stattfand (Egli, Piacenzerzug, 87).
+                    Die Soldallianz mit Frankreich vom 5. Mai 1521 hatte Zürich als einziger Ort der
+                    Eidgenossenschaft nicht besiegelt. Ab 1528 rückte Krieg erneut in den Mittelpunkt
+                    der Zürcher Politik, nun ausschliesslich von der religiös-politischen Konfliktlage
+                    innerhalb der Eidgenossenschaft bestimmt. Bis Ende Oktober 1531, als die Niederlage
+                    der Reformierten am Gubel die Zürcher Kriegspolitik bis Ende des 16. Jahrhunderts in
+                    neue Bahnen lenkte, stand die Bevölkerung von Stadt und Landschaft Zürich fast
+                    ununterbrochen in Kriegsbereitschaft oder aktiv im Kriegsgeschehen.
+                    <lb/>Die Toggenburger waren seit 1468 Untertanen des Fürstabts von St. Gallen. Schwyz und
+                    Glarus amteten als Schirmherren der Grafschaft Toggenburg, die allerdings relativ
+                    grosse Freiheiten – unter anderem in Form eines Landrats – besass. 1524 beschloss
+                    der Landrat unter Einfluss des aus Wildhaus stammenden Zwingli die Einführung der
+                    Reformation – eine direkt gegen den katholischen Herrn gerichtete Handlung. In der
+                    Folge verschärfte sich der Ton zwischen den Konfliktparteien, bis 1528 die
+                    Toggenburger das Kloster St. Johann stürmten und die Bilder aus den Kirchen warfen.
+                    Schwyz drohte darauf mit Krieg, um die Toggenburger ihrem Herrn <q>gehorsam zu
+                    machen</q>. Der Toggenburger Landrat ging Zürich und Bern um Hilfe an und Zürich
+                    stellte am Freitag, 5. Juni vorsorglich seine Mannschaften zusammen. Von den 4000
+                    Männern, die Zürich auszuheben versprach, sollte die Constaffel 31 zum Banner und 31
+                    zum Fähnlein stellen. Die Vermittlungsbemühungen unter anderem Appenzells und
+                    Luzerns waren dann aber erfolgreich; am 2. Oktober berichteten die Zürcher Boten von
+                    der Tagsatzung nachhause, dass man sich <q>nach vielem Reden</q> geeinigt habe, <q>dass der
+                    Toggenburger halb kein Theil [der Eidgenossenschaft] den andern überziehen solle</q>
+                    [EA 4,1,a, S. 411]. Der Schreiber der Constaffel konnte die Liste durchstreichen;
+                    noch hatte offener Krieg abgewendet werden können.
+                    <lb/>Für den Auszug nach Piacenza im September 1521 musste
+                    Constaffel 18 Mann zu stellen. Weder der Reisrödel noch die beigegebenen Zettel
+                    erwähnen diesen Kriegszug. Das städtische Mannschaftsverzeichnis befindet sich
+                    nicht im Staatsarchiv, sondern wurde von Emil Egli in einem Sammelband der
+                    Stadtbibliothek (heute Zentralbibliothek) gefunden und ediert. Es führt den
+                    Titel: <q>Usszug houptlüt, lütiner, fenrich, räten und der tusent knecht, so mine
+                    herren von Zürich bäpstlicher heilikeit lut der vereinung habent für sich selbs
+                    zuogeschickt im september anno etc. [15]21.</q>
+                    <lb/>EA 4,1, a (v.a. Nr. 576, 580); HLS; Egli, Piacenzerzug.
+                </note>
+            </div>
+            <pb n="20 v"/>
+          <div>
+              <head type="subtitle">1528 zum paner</head>
+            <p><del><persName>Heini Ziegler</persName> selbander
+                <lb/><persName>Uolrich Ritter</persName>
+                <lb/><persName>Hans Scherer</persName>
+                <lb/><persName>Petter Armbruster</persName>
+                <lb/><persName>Cuonrat Funckysen</persName>
+                <lb/>meister <persName>Heinrich Schwend</persName>
+                <lb/>meister <persName>Niclaus Bachofen</persName>
+                <lb/>her <persName>Uolrich Dorman</persName>
+                <lb/>her <persName>Heinrich Städelin</persName>
+                <lb/>her <persName>Ludwig</persName> von <persName>Horgen</persName>
+                <lb/>her <persName>Hilarius Zwingly</persName>
+                <note>Herr Hilarius Zwingli (Z. 12) ist im Fronfastenrodel von 1530 unter den Kaplänen
+                    aufgeführt. Illi identifiziert ihn mit Hilarius Korner, Leutprieser von Meilen,
+                    einem Vetter von Huldrych Zwingli und bemerkt: <q>Möglicherweise war dem Schreiber die
+                    Verwandtschaft des Kaplans zum Reformator bekannt und hat er ihn deshalb mit dem
+                    berühmteren Namen des Reformators eingetragen.</q> Dass der Mann im Reisrödel ebenfalls
+                    als Hilarius Zwingli geführt wird, zeigt jedenfalls, dass Zwingli der Name war,
+                    unter dem er bekannt war. Hilarius Korner hingegen wurde stets unter diesem Namen
+                    aktenkundig (unter anderem 1524, als er als Pfarrer von Meilen <q>zwangspensioniert</q>
+                    wurde). 
+                    <lb/>Illi, Constaffel, S. 241, Anm. 30; Fretz, Johannes Klarer.
+                </note>
+                <lb/><persName>Enoch Metzger</persName>
+                <lb/><persName>Heinrich Schöttli</persName>
+                <lb/><persName>Burckhart Dietrich</persName>
+                <lb/><persName>Carli Fry</persName>
+                <lb/><persName>Jacob</persName> Wèlti
+                <lb/><persName>Joss Graf</persName>
+                <lb/><persName>Hans Gubler</persName>
+                <lb/><persName>Cuonrat Fuchs</persName>
+                <lb/><persName>Jörg Fluns</persName></del>
+            </p>
+          </div>
+            <pb n="21 r"/>
+                <div>
+                    <head type="subtitle">1528</head>
+            <p><del><persName>Diss</persName> hienach geschriben sind uff obgenanten
+            <lb/> tag usgnomen zum fennly
+            <lb/> <persName>Jörg Göldlin</persName> haptman selbdritt
+            <lb/>5 <persName>Hanns Petter Wellenberg</persName>
+            <lb/> <persName>Hans Engelhart</persName>
+            <lb/> <persName>Jacob Meys</persName>
+            <lb/> <persName>Jacob Krieg</persName>
+            <lb/> <persName>Hans Cuonrat Äscher</persName>
+            <lb/>10 <persName>Hans Göldlin</persName>
+            <lb/> <persName>Gerolt Meyer</persName>
+            <lb/> <persName>Diss</persName> sind <persName>Burger</persName> von der <persName>Constafel</persName> zum fennly
+            <lb/> <persName>Jheronimuss Graf</persName>
+            <lb/> <persName>Hanss Stucky</persName> von <persName>Andelfingen</persName>
+            <lb/>15 <persName>Bastian Haberstock</persName> wannenmacher
+            <lb/> her <persName>Hans Heinrich Göldlin</persName>
+            <lb/> her <persName>Hans Schmid</persName>
+            <lb/> her <persName>Heinrich Göldlin</persName>
+            <lb/> her <persName>Peley Kaltschmid</persName>
+            <lb/>20 her <persName>Ruodolff Müller</persName>
+            <lb/> <persName>Her Jos Hass</persName>
+            <lb/> <persName>Her Jörg Lübegger</persName></del>
+            </p>
+                </div>
+            <pb n="21 v"/>
+          <div>
+              <head type="subtitle">1528 <persName>Under Junckher Jörg Göldlis</persName> fennly</head>
+              <p><del>her <persName>Hanns Buochman</persName>
+                  <lb/>her <persName>Hanss Pfiffer</persName>
+                  <lb/>her <persName>Melcher</persName>
+                  <lb/><persName>Jacob Bäriss</persName>
+                  <lb/><persName>Lux Keller</persName>
+                  <lb/><persName>Hanns Husser</persName>
+                  <lb/><persName>Mathys Schwarber</persName>
+                  <lb/><persName>Jacob Waeber</persName>
+                  <lb/><persName>Hanns Rysacher</persName>
+                  <lb/><persName>Uolrich Schintz</persName>
+                  <lb/><persName>Felix Underman</persName></del>
+              </p>
+          </div>
+          <div>
+              <head type="subtitle"><persName>Dise</persName> sechs mann ghörent ouch zuo des <persName>Ranen</persName> fennlin</head>
+              <p><persName>Laurentz Appenzeller</persName>
+                  <lb/><persName>Jacob Bäriss</persName>
+                  <lb/><persName>Lux Keller</persName>
+                  <lb/><persName>Mathys Schwarber</persName>
+                  <lb/><persName>Jacob Wäber</persName>
+                  <lb/> <persName>Hans Rysacher</persName>
+                  <note>Die dem Fähnlein von Jörg Göldli zugewiesenen Jacob Bäriss, Lux Keller, Mathys
+                      Schwarber, Jacob Waeber und Hans Rysacher (Z. 5, 6, 8, 9, 10; 15-19) sowie ein sonst
+                      nicht erwähnter Laurentz Appenzeller wurden nachträglich (oder gar zusätzlich? – das
+                      Wort <q>ouch</q> deutet das an) dem Fähnlein von Heinrich Rahn zugewiesen. Dieser geübte
+                      Krieger war zur Meisen zunftgenössig. 
+                      <lb/>Braun, Militärpolitik, zu Heinrich Rahn ebd.569-570.
+                  </note>
+              </p>
+          </div>
+          <pb n="22 r"/>
+            <div>
+                <head type="subtitle"><persName>Min</persName> herren zuechent mit 500 mannen
+                    <lb/><persName>Diese</persName> 22 man sind usszogen uff samstag des
+                    <lb/>fünfften tags brachmonet im .1529. jar und 
+                    <lb/>was meister <persName>Uolrich Stoll</persName> ir hoptman und <persName>Heinrich</persName>
+                    <lb/><persName>Ran</persName> ir fennrich. <persName>Als</persName> sy gen <persName>Bremgarten</persName> unnd
+                    <lb/>gen <persName>Mury</persName> zugent, das closter in nament
+                </head>
+                <p><persName>Hanns Engelhart</persName>
+                    <lb/><persName>Hanns Petter Wellenberg</persName>
+                    <lb/><persName>Jacob Meys</persName>
+                    <lb/><persName>Jacob Krieg</persName> von Béllikon
+                    <lb/><persName>Hans Cuonrat Äscher</persName>
+                    <lb/><persName>Hanns Göldlin</persName>
+                    <lb/><persName>Gerolt Meyer</persName> von <persName>Knonow</persName>
+                    <lb/><persName>Hans Stucky</persName> von <persName>Andelfingen</persName>
+                    <lb/><persName>Bastian Haberstock</persName>
+                    <lb/>her <persName>Hans Heinrich Göldlin</persName>
+                    <lb/>her <persName>Hanns Schmid</persName>
+                    <lb/>her <persName>Heinrich Göldlin</persName>
+                    <lb/>her <persName>Peley Kaltschmid</persName>
+                    <lb/>her <persName>Ruodolff Müller</persName>
+                    <lb/>her <persName>Jos Has</persName>
+                    <lb/> her <persName>Jörg Lübegger</persName>
+                </p>
+                <note>Der Auszug vom Samstag, 5. Juni 1529 war der zürcherische Auftakt zum Religionskrieg,
+                    der mit der für Zürich katastrophalen Niederlagen bei Kappel und am Gubel am 11. und
+                    24. Oktober 1531 enden sollte. Die konfessionellen Fronten in der Eidgenossenschaft
+                    hatten sich mit der Annahme der Reformation in Bern im Februar 1528 verhärtet. Die
+                    Berner Obrigkeit war während des ganzen Sommers 1528 mit Aufstandsbewegungen der
+                    Landleute im Oberland konfrontiert, die im Oktober des Jahres zum Ausbruch kamen.
+                    Die in erster Linie von politischen und gesellschaftlichen Motiven bewegte Revolte –
+                    die Aufständischen hatten sich mit der Aufhebung der Klosterherrschaft von
+                    Interlaken eine Erleichterung ihrer Abgaben erhofft und erfuhren nun, dass der Staat
+                    Bern im Gegenteil seine Untertanen stärker an sich zu binden suchte – wurde von
+                    Unterwalden geschürt. Am 28. Oktober 1528 zogen 800 Mann aus Obwalden über den
+                    Brünig, um die Oberländer zu unterstützen – ein offensichtlicher Bruch der
+                    Bundesverträge. Bern rief sofort die anderen Bundesgenossen zu Hilfe. Gemäss
+                    Bullinger (Reformationsgeschichte 2, 22-23) stellte Zürich 3000 Mann bereit – diese
+                    Piketstellung ist im Reisrödel der Constaffel allerdings nicht erwähnt. Der
+                    <q>Brünigzug</q> ging mit der von der Berner Übermacht ausgelösten Flucht der
+                    Unterwaldner und einiger Aufständischer zurück über den Brünig glimpflich aus, weder
+                    die Urner, die bereitstanden, um die Unterwaldner zu unterstützen, noch die Zürcher
+                    hatten in die Auseinandersetzung eingegriffen. Die Eskalation ging aber weiter. Eine
+                    Sondertagsatzung in den ersten Monaten des Jahres 1529 behandelte die Klage der
+                    Berner gegen Unterwalden – neben Bern trat Zürich als Hauptkläger auf. Die
+                    Limmatstadt unter Zwinglis Führung machte den <q>Bündnisbruch</q> Unterwaldens zum
+                    Hauptargument in einer wachsenden Liste von Beschwerden den katholischen Orten
+                    gegenüber. Im Juni 1529 entzündete sich die Spannung: Unterwalden insistierte auf
+                    seinem Recht, turnusgemäss einen eigenen Vogt in der gemeinen Herrschaft Baden
+                    einzusetzen. Zürich wollte dies verhindern, solange Unterwalden die nach dem
+                    Brünigzug gemachten Forderungen nicht erfüllt hätte. Bern suchte den Ausgleich,
+                    Zwingli insistierte, dass nun gegen die katholischen Orte vorzugehen sei. Am 5. Juni
+                    standen die Zürcher Truppen bereit, am 6. Juni besetzten sie die Brückenköpfe in
+                    Bremgarten und nahmen Mellingen ein. Am 9. Juni erklärte Zürich den katholischen
+                    Orten den Krieg.
+                    <lb/>Zum Brünigzug und den Zusammenhängen mit dem ersten
+                    Kappelerkrieg: Schmid, Geschichte, 265-277 und Schmid, Politics; zum ersten
+                    Kappelerkrieg: Haas, Kappeler Milchsuppe und Bäder / Bangerter, Kappeler Kriege;
+                    Häne, Kriegsrodel; Bullinger, Reformationsgeschichte.</note>
+            </div>
+          <pb n="22 v"/>
+          <div>
+              <head type="subtitle"><persName>Diese</persName> viertzig mann sind us zogen mít der statt <persName>Zürich</persName>
+                  <lb/>paner uff mittwuchen des nuenden tags brachmonets
+                  <lb/>im .1529. jar, unnd was ir hoptman <persName>Jörg</persName>
+                  <lb/><persName>Berger</persName> und der panerher meister <persName>Hans Schwytzer</persName>
+              </head>
+              <p><persName>Her</persName> burgermeister <persName>Röist</persName> –  sin soldner <persName>Jacob Nestler</persName>
+                  <lb/><persName>Heinrich Äscher</persName>
+                  <lb/><persName>Adrian Grebel</persName>
+                  <lb/><persName>Ludwig Edlibach</persName>
+                  <lb/><persName>Jacob</persName> Effínger
+                  <lb/><persName>Burckhart Wirtz</persName>, selb ander
+                  <lb/><persName>Keller</persName> an <persName>Stampfenbach</persName> – sin söldner <persName>Hans</persName>
+                  <lb/><persName>Hanns Klinger</persName> im <persName>Ror</persName> – <persName>Petter</persName> sin sun für inn
+                  <lb/><persName>Heini Ziegler</persName> – selb ander
+                  <lb/><persName>Uolrich Ritter</persName>
+                  <lb/><persName>Jörg Schön</persName>
+                  <lb/><persName>Meister Niclaus Bachofen</persName> – sin söldner <persName>Hans Grossmann</persName>
+                  <lb/>herr <persName>Uolrich Dormann</persName> – sin söldner herr <persName>Jos Kilchmeyer</persName>
+                  <lb/>herr <persName>Hans Dormann</persName> – sin söldner <persName>Claus Würgler</persName>
+                  <lb/><persName>Stoffel Murer</persName>
+                  <lb/><persName>Jacob Welti</persName></p>
+              </div>
+            <pb n="23 r"/>
+              <div>
+                  <head type="subtitle"><persName>Die</persName> gehörent òch zuo disem paner
+                  </head>
+                  <p>her <persName>Hilarius Zwingly</persName>
+                      <lb/>her <persName>Enoch Metzger</persName>
+                      <lb/><persName>Heinrich Schöttli</persName> – sin söldner <persName>Uolrich</persName> Fréch
+                      <lb/><persName>Hans Karrer</persName>
+                      <lb/><persName>Hans Carly</persName>
+                      <lb/><persName>Jos Graf</persName>
+                      <lb/><persName>Uolrich Seyler</persName>
+                      <lb/><persName>Cuonrat Fuchs</persName>
+                      <lb/>her <persName>Pellican</persName> – sin söldner <persName>Hans Friess</persName>
+                      <lb/>meister <persName>Frantz Zingk</persName>
+                      <lb/><persName>Jörg Ottli</persName>
+                      <lb/><persName>Gebhart Meyer</persName>
+                      <lb/>her <persName>Niclaus Lendy</persName>
+                      <lb/>meister <persName>Erhart Wiss</persName> – sin soldner <persName>Jacob</persName> Wúrgler
+                      <lb/>her <persName>Allexander Bierbruey</persName>
+                      <lb/>her <persName>Hans</persName> von <persName>Altstetten</persName>
+                      <lb/><persName>Hans Margstein</persName>
+                      <lb/><persName>Jacob Engel</persName>
+                      <lb/><persName>Carly</persName>
+                      <lb/> <persName>Petter Armbruster</persName>
+                      <lb/>meister <persName>Jacob Sprenger</persName>
+                      <lb/><persName>Felix Hinderman</persName>
+                  </p>
+                  <note>Nach der Kriegserklärung folgte der Hauptauszug der Zürcher, der sich Richtung Kappel
+                      wandte. Die Hauptleute wurden nun aus den Reihen der zwar um die Reformation
+                      verdienten, aber nicht unbedingt kriegsgewohnten Ratsherren bestimmt. Unter den
+                      übrigen Aufgebotenen fällt ein berühmter Name auf: Konrad Pellikan (1478-1556). Der
+                      Humanist war seit 1526 Professor für Griechisch, Hebräisch und Altes Testament an
+                      der 1523 gegründeten theologischen Lehranstalt. 1528 hatte er die verwitwete Anna
+                      Fries geheiratet. Den Auszug nach Kappel machte er selber nicht mit. An seine Stelle
+                      trat sein Stiefsohn Hans. Johannes Fries (1505-1565) sollte seinerseits als Lehrer
+                      für alte Sprachen und Musik und Autor von bis ins 18. Jahrhundert benutzten
+                      lateinisch-französisch-deutschen Wörterbüchern werden. Er hatte im Januar 1528 an
+                      der Berner Disputation teilgenommen und marschierte nun ein gutes Jahr danach mit
+                      den Zürcher Truppen ins Freiamt.
+                      <lb/>HLS; Bührer, Johannes Fries.</note>
+              </div>
+          <pb n="23 v"/>
+          <div>
+              <head type="subtitle"><persName>Die</persName> hienachgeschriben sind ouch uszogen an diser
+                  <lb/>mittwuchen des nünden tags brachmonets zue abent zwischen
+                  <lb/>sechsen und sibnen, als das paner des selben tags umm mittag
+                  <lb/>hinweg zogen was anno. 1529. <persName>Disers</persName> zugs
+                  <lb/>hoptman ist gsin <persName>Hanns Äscher</persName> der reder und
+                  <lb/><persName>Dummysen</persName> fennrich und zugent gen Wédischwyl
+              </head>
+              <p><persName>Hanns Äscher</persName> hoptman selb dritt
+                  <lb/><persName>Joachim Göldlin</persName>
+                  <lb/><persName>Bernhart</persName> von <persName>Cham</persName>
+                  <lb/>her doctor artzet – sin söldner <persName>Petroni Grebel</persName>
+                  <lb/><persName>Hanns Gubler</persName>
+                  <lb/><persName>Philips Custor</persName>
+                  <lb/><persName>Heinrich</persName> von <persName>Birch</persName>
+              </p>
+          </div>
+          <div>
+              <head type="subtitle"><persName>In</persName> diser nacht und nach disem vennlin muesstet wir diese
+                  <lb/>dri man gen <persName>Bremgarten</persName> inn zuosatz schicken
+              </head>
+              <p><persName>Balthasar Maler</persName>
+                  <lb/><persName>Jacob Sittkust</persName>
+                  <lb/><persName>Hans Kramer</persName>
+              </p>
+              <note>Hauptmann Hans Escher (Z. 5) wird hier mit der Berufsbezeichnung <q>Reder</q> – also
+                  Ratsredner, Avokat – von anderen Mitgliedern der Familie unterschieden (Häne,
+                  Militär, S. 51, Anm. 1). Bisher nicht eruiert werden konnte der Name des <q>her doctor
+                  artzet</q> (Z. 9) – die Reihe der Zürcher Stadtärzte ist erst ab 1531, als Dr.
+                  Christoph Clauser (Saffran) zum Stadtarzt ernannt wurde, lückenlos überliefert. Ein
+                  früherer Stadtarzt, Peter Holzrüti, wird bei Anlage des Reisrödels 1503 als
+                  reispflichtiges Mitglied der Constaffel aufgeführt (oben, fol. 3r). Er soll 1526
+                  gestorben sein. Der Söldner des unbekannten <q>Herr Doktor Arzt</q>, Petronius Grebel,
+                  gehört in die weitverzweigte alte Adelsfamilie. Fast 15 Jahre nach seinem Einsatz
+                  wird er in Begleitung von vier Verwandten und von Hans Fries (oben, fol. 23r)
+                  Joachim von Waadt (Vadian) in St. Gallen besuchen – dieser war wiederum mit Martha
+                  Grebel verheiratet; die Zürcher besuchten also nicht nur einen Glaubensgenossen und
+                  politischen Verbündeten, sondern auch einen Verwandten (Vadian an Bullinger, 8. Juni
+                  1545). 
+                  <lb/>HLS; Die Vadianische Briefsammlung, hg. v. Emil Arbenz,
+                  Hermann Wartmann, Bd. 6, Nr. 1399, S. 421-422 (und die Zusammenfassung des
+                  Briefs in der Online-Datenbank zu den Briefen Heinrich Bullingers:
+                  http://teoirgsed.uzh.ch); Häne, Militär.
+              </note>
+          </div>
+          <pb n="24 r"/>
+            <div>
+                <head type="subtitle"><persName>Min</persName> herren zuechent mit 600 mannen
+                    <lb/><persName>Dise</persName> hienachbenempten man sind vor dem paner us zogen uff
+                    <lb/>zinstag des achten tags brachmonet im .1529. jar, und so bald dises
+                    <lb/>fennlin hinweg was / do stackt -a-man-a- dis nechst vorgenant paner us
+                    <lb/>und am selben tag ze abent und in der nacht <persName>Hans Äscher</persName> mit sinem
+                    <lb/>vennlín / und in der nacht junckher <persName>Jörg Göldlin</persName> wie ze nechst geschriben
+                    <lb/>stàt <add place="margin">mit dem frygen vennly</add> und was hoptman her seckelmeister <persName>Jacob Werdmüller</persName> und der
+                    <lb/>fennrich <persName>Jörg Schnorff</persName> der metzger
+                </head>
+                <p><persName>Hans</persName> von <persName>Schönow</persName> uff <persName>Dübelstein</persName> – sin knecht <persName>Hans Schlachter</persName>
+                    <lb/>her <persName>Heinrich</persName> Städelín – sin söldner <persName>Ruedy Pfiffer</persName>
+                    <lb/>her <persName>Hans Schnegg</persName>
+                    <lb/>her <persName>Jörg Eytz</persName>
+                    <lb/><persName>Burckhart Dietrich</persName>
+                    <lb/>her <persName>Ludwig</persName> von <persName>Horgen</persName> – sin söldner <persName>Claus Schleytzer</persName> 
+                    <lb/><persName>Heini Schaller</persName>
+                </p>
+                <note>Die sieben hier aufgeführten Männer – die Herren Hans von Schönau, Heinrich Städelin
+                    und Ludwig von Horgen stellten wiederum Stellvertreter – waren Mitglieder der Vorhut
+                    der Zürcher Hauptmacht. Der Schreiber sucht die vorgängig erstellten Listen mit dem
+                    Ereignisablauf in Übereinstimmung zu bringen. Nach Besetzung von Bremgarten und
+                    Mellingen (Auszug unter Hauptmann Ulrich Stoll und Fähnrich Heinrich Rahn am 5.
+                    Juni) marschierte das Heer wie folgt:
+                    <lb/>Dienstag, 8. Juni: Fähnlein als Vorhut, Hauptmann Jakob Werdmüller, Fähnrich Jörg
+                    Schnorf
+                    <lb/>Mittwoch, 9. Juni, um Mittag: Hauptmacht unter dem Stadtbanner, Hauptmann Hans
+                    Escher, Fähnrich (Hans) Thumisen (+11.10.1531 bei Kappel)
+                    <lb/>Mittwoch, 9. Juni, 18-19 Uhr: Fähnlein, Hauptmann Hans Escher, Fähnrich Thumisen
+                    (Junghans Thumisen, Sohn des Stadtfähnrichs, +11.10.1531 bei Kappel)
+                    <lb/>Nacht auf Donnerstag, 10. Juni: Freifähnlein unter Jörg (Georg) Göldli
+                </note>
+            </div>
+            <pb n="24 v"/>
+            <div>
+                <head type="subtitle"><persName>Dis</persName> hienach geschriben sind uszogen uff samstag des ersten tags
+                    <lb/>aberellen im .1531. jar disers zugs hoptman ist gsin junckher
+                    <lb/><persName>Jörg</persName> Göldlín und <persName>Jörg Schnorf</persName> der metzger sin fennrich und zog 
+                    <lb/>man den <persName>Grawen Puenten</persName> zuo mit tusent mannen das <persName>Fälltelin</persName> zue entschútten.
+                </head>
+                <p>junckher <persName>Jörg</persName> Göldlín selb fünfft
+                    <lb/>junckher <persName>Marx Äscher</persName> rottmeister
+                    <lb/>her <persName>Hans Schmid</persName> caplan
+                    <lb/><persName>Uoli Seyler</persName> der löiffer
+                    <lb/><persName>Hans Grebel</persName> von <persName>Klingnow</persName>
+                    <lb/>meister <del><persName>Erasmus</persName></del> <persName>Oswalt Geisshüssler</persName>
+                    <lb/><persName>Her Hanns Amman</persName>
+                    <lb/> frow <persName>Schwendin</persName>
+                </p>
+                <p><persName>Anno</persName> domini 1531 jar uff <persName>Burcardy</persName> wass hoptman zur 
+                    <lb/>baner <persName>Hanss Ruedolf Laffatter</persName> und zügent min heren und
+                    <lb/>ire hoptlút gan <persName>Capel</persName> mit einem lerman <persName>Jörg Goldly</persName>
+                    <lb/>obgenant zuo hilf und gieng leider úbel und lùff jeder
+                    <lb/>man for und nach der schlacht damit nieman da heim
+                    <lb/>blib und ist dysser reyss reddel uss und wen man 
+                    <lb/>mer kriegen will so muoss man gar uff ein núws
+                    <lb/>usnemen und fornen an van dar var unss <persName>Gott</persName>
+                    <lb/>lang behuett.
+                </p>
+                <note>Die obere Hälfte des Blattes zählt die Mitglieder der Constaffel auf, die am 1. April
+                    aus Zürich Richtung Veltlin aufbrachen. Oswald Geisshüssler (1488-1552) ist besser
+                    bekannt als Myconius – enger Freund und erster Biograf Zwinglis. Im Übrigen wird
+                    hier die am 14. September 1529 (Meyer, Kappeler Krieg, 104-106) eingeführte neue
+                    Militärorganisation sichtbar, indem erstmals ein Rottmeister – der Hauptmann eines
+                    Teils des Fähnleins – erwähnt ist.
+                    <lb/>In seinem zweiten Versuch nach 1525/26 zur Rückeroberung des Veltlins hatte Gian
+                    Giacomo Medici, Kastellan von Musso am Comersee im Dienst des Herzogs von Mailand,
+                    im März 1531 das Städtchen Morbegno besetzt und die Bündner geschlagen. Nur die
+                    reformierten Orte mit Solothurn und Freiburg folgten dem Hilferuf der Bündner,
+                    während die katholischen Orte vorbrachten, die Drei Bünde nur dann militärisch zu
+                    unterstützen, wenn diese den alten Glauben wieder annehmen würden. Dies führte allen
+                    eidgenössischen Orten vor Augen, dass die alten Bündnisverträge dem Glaubenskrieg
+                    nicht standhalten würden.
+                    <lb/>Der Eintrag auf der unteren Hälfte des vorläufig letzten Blattes des Reisrödels
+                    lautet: <q>Am 11. Oktober (Burkardi) 1531, unter Bannerhauptmann Hans Rudolf Lavater,
+                    zogen meine Herren und ihre Hauptleute mit dem Sturm nach Kappel, dem obengenannten
+                    Jörg Göldli zu Hilfe. Und es ging leider schlecht aus, und jedermann lief fort in
+                    die Schlacht, so dass niemand daheimblieb. Und dieser Reisrödel ist jetzt zu Ende,
+                    und wenn man wieder Krieg führen will, so muss man von Neuem ausheben und beginnen,
+                    davor uns Gott lange behüten möge!</q>
+                    <lb/>Unter den Gründen für die Zürcher Niederlage bei Kappel sticht das strategische
+                    Versagen der Zürcher Regierung hervor. Das Banner war unvollständig gemustert und zu
+                    spät ausgezogen. Heinrich Bullinger erzählt im Detail von den hitzigen Debatten in
+                    Zürich, wo schliesslich die Mehrheit der Anwesenden den Ausschlag für den Entscheid
+                    gab, <q>den lerman hindersich dem paner entgägen lassen gan. Da sölle mencklich sin
+                    bests tun</q> (Bullinger, Reformationschronik, Bd. 2, S. 118). Der <q>lerman</q> – vom
+                    französischen Wort <q>à l'arme</q>, Alarm! – ist der mit der Glocke ausgerufene Sturm.
+                    Wie das dann aussah, beschreibt Thomas Platter (Platter, Lebensbeschreibung, S.
+                    106), der sich im Haus des Myconius eine Halbarte und einen Degen holte und Richtung
+                    Albis rannte, als bereits in der Schlacht schwer Verwundete wieder in Zürich
+                    eintrafen. Auf dem Albis traf er den Trompeter Fuchsberger, der weder Schuhe noch
+                    Hut noch Waffe hatte. Da <q>reisst mir der Fuchsberger meine Halbarte weg und wollte
+                    so ins Glied stehen. Da sagte ich zu ihm: ‘He, Gsell! Lass mir meine Waffe!’ Da gab
+                    er sie mir wieder und sagte: ‘Semmer Botz fünf Wunden! Heute Nacht haben sie mich in
+                    der Schlacht so übel zugerichtet, heute müssen sie mich halt totschlagen’, schnappte
+                    sich einen grossen Zaunstecken und stand vor mich in Reih und Glied.</q> Unorganisiert,
+                    ohne Rüstungen, sogar ohne Schuhe und nur mit einem Stickel bewaffnet – gegen die
+                    gut organisierten, von erfahrenen Kriegsleuten geführten Männer aus der
+                    Zentralschweiz hatten die Zürcher keine Chance. In der Schlacht von Kappel am 11.
+                    Oktober 1531 starben gemäss der von Heinrich Bullinger rapportierten Zählung 512
+                    Männer aus Stadt und Land, davon nachweislich mindestens 14 in diesem Reisrodel
+                    aufgeführte (und identifizierbare) Mitglieder der Constaffel (ausgezählt nach
+                    Bullinger, Bd. 3, 142-246): Johann Heinrich Escher, Vogt zu Greifensee und Hauptmann
+                    der Spiesser zum Banner, Gerold Meyer von Knonau, der Stiefsohn Zwinglis (geb. 1509,
+                    aus Anna Reinhards erster Ehe mit Johannes Meyer von Knonau), Grosshans Thumeisen,
+                    Stadtfähnrich, Junghans Thumeisen, Vorträger des Fähnleins von Jörg Göldli, Bernhard
+                    Reinhard, Schreiber zum Fähnlein, Bruder von Anna Reinhard und damit Schwager
+                    Zwinglis, Wilprecht Zollner, Johannes (Hans) Meiss, Eberhart von Reischach, der
+                    Ehemann von Katharina von Zimmern, der letzten Äbtissin des Fraumünsters, sein Sohn
+                    Anstett von Reischach, Anthoni Wirtz, Hans Ammann, Bernhard Wyss, Jakob Spreng,
+                    Heinrich Oesenbry. Auch Jakob Trüeb aus Oerlikon, der Bernhard Reinhard den Harnisch
+                    getragen hatte, kam um.
+                    <lb/>Bullinger, Reformationsgeschichte; Platter, Lebesbeschreibung.
+                </note>
+            </div>
+          <pb n="25 r"/>
+          <div>
+              <head type="subtitle"><persName>Uff</persName> den 10. tag hornung <persName>Anno</persName> 1547. habent die verordneten
+                <lb/>der <persName>Constaffel</persName> erdúret, wellche bisshar gereysset hannd unnd nit 
+                <lb/>hievor geschryben stand sonder in volgenden zügen gesyn. <persName>Die</persName>
+                <lb/>oder ire wyb unnd kinder noch zum leben synd unnd zúm <persName><placeName>Rüden</placeName></persName>
+                <lb/>gehörend.
+              </head>
+              <p><persName>Ann</persName> der schlacht zuo <persName>Cappel</persName>
+                  <lb/><persName>Anno</persName> 31 sind gesin.
+                  <lb/><persName>Eberhart</persName> von <persName>Rischach</persName> – jetz witwe.
+                  <lb/><persName>Jörg Göldli</persName> – jetz kind für sich selbs.
+                  <lb/><persName>Wilperg Zoller</persName> – jetz wittwe.
+                  <lb/><persName>Heinrich Escher</persName> – jetz kind für sich selbs.
+                  <lb/><persName>Marx Schultheis</persName>
+                  <lb/><persName>Hanns Meyss</persName> – jetz witwe.
+                  <lb/><persName>Gerold Meyger</persName> von <persName>Knonow</persName> – jetz witwe.
+                  <lb/><persName>Hanns Göldli</persName>.
+                  <lb/><persName>Ludwig Dietschi</persName> – jetz witwe.
+                  <lb/><persName>Lienhart Holtzhalb</persName>.
+                  <lb/><persName>Claus Eberhart</persName>.
+                  <lb/><persName>Wilhelm Wirtz</persName>.
+                  <lb/><persName>Hanns Müller</persName>.
+                  <lb/><persName>Uoli Wipff</persName>.
+              </p>
+              <p>
+                  <lb/><persName>An</persName> der schlacht uff dem <persName>Berg</persName> warend.
+                  <lb/><persName>Jacob Rordorf</persName>
+                  <lb/><persName>Hanns Escher</persName>
+                  <lb/><persName>Heini Vorster</persName>
+              </p>
+              <p>
+                  <lb/><persName>Diss</persName> sind imm sturm hinuss
+                  <lb/>kommen.
+                  <lb/><persName>Hanns Petter Wellenberg</persName>
+              </p>
+              <note>Nach der Schlacht von Kappel bleib das <q>Kriegsverwaltungsbuch</q> der Constaffel für
+                  über 15 Jahre liegen. Weder die Weiterführung des Kriegs noch die Niederlage des
+                  reformierten Heers am Gubel (Z. 22: uff dem Berg) am 24. Oktober sind im kurzen
+                  Eintrag auf fol. 24v erwähnt, obschon da auch Angehörige der Constaffel beteiligt
+                  waren. Am 10. Februar 1547 holte eine Kommission der Constaffel das Versäumnis nach,
+                  ging über die Akten (Z. 2: erduren=gründlich erwägen, prüfen)
+                  und stellte nachträglich die Listen der reispflichtigen Mitglieder der Constaffel
+                  zusammen, die nach Kappel, an den Gubel und mit dem Sturm (Z. 26, also dem mit der
+                  Glocke ausgerufenem <q>Alarm</q>) ausgezogen waren – bzw. von deren Angehörigen. Der
+                  Eintrag im Reisrodel bestätigt die von Heinrich Bullinger überlieferte Totenliste
+                  und nennt zugleich die Constaffler Veteranen des Religionskriegs von 1531. 
+                  <lb/>Katharina von Zimmern (Z. 8), die einst Äbtissin des Fraumünsters gewesen war, dann
+                  den Soldunternehmer von Reischach geheiratet hatte, verstarb am 17. August 1547, nur
+                  wenige Monate nach ihrer erneuten Erwähnung im Reisrödel der Constaffel, im Alter
+                  von 69 Jahren.
+                  <lb/>Zu Katharina von Zimmern: Niederhäuser, Alltag; Christ-von Wedel, Äbtissin.
+              </note>
+          </div>
+          <pb n="25 v"/>
+            <div>
+                <p><persName>Jacob Meyss</persName>
+                    <lb/><persName>Marx Escher</persName>
+                    <lb/><persName>Joachim Göldli</persName>
+                    <lb/><persName>Bernhart</persName> von <persName>Cham</persName>
+                    <lb/><persName>Stoffel</persName> Mùrer
+                    <lb/><persName>Annderes Schmid</persName>
+                    <lb/>her <persName>Hanns Schmid</persName>
+                    <lb/><persName>Fridli Meyger</persName>
+                    <lb/><persName>Jos Schmidli</persName>
+                    <lb/><persName>Hanns Stoller</persName>
+                    <lb/><persName>Hanns Fryg</persName>
+                    <lb/><persName>Ruodolf Fryg</persName>
+                    <lb/><persName>Hanns Zingg</persName>.
+                    <lb/><persName>Cuonrat Kessler</persName>
+                    <lb/><persName>Wolfgang Brög</persName>
+                    <lb/>herr <persName>Ruodolf Müller</persName>
+                    <lb/>herr <persName>Cuonrat</persName> Stútz
+                    <lb/>herr <persName>Jörg Hamberger</persName>
+                    <lb/>herr <persName>Ruodolf Gisslinger</persName>.
+                </p>
+                <p><del><persName>Zuo</persName> der statt panner sind uff dismal ussgenommen tuot:
+                    <lb/>20 34 man unns / was der usszug 4000 man zumm panner
+                    <lb/> <persName>Uss</persName> dem Stúbli .10.
+            <lb/>�<note
+                    place="margin" type="conversion" resp="#docxtotei">unable
+                        to handle picture here, no embed or link</note> 
+                    <lb/><persName>Bernhart</persName> von <persName>Cham</persName> houptman 3
+                    <lb/> <persName>Annderes Schmid</persName> pannerherr 2
+                    <lb/> <persName>Jacob Meyss</persName> lütinant 2
+                    <lb/>25 <persName>Marx</persName> Schùltheis spiessen houptman. 2
+                    <lb/> <persName>Hanns Escher</persName> stattschriber 2</del>
+                    <add place="margin">hand min herren ussgenommen</add>
+                </p>
+                <note>Die Wiederaufnahme des Buches am 10. Februar 1547 ist kein Zufall. Tatsächlich
+                    befürchtete man anfangs dieses Jahres, wieder <q>mer kriegen</q> zu müssen: An der
+                    Tagsatzung und in den Zürcher Räten wurde heftig diskutiert, ob man im
+                    Schmalkaldischen Krieg den Glaubensgenossen militärische Hilfe leisten sollte. Am
+                    20. Oktober 1546 beschlossen Bern, Basel, Schaffhausen, Zürich und die Zugewandten
+                    St. Gallen, Mülhausen und Biel, <q>dass jeder Ort selbständig zwecks Abwehr
+                    eventueller Überfälle zu Panner und Fännli rufen solle</q>. Nach der Niederlage von
+                    Kappel, die auf der Landschaft schwere Unruhen ausgelöst hatte, war die Zürcher
+                    Regierung vorsichtig. Sie mahnte zwar ihre Untertanen <q>sich mit Harnisch und Wehr zu
+                    versehen und zur Gegenwehr bereits zu halten, wenn Zugewandte und Nachbarn oder die
+                    eigenen Leute Hilfe begehrten</q>, liess diesen Vorschlag aber durch Zünfte und
+                    Landgemeinden in einem sogenannten Fürtrag besprechen (QZZ I, Nr. 350). Ende 1546
+                    unterwarfen sich dann die Städte im Süden des Reichs nacheinander dem Kaiser – mit
+                    einer Ausnahme. Konstanz leistete weiterhin Widerstand und hoffte darauf, dass die
+                    reformierten Orte, vor allem das naheliegende Zürich, endlich militärisch eingreifen
+                    würden. Am 5. und 10. Januar 1547 forderten die Zürcher Boten an der Tagsatzung alle
+                    eidgenössischen Orte zur Rüstung auf (EA 4, 1d, Nr. 344, S. 755), und die Zürcher
+                    Regierung stellte offenbar in den folgenden Wochen die eigene Wehrbereitschaft
+                    sicher. Angesichts der Kräfteverhältnisse – die katholischen Orte stellten sich
+                    natürlich gegen eine solche Intervention mit dem Ziel der Stärkung der Reformation
+                    –, blieb es dann bei tröstenden Worten von Antistes Heinrich Bullinger und des Rats
+                    in einer über den Geheimen Rat geführten Korrespondenz.
+                    <lb/>EA; QZZ I, Nr. 350, S. 257 (nach 20. Oktober 1546); Geiser, S. 217.
+                </note>
+            </div>
+            <pb n="26 r"/>
+          <div><head type="subtitle"><persName>Usszug</persName> uff die vier tussend man zuo der statt panner zuoretung unnd
+              <lb/>beschirmung unnssers vatter lands und zuo trost <persName>Gmeyner Eydtgno</persName><lb break="no"/>schafft, wo die inn disen sorgklichen und gefarlichen zyten und louffen
+              <lb/>sambt ald sonders angriffen oder beschediget würden. <persName>Das</persName> man ge<lb break="no"/>fasst und gerust were, einandern zuo zug und hilff zuo bewysen, wie
+              <lb/>die noturfft ir erforderen wirt. <persName>Disser</persName> usszug beschach erstlich des 47.
+              <lb/>jars. <persName>Ward</persName> im 48 jar wider ernüwert und im .52. jar erkendt. <persName>Wo</persName>
+              <lb/>mangel und abgang were, solten ander genommen und also der reyss
+              <lb/>rodel widerumb ernùwert werden. <persName>Als</persName> beschechen. <persName>Gebürt</persName> der ge<lb break="no"/>meynen <persName>Constafel</persName> 34 man. <persName>Die</persName> volgend harnach.
+          </head>
+              <p><persName>Zum</persName> panner /
+                  <lb/>uss der geselschafft.
+                  <lb/><persName>Bernhart</persName> von <persName>Cham</persName> houptman selb dritt
+                  <lb/><persName>Jacob Meyss</persName> lütinant. selb ander ist <persName>Marx Stapfer</persName> 
+                  <lb/><persName>Anderes Schmid</persName> pannerher selb ander
+                  <lb/><persName>Hanns Äscher</persName> stattschryber selb ander
+                  <add place="margin"><lb/>hand myn her<lb break="no"/>ren uss genomen</add>
+                  <lb/><persName>Hans Edlibach</persName> rotmeyster
+                  <lb/><persName>Marx Röist</persName>
+                  <lb/><persName>Hans Thoma Wirtz</persName>
+                  <lb/><persName>Matheus Äscher</persName>
+              </p>
+              <p>
+                  <lb/><persName>Geistlichen</persName>
+                  <lb/>her <persName>Teoder Buechman</persName>
+              </p>
+              <p>
+                  <lb/><persName>Landtsessen</persName>
+                  <lb/><persName>Ein Appli</persName> von <persName>Mur</persName> /
+                  <lb/><persName>Ein Hopler</persName> von <persName>Langenhart</persName>
+                  <lb/><persName>Rapolt</persName> von <persName>Hetlingen</persName>
+                  <lb/><persName>Kerer</persName> von <persName>Regenstorf</persName>.
+                  <lb/><persName>Ror Conrat Zingk</persName>
+              </p>
+              <p>
+                  <lb/>Bùrger
+                  <lb/><persName>Peteroni Grebell</persName>
+                  <lb/><persName>Heinrich Wernli</persName>
+                  <lb/>alt <persName>Armbruster</persName>
+                  <lb/><persName>Hans Heytzer</persName> [?]
+                  <lb/><persName>Hans Grossman</persName>
+                  <lb/><persName>Meynrat Ogkenfiess</persName>
+                  <lb/><persName>Anders Müller</persName>.
+                  <lb/><persName>Hans Fryg</persName> genant <persName>Karli</persName>
+              </p>
+          </div>
+          <pb n=" 26 v"/>
+          <div>
+              <p><persName>Hindersessen</persName>
+                  <lb/>her <persName>Hans</persName> Bùtler /
+                  <lb/><persName>Hans Tobler</persName> 
+                  <lb/><persName>Hans</persName> Schòn
+                  <lb/><persName>Anthoni Eschi</persName>
+                  <lb/><persName>Ruodolf Pfifer</persName>
+                  <lb/><persName>Ruodolf Bachman</persName>
+                  <lb/><persName>Hanns Linggi</persName> trumeter.
+              </p>
+              <p><persName>Nachrichter</persName>
+              </p>
+              <note>Das Wort <q>Usszug</q> (Z. 1) heisst nun, Mitte des 16. Jahrhunderts, nicht mehr so sehr
+                  <q>Aufbruch in den Krieg, Feld-, Kriegszug</q> und <q>Aushebung, Aufgebot von Truppen,
+                  Musterung</q> (Idiotikon), sondern bezieht sich auf die Wehrpflichtigen insgesamt. Der
+                  <q>Auszug</q> sind die zu einem bestimmten Zeitpunkt aufgrund ihres Alters und ihrer
+                  körperlichen Fähigkeiten als wehrpflichtig erklärten Männer, die im Fall eines
+                  Angriffs auf Zürich oder zur Verteidigung der Eidgenossenschaft aufgeboten werden
+                  sollten. Die Wehrorganisation wurde 1547 eingeführt und 1548 erneuert, 1552 dann
+                  bestätigt. 
+                  <lb/>Der Vergleich der Liste der Constaffel mit den städtischen Rödeln macht das Prozedere
+                  deutlich. Die städtische Auszugsliste enthält den gleichen Eingangstext wie die
+                  Notiz im Reisrödel der Constaffel. Anschliessend folgen die Namen der Hauptleute mit
+                  ihren Zuständigkeiten, und die Zahl der Ausgehobenen pro Gemeinde ist angegeben. Die
+                  Constaffel führt die Liste mit 38 Mann an. Die städtischen Listen führen keine Namen
+                  auf, da die Verantwortung für jeden einzelnen Mann bei der Constaffel bzw. den
+                  Zünften und den 60 Gemeinden lag.
+                  <lb/>Die Listen im Reisrödel sind von nun an ausschliesslich <q>Soll-Listen</q>, d.h.
+                  Bestandesverzeichnisse. Sie weisen dementsprechend kaum mehr Streichungen auf. Da
+                  Zürich für die nächsten 100 Jahre keine Kriegszüge mehr unternahm, musste der
+                  Constaffel-Schreiber auch keine Zahlungen an Krieger, Mütter, Schwestern oder
+                  Ehefrauen, keine Namen von Stellvertretern und Knechten und keine Proviantlisten und
+                  Transportkosten mehr notieren. Insgesamt verringert sich die Aussagekraft des
+                  Reisrödels im Vergleich zu den Jahren bis 1531.
+                  <lb/>StaZH A 30.3. Nr. 156: Usszug uff die 4000 man zu der
+                  statt panner … ernüweret uff mittwuchen den 8. Augusten anno [15]48.
+              </note>
+          </div>
+          <pb n="27 r"/>
+            <div>
+                <head type="subtitle"><persName>Glichergstalt</persName> wie hievor zum panner ein usszug beschèchen, / zum féndli 1500
+                    <lb/> geburt der <persName>Constafel</persName> 16 man. <persName>Die</persName> sind wie volgt ussgenommen und
+                    <lb/> verordnet.
+                </head>
+            <note
+                    place="margin" type="conversion" resp="#docxtotei">unable
+                        to handle picture here, no embed or link</note>
+                <p><persName>Marx Schultheis</persName> houptman selb dritt
+                    <lb/><persName>Marx</persName> Éscher fendrich selb ander
+                    <lb/><persName>Hans Heinrich Reynhart</persName> underschryber
+                    <add place="margin">sind von mynen <lb/> herren geordnet</add>
+                    <lb/><persName>Georg Äscher</persName> rottmeister
+                    <lb/><persName>Moritz</persName> von Schónow.
+                    <lb/><persName>Wilhelm Meyger</persName>
+                    <lb/>ein <persName>Grebel</persName> von <persName>Mur</persName>
+                    <lb/>frow <persName>Kriegin</persName> – ein soldner.
+                    <lb/><persName>Hans Wyss</persName>
+                    <lb/><persName>Claus Eberhart</persName>
+                    <lb/><persName>Jeorg Rubli</persName>
+                    <lb/><persName>Heini Vorster</persName>
+                    <lb/><persName>Bartli</persName> Éngell
+                    <lb/><persName>Henssy Meyger</persName> genant púr/
+                </p>
+                <note>Besser sichtbar als in den Eintragungen für die vorhergehenden Jahrzehnte wird ab
+                    1550 die Zürcher Wehrorganisation selbst, einschliesslich der neu formierten
+                    Befehlshierarchie: Das Zürcher Heer besteht aus Banner (4000 Mann) und Fähnlein
+                    (1500 Mann). Zum Banner müssen die Constaffel 34 Leute stellen, zum Fähnlein 16. Im
+                    Banner sind die Führungspositionen Hauptmann, Bannerherr, Lütiner, Rottmeister (als
+                    der Befehlshaber der kleinsten militärischen Einheit), im Fähnlein Hauptmann,
+                    Fähnrich und Rottmeister. Dem Banner ist der Stadtschreiber – der als Feldschreiber
+                    des ganzen Heers amtet –, dem Fähnlein der Unterschreiber zugewiesen. Fest dem
+                    Banner zugewiesen sind auch ein Geistlicher und der städtische Henker (nachrichter, fol. 26v, Z. 9). Trommler und Pfeifer erscheinen
+                    ebenfalls. Die städtischen Reisrödel, welche die Mannschaften von Stadt und Land
+                    insgesamt festhalten, führten schon im 15. Jahrhundert Trommler und Pfeifer als
+                    separate Funktionen auf. Weiterhin sind auch die Landsässen – d.h. die auf adligen
+                    Landsitzen lebenden Bürger oder mit Burgrechten mit Zürich Verbündeten – der
+                    Constaffel und dem Banner zugewiesen. Insgesamt ist die militärische Führung stärker
+                    strukturiert als noch vor der Reformation.
+                </note>
+            </div>
+          <pb n="27 v"/>
+          <pb n="28 r"/>
+            <div>
+                <head type="subtitle"><persName>Der</persName> vorgeschriben uszug uff die vier
+                    <lb/>tussend man zuo der statt panner, ist wider<lb break="no"/>umb ernüweret, sambstags den 12ten
+                    <lb/><persName>Octobris</persName> anno 1560. <persName>Gebürt</persName>
+                    <lb/>sich der gemeinen <persName>Constafel</persName> .34. man /
+                    <lb/>die volgend hernach /
+                </head>
+                <p>uss der <persName>Gesellschaft</persName>.
+                    <lb/><persName>Herr Bernhart</persName> von <persName>Chaam</persName> búrgermeister houptman selb dritt /
+                    <lb/><persName>Anndres Schmid</persName> pannerherr selb ander / <persName>Marx Stapfer</persName> /
+                    <lb/><persName>Hanns Escher</persName> stattschryber selbander 
+                    <add place="margin">hand myn herren<lb/>ussgenommen</add>
+                    <lb/><persName>Hanns</persName> Góldli furrier /
+                    <lb/><persName>Marx Schultheis</persName> rottmeister /
+                    <lb/><persName>Jacob Roist</persName> /
+                    <lb/><add place="inline"><persName>Mathes Escher</persName></add>
+                    <lb/><persName>Jacob</persName> von <persName>Chaam</persName> /
+                    <lb/><persName>Hanns Jacob Rordorff</persName> /
+                    <lb/><persName>Hans Tomman Wirtz</persName> /
+                    <lb/><persName>Caspar Krieg</persName> von <persName>Bellicken</persName> /
+                </p>
+                <p><persName>Geistlichen</persName>
+                    <lb/>herr <persName>Wolfgang Haller</persName> /
+                    <lb/><persName>Landsessen</persName> /
+                    <lb/>ein Éppli von Mùr
+                    <lb/>ein <persName>Hoppler</persName> von <persName>Langenhart</persName>
+                    <lb/><persName>Rapolt</persName> von <persName>Hettlingen</persName> /
+                    <lb/><persName>Kerer</persName> von <persName>Regenstorff</persName> /
+                    <lb/><persName>Marx Müller</persName> im <persName>Ror</persName> /
+                    <lb/><persName>Tachelshofer</persName> von <persName>Tübelstein</persName> /
+                </p>
+                <p><persName>Burger</persName> und <persName>Hindersessen</persName> /
+                    <lb/><persName>Caspar Holtzhalb</persName>
+                    <lb/><persName>Petroni Grebel</persName>
+                    <lb/><persName>Anthoni Wirtz</persName>
+                    <lb/><persName>Felix</persName> von <persName>Schenis</persName>
+                    <lb/><persName>Heinrich Ziegler</persName>
+                    <lb/><persName>Jacob Hartman</persName>
+                    <lb/><persName>Welti Zollinger</persName> loüffer
+                </p>
+            </div>
+            <pb n="28 v"/>
+          <div><p><persName>Beid</persName> tummeter vatter und sun
+              <lb/> <persName>Claus Süss</persName>
+              <lb/> <persName>Cossman Kienast</persName> /
+              </p>
+              <p><persName>Nachrichter</persName>
+              </p>
+          </div>
+          <pb n="29 r"/>
+          <div>
+              <head type="subtitle"><lb/><persName>Glicher</persName> gstalt / wie hievor zum panner
+                  <lb/>ein usszug beschechen / zum fendli fünff zehen<lb break="no"/>hundert / geburt der <persName>Constafel</persName> .16. man /
+                  <lb/>die sind / wie volgt ussgenommen unnd
+                  <lb/>verordnet /</head>
+            <note
+                    place="margin" type="conversion" resp="#docxtotei">unable
+                        to handle picture here, no embed or link</note>
+              <p><persName>Hanns Wilperg Zoller</persName> lütinant selb ander
+                  <lb/><persName>Hanns Bernhart</persName> von <persName>Chaam</persName> fendrich selb ander
+                  <add place="margin">sind von mynen <lb/> herren geordnet</add>
+              </p>
+              <p><persName>Moritz</persName> von <persName>Schönouw</persName> /
+                  <lb/><persName>Wilhelm Meyger</persName> von <persName><placeName>Knonouw</placeName></persName> /
+                  <lb/><persName>Hanns Uolrich Grebel</persName> /
+                  <lb/><persName>Hanns Jacob Escher</persName> /
+                  <lb/><persName>Hans Meyss</persName> /
+                  <lb/><persName>Hans Ruodolf Wellenberg</persName> /
+                  <lb/><persName>Renwart Grebel</persName> /
+              </p>
+              <p>
+                  <lb/><persName>Hanns Wyss</persName> /
+                  <lb/><persName>Junghans Aman</persName> uff <persName>Dorff</persName> /
+                  <lb/><persName>Marx Steger</persName> /
+                  <lb/><persName>Uoli Huobschmid</persName> genannt von <persName>Hedingen</persName> /
+                  <lb/><persName>David Landenberger</persName> /
+              </p>
+              <note>1560 hat sich die Militärorganisation Zürichs gegenüber der 10 Jahre zuvor
+                  festgelegten Ordnung nicht wesentlich verändert. Neu ist die Funktion des Fouriers
+                  (furrier, fol. 28r, Z. 11), der für Unterkunft und
+                  Unterhalt der Truppe zuständig ist. Der französische Lütinant
+                  hat den <q>verdeutschten</q> Lütiner abgelöst – auch in Zürich
+                  macht sich der starke französische Einfluss auf die militärischen Chargen der
+                  eidgenössischen Orte bemerkbar. Zürich wird sich allerdings erst 1663 mit einer
+                  Soldallianz an die französische Krone binden.</note>
+            </div>
+            <pb n="29 v"/>
+            <div>
+                <head type="subtitle"><persName>Am</persName> .1564. jar / ward gemeiner
+                    <lb/><persName>Constafel</persName> usszug / zuo der statt panner /
+                    <lb/>so da .34. personnen sich gebürt / ernüweret /
+                </head>
+                <p>uss der gsellschafft /
+                    <lb/><persName>Herr Bernhart</persName> von <persName>Chaam</persName> houptman selb dritt
+                    <lb/><persName>Anderess Schmid</persName> pannerherr selb ander / ist <persName>Marx</persName> 
+                    <lb/><persName>Stapfer</persName> / und ein fuossknecht /
+                    <add place="right">hand myn herren <lb/>genommen</add>
+                    <lb/><persName>Jacob Roüst</persName> rottmeister /
+                    <lb/><persName>Gerold Escher</persName> underschryber /
+                    <lb/><persName>Joachim Göldli</persName> / <persName>Jacob Stapfer</persName> / <persName>Mathy</persName> Ëscher /
+                    <lb/><persName>Marx Roüst</persName> / <persName>Hans Jacob Rordorff</persName> / <persName>Hans Tomman Wirtz</persName> /
+                    <lb/><persName>Caspar Krieg</persName> / <persName>Hans Meyss</persName> der <persName>Jung</persName> /
+                </p>
+                <p><persName>Geistlichen</persName> /
+                    <lb/><persName>Herr Wolfgang Haller</persName> / <persName>Herr Hans Husser</persName> /
+                </p>
+                <p>Landtsëssen /
+                    <lb/>– <persName>Eppli</persName> von <persName>Mur</persName> / <persName>Hoppler</persName> von <persName>Langenhart</persName> / <persName>Rapolt</persName> von <persName>Hettlingen</persName>/
+                    <lb/> <persName>Kerer</persName> von <persName>Regenstorff</persName> / <persName>Waldkilch</persName> im <persName>Ror</persName> / der uff <persName>Dübelstein</persName> /
+                </p>
+                <p><persName>Constaffel</persName> /
+                    <lb/><persName>Caspar Holtzhalbs</persName> schützenvorfendrich selb ander / von mynen herren ge[halten?]
+                    <lb/><persName>Petroni Grebel</persName> / <persName>Anthoni Wirtz</persName> / <persName>Hanns Heinrich Lochman</persName> /
+                    <lb/><persName>Hans Vogler</persName> / <persName>Welti Zollinger</persName> / beid <persName>Trummeter</persName> / <persName>Clauss Süss</persName> / <persName>Cossman</persName>
+                    <lb/><persName>Kienast</persName> /
+                </p>
+                <p><persName>Nachrichter</persName> /
+                </p>
+                <p><persName>Sodänne</persName> die .16. personen zum fendli /
+                    <lb/><persName>Hanns Wilpert Zoller</persName> houptman selb dritt / 
+                    <lb/><persName>Hans Bernhart</persName> von <persName>Chaam</persName> fenderich selb ander <add place="right">sind von mynen<lb/>herren geordnet</add>
+                    <lb/><persName>Hanns Uolrich Grebel</persName> / <persName>Mouritz</persName> von <persName>Schönouw</persName> rottmeister /
+                    <lb/><persName>Wilhelm Meyger</persName> / <persName>Hanns Meyss</persName> / <persName>Hans Ruodolf Wellenberg</persName> /
+                    <lb/><persName>Renwart Grebel</persName> / <persName>Hans Victor</persName> von <persName>Schönouw</persName> /
+                </p>
+                <p><persName>Constaffel</persName> /
+                    <lb/><persName>Junghans Amman</persName> / <persName>Joss Meyger</persName> / <persName>Hanns Ludwig Dietschi</persName> /
+                    <lb/><persName>Cuonrat Huggenberg</persName> / unnd <persName>David Landenberger</persName> /
+                    <add place="below"><persName>Ward</persName> domalen uff jede person 7 s bestimpt /
+                        <lb/>was die <persName>Constaffel</persName> zuoerhalten / schuldig syn /</add>
+                </p>
+                <note>1564 waren im Vergleich zur Aushebung von 1550 so viele Abgänge zu verzeichnen, dass
+                    die Namen der Wehrpflichtigen angepasst werden mussten. Die Organisation blieb
+                    weitgehend bestehen. Der Schützenvorfähnrich wird der Constaffel zugeschlagen,
+                    allerdings wird er weiterhin aus der Stadtkasse bezahlt. Möglicherweise lässt sich
+                    dieser Präzisierung als Hinweis auf die gesteigerte Bedeutung der Schützen im
+                    Zürcher Heer verstehen. 1564 wird das Fronfastengeld, das jedes Mitglied der
+                    Constaffel in die gemeinsame Kasse geben muss, aus der unter anderem die
+                    militärische Ausrüstung bezahlt wird, auf 7 Schilling festgelegt (Z. 35-36).
+                </note>
+            </div>
+          <pb n="30 r"/>
+          <div>
+              <head type="subtitle"><persName>Als</persName> sich hievor geschribner usszug / durch absterben und
+                  <lb/>sonst geenderet / und wiewol derselbig im .76. jar etlicher
+                  <lb/>gstalt wider ersetzt / ist er doch den .21. ten hornungs /
+                  <lb/>anno .1583. wie unnsser gnedig herren / den gemeinen
+                  <lb/>usszug / uff der statt panner und fendli / inn die 5000
+                  <lb/>500 man / zuo rettung und beschirmung unnssers vatter<lb break="no"/>landts / und zuo trost gmeiner <persName>Eydtgnosschafft</persName> / ze<lb break="no"/>thuond bevolchen / abermalen ernüweret worden.
+                  <lb/><persName>Gebürt</persName> gmeiner <persName>Constaffel</persName> /
+              </head>
+              <p><persName>Zum</persName> panner . 34 . man / <persName>Die</persName>
+                  <lb/>volgend hernach
+                  <lb/><persName>Hanns Heinrich Lochman</persName> pannerherr selb ander
+                  <lb/><persName>Gerold Escher</persName> stattschryber selb ander / 
+                  <lb/><persName>Hanns Meyss</persName> <del>halbarten</del> <add place="inline">spiessen</add> houptman selb ander /
+                  <add place="right">hand myn herren <lb/>ussgenommen</add>
+                  <lb/><persName>Heinrich Ziegler</persName> /
+                  <lb/><persName>Marx Stapfer</persName> /
+                  <lb/><persName>Hans Cuonrat Escher</persName> 
+                  <lb/><persName>Hans Heinrich Schmid</persName> rottmeister /
+                  <lb/><persName>Jörg Grebel</persName> der elter /
+                  <lb/><persName>Hans Jacob Rordorff</persName>
+                  <lb/><persName>Hans Balthasser Meyss</persName>
+                  <lb/><persName>Gerold Edlibach</persName>
+                  <lb/><persName>Hans Victor</persName> von <persName>Schönouw</persName> /
+                  <lb/><persName>Batt Ruodolf Göldli</persName> /
+                  <lb/><persName>Hans Peter Roüst</persName> /
+                  <lb/><persName>Bernhart Meyger</persName> /
+                  <lb/><persName>Felix Krieg</persName> /
+                  <lb/><persName>Hans Bartlome Wirtz</persName>
+                  <lb/><persName>Hans Jacob Zoller</persName> /
+                  <lb/><persName>Hans Bernhart Escher</persName>
+                  <lb/><persName>Alexander Stocker</persName>
+                  <lb/><persName>Urban Loüwenberg</persName>
+              </p>
+          </div>
+          <pb n=" 30 v"/>
+          <div>
+              <p><persName>Hanns Bartlome Dietschi</persName> /
+                  <lb/><persName>Jeörg Rubli</persName> /
+                  <lb/><persName>Heinrich Frygermuot</persName>
+                  <lb/><persName>Caspar Müller</persName> /
+              </p>
+              <p>
+                  <lb/><persName>Geistlichen</persName> /
+                  <lb/>herr <persName>Wolfgang Haller</persName> /
+              </p>
+              <p>
+                  <lb/><persName>Landtsessen</persName> /
+                  <lb/>ein <persName>Äppli</persName> von <persName>Mur</persName> /
+                  <lb/>ein <persName>Hoppler</persName> von <persName>Langenhart</persName> /
+                  <lb/><persName>Rapolt</persName> von <persName>Hettlingen</persName>/
+                  <lb/><persName>Kerer</persName> von <persName>Regenstorff</persName> /
+                  <lb/><persName>Waldkilch</persName> im <persName>Ror</persName> /
+                  <lb/><persName>Escher</persName> uff <persName>Dübelstein</persName> /
+              </p>
+              <p><persName>Nachrichter</persName> /
+              </p>
+          </div>
+          <pb n="31 r"/>
+          <div>
+              <head type="subtitle"><persName>Glychergstalt</persName> wie hievor zum panner / also ist ein
+            <lb/>usszug zum fendli / das von vorgeschribner zal .1500.
+            <lb/>man haben soll / beschechen / gebürt der <persName>Constafel</persName>
+            <lb/>16 man / die sind wie volgt / ussgenommen unnd
+            <lb/>verordnet /
+              </head>
+              <p><persName>Josst</persName> von <persName>Bonstetten</persName> houptman selb dritt /
+                  <lb/><persName>Hanns Escher</persName> schützen houptman selb ander
+                  <lb/><persName>Heinrich Escher</persName> underschryber /
+                  <lb/><persName>Caspar Krieg</persName> /
+                  <lb/><persName>Hanns Jacob</persName> von <persName>Schönouw</persName>
+                  <add place="right">wachtmeister</add>
+                  <add place="right"><persName>Sind</persName> von mynen<lb/>herren geordnet</add>
+              </p>
+              <p><persName>Hanns Uolrich Grebel</persName> rottmeister /
+                  <lb/><persName>Lienhart Edlibach</persName>
+                  <lb/><persName>Wilhelm Escher</persName> /
+                  <lb/><persName>Jacob Stapfer</persName>
+                  <lb/><persName>Hanns Luodwig Meyss</persName>
+                  <lb/><persName>Hans Heinrich Rordorff</persName> /
+                  <lb/><persName>Joss Meyger</persName>
+                  <lb/><persName>Goriuss Stoller</persName> /
+              </p>
+              <note>1576 passte die Constaffel gemäss der Notiz fol. 30r die Namen der Wehrpflichtigen
+                  wieder den aktuellen Verhältnissen an, fügte die Liste im Rodel allerdings nicht
+                  nach. 1583 wurde die Zürcher Militärorganisation – und damit der Reisrödel – erneut
+                  revidiert. Nach fast 80 Jahren kommt so der Reisrödel der
+                  Constaffel zum Abschluss. Zürich reagierte auf den Bevölkerungswachstum und
+                  erhöhte die Anzahl der Wehrpflichtigen im Banner auf 5500 Mann, diejenige im
+                  Fähnlein auf 1500 Mann. Die Anzahl Stellungspflichtiger der Constaffel blieb mit 34
+                  bzw. 16 Mann aber auf dem alten Niveau. Die Funktion des Wachtmeisters erscheint neu
+                  innerhalb der Constaffel. Der Schützenhauptmann ist dem Fähnlein zugeschlagen,
+                  während der Spiessenhauptmann zum Banner gehört. Diesbezüglich ist die Korrektur des
+                  Schreibers aufschlussreich: Nicht (mehr) die Halbarten-, sondern die Spiessträger
+                  (Pikeniere) stellen das Gros der Fusssoldaten aus der Constaffel. Für die Handhabe
+                  ihrer rund vier bis fünf Meter langen Waffe benötigten die Spiesser ein
+                  regelmässiges Training und Anleitung im Feld. Sie werden deshalb von einem eigens
+                  dafür abgeordneten Hauptmann befehligt.
+              </note>
+            </div>
+          <pb n="31 v"/>
+          <pb n="32 r"/>
+          <pb n="32 v"/>
+          <pb n="33 r"/>
+          <pb n="33 v"/>
+          <pb n="34 r"/>
+          <pb n="34 v"/>
+          <pb n="35 r"/>
+          <pb n="35 v"/>
+          <pb n="36 r"/>
+          <pb n="36 v"/>
+          <pb n="37 r"/>
+          <pb n="37 v"/>
+          <pb n="38 r"/>
+          <!-- [31v-38r leer] -->
+          <pb/>
+          <!-- [<persName>Umschlag Rückseite</persName>] -->
+          <div>
+            <head>1513
+            <lb/><persName>Miner</persName> herren
+            <lb/>in der <persName>Constavel Reyss Rodel</persName>
+            </head>
+          </div>
+        </body>
+        <back>
+            <div>
+                <p>
+                    Die ersten neun Seiten des Reisrödels enthalten die Namen
+                    der Personen, die der Constaffel gegenüber zu militärischen Diensten
+                    verpflichtet waren. Die Einteilung entspricht den drei Gruppen, die die
+                    Constaffel ausmachen: Die Mitglieder der Herrenstube zum Rüden, die Bürger,
+                    Hintersässen und Witwen, die keiner Zunft zugehörig waren sowie die Bewohner des
+                    Kratzquartiers. Die Dienstpflicht wurde finanziell– dies ist zum Beispiel bei
+                    den auf fol. 3r verzeichneten Witwen der Fall – oder durch persönliches
+                    Engagement erfüllt.
+                    Die Liste der Reispflichtigen entspricht der Situation um
+                    1513. Es ist <!-- wahrscheinlich? -->, dass sie auf leer gelassenen Seiten in ein ab 1503 geführtes Buch
+                    eingefügt wurde. Fol. 12r schrieb jedenfalls anderer Schreiber die Namen der 18
+                    Männer auf, die 1503 für die Constaffel über Chur über den San Bernardino nach
+                    Locarno zogen.
+                </p>
+            </div>
+        </back>
+    </text>
+</TEI>

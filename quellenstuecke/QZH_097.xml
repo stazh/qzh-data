@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<?xml-model href="http://www.tei-c.org/ns/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Barbara Schmid</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Michael Schaffner</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_097</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5099849"
+                            >StAZH W I 15.212</idno>
+                    </msIdentifier>
+                    <head>Zahlungen an Hauptleute im Müsserzug und im zweiten Kappeler Zug</head>
+                    <msContents>
+                        <summary><!-- Ergänzen --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Original</filiation>
+                            <filiation type="original"><origDate when="1529"></origDate></filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1531"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000266">Krieg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+                <!-- VII [V] Zahlungen an Hauptleute im Feld, Müsserzug und Kappel, 1531 -->
+            <div>
+                <p>Item wir <persName>Ludwig Dietschy</persName> und
+            <lb/><persName>Jacob Meiss</persName> hand gen <persName>Marxen 
+            <lb/>Escher</persName> <del>40</del> <add place="inline">25</add> gl uff den zug
+            <lb/>in das <placeName>Feltlin</placeName> im 31 jar
+                </p>
+            <p><del>Item 22 hand wir <persName>Marxen</persName>
+            <lb/>geschickt by <persName>Hansen Hewen</persName>
+            <lb/>uff <date>Quasymodo</date>
+            </del>
+            </p>
+            <p>Item 25 gl hand wir <persName>Marxen</persName>
+            <lb/>geschickt <hi rend="superscript">-a-</hi><del>by</del><hi rend="superscript">-a-</hi> nach des
+            <date>helgen
+            <lb/>krutz tag</date>
+            </p>
+            <p>Item <persName>Gerolden Meyer</persName> gen 12 gl
+            <lb/>uff den 10 <hi rend="superscript">-a-</hi><del>2</del><hi rend="superscript">-a-</hi> tag
+            winmonet
+            </p>
+           <p> Item uff den selbigen tag 10 gl
+            <lb/><persName>Anthony von Kam</persName> unserem rott
+            <lb/>meister
+           </p>
+            <p>Item gen <persName>Jacoben Rordorff</persName> 4 gl
+            <lb/>uff den 11 tag octobriss
+            <lb/>Item uff den selbigen tag 25 gl
+            <lb/><persName>Ludwigen Dietschy</persName>
+            </p>
+            <p>Item 15 gl hat <persName>Lienhart</persName>
+            <lb/>genommen und hats
+            <lb/>verechnott
+            <lb/>Item ingenommen 100 gl</p>
+            </div>
+            <pb n="[VII/1v]"/>
+            <pb n="[VII/2r]"/>
+            <pb n="[VII/2v]"/>
+            <!-- VII/1v-VII/2v leer -->
+        </body>
+        <back>
+            <div>
+                <p>Das Beiblatt enthält zunächst das Geld, das die Ratsherren <persName>Ludwig Dietschy</persName> und <persName>Jakob
+                    Meiss</persName> am 3. Mai (das Datum «Quasimodo», also der erste Sonntag nach Ostern – in
+                    diesem Jahr der 16. April – ist gestrichen) Rottmeister <persName>Marx Escher</persName> anvertrauten,
+                    der es wiederum den Zürcher Truppen im <placeName ref="LOC_46.18333_9.91667">Veltlin</placeName> (Müsserkrieg) übergeben sollte. Die
+                    Auszahlungen vom 10. und 11. Oktober an <persName ref="GND_138372705">Gerold Meyer von Knonau</persName>, Rottmeister <persName>Anton
+                        von Cham</persName> und <persName>Jakob Rordorf</persName> müssen sich auf den Auszug nach <placeName ref="LOC_47.22523_8.51104">Kappel</placeName> beziehen. In der
+                    Schlacht am 11. Oktober fiel <persName ref="138372705">Gerold Meyer von Knonau</persName>. <persName>Jakob Rordorf</persName> ist im Rödel als
+                    Veteran des Kampfes am Gubel genannt.
+                </p>
+                <p>Die Aufzeichnungen stammen wohl alle vom gleichen Schreiber. Die unterschiedliche
+                    Farbe der Tinte und Dicke der Buchstaben zeigen aber, dass der Schreiber –
+                    möglicherweise <persName>Ludwig Dietschy</persName> – den Notizzettel mehrere Male hervorgenommen und
+                    nachgeführt hat.
+                </p>
+                <p><bibl><ref>Zeller-Werdmüller, Kampf.</ref></bibl>
+                </p>
+            </div>
+        </back>
+    </text>
+</TEI>

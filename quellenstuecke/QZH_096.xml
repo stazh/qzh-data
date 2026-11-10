@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<?xml-model href="http://www.tei-c.org/ns/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Barbara Schmid</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Michael Schaffner</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_096</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5099702"
+                            >StAZH W I 15.211</idno>
+                    </msIdentifier>
+                    <head>Soldzahlung an Auszüger des ersten Zugs nach Kappel</head>
+                    <msContents>
+                        <summary><!-- Ergänzen --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Original</filiation>
+                            <filiation type="original"><origDate when="1529"></origDate></filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1529"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000266">Krieg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>      
+           <!-- VI [IV] Soldzahlung an Auszüger des ersten Zugs nach Kappel, 1529 -->
+            <div><head>Diss hab ich den soldnern, so zue
+            <lb/>dem paner zuem vennly ouch
+            <lb/>der frygelouffnen nechst vergang<lb break="no"/>nem
+             Cappler zuog besoldung uss
+            <lb/>geben.
+            </head>
+                <p><lb/>Meister <persName>Schultheyss</persName> 11 lb 8 s,
+            <lb/><persName>Ludwig Ösenbry</persName> 10 lb 8 s,
+            <lb/><persName>H Ösenbry</persName> 11 lb 8 s,
+            <lb/><persName>Adam Andres </persName>10 lb 8 s,
+            <lb/><persName>Heiny Butz</persName> 1 lb 16 s,
+            <lb/><persName>Mathis Schwarber</persName> 5 lb 6 s,
+            <lb/>Her <persName>H Collman</persName> 11 lb 8 s,
+            <lb/>H <persName>Jacob Geylinger</persName> 3 lb 8 s,
+            <lb/><persName>Ruodolff Zimberman</persName> 5 lb 8 s,
+            <lb/><persName>Äppli von Muer</persName> 6 lb 8 s,
+            <lb/><persName>Hanns Otth</persName> 5 lb 16 s,
+            <lb/><persName>Joss Schmidly</persName> 2 lb 14 s,
+            <lb/><persName>Fridly Meyer</persName> von <placeName>Birch</placeName> 2 lb 17 s,
+            <lb/><persName>Gebhart Krattly</persName> 2 lb 8 s,
+            <lb/><persName>Hans Scherer</persName> 11 lb 8 s,
+            <lb/><persName>Joss</persName> von <placeName>Birch</placeName> 4 lb 8 s,
+            <lb/><placeName>Ruedy Grob</placeName> 4 lb 8 s,
+            <lb/><placeName>Jacob Wyss </placeName>4 lb 8 s,
+            <lb/><placeName>Simprecht Stumm</placeName> 2 lb 18 s,
+            <lb/><placeName>Jacob Ruef</placeName> 5 lb 18 s,
+            <lb/><persName>Jacob Schmid</persName> 9 lb 8 s,
+            <lb/><persName>Apply</persName> im <placeName>Kratz</placeName> 2 lb 8 s,
+            <lb/><persName>Hans Gretzer</persName> 5 lb 18 s,
+            <lb/><persName>Michel Schwytzer</persName> 3 lb 18 s,
+            <lb/><persName>Heiny Völlmy </persName>9 lb 8 s,
+            <lb/><persName>Ue Kerrer</persName> von <placeName>Regenstorff</placeName> 11 lb 8 s,
+            <lb/><persName>Martha Schwendin</persName> 11 lb 8 s,
+            <lb/>Frow <persName>Kriegin</persName> 5 lb 8 s.</p>
+            <p><lb/>Summa 183 lb 18 s</p>
+            <p><lb/>Actum
+            </p>
+            </div>
+            <pb n="[VI/1v]"/>
+            <div>
+            <lb/><p>Frow <persName>Hedinger</persName> 18 s,
+                <lb/>Frow <persName>Schwendin</persName> im <placeName>Samlinger</placeName><!-- msr: Gemeinde Steinmaur, vgl. ortsnamen --> 4 lb 8 [6?] s,
+                <lb/>Herr <persName>Jorg Sitz</persName> 7 lb 2 s,
+                <lb/><persName>Uelrich Steinegger</persName> 2 lb 18 s,
+                <lb/><persName>Heiny Ryser</persName> 2 lb 8 s,
+                <lb/><persName>Hans Marckstein</persName> 3 lb 8 s,
+                <lb/><persName>Hans Múller</persName>, goldschmid, 4 lb 2 s,
+                <lb/><persName>Heiny Schaller</persName> xi lb viii s 11 lb 8 s,
+                <lb/>Her <persName>Jacob Äschers</persName> frow 6 lb 8 s,
+                <lb/>Frow <persName>Gugelbergin</persName> 1 lb 8 s,
+                <lb/><persName>Uely Scher</persName> 5 lb 8 s,
+                <lb/><persName>Thoman Hemeller</persName> 6 lb 18 s,
+                <lb/><persName>Hans Wipf</persName> 3 lb 18 s,
+                <lb/><persName>Hans Fretz</persName> 3 lb 18 s,
+                <lb/><persName>Jorg Treyer</persName> 5 lb 8 s,
+                <lb/><persName>Heiny Meyer</persName> 4 lb 18 s,
+                <lb/><persName>Jorg Schon</persName> 8 lb 8 s,
+                <lb/><persName>Jorg Küntzly</persName> 5 lb 18 s,
+                <lb/><persName>Jacob Sitkust</persName> 4 lb 18 s,
+                <lb/><persName>Frantz Rinderly</persName> 9 lb 2 s,
+                <lb/><persName>Hans Schwartz</persName> 3 lb 18 s,
+                <lb/><persName>Adrian Grebel</persName> 11 lb 8 s,
+                <lb/>frow <persName>Greblin</persName> v <placeName>Muer</placeName> 11 lb 8 s,
+                <lb/>herr <persName>Allixander</persName> 9 lb 2 s,
+                <lb/><persName>Stoffel Murer</persName> 5 lb 10 s,
+                <lb/><persName>Heinrich Zoller</persName> 5 lb 10 s,
+                <lb/>her <persName>Joss Hass</persName> 8 lb,
+                <lb/>herr <persName>Jorg Liebegger</persName> 5 lb 8 s,
+                <lb/>herr <persName>Hans Amman</persName> 7 lb 8 s,
+                <lb/>Item den dry <persName>Applinen</persName> von <placeName>Mur</placeName> 23 lb 16 s,
+            <lb/><placeName>Seholtzer</placeName> 4 lb.</p>
+            <p><lb/>Summa 198 lb 10 s.
+            </p>
+            </div>
+            <pb n="[VI/2r]"/>
+            <div><p><persName>Urban Rechberger</persName> 4 lb 18 s,
+            <lb/><persName>Batt Verwer</persName> 3 lb 8 s
+            <lb/><persName>Ruedolff Lindiner</persName> 3 lb 8 s
+            <lb/>Dem <persName>Friesen</persName> 7 lb 4 s
+            <lb/><persName>Eustachius Froschhower</persName> 9 s<!-- GND! -->
+            <lb/><persName>Stoffel Osenbry</persName> 3 lb 8 s
+            <lb/><persName>Steffen Bartt</persName> 5 lb 81 s
+            <lb/><persName>Ruedolff Buman</persName> 2 lb 8 s
+            <lb/><persName>Felix Hass</persName> 2 lb 17 s
+            <lb/><persName>Stucky</persName> 3 lb 8 s
+            <lb/>herr H<persName>ans Schmid</persName> 3 lb 8 s
+            <lb/>her <persName>Ruedolff Muller</persName> 3 lb 8 s
+            <lb/>herr <persName>Niclaus Lendy</persName> 3 lb 8 s
+            <lb/><persName>Benedict Guttman</persName> 3 lb 8 s
+            <lb/><persName>Hans Schön</persName> 5 lb 18 s
+            <lb/>her <persName>Polley Kaltschmid</persName> 4 lb 16 s
+            <lb/><persName>Hansen Klinger im Ror</persName> selb 
+            <lb/>ander 22 lb 16 s
+            <lb/>meyster <persName>Jacob Sprengers</persName>
+            <lb/>seligen frow 2 lb 8 s
+            <lb/>Summa 86 lb 15 s
+            <lb/><del>-a-Summa 488 lb
+            <lb/>8 s</del>
+            <lb/>Summarum 479 lb 3 s
+            </p>
+            </div>
+            <pb n="[VI/2v]"/>
+            <!-- leer -->
+        </body>
+        <back>
+            <div>
+                <p>In dieser Liste sind für das ganze Zürcher Heer (Banner, Fähnlein, Freiknechte) alle
+                    Personen der Constaffel aufgeführt, die als Söldner auszogen oder die einen Söldner
+                    stellten, und zwar für einmal nicht geordnet nach Banner, Fähnlein und freie
+                    Knechte. Unter den 95 Namen finden sich sieben Frauen. Sechs davon waren wohl
+                    aufgrund ihres Vermögens zur Stellung von einem oder mehreren Söldnern verpflichtet.
+                    Die Ehefrau von <persName>Jakob Sprenger</persName> erhielt eventuell ausstehenden Sold ihres
+                    verstorbenen Mannes ausbezahlt.
+                </p>
+                <p>Unter den sieben Frauen, deren Söldner 1529 von der Constaffel bezahlt werden, findet
+                    sich eine Frau Schwendin «im Samlinger», also ein Mitglied der Beginensammlung St.
+                    Verena. Es handelt sich um die vermögende <persName>Regula Schwend</persName> (gest. 18. März 1536). Das
+                    Kloster St. Verena war zwar 1525 aufgehoben worden, doch wohnte <persName>Regula Schwend</persName>
+                    zusammen mit anderen Frauen der Constaffel (unter anderem die 1475 geborene
+                    <persName>Katharina Edlibach</persName>, eine Tochter des Chronisten <persName ref="GND_118681656">Gerold</persName>) weiter im Klostergebäude
+                    (heute Froschaugasse 18) (<bibl><ref>Knecht, Ausharren, S. 72</ref></bibl>).
+                </p>
+                <p><bibl><ref>Knecht, Ausharren; Bettelorden; zu Katharina Edlibach: Edlibach's Chronik, S. IX, XIII.</ref></bibl>
+                </p>
+            </div>
+        </back>
+    </text>
+</TEI>

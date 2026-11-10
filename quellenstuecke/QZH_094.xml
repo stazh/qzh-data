@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<?xml-model href="http://www.tei-c.org/ns/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Barbara Schmid</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Michael Schaffner</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_094</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5099610"
+                            >StAZH W I 15.209</idno>
+                    </msIdentifier>
+                    <head>Aushebung zum Zug gegen Ulrich von Württemberg</head>
+                    <msContents>
+                        <summary><!-- Ergänzen --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Original</filiation>
+                            <filiation type="original"><origDate when="1520-10"></origDate></filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1520-10"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000266">Krieg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+               <!-- IV [I] Aushebung zum Zug gegen Ulrich von Württemberg, 1520 -->
+            <div>
+                <head>Herrenn unnd gesel<lb break="no"/>lenn der Conn<lb break="no"/>stavel zuo dem
+            <lb/><placeName>Rüdenn</placeName></head></div>
+            <pb n="[IV/1v]"/>
+            <!-- leer -->
+            <pb n="[IV/2r]"/>
+            <div>
+                <head type="subtitle">Dis sind die usgenomnen
+            <lb/>zuo dem baner. Inn dem
+                    <lb/>zug inn das <placeName>Wirtennber<lb break="no"/>gist lannd</placeName>. Unnd
+            <lb/>sind hinweg gezogenn
+            <lb/>uff</head><note>Datum fehlt.</note>
+            <p>Und sind dis uss dem stübli
+            </p>
+            <p>her <persName>Francisc Stamp</persName> |
+            <lb/>junker <persName>Diethelm Röyst</persName> |
+            <lb/> junker <persName>Hans Engelhart</persName> |
+                <lb/>junker <persName>Hartman Rordorff</persName> <add place="right">sin soldner,
+                    <lb/><del>Hans Vetter</del>
+                    <persName><lb/>Uely von 
+                    <lb/>Roschach</persName></add>
+            <lb/>junker <persName>Heinrich Äscher</persName> |
+            <lb/>junker <persName>Wilperg Zoller</persName> |
+            <lb/>junker <persName>Hans Grebel</persName> |
+            <lb/>junker <persName>Rüdolf Hedinger</persName> der alt |
+            </p>
+            <p>Von der Constavel.
+            </p>
+           <p><lb/><persName>Fridly Pfiffer</persName> |
+            <lb/><persName>Kuenrät Äscher</persName>, sin soldner <persName>Hans</persName> |
+            <lb/><persName>Kuenrat Ascher</persName>|
+            <lb/><persName>Uely Weber</persName> |
+            <lb/><persName>Marx Suter</persName> |
+            <lb/><persName>Jörg Franck</persName> |
+            <lb/><persName>Vig Schön</persName> |
+            <lb/><persName>Hans Ott</persName> |
+            <lb/><persName>Dichtly</persName>,
+            <lb/><persName>Jacob Schönenberg</persName> |
+            <lb/><persName>Hanns Salenbach</persName> |
+            <lb/><persName>Bastion Haberstock</persName> |
+            <lb/><persName>Jos Schmid</persName> |
+           </p>
+            </div>
+            <pb n="[IV/2v]"/>
+            <div><p>
+                <lb/><persName>Bosshart von Wagenburg</persName> |
+                <lb/><del><persName>Spiegel</persName></del>
+                <lb/><persName>Steffan Nörlinger</persName>
+                <lb/><add place="left">sin soldner 
+                    <lb/><persName>Hans Bücheler</persName></add>
+                <lb/><add place="right"><del>sin soldner<lb/><persName>Hans Schwartz<lb break="no"/>ler</persName></del></add>
+                <lb/><persName>Jörg Dreyer</persName>. 
+            <lb/><persName>Äply von Mur</persName> |
+            <lb/>frawenwirdt.
+            </p>
+            <p>
+                <lb/>Unnd git man
+            <lb/>ein jedem <num value="3">3</num> <abbr>lb</abbr>,
+            <lb/>so man uszücht, und
+            <lb/>dem nach alle wuchen
+            <lb/><num value="1">ein</num> gulden.
+            </p>
+            </div>
+            <pb n="[IV/3r]"/>
+            <pb n="[IV/3v]"/>
+            <pb n="[IV/4r]"/>
+            <pb n="[IV/4v]"/>
+            <pb n="[IV/5r]"/>
+            <pb n="[IV/5v]"/>
+            <pb n="[IV/6r]"/>
+            <pb n="[IV/6v]"/>
+            <!-- IV/3r-IV/6v leer -->
+        </body>
+        <back>
+            <div>
+                <p>Am 20. Oktober 1520 erklärten die 11 Orte <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, <placeName ref="LOC_46.94809_7.44744">Bern</placeName>, <placeName ref="LOC_46.7847_8.64175">Uri</placeName>, <placeName ref="LOC_47.0405_8.74101">Schwyz</placeName>, <placeName>Unterwalden</placeName>,
+                    <placeName ref="LOC_47.17242_8.51745">Zug</placeName>, <placeName ref="LOC_47.04057_9.06804">Glarus</placeName>, <placeName ref="LOC_47.55839_7.57327">Basel</placeName>, <placeName ref="LOC_46.80237_7.15128">Freiburg</placeName>, <placeName ref="LOC_47.71034_8.63388">Schaffhausen</placeName> und <placeName ref="LOC_47.33103_9.40996">Appenzell</placeName> <persName ref="GND_118625357">Herzog Ulrich von
+                        Württemberg</persName> den Krieg. <persName ref="GND_118625357">Ulrich von Württemberg</persName> (1487-1550) war 1516 von <persName ref="GND_118579371">Kaiser
+                    Maximilian I.</persName> in Reichsacht versetzt und 1519 aus seinem Land verbannt worden. In
+                    der Folge versuchte er wiederholt, das Herzogtum mit Gewalt zurückzuholen. Er
+                    organisierte seine Kriegszüge von <placeName ref="LOC_47.20791_7.53714">Solothurn</placeName> und vor allem von <placeName ref="LOC_47.05048_8.30635">Luzern</placeName> aus. Beide Orte
+                    nahmen ihn Ende 1519 in ihr Bürgerrecht auf (1520 bestieg <persName ref="GND_118625357">Ulrich von Württemberg</persName>
+                    übrigens den <placeName ref="LOC_46.9804_8.2572">Pilatus</placeName>). Die eidgenössischen Orte weigerten sich, zu seiner Hilfe
+                    auszuziehen oder in diesem Zusammenhang Söldnerwerbungen zu erlauben. Im März und
+                    April 1519 hatten sie auf Bitte des Schwäbischen Bundes ihre Söldner im Dienst des
+                    Württembergers zurückgeholt. Die Kriegserklärung erfolgte schliesslich, weil sich
+                    der Herzog nicht auf Verhandlungen mit dem Kaiser eingelassen, den Mahnungen, nicht
+                    Krieg zu führen nicht nachgekommen und in der Eidgenossenschaft entgegen dem Verbot
+                    versucht habe, Söldner zu werben (<bibl><ref>EA 3,2, Nr. 843, h</ref></bibl>). <placeName ref="LOC_47.05048_8.30635">Luzern</placeName> und <placeName ref="LOC_47.20791_7.53714">Solothurn</placeName> setzten
+                    sich aber für ihren Bürger ein. Am 1. Dezember 1520 nahmen die 11 Orte die
+                    Kriegserklärung mit Mehrheitsbeschluss zurück (<bibl><ref>EA 3,2, Nr. 845, n</ref></bibl>).</p>
+                    <p>Mit der Aussicht auf den Kriegszug befahlen Bürgermeister und Rat am 17. Oktober
+                        1520, die Aushebung vorzunehmen (vgl. <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=1159184">StAZH A 42.1.10, Nr. 4</ref></bibl>). Die dem Reisrödel
+                    beigelegte Liste ist das Resultat der Aushebung auf Ebene der Constaffel. Das Datum
+                    fehlt in dieser «Soll-Liste», da der Kriegszug schlussendlich nicht stattfand. Die
+                    Datierung wird unterstützt durch die gut sichtbaren Wasserzeichen: Das Papier stammt
+                    aus der Papiermühle <placeName ref="LOC_47.20791_7.53714">Solothurn</placeName>, es wurde 1518 produziert.</p>
+                    <p>Ritter <persName>Johannes Franciscus a Stampa</persName>, aus einer Bündner Adelsfamilie, (fol. 2r, Z. 8),
+                    der 1512 ins Zürcher Bürgerrecht eingetreten war, führt die Liste der im Rüden
+                    versammelten «Stüblijunker» an. Den Abschluss der aus der Gemeinen Constaffel
+                    ausgezogenen Männer macht der Frauwenwirt (fol. 2v, Z. 6), also der Vorsteher des
+                    städtischen Bordells. </p>
+                <p><bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=1159184">StAZH A 42.1.10, Nr. 4, Aufgebot von Burgermeister und Rat der Stadt Zürich wegen 
+                        Gefahr kriegerischer Verwicklung anlässlich des Zugs des Herzogs von Württemberg</ref></bibl>; 
+                    EA; <bibl><ref target="https://www.wasserzeichen-online.de">Wasserzeichen-Informationssystem</ref></bibl>: <bibl><ref>Piccard, 
+                        CH7740-PO-77491; HBLS 6, S. 500: Stampa, a (della Stampa, von Stampa; in ältern 
+                        Urkunden Stamp oder Stampf)</ref></bibl>.
+                    </p>
+            </div>
+        </back>
+    </text>
+</TEI>

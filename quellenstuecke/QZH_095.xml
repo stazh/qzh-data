@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<?xml-model href="http://www.tei-c.org/ns/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Barbara Schmid</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Michael Schaffner</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_095</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5099699"
+                            >StAZH W I 15.210</idno>
+                    </msIdentifier>
+                    <head>Namen der im Freifähnlein unter Jörg Göldi Ausgezogenen</head>
+                    <msContents>
+                        <summary><!-- Ergänzen --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Original</filiation>
+                            <filiation type="original"><origDate when="1529"></origDate></filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1529"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000266">Krieg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- V [VI] Namen der im Freifähnlein unter Jörg Göldi Ausgezogenen, 1529 -->
+            <div><head>Juncker <persName>Jörg Góldy</persName> houptman gesin
+            <lb/>zum fryen fenly im <date when="1529">1529</date> jar
+            </head>
+           <p><lb/>Herr <persName>Hans Baschlin</persName>,
+            <lb/>herr <persName>Kunrat Wentzinower</persName>,
+            <lb/><persName>Jacob Ruff</persName>,<!-- GND! -->
+            <lb/><persName>Hans Jacob Seiler</persName>,
+            <lb/><persName>Jacob Schwitzer</persName> zum <placeName>Kratz</placeName>,
+            <lb/><persName>Hans Stoller</persName>,
+            <lb/><persName>Steffen Beris</persName>,
+            <lb/><persName>Bernhart Balber</persName>.
+           </p>
+            </div>
+            <pb n="[V/1v]"/>
+            <!-- leer -->
+        </body>
+        <back>
+            <div>
+                <p>Unter den Männern, die sich im ersten Kappelerzug 1529 zu einem Freifähnlein
+                    zusammenschlossen, findet sich auch ein <persName>Jakob Ruff</persName> bzw. Ruoff. Es handelt sich mit
+                    grosser Wahrscheinlichkeit um den um 1505 in <placeName>Konstanz</placeName> geborenen <persName>Jakob Ruf</persName>. Er wurde
+                    1531 <q>Stadtschnittarzt</q> (Chirurg) in <placeName ref="LOC_47.36667_8.55">Zürich</placeName> und sollte es als Arzt, Gelehrter und
+                    Autor von Theaterstücken zu nachhaltiger Bekanntheit bringen. Die neuste Literatur
+                    zu <persName>Ruf</persName> weiss von seiner Präsenz in <placeName ref="LOC_47.36667_8.55">Zürich</placeName> erst ab 1531 und weist die von <persName ref="117349569">Georg von
+                    Wyss</persName> 1889 in der Allgemeinen Deutschen Biographie gemachten Feststellung, er <q>zog
+                    mit dem Banner der Stadt 1529 und 1531 ins Feld nach Cappel</q> kategorisch zurück. Der
+                    Zettel, der dem Reisrödel der Constaffel beigelegt ist und die Soldliste sprechen
+                    nun deutlich für <persName>Rufs</persName> Teilnahme am ersten Kappelerzug. Er hatte sich über die
+                    Constaffel dem Freifähnlein unter <persName>Jörg Göldi</persName> angeschlossen – möglicherweise durchaus
+                    um so, wie viele andere, einen erleichterten Zugang zum Zürcher Bürgerrecht zu
+                    erhalten.
+                    </p>
+                <p><!-- msr: in den Kommentar integrieren? -->
+                    HLS; Keller, Hildegard Elisabeth, Einleitung, in: Jakob
+                        Ruf, S. 15: «… bis in die jüngsten Publikationen [hat sich] die Behauptung
+                        halten können, Ruf habe an den beiden Kappeler Kriegen teilgenommen und
+                        möglicherweise deswegen das Zürcher Bürgerrecht geschenkt bekommen». Dagegen:
+                        Wyss, Georg von, Rueff, Jacob, in: Allgemeine Deutsche Biographie 29 (1889), S.
+                        591-593 (https://de.wikisource.org/wiki/ADB:Rueff,_Jacob); Schmid, «Lieb und
+                        Leid tragen». Keller weist die Kriegsteilnahme Rufs mit dem Verweis auf eine
+                        Fehllesung einer Abschrift des Bürgerbuchs durch den Ruf-Biographen Robert
+                        Wildhaber (1929) zurück. Die Teilnahme an einem Freifähnlein vor der
+                        Niederlassung und dann dem Einkauf ins Bürgerrecht ist aber gängige Praxis im
+                        16. Jahrhundert. Eine (vorübergehende) Anwesenheit Rufs in Zürich und ein
+                        «Andienen» über den Kriegsdienst würde durchaus auch zu Rufs Spionageaktion im
+                        Vorfeld des 2. Kappelerkriegs passen, als er in Begleitung des Zürcher Scherers
+                        Rudolf Weber im Haus des Luzerner Schultheissen Johannes Honegger Kriegspläne
+                        der katholischen Orte belauschte und dem Zürcher Rat rapportierte (Schöbi,
+                        Stefan, Geselle auf Wanderschaft, in: Jakob Ruf, S. 75-76).
+                </p>
+            </div>
+        </back>
+    </text>
+</TEI>

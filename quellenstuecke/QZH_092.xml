@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<?xml-model href="http://www.tei-c.org/ns/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Barbara Schmid</persName>
+                    <resp key="transcript"/>
+                </respStmt>
+                <respStmt>
+                    <persName>Michael Schaffner</persName>
+                    <resp key="tagging"/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Staatsarchiv des Kantons Zürich</publisher>
+                <date type="electronic" when="2021-05-01"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Quellen zur Zürcher Geschichte</title>
+                <respStmt>
+                    <persName>Staatsarchiv des Kantons Zürich</persName>
+                    <resp>Herausgeberschaft</resp>
+                </respStmt>
+                <idno>QZH_092</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5099606"
+                            >StAZH W I 15.207</idno>
+                    </msIdentifier>
+                    <head>Sold der Auszüge nach Dijon (1513) und Mailand (1515)</head>
+                    <msContents>
+                        <summary><!-- Ergänzen --></summary>
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="current">Original</filiation>
+                            <filiation type="original"><origDate when="1519-03-25"></origDate></filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><material>Papier</material></support>
+                                <extent/>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate when="1519-03-25"/></origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc> </profileDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+                    <term ref="key000266">Krieg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><!-- II Sold der Auszüge nach Dijon (1513) und Mailand (1515), erstellt
+                    25. März 1519 -->
+                <head type="subtitle">Im Zug im Hoch<lb break="no"/>burgund im <date when="1513">1513</date>.
+            </head>
+            <p>+ <persName>Jacob Meiss</persName> banerherr
+            <lb/>mit zwey knechten, nam
+            <lb/>unns ein man ab
+            <lb/>unnd sind sin knecht
+            <lb/>+ <persName>Jacob Sprüngly</persName> und <persName>Zwifel</persName>.
+            <lb/><add place="margin">Dess Zwifels gelt nam Bernhart Utinger.</add>
+            <lb/>+ oo Nam frow <persName>Meisin</persName>
+            <lb/>für iren junckher und den <persName>Jacob Sprüngly</persName>
+            <lb/>+ <persName>Hanns Efinger</persName> unnd sin
+            <lb/>knecht o.</p>
+            <p><lb/>+ <persName>Jörg Göldly</persName>.</p>
+            <p><lb/>+ Cornell Schulthess nam unns
+            <lb/>ein man ab. Nam 
+            <lb/>er selbs.</p>
+            <p><lb/>+ Othmar Rordorff nam sin brueder
+            <lb/>Hartman Rordorff.</p>
+            <p><lb/>+ Diethelm Röyst.</p>
+            <p><lb/>+ Hanns Edlibach</p>
+            <p><lb/>+ Jos Ösenbry mit dem knecht,
+            <lb/>nam unns ein man ab
+            <lb/>nam Ludwig Ösenbry. o</p>
+            <p><lb/>+ Jacob Äscher schickt man Kuonrathen
+            <lb/>Äscher. Nam Kuenrat Äscher.</p>
+            <p><lb/>+ <persName>Marx Schulthess</persName>
+                </p>
+            </div>
+            <pb n ="[II/1v]"/>
+            <div><p>+ .... <persName>Klaus Risacher</persName>,
+            <lb/>+ <persName>Hanns Oth</persName>,
+            <lb/>+ <persName>Ruedy Grob</persName>,
+            <lb/>+ <persName>Hanns Karer</persName>,
+            <lb/>+ <persName>Cristoffel Maler</persName>,
+            <lb/>+ <persName>Hanns Margstein</persName>, trummen<lb break="no"/>schlacher,
+            <lb/>+ <persName>Hanns Vetter</persName>
+            <lb/>+ <persName>Uerich Spisegger</persName> nam <persName>Hanns
+            <lb/>Teck</persName> unnd sin frow,
+            <lb/>+ <persName>Wilhelm Spiegel</persName>,
+            <lb/>+ <persName>Goriuss Fuchs</persName> nam wirt
+            <lb/>zum <placeName>Storchen</placeName>.
+            <lb/>+ <persName>Kluntz</persName>.
+            </p>
+            </div>
+            <pb n="[II/2r]"/>
+            <div>
+                <head type="subtitle">Im Zug inn <placeName>Meyland</placeName>,
+            <lb/>was <persName>Rudolf Ran</persName> houptman.</head>
+            <p>+ Junckher <persName>Jacob Schwennd</persName>,
+            <lb/>an sin stat <persName>Hanns Egly</persName>,
+            <lb/>nam <persName>Hanns Egly</persName>.
+            <lb/>+ <persName>Spisegger</persName> nam <persName>Hanns Teck</persName>
+            <lb/>zu hannden seiner frowen,
+            <lb/>+ <persName>Jörg Frannck</persName>,
+            <lb/>+ <persName>W Spiegel</persName>,
+            <lb/>+ <persName>Kropf Schönenberg</persName>,
+            <lb/>+ <persName>Hanns Bader genant Salenbäch</persName>,
+            <lb/>+ <persName>Grat Wol</persName>.
+            </p>
+            </div>
+            <pb n="[II/2v]"/>
+            <div><head type="subtitle">Im Zug inn <placeName>Meyland</placeName> was
+            <lb/>herr <persName>Röyst</persName> houptman.</head>
+            <p>+ Herr <placeName>Röyst</placeName> houptman,
+            <lb/>+ ist <placeName>Hochholtzer</placeName> der eini knecht.</p>
+            <p><lb/>+ <persName>Jacob Meiss</persName> bannerherr. oo,
+            <lb/>namlich sin zwen knecht
+            <lb/>+ <persName>Jacob Sprüngly</persName> und <persName>Zwifel</persName>,
+                <add place="margin">Des <persName>Zwifels</persName> gelt nam <persName>Bernhart Utinger</persName>.</add>
+            <lb/>nam frow <persName>Meisen</persName> irs junckher
+            <lb/>und <persName>Jacob Sprüngl</persName>y</p>
+            <p><lb/>+ <persName>Kornell Schulthess</persName> .o. nam ers
+            <lb/>selbs,
+            <lb/>+ <persName>Diethelm Röyst</persName> .o.,
+            <lb/>+ herr <persName>Jacob Äscher</persName> .o.,
+            <lb/>+ <persName>Jung Jörg Grebel</persName>, nam sin
+            <lb/>brueder <persName>Adrian</persName>, 
+            <lb/><persName>Wilperg Zoller</persName> .o.,
+            <lb/><persName>Gerold Edlibach</persName>, <persName>Klaus Rot</persName>, sin
+            <lb/>knecht. .o.
+            <lb/>+ <persName>Marx Schulthess</persName> .o.
+            <lb/>+ <persName>Allexannder Metzger</persName> .o.
+            <lb/>nam <persName>Ritz Blüwler</persName>
+            <lb/>von <placeName>Zollikon</placeName>.</p>
+            </div>
+            <pb n="[II/3r]"/>
+            <div><p>+ <persName>Ludwig Dietschy</persName> nam er selbs.
+            <lb/>+ <persName>Hanns Hüpscher </persName> <add place="margin">Nam davon
+                <del>Kuenrat Äschli d</del> meister <persName>Hanns 
+                <lb/>Appentegger</persName>
+                <lb/><num>18</num> batzen,
+                <lb/><num>1</num> s, <num>8</num> d.
+                <lb/>Item unnd gemeiner
+                <lb/>Constavel
+                <lb/>knecht <num>8</num> s,
+                <lb/>das überig lit 
+                <lb/>inn der büchsen.
+            </add>
+            <lb/>+ <persName>Hanns Bücheler</persName>,
+            <lb/><persName>Kuonrat Meyer</persName>,
+            <lb/>+ <persName>Hanns Vetter</persName>.
+            <lb/>+ <persName>Kuenrat Kochlöffe</persName>l. Lueg im
+            <lb/>rodel.
+            </p>
+            </div>
+            <pb n="[II/3v]"/>
+            <!-- leer -->
+            <pb n="[II/4r]"/>
+            <div>
+                <head type="subtitle">Die fryen im <persName>Hoch
+            <lb/>Burgund.</persName>
+            </head>
+           <p><lb/><persName>Jacob Schwend</persName>,
+            <lb/>sin knecht <persName>Frantzoss</persName></p>
+            <p><lb/>+ <persName>Bernhart Blarer</persName>,
+            <lb/>+ <persName>Bernhart Blarer</persName>, knecht</p>
+           <p><lb/>+ Dietschy, nam er selbs</p>
+            <p><lb/>+ <persName>Heinrich Asper</persName> nam <persName>Margreth
+            <lb/>Asperin</persName>, sin schwöster.
+            <lb/><persName>Heiny Holmeyer</persName></p>
+            <p><lb/>+ <persName>Heiny Lindiner</persName>, <persName>Edlibachs</persName> knecht.</p>
+            <p><lb/>– <persName>Wolf von Winckelsheim</persName>,
+            <lb/>– <persName>Beringer</persName>, sin knecht.</p>
+            <p><lb/>+ <persName>Heiny Volmer</persName>, <persName>Marxen Schulthessen</persName>
+            <lb/>knecht, nam <persName>Marxen Schulthess</persName>.</p>
+            <p><lb/>+ <persName>Heinrich Landenberg</persName>, nam
+            <lb/><persName>Thoman zum Rüden</persName>.</p>
+            <p><lb/>+ <persName>Michel Spöry</persName>, nam <persName>Hans
+            <lb/>Werdmüller</persName>.</p>
+            <p><lb/>+ <persName>Jos Geiler</persName>, nam <persName>Wilhelm
+            <lb/>Spiegel</persName>.
+           </p>
+            </div>
+            <pb n="[II/4v]"/>
+            <div><p><persName>Ludwig Hösch</persName>,
+            <lb/><persName>Grossman</persName>, sin knecht</p>
+            <p><lb/><persName>Urich Schriber</persName></p>
+            <p><lb/>+ <persName>Hanns Richart</persName> nam er selbs</p>
+            <p><lb/>+ <persName>Ueli Gugeltz</persName>, paner herren
+            <lb/>knecht, nam sin brueder
+            <lb/><persName>Wernnly Gugeltz</persName></p>
+            <p><lb/>+ <persName>Hans Schnider</persName>, nam er selbs</p>
+                <p><lb/>+ <persName>Jörg Franck</persName>, nam knecht <add place="above">Kornellen</add>
+            <lb/><persName>Cornell Schulthess</persName></p>
+            <p><lb/>+ <persName>Peter Löffler</persName></p>
+            <p><lb/>+ <persName>Cuonrat Kochlöffler</persName></p>
+            <p><lb/>+ <persName>Schwitzer Hanns</persName>, nam er selbs</p>
+            <p><lb/>+ <persName>Uelrici</persName> nam sin selbst
+            <lb/>im by sin <persName>Jörg Francken</persName></p>
+            <p><lb/>+ <persName>Jörg Franck</persName></p>
+            <p><lb/>+ <persName>Hanns Pur</persName> ist sin bürg,
+            <lb/>ob er im krieg wery. <persName>Lienhart
+            <lb/>Ebner</persName>.
+            <lb/><persName>Eberhart von Rischach, der
+            <lb/>Jung</persName></p>
+            <p><lb/><persName>Thoman Mul</persName>,
+            <lb/><persName>Heinrich Koch</persName>
+            </p>
+            </div>
+            <pb n="[II/5r]"/>
+            <div><p>Schultheiss <persName>Efingers</persName> sömer</p>
+            <p><lb/>+ <persName>Hanns von Lachen</persName> der
+            <lb/>vom <placeName>Knöringen</placeName> knecht
+            <lb/>nam sin frow.</p>
+            <p><lb/>+ <persName>Felix Rordorff</persName> nam sin
+            <lb/>mueter</p>
+            <p><lb/>+ <persName>Hanns Grünenberg</persName>
+            <lb/>nam <persName>Wilhelm Spiegel</persName></p>
+            <p><lb/><persName>Marty Schuomacher</persName></p>
+            <p><lb/>+ <persName>Cristen Albis</persName> nam er selbs</p>
+            <p><lb/>+ <persName>Hans Spiegel</persName></p>
+            <p><lb/>+ <persName>Jörg Messmer</persName> nam <persName>Hanns
+            <lb/>Kluntz</persName></p>
+            <p><lb/>+ <persName>Hanns Äpply</persName></p>
+            <p><lb/><persName>Heiny Bertschy</persName>, somer,</p>
+            <p><lb/>+ <persName>Hans Kuenrat Äscher</persName></p>
+            <p><lb/>+ <persName>Hanns Kürsiner</persName>, ist sin
+            <lb/>bürg, <persName>Bernhart Güntz</persName>, ob er im krieg wery</p>
+            <p><lb/><persName>Cuenrat Koch</persName>,
+            <lb/>+ nam <persName>Jacob 
+            <lb/>Günthart</persName>
+            </p>
+            </div>
+            <pb n="[II/5v]"/>
+            <div><p>+ <persName>Wernly Kerotz</persName>, nam
+            <lb/><persName>Kuenrat Äscher</persName>, 
+            <lb/>+ <persName>Heiny Folmy</persName>, 
+            <lb/>+ <persName>Junghans Körber</persName>
+            </p>
+            </div>
+            <pb n="[II/6r]"/>
+            <div><p>Von disem sold ist 
+            <lb/>eim jedem ussgenommen
+            <lb/><num value="2">2</num> gulden rinisch verordnet.</p>
+            <p><lb/>Item einem fryen
+            <lb/><num value="1">1</num> guldin rinisch.</p>
+            <p><lb/>Unnd denen, so
+            <lb/>under <persName>Kuenraten Engelhardt</persName>
+            <lb/>gezogen sind, ist nütt
+            <lb/>worden, wann sy unns
+            <lb/>noch schuldig sind. </p>
+            <p><lb/>Unnd nach dem so 
+            <lb/>man mit inen
+            <lb/>gerechnot hat, so ist ein
+            <lb/>jedem worden <num value="11.5">11 1/2</num> batzen.</p>
+            <p><lb/>Item minen herren
+            <lb/>ist unns zue handen
+            <lb/>herren unnd gesellen
+            <lb/>der Constavel zum <placeName>Ruden</placeName>
+            <lb/>überantwurt.</p>
+            <p><lb/>Namlich:</p>
+            <p><lb/><num value="146">146</num> gulden uff die
+            <lb/>ussgenommnen.</p>
+            <p><lb/><num value="46">46</num> gulden uff die
+            <lb/>fryen.</p>
+            <p><lb/>Unnd ist somlich bezalung
+                <lb/>beschechen uff <date when="1519-03-25">unnser
+            <lb/>frowen tag zu mittervasten
+            <lb/>im nünzechenden jare.</date></p></div>
+            <pb n="[II/6v]"/>
+            <!-- leer -->
+            <pb n="[II/7r]"/>
+            <div><head type="subtitle">Dis sind zogen
+            <lb/>under junker <persName>Kuenrat
+            <lb/>Engelhart</persName>.</head>
+            <p>+ herr <persName>Renwart Göldly</persName>, ritter,
+            <lb/>nam er selbs.</p>
+           <p> <lb/>+ herr <persName>Jacob Äscher</persName>, sin knecht,
+            <lb/><persName>Uelrich Sturm</persName>, nam 
+            <lb/>der knecht selbs</p>
+            <p><lb/>junker<persName> Gerold Meyer von
+            <lb/>Knonow</persName>, sin knecht
+            <lb/><persName>Batt Efinger</persName></p>
+            <p><lb/>+ Alt <persName>Jörg Grebel</persName>, sin
+            <lb/>knecht <persName>Jacob Rügger</persName>, nam
+            <lb/><persName>Jacob Ruegers</persName> frow</p>
+            <p><lb/>+ <persName>Uely von Roschach</persName>,
+            <lb/>nam er selbs</p>
+            <p><lb/>+ <persName>Vitt Hüpscher</persName>, nam sin fraw</p>
+            <p><lb/>+ <persName>Fridly Metzger</persName>, nam
+            <lb/><persName>Hanns Wipf</persName></p>
+            <p><lb/>+ <persName>Hanns Niggly</persName>, nam 
+            <lb/>er selbs
+            </p>
+            </div>
+            <pb n="[II/7v]"/>
+            <div><p>+ <persName>Fridly Meyer von Eych</persName>,
+            <lb/>sin knecht <persName>Uelrich Kalcher</persName>,
+            <lb/>nam der knecht selbs</p>
+            <p><lb/>+ <persName>Hanns Wipff</persName>, nam
+            <lb/>er selbs</p>
+           <p><lb/>+ <persName>Hanns Gretzer</persName>, nam er 
+            <lb/>selbs</p>
+                <p><lb/>+ <persName>Heinrich Frick</persName>, nam
+            <lb/><persName>Wilhelm Spiegel</persName></p>
+            <p><lb/>+ <persName>Cristen Albis</persName>, nam 
+            <lb/>er selbs</p>
+            <p><lb/>+ <persName>Cymprecht Grünenberg</persName>
+            <lb/>nam er selbs.
+            </p>
+            </div>
+            <pb n="[II/8r]"/>
+            <pb n="[II/8v]"/>
+            <!-- II/8r-II/8v leer -->
+        </body>
+        <back>
+            <div>
+                <p>Die flüchtig geschriebenen Notizen in diesem schmalen Büchlein geben höchst interessante 
+                    Aufschlüsse zur «Kriegsbuchhaltung» der Constaffel. Inhaltlich betreffen die Angaben den 
+                    Dijonerzug 1513 und die drei Auszüge nach Mailand im Sommer 1515. Die Abrechnungen 
+                    wurden aber erst vier Jahre nach Marignano bzw. sechs Jahre nach dem Zug ins Burgund 
+                    vorgenommen: die Aufzeichnung auf fol. 5r, Z. 28 ist auf den 25. März 1519 datiert. Der 
+                    Reisrödel der onstaffel diente dieser Abrechnung als Referenz – auf fol. 3r, Z. 7 notierte 
+                    sich der Schreiber mit den Worten «lueg im rodel», dass er betreffs Konrad Kochlöffel 
+                    da nachschlagen wolle. Mehrere der Aufgeführten – alles Ratsherren – kamen bei Marignano 
+                    um: Pannerherr Jacob Meiss, Fähnrich Jacob Schwend, Alexander Metzger und der hier 
+                    als «selig» bezeichnete Jacob Escher (Luginbühl, Anonyme Schweizerchronik, S. 191). 
+                    Auch dies belegt die spätere Entstehungszeit.
+                </p>
+                <p>Die vielen Zeichen, Streichungen und Zusätze geben
+                    eindrückliche Einblicke in den Alltag des städtischen Wehrwesens. Hier
+                    kontrollierten die Verantwortlichen der Constaffel, erstens, ob die Genannten
+                    tatsächlich in den Zügen nach Dijon und Mailand dabei gewesen waren, zweitens,
+                    ob und wieviel Sold die Constaffel ihnen noch schuldete, drittens, ob und an wen
+                    das Geld ausbezahlt worden war («nam er selbs» / «nam sin frau»). In einzelnen
+                    Fällen brachten die Auszüger Bürgen bei, die ihre Kriegsteilnahme bezeugen
+                    mussten. Konrad Kochlöffel konnte vorbringen, dass er im Rodel – also im
+                    Hauptrodel der Constaffel – aufgeführt sei, und entsprechend vermerkte der
+                    Schreiber «lueg im rodel». Die Ausführungen auf fol. 6r, gemäss denen die
+                    Auszüger unter Konrad Engelhard keinen Sold ausbezahlt erhielten, «weil sie bei
+                    uns noch Schulden haben», machen zudem deutlich, dass die Constaffel auch als
+                    eine Art Bank fungierte. Die Gesellschaft schoss Geld vor, damit ihre Auszüger
+                    sich mit Proviant und vielleicht auch Waffen ausrüsten konnten. Auffällig ist,
+                    wie häufig Verwandte für die Ausgezogenen das Geld entgegennahmen (Bruder,
+                    Mutter, Schwester, Ehefrau). Möglicherweise handelt es sich hier um die
+                    Angehörigen von Männern, die im Krieg umgekommen waren oder die sich nicht in
+                    der Stadt befanden.
+                </p>
+                <p>Die städtische Auszugsliste (<bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5065059">StAZH A 30.3, Nr. 55, S. 4</ref></bibl>)
+                    bestätigt die Namen von Renwart Göldi, Jacob Escher, Gerold Meyer mit seinem
+                    Knecht Bat Effinger, Jörg Grebel, Ulri von Roschach, Vitt Hüpscher, Fridli
+                    Metzger, Hans Nägeli, Fridli Meyer, Hans Wipff, Hanns Gretzer, Heinrich Frick,
+                    Cristan ab Albiss und Gumbrecht Grünenberg.
+                </p>
+                <p><bibl><ref>Luginbühl, Anonyme Zürcher- und Schweizerchronik.</ref></bibl>
+                </p>
+            </div>
+        </back>
+    </text>
+</TEI>
