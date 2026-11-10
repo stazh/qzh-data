@@ -84,7 +84,7 @@
            <head type="subtitle"> Item diss ist miner herren zum <placeName>Rüden</placeName> reyss rodell</head>
                 <p>
             <lb/>Her <persName>Marx Röyst</persName>, burgermeister,
-                    <lb/><persName>Her Heinrich Göldi</persName>, ritter, alt burgermeister,
+                    <lb/>Her <persName>Heinrich Göldi</persName>, ritter, alt burgermeister,
                     <lb/>her <persName>Ruodolff Èscher</persName>
             <lb/>her <persName>Felix Grebell</persName> ritter,
                     <lb/>her <persName>Jacob Èscher</persName> ritter,
@@ -241,7 +241,8 @@
                         herstellt (Leister / Leistenschneider: Idiotikon 3, 1471, Anmerkung und 9, 1133).</note>
                 </p>
                 <p>
-            <lb/>Wittwen, die ouch reysen sond:
+            <lb/>Wittwen, die ouch reysen sond:</p>
+                <p>
                     <lb/><persName>Zollerin</persName>,
                     <lb/><persName>Margreth Müllerin</persName> oder von <placeName>Lindouw</placeName>,
                     <lb/><persName>Landabergerin</persName>.
@@ -249,7 +250,7 @@
             </div>
             <pb n="5 v"/>
             <div>
-               <head type="subtitle"><persName>Cratz</persName> </head>
+               <head type="subtitle"><placeName>Cratz</placeName> </head>
                 <p>
                     <lb/><persName>Uolritze Medick</persName>,<note>Die Seite verrät, dass der Schreiber seine Liste der
                         Männer aus dem <placeName>Kratz</placeName>, dem Zürcher Armenquartier, mehrfach durchgegangen ist. Die
@@ -304,14 +305,14 @@
                     <pb n="11 v"/>
             <pb n="12 r"/>
             <div>
-                <head type="subtitle">Item im 1503 jar zog man ge <persName>Lokarniss</persName> vie <persName>Kur</persName> uf
+                <head type="subtitle">Item im 1503 jar zog man ge <placeName>Lokarniss</placeName> vie <placeName>Kur</placeName> uf
                     <lb/>uiber den <placeName>Fogell</placeName><!-- San Bernardino GR --> und war uns im Konstafell 18 man
                     <lb/>uf geleitt</head><note><placeName>Zürich</placeName> folgte am 20. März 1503 der Mahnung von <placeName>Uri</placeName>, <placeName>Schwyz</placeName>
                         und <placeName>Nidwalden</placeName> um kriegerischen Beistand, um <persName>Ludwig XII. von Frankreich</persName> zur
                         Übergabe der von den drei Orten beanspruchten Grafschaft <placeName>Bellinzona</placeName> zu zwingen
                         (sog. <q>Bellenzerzug</q>). Die Constaffel mussten 18 Mann stellen. Die meisten der
                         zur Kriegsleistung aufgerufenen Männer reisten allerdings nicht persönlich nach
-                        <placeName>Chur</placeName> und von da über den <placeName>San Bernardino</placeName> Pass (den <q>Fogell</q> bzw. <placeName>Vogelberg</placeName>),
+                        <placeName>Chur</placeName> und von da über den <placeName>San Bernardino Pass</placeName> (den <q>Fogell</q> bzw. <placeName>Vogelberg</placeName>),
                         sondern bezahlten einen Söldner. Anstelle von <persName>Gerold Edlibach</persName> (1454-1530), der
                         in seiner Chronik kurz von diesem Auszug berichtet (Edlibach, S. 234), reiste
                         ein <persName>Caspar Femgy</persName>, <q>Herr Escher</q> (da dieses Mitglied der grossen Familie Escher
@@ -324,8 +325,8 @@
                         Kasse der Schützengesellschaft. Die Constaffler bezahlten zudem den Säumer, <persName>Hans
                         Irnig</persName>. Er stellte zwei Maultiere zur Verfügung und erhielt pro Tag 15
                         Schilling Sold für seine Dienste. Der ganze Trupp war 31 Tage unterwegs, kehrte
-                        also am 20. April nach <placeName>Zürich</placeName> zurück. (Edlibach, Zürcher- und Schweizerchronik, S. 234; EA 3,2, Nr. 117 (21. März 103), Nr.
-                        118 (28. März 1503), Nr. 120 (4. April 1503), Nr. 121 (<q>Friede von <placeName>Arona</placeName></q>, 10.-11.
+                        also am 20. April nach <placeName>Zürich</placeName> zurück. (<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Edlibach, Zürcher- und Schweizerchronik</ref>, S. 234</bibl>; <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">EA 3,2</ref>, Nr. 117 (21. März 103), Nr.
+                        118 (28. März 1503), Nr. 120 (4. April 1503), Nr. 121</bibl> (<q>Friede von <placeName>Arona</placeName></q>, 10.-11.
                         April 1503: Stadt und Grafschaft <placeName>Bellinzona</placeName> gingen an <placeName>Uri</placeName>, <placeName>Schwyz</placeName> und <placeName>Nidwalden</placeName>, die
                         das Gebiet bis 1798 als <q>ennetbirgische Vogtei</q> regierten).
                     </note>
@@ -381,7 +382,7 @@
                         also Angehörige der Trinkstube sind (und jährlich 8 Schilling Fronfastengeld
                         bezahlen) – befindet sich auf fol. 14v. Es handelt sich um Inhaber von im Zürcher
                         Gebiet gelegenen Gerichtsherrschaften. Drei davon, nämlich <persName>Trieb</persName>, <persName>Rogwiller</persName> (fol.
-                        14v als Junker bezeichnet) und <q>der <persName>uf Widen</persName></q> waren demnach 1503 wie auch 1511 der
+                        14v als Junker bezeichnet) und <q>der uf <placeName>Widen</placeName></q> waren demnach 1503 wie auch 1511 der
                         Constaffel und damit dem Stadtbanner zugeschlagen. Es handelt sich um folgende
                         Personen: <persName>Bosshard von Hürnen</persName>: Ursprünglich Bauern aus
                         <placeName>Bauma</placeName>. Ein <persName>Bosshard</persName> übernahm die Burg <placeName>Gryffenberg</placeName> ob <placeName>Bäretswil</placeName>.
@@ -416,7 +417,7 @@
                 </p>
             <pb/>
                 <p>
-            <lb/>[<persName>Eingefügter Zettel</persName>]<!-- msr: noch kollationieren -->
+            <lb/>[Eingefügter Zettel]<!-- msr: noch kollationieren -->
             <lb/>Die erst bezalung ainem uss zognen 4 kronen 1 dicken
                     einem
             <lb/>
@@ -426,8 +427,15 @@
                 fryen 6 dick 10 s und den frembden 1 kronen
             <lb/>Die drit bezalung ainem uszognen 2 gl und einem
             <lb/>
-                    fryen 1 gl und den frömden frit nüdt.<note>Der kleine Zettel fand sich hinter den Bund eingeschoben, auf dem die Auszüge zwischen 1503 und 1515 festgehalten sind, doch ist unbekannt, in welchem Jahr diese Soldansätze galten. Die Handschrift hat ein paar Auffälligkeiten (etwa das kleine -b-, das mit einem Aufstrich ansetzt.) Sie erlauben festzustellen, dass ihr Schreiber nicht an der Entstehung des Reisrödels oder den dazugehörigen Rödeln beteiligt war. 
-                        <lb/>Aufschlussreich ist die Unterscheidung der <q>Lohnklassen</q>: ein <q>Ausgezogener</q>, also ein Mann, der aufgrund seines Bürgerrechts Kriegsdienst leistet, erhält am meisten Geld, ein <q>Freier</q>, also ein Mann, der sich freiwillig meldet, etwa einen Viertel weniger und ein <q>Fremder</q> nur die Hälfte des dem Bürger zustehenden Betrags bzw. erhält gar keine dritte Bezahlung (Z. 6: <q>frit nüt</q> heisst: er hat nichts zugute). <q>Freie</q> und <q>Fremde</q> werden unterschieden, was bedeuten würde, dass hier ausschliesslich Freiwillige aus Stadt und Landschaft Zürich oder aus der Eidgenossenschaft insgesamt als <q>Freiknechte</q> bezeichnet wurden. 
+                    fryen 1 gl und den frömden frit nüdt.<note>Der kleine Zettel fand sich hinter den Bund eingeschoben, auf dem 
+                        die Auszüge zwischen 1503 und 1515 festgehalten sind, doch ist unbekannt, in welchem Jahr diese Soldansätze galten. Die Handschrift hat 
+                        ein paar Auffälligkeiten (etwa das kleine -b-, das mit einem Aufstrich ansetzt.) Sie erlauben festzustellen, dass ihr Schreiber nicht an der 
+                        Entstehung des Reisrödels oder den dazugehörigen Rödeln beteiligt war. 
+                        <lb/>Aufschlussreich ist die Unterscheidung der <q>Lohnklassen</q>: ein <q>Ausgezogener</q>, also ein Mann, der aufgrund seines 
+                        Bürgerrechts Kriegsdienst leistet, erhält am meisten Geld, ein <q>Freier</q>, also ein Mann, der sich freiwillig meldet, etwa einen 
+                        Viertel weniger und ein <q>Fremder</q> nur die Hälfte des dem Bürger zustehenden Betrags bzw. erhält gar keine dritte Bezahlung (Z. 6: <q>frit nüt</q> heisst: 
+                        er hat nichts zugute). <q>Freie</q> und <q>Fremde</q> werden unterschieden, was bedeuten würde, dass hier 
+                        ausschliesslich Freiwillige aus Stadt und Landschaft Zürich oder aus der Eidgenossenschaft insgesamt als <q>Freiknechte</q> bezeichnet wurden. 
                         <lb/>Unter der Annahme, dass 3 kr = 4 fl [Gulden] gerechnet
                         wurden und 1 Dicken = 15 s ist, ergibt das folgende Beträge:
                         <lb/>1. 6 lb 15 s; 5 lb 5 s; 3 lb
@@ -452,7 +460,9 @@
                     sich. Sie enthielt, gemäss Abrechnung, Käse, Ziger, Hafermehl, Gersten, Heringe
                     (gesalzen) und Bücklinge (<q>bicking</q>, ganze geräucherte Heringe), Zwiebeln
                     (<q>bellen</q>) und Salz, Butter, Fässchen (<q>lagela</q>), <q>zulch</q>, Nüsse und <q>platra</q>, einen Ledersack, 
-                    <q>kercha</q>, Hafer, Scherter (d.h. weisse, feine Leinwand) und Brot. Zudem mussten ein Seiler, ein Maler, ein Sattler und ein Bote bezahlt werden. Viereinhalb Pfund kosteten Essen und Getränke, die im Rüden verzehrt worden waren. Insgesamt gab die Constaffel 40 Pfund und 5 Schilling für die Versorgung ihrer Krieger aus.
+                    <q>kercha</q>, Hafer, Scherter (d.h. weisse, feine Leinwand) und Brot. Zudem mussten ein Seiler, ein Maler, ein Sattler und ein Bote bezahlt werden. 
+                    Viereinhalb Pfund kosteten Essen und Getränke, die im <placeName>Rüden</placeName> verzehrt worden waren. 
+                    Insgesamt gab die Constaffel 40 Pfund und 5 Schilling für die Versorgung ihrer Krieger aus.
                     Saum meint ursprünglich die Ladung (bestehend aus zwei Packen, Fässern o.ä.), die ein Saumtier tragen kann und entwickelte sich dann zu einer Mass- und Gewichtseinheit. 
                     Die Wörter <q>zulch</q>, <q>platra</q> und <q>kercha</q> konnten nicht sicher identifiziert werden. Platra (wie
                     Blettli) könnten getrocknete Scheiben von Rüben sein. Kerche meint möglicherweise die Chrieche also eine
@@ -460,7 +470,7 @@
                     Wort Ziger ersetzt, könnte es sich um ein Milchprodukt
                     handeln. – Nach Auskunft des Idiotikon-Teams verweisen die dialektalen Merkmale den
                     Schreiber <q>mit ziemlicher Sicherheit</q> ins Urnerland. Oder führt die Spur etwa ins
-                    deutschsprachige Piemont? Es handelt sich ja um die Abrechnung mit Hans Irnig,
+                    deutschsprachige Piemont? Es handelt sich ja um die Abrechnung mit <placeName>Hans Irnig</placeName>,
                     dessen Maultiere mit einem Wort <q>ruos</q> bezeichnet werden, das
                     für den Ort Alagna (Walserdeutsch: Lannja / Im Land) belegt ist. (Saum II, in: Idiotikon 7, 944-949).</note>
                 <p>
@@ -492,7 +502,11 @@
             <pb n="13 v"/>
             <div> 
                 <head type="subtitle">Uss gen im zug gen <placeName>Lokarniss</placeName> im 1503 jar</head>
-                <p><lb/>Item <persName>Felix Wisen</persName><note>Die Namen von <persName>Felix Wiss</persName> und <persName>Ulrich (<q>Uorrich</q>) Leiser</persName> erscheinen im Rodel nur an dieser Stelle. Leiser kann nicht identifiziert werden, bei <persName>Felix Wiss</persName> könnte es sich um den Mann handeln, der 1512/13 eine französische Pension von 5 Kronen erhalten und deswegen verurteilt wurde (Rogger, Geld, 266). Jedenfalls gab er von den 70 Goldgulden und den 10 Gulden, welche in diesem Fall zu 15 Batzen gerechnet wurden, 24 Goldgulden und 8 Kronen wieder zurück. Weitere Details lassen sich den Zeilen nicht entnehmen, handelt es sich doch nicht um eine Abrechnung, sondern um eine Notiz, in der der Schreiber, der ja wusste, worum es ging, festhielt, wieviel Bargeld den Auszügern mitgegeben wurde. Es ist anzunehmen, dass die beiden Männer das Geld in Beuteln transportierten und dass sie möglicherweise nicht zusammen reisten, um so die Wahrscheinlichkeit zu erhöhen, dass wenigstens ein Teil des Geldes sicher ankam. 
+                <p><lb/>Item <persName>Felix Wisen</persName><note>Die Namen von <persName>Felix Wiss</persName> und <persName>Ulrich (<q>Uorrich</q>) Leiser</persName> erscheinen
+                    im Rodel nur an dieser Stelle. Leiser kann nicht identifiziert werden, bei <persName>Felix Wiss</persName> könnte es sich um den Mann handeln, der 1512/13 eine französische Pension von 5 Kronen erhalten und deswegen verurteilt wurde 
+                    (Rogger, Geld, 266). Jedenfalls gab er von den 70 Goldgulden und den 10 Gulden, welche in diesem Fall zu 15 Batzen gerechnet wurden, 24 Goldgulden und 8 Kronen wieder zurück. Weitere Details lassen sich den Zeilen nicht entnehmen, 
+                    handelt es sich doch nicht um eine Abrechnung, sondern um eine Notiz, in der der Schreiber, der ja wusste, worum es ging, festhielt, wieviel Bargeld den Auszügern mitgegeben wurde. Es ist anzunehmen, dass die beiden Männer das Geld in Beuteln 
+                    transportierten und dass sie möglicherweise nicht zusammen reisten, um so die Wahrscheinlichkeit zu erhöhen, dass wenigstens ein Teil des Geldes sicher ankam. 
                     <lb/>Gulden und Kronen sind Goldmünzen. Ab Ende des 15.
                     Jahrhunderts verdrängte in der Eidgenossenschaft die französische Krone (écu
                     d’or) allmählich den rheinischen Gulden. Der Batzen war um die Zeit die
@@ -847,10 +861,11 @@
                 <head type="subtitle">Item die zugend uss am 27 tag meyens aunda zum hertzog in
                     <lb/><placeName>Meyland</placeName> und gaben min herren jettlichem all tag 6 ss so lang
                     <lb/>IV dass fennli uss wass für ir lyffrung und wz uns 11 man uffgleit.
-                    <lb/>Da nammen unss her <persName>Felix Grebel</persName> schützen houptman, <persName>Jacob Schwend</persName> fenn<lb break="no"/>rich und <persName>Cornnel Schulthess</persName> dry man ab, dz warend ire knecht
+                    <lb/>Da nammen unss her <persName>Felix Grebel</persName> schützen houptman, <persName>Jacob Schwend</persName> fenn<lb break="no"/>rich 
+                    und <persName>Cornnel Schulthess</persName> dry man ab, dz warend ire knecht
             <lb/>�<note place="margin" type="conversion" resp="#docxtotei"
                             >unable to handle picture here, no embed or
-                            link</note>
+                            link</note><!-- msr: überprüfen -->
                     <add place="margin">IV Wz her <persName>Schmid</persName>
                         <lb/>houptmann mit</add>
                 </head>
@@ -1006,8 +1021,8 @@
                 <lb/>zum hertzogen von <placeName>Meyland</placeName> umb sold und nach sag der vereynug
                 <lb/>und verwist inen kein reiss und ist ir houptman <persName>Ruodolf Ran</persName></head>
               <p>
-                  <lb/>gl + <persName>Junckher Jacob Schwend</persName> <add  place="inline">an sin stat <persName>Hanns Egly</persName> / hat genomen 7 lb 11 s 3 d</add>
-                  <lb/> + Spíssegger <add  place="inline">verboten</add> <add  place="inline"><persName>Nam Hanns Teck</persName> zù handen Spíseggers frowen</add>
+                  <lb/>gl + Junckher <persName>Jacob Schwend</persName> <add  place="inline">an sin stat <persName>Hanns Egly</persName> / hat genomen 7 lb 11 s 3 d</add>
+                  <lb/> + <persName>Spíssegger</persName> <add  place="inline">verboten</add> <add  place="inline">Nam <persName>Hanns Teck</persName> zù handen <persName>Spíseggers</persName> frowen</add>
                   <lb/> gl + <persName>Jörg Franck</persName> <del>verboten der scherer</del> <add  place="inline">hab inn zalt</add>
                   <lb/>gl + Spíegel <add  place="inline">zalt</add> <add place="right">summa 7</add>
                   <lb/>gl + <persName>Kropf Schonenberg</persName> <add place="inline">zalt</add>
@@ -1151,9 +1166,9 @@
           </div>
           <pb n="19 v"/>
           <div>
-              <head type="subtitle"><persName>Dis</persName> sind uszogen zum panner mit herr burgermaister <persName>Röisten</persName> houptmann
+              <head type="subtitle">Dis sind uszogen zum panner mit herr burgermaister <persName>Röisten</persName> houptmann
                 <lb/>zuo ziechen / uff sannt <persName>Jacobs</persName> tag im 1500 und 15 jar / und zúchen
-                <lb/>min herren mit 2000 mannen und ist der <persName>Constavel</persName> ufgelegt
+                <lb/>min herren mit 2000 mannen und ist der Constavel ufgelegt
                 <lb/>26 man und sind hinweg zogen und zog man hín weg
                 <lb/>uf samstag nach <persName>Barttollomeygy</persName>
             </head>
@@ -1246,32 +1261,32 @@
             <div>
                 <head type="subtitle">• 1528 •
                 </head>
-            <p><add place="margin"><persName>Dise</persName> zúg mit dem 
+            <p><add place="margin">Dise zúg mit dem 
                 <lb/>paner und den 
                 <lb/>fenlinen beschachent 
                 <lb/>nit darumm sind sy
                 <lb/>durchstrichen</add>
-                <lb/><del><persName>Dis</persName> sind usgnomen zum paner mit hern
+                <lb/><del>Dis sind usgnomen zum paner mit hern
                 <lb/>burgermeistern <persName>Diethelm Röisten</persName> hoptmann
                 <lb/>mit viertusendt mannen zewarten uff den
-                <lb/>zug als die von <persName>Schwytz</persName> die von <persName>Toggenburg</persName>
+                <lb/>zug als die von <placeName>Schwytz</placeName> die von <placeName>Toggenburg</placeName>
                 <lb/>understündent ze straffen, das sy die bilder
-                <lb/>uss etlichen kilchen gethan hatten. <persName>Und</persName> nam
-                <lb/>man zuo disem paner von der <persName>Constafel</persName> 31
-                <lb/>mann. <persName>Unnd</persName> gab man zuo junckher <persName>Jörgen</persName>
-                <lb/><persName>Göldlis</persName> fennlin der dartzuo ein haptman was
+                <lb/>uss etlichen kilchen gethan hatten. Und nam
+                <lb/>man zuo disem paner von der Constafel 31
+                <lb/>mann. Unnd gab man zuo junckher <persName>Jörgen
+                <lb/>Göldlis</persName> fennlin der dartzuo ein haptman was
                 <lb/>fünffhundert knechten auch 31 mann.
-                <lb/><persName>Unnd</persName> beschach diss usnemen uff frytag
-                <lb/>des fünfften tag brachmonet im 15 und 28. jar
-                <lb/><persName>Von</persName> dem stüblin zum paner usgenomen
+                <lb/>Unnd beschach diss usnemen uff <date when="1528-06-05">frytag
+                <lb/>des fünfften tag brachmonet im 15 und 28. jar</date>
+                <lb/>Von dem stüblin zum paner usgenomen
                 <lb/>hoptmann
                 <lb/>her burgermeister <persName>Röist</persName> selb vierdt
                 <lb/><persName>Heinrich Äscher</persName>
                 <lb/><persName>Adrian Grebel</persName>
                 <lb/><persName>Ludwig Edlibach</persName>
-                <lb/><persName>Dis</persName> sind burger von der <persName>Constafel</persName> zum paner
+                <lb/>Dis sind burger von der Constafel zum paner
                 <lb/><persName>Burckhart Wirtz</persName> selbander
-                <lb/><persName>Keller</persName> an <persName>Stampfenbach</persName>
+                <lb/><persName>Keller</persName> an <placeName>Stampfenbach</placeName>
                 <lb/><persName>Hans Klinger Im Ror</persName></del>
             </p>
                 <note>Ausgehoben aber nicht ausgezogen. Die Liste zum Jahr 1528
@@ -1417,18 +1432,18 @@
                       nicht erwähnter Laurentz Appenzeller wurden nachträglich (oder gar zusätzlich? – das
                       Wort <q>ouch</q> deutet das an) dem Fähnlein von Heinrich Rahn zugewiesen. Dieser geübte
                       Krieger war zur Meisen zunftgenössig. 
-                      <lb/>Braun, Militärpolitik, zu Heinrich Rahn ebd.569-570.
+                      <lb/><bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Braun, Militärpolitik</ref>, zu Heinrich Rahn ebd.569-570</bibl>.
                   </note>
               </p>
           </div>
           <pb n="22 r"/>
             <div>
-                <head type="subtitle"><persName>Min</persName> herren zuechent mit 500 mannen
-                    <lb/><persName>Diese</persName> 22 man sind usszogen uff samstag des
+                <head type="subtitle">Min herren zuechent mit 500 mannen
+                    <lb/>Diese 22 man sind usszogen uff samstag des
                     <lb/>fünfften tags brachmonet im .1529. jar und 
-                    <lb/>was meister <persName>Uolrich Stoll</persName> ir hoptman und <persName>Heinrich</persName>
-                    <lb/><persName>Ran</persName> ir fennrich. <persName>Als</persName> sy gen <persName>Bremgarten</persName> unnd
-                    <lb/>gen <persName>Mury</persName> zugent, das closter in nament
+                    <lb/>was meister <persName>Uolrich Stoll</persName> ir hoptman und <persName>Heinrich
+                    <lb/>Ran</persName> ir fennrich. Als sy gen <placeName>Bremgarten</placeName> unnd
+                    <lb/>gen <placeName>Mury</placeName> zugent, das closter in nament
                 </head>
                 <p><persName>Hanns Engelhart</persName>
                     <lb/><persName>Hanns Petter Wellenberg</persName>
@@ -1436,8 +1451,8 @@
                     <lb/><persName>Jacob Krieg</persName> von Béllikon
                     <lb/><persName>Hans Cuonrat Äscher</persName>
                     <lb/><persName>Hanns Göldlin</persName>
-                    <lb/><persName>Gerolt Meyer</persName> von <persName>Knonow</persName>
-                    <lb/><persName>Hans Stucky</persName> von <persName>Andelfingen</persName>
+                    <lb/><persName>Gerolt Meyer</persName> von <placeName>Knonow</placeName>
+                    <lb/><persName>Hans Stucky</persName> von <placeName>Andelfingen</placeName>
                     <lb/><persName>Bastian Haberstock</persName>
                     <lb/>her <persName>Hans Heinrich Göldlin</persName>
                     <lb/>her <persName>Hanns Schmid</persName>
@@ -1485,23 +1500,23 @@
             </div>
           <pb n="22 v"/>
           <div>
-              <head type="subtitle"><persName>Diese</persName> viertzig mann sind us zogen mít der statt <persName>Zürich</persName>
+              <head type="subtitle">Diese viertzig mann sind us zogen mít der statt <persName>Zürich</persName>
                   <lb/>paner uff mittwuchen des nuenden tags brachmonets
-                  <lb/>im .1529. jar, unnd was ir hoptman <persName>Jörg</persName>
-                  <lb/><persName>Berger</persName> und der panerher meister <persName>Hans Schwytzer</persName>
+                  <lb/>im .1529. jar, unnd was ir hoptman <persName>Jörg
+                  <lb/>Berger</persName> und der panerher meister <persName>Hans Schwytzer</persName>
               </head>
-              <p><persName>Her</persName> burgermeister <persName>Röist</persName> –  sin soldner <persName>Jacob Nestler</persName>
+              <p>Her burgermeister <persName>Röist</persName> –  sin soldner <persName>Jacob Nestler</persName>
                   <lb/><persName>Heinrich Äscher</persName>
                   <lb/><persName>Adrian Grebel</persName>
                   <lb/><persName>Ludwig Edlibach</persName>
                   <lb/><persName>Jacob</persName> Effínger
                   <lb/><persName>Burckhart Wirtz</persName>, selb ander
-                  <lb/><persName>Keller</persName> an <persName>Stampfenbach</persName> – sin söldner <persName>Hans</persName>
-                  <lb/><persName>Hanns Klinger</persName> im <persName>Ror</persName> – <persName>Petter</persName> sin sun für inn
+                  <lb/><persName>Keller</persName> an <placeName>Stampfenbach</placeName> – sin söldner <persName>Hans</persName>
+                  <lb/><persName>Hanns Klinger</persName> im <placeName>Ror</placeName> – <persName>Petter</persName> sin sun für inn
                   <lb/><persName>Heini Ziegler</persName> – selb ander
                   <lb/><persName>Uolrich Ritter</persName>
                   <lb/><persName>Jörg Schön</persName>
-                  <lb/><persName>Meister Niclaus Bachofen</persName> – sin söldner <persName>Hans Grossmann</persName>
+                  <lb/>Meister <persName>Niclaus Bachofen</persName> – sin söldner <persName>Hans Grossmann</persName>
                   <lb/>herr <persName>Uolrich Dormann</persName> – sin söldner herr <persName>Jos Kilchmeyer</persName>
                   <lb/>herr <persName>Hans Dormann</persName> – sin söldner <persName>Claus Würgler</persName>
                   <lb/><persName>Stoffel Murer</persName>
@@ -1509,7 +1524,7 @@
               </div>
             <pb n="23 r"/>
               <div>
-                  <head type="subtitle"><persName>Die</persName> gehörent òch zuo disem paner
+                  <head type="subtitle">Die gehörent òch zuo disem paner
                   </head>
                   <p>her <persName>Hilarius Zwingly</persName>
                       <lb/>her <persName>Enoch Metzger</persName>
@@ -1526,7 +1541,7 @@
                       <lb/>her <persName>Niclaus Lendy</persName>
                       <lb/>meister <persName>Erhart Wiss</persName> – sin soldner <persName>Jacob</persName> Wúrgler
                       <lb/>her <persName>Allexander Bierbruey</persName>
-                      <lb/>her <persName>Hans</persName> von <persName>Altstetten</persName>
+                      <lb/>her <persName>Hans</persName> von <placeName>Altstetten</placeName>
                       <lb/><persName>Hans Margstein</persName>
                       <lb/><persName>Jacob Engel</persName>
                       <lb/><persName>Carly</persName>
@@ -1550,12 +1565,12 @@
               </div>
           <pb n="23 v"/>
           <div>
-              <head type="subtitle"><persName>Die</persName> hienachgeschriben sind ouch uszogen an diser
+              <head type="subtitle">Die hienachgeschriben sind ouch uszogen an diser
                   <lb/>mittwuchen des nünden tags brachmonets zue abent zwischen
                   <lb/>sechsen und sibnen, als das paner des selben tags umm mittag
-                  <lb/>hinweg zogen was anno. 1529. <persName>Disers</persName> zugs
+                  <lb/>hinweg zogen was anno. 1529. Disers zugs
                   <lb/>hoptman ist gsin <persName>Hanns Äscher</persName> der reder und
-                  <lb/><persName>Dummysen</persName> fennrich und zugent gen Wédischwyl
+                  <lb/><persName>Dummysen</persName> fennrich und zugent gen <placeName>Wédischwyl</placeName>
               </head>
               <p><persName>Hanns Äscher</persName> hoptman selb dritt
                   <lb/><persName>Joachim Göldlin</persName>
@@ -1563,11 +1578,11 @@
                   <lb/>her doctor artzet – sin söldner <persName>Petroni Grebel</persName>
                   <lb/><persName>Hanns Gubler</persName>
                   <lb/><persName>Philips Custor</persName>
-                  <lb/><persName>Heinrich</persName> von <persName>Birch</persName>
+                  <lb/><persName>Heinrich</persName> von <placeName>Birch</placeName>
               </p>
           </div>
           <div>
-              <head type="subtitle"><persName>In</persName> diser nacht und nach disem vennlin muesstet wir diese
+              <head type="subtitle">In diser nacht und nach disem vennlin muesstet wir diese
                   <lb/>dri man gen <persName>Bremgarten</persName> inn zuosatz schicken
               </head>
               <p><persName>Balthasar Maler</persName>
@@ -1596,21 +1611,21 @@
           </div>
           <pb n="24 r"/>
             <div>
-                <head type="subtitle"><persName>Min</persName> herren zuechent mit 600 mannen
-                    <lb/><persName>Dise</persName> hienachbenempten man sind vor dem paner us zogen uff
+                <head type="subtitle">Min herren zuechent mit 600 mannen</head>
+                    <p><lb/><persName>Dise</persName> hienachbenempten man sind vor dem paner us zogen uff
                     <lb/>zinstag des achten tags brachmonet im .1529. jar, und so bald dises
                     <lb/>fennlin hinweg was / do stackt -a-man-a- dis nechst vorgenant paner us
                     <lb/>und am selben tag ze abent und in der nacht <persName>Hans Äscher</persName> mit sinem
                     <lb/>vennlín / und in der nacht junckher <persName>Jörg Göldlin</persName> wie ze nechst geschriben
                     <lb/>stàt <add place="margin">mit dem frygen vennly</add> und was hoptman her seckelmeister <persName>Jacob Werdmüller</persName> und der
-                    <lb/>fennrich <persName>Jörg Schnorff</persName> der metzger
-                </head>
-                <p><persName>Hans</persName> von <persName>Schönow</persName> uff <persName>Dübelstein</persName> – sin knecht <persName>Hans Schlachter</persName>
-                    <lb/>her <persName>Heinrich</persName> Städelín – sin söldner <persName>Ruedy Pfiffer</persName>
+                    <lb/>fennrich <persName>Jörg Schnorff</persName> der metzger</p>
+                
+                <p><persName>Hans</persName> von <placeName>Schönow</placeName> uff <placeName>Dübelstein</placeName> – sin knecht <persName>Hans Schlachter</persName>
+                    <lb/>her <persName>Heinrich Städelín</persName> – sin söldner <persName>Ruedy Pfiffer</persName>
                     <lb/>her <persName>Hans Schnegg</persName>
                     <lb/>her <persName>Jörg Eytz</persName>
                     <lb/><persName>Burckhart Dietrich</persName>
-                    <lb/>her <persName>Ludwig</persName> von <persName>Horgen</persName> – sin söldner <persName>Claus Schleytzer</persName> 
+                    <lb/>her <persName>Ludwig</persName> von <placeName>Horgen</placeName> – sin söldner <persName>Claus Schleytzer</persName> 
                     <lb/><persName>Heini Schaller</persName>
                 </p>
                 <note>Die sieben hier aufgeführten Männer – die Herren Hans von Schönau, Heinrich Städelin
@@ -1630,10 +1645,10 @@
             </div>
             <pb n="24 v"/>
             <div>
-                <head type="subtitle"><persName>Dis</persName> hienach geschriben sind uszogen uff samstag des ersten tags
+                <head type="subtitle">Dis hienach geschriben sind uszogen uff samstag des ersten tags
                     <lb/>aberellen im .1531. jar disers zugs hoptman ist gsin junckher
-                    <lb/><persName>Jörg</persName> Göldlín und <persName>Jörg Schnorf</persName> der metzger sin fennrich und zog 
-                    <lb/>man den <persName>Grawen Puenten</persName> zuo mit tusent mannen das <persName>Fälltelin</persName> zue entschútten.
+                    <lb/><persName>Jörg Göldlín</persName> und <persName>Jörg Schnorf</persName> der metzger sin fennrich und zog 
+                    <lb/>man den <placeName>Grawen Puenten</placeName> zuo mit tusent mannen das <persName>Fälltelin</persName> zue entschútten.
                 </head>
                 <p>junckher <persName>Jörg</persName> Göldlín selb fünfft
                     <lb/>junckher <persName>Marx Äscher</persName> rottmeister
@@ -1959,16 +1974,16 @@
                     <lb/>sich der gemeinen <persName>Constafel</persName> .34. man /
                     <lb/>die volgend hernach /
                 </head>
-                <p>uss der <persName>Gesellschaft</persName>.
+                <p>uss derGesellschaft.
                     <lb/><persName>Herr Bernhart</persName> von <persName>Chaam</persName> búrgermeister houptman selb dritt /
                     <lb/><persName>Anndres Schmid</persName> pannerherr selb ander / <persName>Marx Stapfer</persName> /
                     <lb/><persName>Hanns Escher</persName> stattschryber selbander 
                     <add place="margin">hand myn herren<lb/>ussgenommen</add>
-                    <lb/><persName>Hanns</persName> Góldli furrier /
+                    <lb/><persName>Hanns Góldli</persName> furrier /
                     <lb/><persName>Marx Schultheis</persName> rottmeister /
                     <lb/><persName>Jacob Roist</persName> /
                     <lb/><add place="inline"><persName>Mathes Escher</persName></add>
-                    <lb/><persName>Jacob</persName> von <persName>Chaam</persName> /
+                    <lb/><persName>Jacob von Chaam</persName> /
                     <lb/><persName>Hanns Jacob Rordorff</persName> /
                     <lb/><persName>Hans Tomman Wirtz</persName> /
                     <lb/><persName>Caspar Krieg</persName> von <persName>Bellicken</persName> /
@@ -2149,12 +2164,12 @@
                   <lb/><persName>Waldkilch</persName> im <persName>Ror</persName> /
                   <lb/><persName>Escher</persName> uff <persName>Dübelstein</persName> /
               </p>
-              <p><persName>Nachrichter</persName> /
+              <p>Nachrichter /
               </p>
           </div>
           <pb n="31 r"/>
           <div>
-              <head type="subtitle"><persName>Glychergstalt</persName> wie hievor zum panner / also ist ein
+              <head type="subtitle">Glychergstalt wie hievor zum panner / also ist ein
             <lb/>usszug zum fendli / das von vorgeschribner zal .1500.
             <lb/>man haben soll / beschechen / gebürt der <persName>Constafel</persName>
             <lb/>16 man / die sind wie volgt / ussgenommen unnd
