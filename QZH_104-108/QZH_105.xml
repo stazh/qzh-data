@@ -4,39 +4,39 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title> Quellen zur Zürcher Geschichte </title>
+				<title>Quellen zur Zürcher Geschichte</title>
 				<respStmt>
-					<persName> Sylvie F. Matter </persName>
+					<persName>Sylvie F. Matter</persName><persName>Helena Dobiess</persName>
 					<resp key="transcript"/>
 				</respStmt>
 				<respStmt>
-					<persName> Mara Haas </persName>
-					<persName> Helena Dobiess</persName>
+					<persName>Mara Haas</persName>
+					
 					<resp key="tagging"/>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<publisher> Staatsarchiv des Kantons Zürich </publisher>
+				<publisher>Staatsarchiv des Kantons Zürich</publisher>
 				<date type="electronic" when="2021-05-01"/>
 			</publicationStmt>
 			<seriesStmt>
-				<title> Quellen zur Zürcher Geschichte </title>
+				<title>Quellen zur Zürcher Geschichte</title>
 				<respStmt>
-					<persName> Staatsarchiv des Kantons Zürich </persName>
-					<resp> Herausgeberschaft </resp>
+					<persName>Staatsarchiv des Kantons Zürich</persName>
+					<resp>Herausgeberschaft</resp>
 				</respStmt>
-				<idno> QZH_105 </idno>
+				<idno>QZH_105</idno>
 			</seriesStmt>
 			<sourceDesc>
 				<msDesc>
 					<msIdentifier>
 						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748">
-							STAZH A 27.134 (Nr. 60) </idno>
+							STAZH A 27.134 (Nr. 60)</idno>
 					</msIdentifier>
 					<head>Protokoll eines Verhörs mit Barbeli Senn wegen Verdacht auf Vogelmachen durch
-						Pfarrer Hans Jakob Amman von Aeugst. </head>
+						Pfarrer Hans Jakob Amman von Aeugst.</head>
 					<msContents>
-						<summary> Die der Hexerei verdächtigte Barbeli Senn von Aeugst wird durch
+						<summary>Die der Hexerei verdächtigte Barbeli Senn von Aeugst wird durch
 							Pfarrer Hans Jakob Ammann vernommen. Ammann befragt Barbeli dazu, wann
 							und unter welchen Umständen sie das Vogelmachen gelernt habe (1), wie
 							das Vogelmachen ablaufe (2) und ob das Mädchen die Kunst auch anderen
@@ -44,17 +44,17 @@
 							zweifellos noch mehr Informationen zum Fall durch weitere Verhöre
 							ergeben würden (4).</summary>
 						<msItem>
-							<textLang> Deutsch </textLang>
-							<filiation type="current"> Original, Doppelblatt </filiation>
+							<textLang>Deutsch</textLang>
+							<filiation type="current">Original, Doppelblatt</filiation>
 							<filiation type="original">
-								<origDate when="1721-06-28"/> 28.06.1721 </filiation>
+								</filiation>
 						</msItem>
 					</msContents>
 					<physDesc>
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material> Papier </material>
+									<material>Papier</material>
 								</support>
 								<extent/>
 							</supportDesc>
@@ -79,14 +79,14 @@
 		<profileDesc>
 			<textClass default="false">
 				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-					<term ref="key000945"> Hexerei </term>
-					<term ref="key001045"> Geständnis </term>
-					<term ref="key000057"> Gericht </term>
-					<term ref="key005386"> Frömmigkeit </term>
-					<term ref="key004196"> Kinder/Jugendliche </term>
-					<term ref="key000905"> Strafvollzug </term>
-					<term ref="key003233"> Obrigkeit </term>
-					<term ref="key000590"> Delinquenz </term>
+					<term ref="key000945">Hexerei</term>
+					<term ref="key001045">Geständnis</term>
+					<term ref="key000057">Gericht</term>
+					<term ref="key005386">Frömmigkeit</term>
+					<term ref="key004196">Kinder/Jugendliche</term>
+					<term ref="key000905">Strafvollzug</term>
+					<term ref="key003233">Obrigkeit</term>
+					<term ref="key000590">Delinquenz</term>
 				</keywords>
 			</textClass>
 		</profileDesc>
@@ -124,7 +124,7 @@
 					<p>
 						<lb/> Qx: Gibt es vil vögel wenn die kraüter schla<lb break="no"/>gest?<lb/>
 						<lb/> Rx: Zwey, doch nid mehr. </p>
-					<!-- nod? -->
+					
 					<p>
 						<lb/> Rx: machst alle tag? <lb/> Rx: Ja, der vater hats g‘sagt, ich müsse
 						alle tag <lb/> machen. [..] <!-- unklar -->oder er wolle mich todschlagen,
@@ -138,7 +138,7 @@
 						<lb/> kräuter im holtz holle. </p>
 					<p>
 						<lb/> Qx: Wie gross dieser vogel seye?								
-						<lb/> Rx: schier wie en feder <!--bindestrich?-->gans. </p>
+						<lb/> Rx: schier wie en feder-gans. </p>
 					<p>
 						<lb/> Qx: Ob er auch mit ihm rede? 
 						<lb/> Rx: Ja er sage es schade nüt, es seye nit sünd. </p></seg>
@@ -157,7 +157,9 @@
 		</body>
 		<back>
 			<div>
-				<p> Vollständiger Kommentar siehe </p>
+				<p> Der Kommentar für alle zum Fall Barbeli Senn gehörenden Stücke findet sich beim Stück <ref
+					target="https://qzh.sources-online.org/exist/apps/qzh/quellenstuecke/QZH_104"
+					> QZH, Nr. 104.</ref></p>
 			</div>
 		</back>
 	</text>

@@ -6,7 +6,7 @@
             <titleStmt>
                 <title>Quellen zur Zürcher Geschichte</title>
                 <respStmt>
-                    <persName>Sylvie F. Matter</persName>
+                    <persName>Sylvie F. Matter</persName><persName>Helena Dobiess</persName>
                     <resp key="transcript"/>
                 </respStmt>
                 <respStmt>
@@ -34,24 +34,25 @@
                             >STAZH A 27.134 (Nr. 59)</idno>
                     </msIdentifier>
                     <head>Brief von Hans Jakob Ammann, Pfarrer von Aeugst am Albis, an Antistes
-                        Johann Ludwig Nüscheler wegen Verdacht auf Vogelmachen beim zehnjährigen Mädchen
-                        Barbeli Senn, 27.06.1721.</head>
+                        Johann Ludwig Nüscheler wegen Verdachts auf Vogelmachen bei der elfjährigen
+                        Mädchen Barbeli Senn, 27.06.1721.</head>
                     <msContents>
                         <summary> Hans Jakob Ammann, Pfarrer von Aeugst am Albis, wendet sich mit
                             dem Fall von Barbeli Senn an Antistes Johann Ludwig Nüscheler. Ammann
                             schildert zunächst die Geschichte der Familie Senn, die bereits seit
                             Jahren im Land herumziehe und aufgrund ihres Lebenswandels schon
-                            mehrfach mit der Justiz in Berührung gekommen sei, wobei die Kinder
-                            zwischenzeitlich fürsorgerisch untergebracht wurden (1-2). Anschliessend
-                            kommt Ammann darauf zu sprechen, wie er heute durch Kinder Hans Maurers
-                            Kinder erfahren habe, dass Barbeli Senn gegen die Bezahlung von 20
-                            Batzen angeboten habe, schwarze Vögel zu zaubern, und wie er sich selbst
-                            beim Erhalt dieser Nachricht unverzüglich auf den Weg gemacht habe, das
-                            Mädchen zu examinieren (3). Maurers Sohn behaupte, mit Barbeli im Wald
-                            gewesen zu sein, wo das Mädchen Kräuter gesammelt, diese in einen Bach
-                            gelegt und anschliessend mit einem Stock darauf geschlagen habe,
-                            woraufhin zwei grosse schwarze Vögel erschienen seien. Auch die Tochter
-                            Hans Maurers habe erzählt, dass Barbeli ihr gegen Bezahlung das
+                            mehrfach mit der Justiz in Berührung gekommen sei, wobei die Kinder nach
+                            dem Singen eines gotteslästerlichen Liedes, das sie von der Frau ihres
+                            Vaters gelernt haben sollen, fürsorgerisch untergebracht wurden (1).
+                            Anschliessend kommt Ammann darauf zu sprechen, wie er heute durch Kinder
+                            Hans Maurers Kinder erfahren habe, dass Barbeli Senn gegen die Bezahlung
+                            von 20 Batzen angeboten habe, schwarze Vögel zu zaubern, und wie er sich
+                            selbst beim Erhalt dieser Nachricht unverzüglich auf den Weg gemacht
+                            habe, das Mädchen zu examinieren (2). Maurers Sohn behaupte, mit Barbeli
+                            im Wald gewesen zu sein, wo das Mädchen Kräuter gesammelt, diese in
+                            einen Bach gelegt und anschliessend mit einem Stock darauf geschlagen
+                            habe, woraufhin zwei grosse schwarze Vögel erschienen seien. Auch die
+                            Tochter Hans Maurers habe erzählt, dass Barbeli ihr gegen Bezahlung das
                             Vogelmachen habe beibringen wollen. Auf die Frage danach, was Barbeli
                             mit dem Geld tun wolle, habe diese erwidert, der Vogel würde die Münzen
                             in seinem Mund ihrem Vater bringen. (4) Obwohl Ammann die Erzählungen
@@ -185,53 +186,105 @@
                         bazen dann hin wölle, habe es gesagt, es müsse sie <lb/>dem vatter gäben,
                         der schwarz vogel bringe sie <lb/>ihme im schnabel, er <add place="above"
                             >wüsst</add> wol, wo er seye.</seg></p>
-                <seg n="5"><p><lb/>Disere sach komt einem vor wie ein mährli, doch <damage agent="clipping">
-                        <gap quantity="3" unit="cm"/>
-                    </damage>
-                    <lb/>etwan böses heraus, die selbige nun recht zu <damage agent="clipping">
-                        <gap quantity="3" unit="cm"/>
-                    </damage><lb/>hab ich einer nothwendigkeit zu seyn erachtet, <damage
-                        agent="clipping">
-                        <gap quantity="3" unit="cm"/>
-                    </damage><lb/>ohne verzug dises arme kind, durch <persName>Hans Murer</persName>
-                    <lb/>bey dem es am tisch ist, <choice>
-                        <abbr>mgh</abbr>
-                        <expan>meinen gnädigen herren</expan>
-                    </choice> zu <lb break="no"/>übersenden. Sonsten kann das kind schöne bäten und
-                    <lb/>quaestiunculas, hat <unclear>von</unclear> der tischfrauen den ruhm, dass
-                    <lb/>es morgens und abends fleissig bätte. </p>              
-                  <p> <lb/>Wormit ich <choice>
-                        <abbr>mgh</abbr>
-                        <expan>meinem gnädigen herren</expan>
-                    </choice> antistitem der gnädigen <lb/>obsorg gottes herzlich befehle und
-                    verbleibe.</p>
-               <p><lb/>In eyl den <date when="1721-06-27">27ten Juni</date> auf Aügst <lb/>anno
-                    1721
-               <lb/><choice>
-                        <abbr>mgh</abbr>
-                        <expan>meinem gnädigen herren</expan>
-                    </choice> antistitem <lb/>gehorsamter <lb/>herr <persName>Jac. Ammann</persName>
-                   <abbr>l p</abbr></p> </seg>
+                <seg n="5"><p><lb/>Disere sach komt einem vor wie ein mährli, doch <damage
+                            agent="clipping">
+                            <gap quantity="3" unit="cm"/>
+                        </damage>
+                        <lb/>etwan böses heraus, die selbige nun recht zu <damage agent="clipping">
+                            <gap quantity="3" unit="cm"/>
+                        </damage><lb/>hab ich einer nothwendigkeit zu seyn erachtet, <damage
+                            agent="clipping">
+                            <gap quantity="3" unit="cm"/>
+                        </damage><lb/>ohne verzug dises arme kind, durch <persName>Hans
+                            Murer</persName>
+                        <lb/>bey dem es am tisch ist, <choice>
+                            <abbr>mgh</abbr>
+                            <expan>meinen gnädigen herren</expan>
+                        </choice> zu <lb break="no"/>übersenden. Sonsten kann das kind schöne bäten
+                        und <lb/>quaestiunculas, hat <unclear>von</unclear> der tischfrauen den
+                        ruhm, dass <lb/>es morgens und abends fleissig bätte. </p>
+                    <p>
+                        <lb/>Wormit ich <choice>
+                            <abbr>mgh</abbr>
+                            <expan>meinem gnädigen herren</expan>
+                        </choice> antistitem der gnädigen <lb/>obsorg gottes herzlich befehle und
+                        verbleibe.</p>
+                    <p><lb/>In eyl den <date when="1721-06-27">27ten Juni</date> auf Aügst <lb/>anno
+                        1721 <lb/><choice>
+                            <abbr>mgh</abbr>
+                            <expan>meinem gnädigen herren</expan>
+                        </choice> antistitem <lb/>gehorsamter <lb/>herr <persName>Jac.
+                            Ammann</persName>
+                        <abbr>l p</abbr></p>
+                </seg>
                 <pb n="4" facs="A_27_134__Nr__59__S__4_"/>
-               
-                    <lb/>Dem wol ehrwürdigen, frommen <lb/>hochgelehrten herren, herren
-                        <lb/><persName>Ludwig Neüscheler</persName>, Antistiti <lb/>und pfarrer zum
-                    grossen <lb/>münster zu sonders hochgeehrte <lb/>gegen handen in <placeName
-                        ref="LOC_47.36667_8.55">Zürich</placeName>.
-            </div>
+                <lb/>Dem wol ehrwürdigen, frommen <lb/>hochgelehrten herren, herren
+                    <lb/><persName>Ludwig Neüscheler</persName>, Antistiti <lb/>und pfarrer zum
+                grossen <lb/>münster zu sonders hochgeehrte <lb/>gegen handen in <placeName
+                    ref="LOC_47.36667_8.55">Zürich</placeName>. </div>
 
         </body>
 
         <back>
             <div>
-                <p>Der Fall «Barbeli Senn» passt in das Bild der späten Hexenprozesse im späteren
-                    17. und frühen 18. Jahrhundert, in denen Kinderhexenprozesse eine immer grössere
-                    Rolle spielten. Und er schickt Mädchen und Brief nicht wie üblich zum kleinen
-                    Rat, sondern zum Antistes den Vorsteher der Kirche, Johann Ludwig Nüscheler, der
-                    als ausgesprochener Vertreter der Spätorthodoxie gilt. Schliesslich befasste
-                    sich der kleine Rat von Zürich mit dem Fall. Am 9. Juli wird beschlossen, dass
-                    Barbeli im Oetenbach bleiben soll, um unterrichtet zu werden, während sie von
-                    weiteren Körperstrafen verschont bleibt.</p>
+                <p>Im Sommer 1721 wurde die elfjährige Barbeli Senn aus Aeugst am Albis des
+                    «Vogelmachens» verdächtigt, was als Form von Hexerei oder Zauberei galt. Im
+                    vorliegenden Schreiben wandte sich der Pfarrer von Aeugst, Hans Jakob Amman, mit
+                    den Vorwürfen erstmals an den Zürcher Antistes Johann Ludwig Nüscheler. Aus dem
+                    Schreiben geht hervor, dass die Familie Senn bereits seit längerer Zeit im Land
+                    herumzog und bereits 1718 ins Visier der Obrigkeit geraten war, nachdem Barbeli
+                    und ihre Schwester Anneli ein «gottloses» Lied gesungen hatten. Dieses sollen
+                    sie von Verena Erni, der Frau des Vaters, wohl aber nicht der leiblichen Mutter
+                    der Mädchen, gelernt haben (vgl. ebenfalls B II 740, S. 39). Barbeli Senn und
+                    ihre Schwester waren seit diesem Zwischenfall nicht mehr bei ihrem Vater,
+                    sondern im Gefängnis Oetenbach und bei unterschiedlichen Familien fürsorglich
+                    untergebracht gewesen.</p>
+                <p>Barbeli Senn war gemäss Aussage von Amman zur Zeit der Beschuldigung beim Bauern
+                    Hans Maurer untergebracht und soll gegenüber dessen leiblichen Kindern
+                    behauptet haben, aus Kräutern Vögel machen zu können. Offenbar
+                    hatte sich das Gerücht in der Dorfgemeinschaft insbesondere durch andere Kinder
+                    und Jugendliche herumgesprochen. Dem Schreiben beigelegt ist das Protokoll eines
+                    ersten Verhörs von Barbeli durch Amman selbst (QZH 105 Link). Am 1. Juli wurde
+                    das inzwischen wieder im Gefängnis Oetenbach festgehaltene Mädchen von den
+                    beiden Zürcher Ratsherren Johann Konrad Werdmüller und Heinrich Lavater verhört.
+                    Ebenfalls wurden die Aussagen über die Geschehnisse von Personen aus Senns
+                    Umfeld aufgenommen (QZH 106 Link). Bereits am Ende dieser Befragung relativierte
+                    das Mädchen auf Anraten der Nachgänger die Behauptungen und gestand, sich das
+                    Vogelmachen eingebildet zu haben. In einem wenige Tage später, am 5. Juli
+                    versandten Bericht über einen erneuten Besuch beim Mädchen bestätigten die
+                    beiden Ratsherren, dass Barbeli das Vogelmachen bloss gegenüber «einfältigen und
+                    leichtgläubigen Leuten» vorgegeben hatte (QZH 107 Link). Am 6. Juli bestätigte
+                    zuletzt auch der Gefängniswärter Johann Jakob Ulrich in einem Schreiben an den
+                    Bürgermeister diese Erkenntnisse und erklärte, dass das Mädchen um Verzeihung
+                    gebeten hatte (QZH 108 Link). Schliesslich befasste sich der kleine Rat von
+                    Zürich mit dem Fall (B II 753, S. 5, S. 15, S. 19-20). Am 9. Juli beschloss er,
+                    dass Barbeli Senn im Oetenbach bleiben solle, um religiös unterrichtet zu
+                    werden, während er sie von weiteren körperlichen Strafen verschonte.</p>
+                <p>Der Fall Barbeli Senn steht beispielhaft für andere «Kinderhexenprozesse», denen
+                    im Laufe der späteren Hexereiprozesse eine immer bedeutendere Rolle zukam. Wie
+                    im vorliegenden Fall ging es oft darum, dass Kinder gegenüber anderen Kindern
+                    behaupteten, sie könnten Vögel oder andere Tiere «machen». Andere gaben an, sie
+                    seien nachts zu Festgelagen geflogen oder vom Teufel vor Regen beschützt worden.
+                    Im Allgemeinen ist die Zunahme angeblicher Kinderhexen gemäss Wolfgang Behringer
+                    darauf zurückzuführen, dass mit zunehmender Kritik an Hexenprozessen die
+                    Anforderungen an diese massgeblich angehoben wurden. Da Kinder vor allem sich
+                    selbst bezichtigten, galten ihre Aussagen als freiwillig und deshalb als umso
+                    glaubwürdiger. Sie blieben als Auslöser der eigentlich sehr selten
+                    stattfindenden Prozesse gewissermassen als letzte übrig.</p>
+                <p>Typisch für diese Fälle ist gemäss Nicole Bettlé – neben der Selbstbezichtigung –
+                    die Zugehörigkeit zu einer Familie als Auslöser der Ahndung, auch Zürcher
+                    betont, dass Hexerei in Zürich als vererblich galt. Barbeli Senn stammte aus
+                    einer ärmlichen Familie ohne festen Wohnsitz, die bereits zuvor mehrmals mit der
+                    Justiz in Berührung gekommen war. Wie aus dem ersten Schreiben von Pfarrer Hans
+                    Jakob Ammann hervorgeht, hatten Barbeli und ihre Schwester einige Zeit im
+                    Waisenhaus verbracht. Auch die Rolle von anderen Kindern als belastende
+                    Zeuginnen und Zeugen zeigt sich in den aufgenommenen Aussagen beispielhaft.
+                    Während in Zürich in dieser späten Phase mehrere Kinder unter Hexereiverdacht
+                    gerieten, lassen sich gemäss Zürcher und Bettlé im Gegensatz zu anderen
+                    eidgenössischen Orten keine Todesurteile nachweisen.</p>
+                <p>Zur Hexereiverfolgung im Zürcher Gebiet vgl.<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Hugener 2027</ref></bibl>;<bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"> Schweizer 1902</ref></bibl>, zu
+                    Kinderhexen in der Schweiz <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Bettlé 2013</ref></bibl>; <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Zürcher 1960</ref></bibl>, zu Kinderhexen im
+                    Allgemeinen <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Behringer 1989</ref></bibl>.</p>
             </div>
         </back>
     </text>
