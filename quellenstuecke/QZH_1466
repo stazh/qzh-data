@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quellen zur Zürcher Geschichte</title>
+            <respStmt>
+               <persName>Thomas Bruggmann</persName>
+               <resp key="transcript"/>
+            </respStmt>
+            <respStmt>
+               <persName>Thomas Bruggmann</persName>
+               <resp key="tagging"/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Staatsarchiv des Kantons Zürich</publisher>
+            <date type="electronic" when="2026-12-14"/>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Quellen zur Zürcher Geschichte</title>
+            <respStmt>
+               <persName>Staatsarchiv des Kantons Zürich</persName>
+               <resp>Herausgeberschaft</resp>
+            </respStmt>
+            <idno>QZH_1466</idno>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <idno source="https://www.e-manuscripta.ch/zuzcmi/content/titleinfo/5958732">ZBZ Ms P 2135.5</idno>
+               </msIdentifier>
+               <head>Hofrecht von Basadingen und Rudolfingen</head>
+               <msContents>
+                  <summary>Das Hofrecht regelt das Zusammenleben zwischen den Hofleuten von Basadingen und Rudolfingen
+                     sowie dem Kloster St. Katharinental und dessen Vertretern.
+                     Es besteht aus zwei eigenständigen Texten, einer jüngeren Bussenordnung und einer älteren Hofordnung beziehungsweise Kehlhofordnung.
+                     Die Bussenordnung gibt die Höhe der Strafen und deren Verteilung bei Fällen vor, die vor dem Frevelgericht behandelt wurden.
+                     Die Kehlhofordnung informiert über die Gerichtstermine und enthält Regelungen
+                     betreffend die Rechte der klösterlichen Amtsträger (Keller und Meier)
+                     und der Hofgenossen an der Nutzung des Allgemeingutes sowie die Abgaben bei Todesfällen.
+                     Ferner behandelt sie die Einsetzung von Amtsträgern, Fragen des Güterverkaufs,
+                     die Nutzung der Mühle sowie die Rechte und Pflichten der Hirten.
+                     Am Schluss folgen weitere Bestimmungen, die das Gericht betreffen.</summary>
+                  <msItem>
+                     <textLang>Deutsch</textLang>
+                     <filiation type="current">Aufzeichnung</filiation>
+                     <filiation type="original"><origDate from="1301" to="1400" cert="low"/>14. Jahrhundert</filiation>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support><material>Pergament</material></support>
+                        <extent/>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin><origDate from="1301" to="1400" cert="low"/></origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <head>Edition</head>
+                     <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Urbare und Rödel Zürich</ref>, Nr. 101b</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               <ref target="https://schema.ssrq-sds-fds.ch/latest/base/transcription"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass default="false">
+            <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+               <term ref="key000057">Gericht</term>
+               <term ref="key000012">Offnung</term>
+               <term ref="key000468">Rechtsgewohnheit</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <div>
+            <pb facs="ZBZ_Ms_P_2135_5_r.jpg"/>
+            <p><lb/>Dis sind die ainunge und pen u̍ber die zuͦ <placeName ref="LOC_47.66868_8.74821">Bassendingen</placeName>
+               <lb/>und ze <placeName ref="47.64059_8.67430">Ruͦdelfingen</placeName>. Des ersten, wer den andren beschalket
+               <lb/>also, das ern bluͦtru̍nsig machet oder hertvellig,
+               <lb/>der ist vervallen minen frowen zechen pfund Prisger, dem
+               cle<lb break="no"/>ger zechen pfund und dem richter fu̍nf schilling. Wer ouch
+               <lb/>uf den andern tringt oder in schlecht ane bluͦt ru̍nsunge oder
+               <lb/>one haͤrtvellunge, der ist vervallen minen frowen sechtzig schilling
+               <lb/>der vorgenanten pfenig, dem cleger so vil und dem richter fu̍nf
+               <lb/>schilling. Were och, das yeman den richter oder die rechtsprecher
+               <lb/>beschalkti mit worten, der ist vervallen minen frowen sechtzig
+               <lb/>schillig, dem cleger so vil. Wer aber si beschalkti mit
+               wer<lb break="no"/>ken also, das er sy mit gewafnotter hand schluͤge oder staͤche, der
+               <lb/>ist verfallen miner frowen hulde und dem cleger zechen pfund
+               <lb/>und dem richter fu̍nf schilling. Wer ouch den andern beschalket
+               fre<lb break="no"/>velich in sinem hus oder uf sinem hof mit worten oder mit werken,
+               <lb/>der git minen frowen sechtzig schilling, dem cleger so vil und dem
+               <lb/>richter fu̍nf schilling. Wer ouch den andern beschalket mit den fu̍nf
+               <lb/>worten, das er spricht du diep, oder du boͤswicht, du moͤrder, du
+               <lb/>kaͤtzer oder ainer dem andren zuͦ laster sin elich wib uf hept, der
+               <lb/>git ouch die vorgeschriben buͦß. Das und ouch, was der groß
+               <lb/>rodel wiset von <placeName ref="LOC_47.66868_8.74821">Basendingen</placeName> und von <placeName ref="47.64059_8.67430">Ruͦdolfingen</placeName> von des hofs
+               <lb/>rechtung und der husgenossen, dar by sol es och ewenklichen
+               beli<lb break="no"/>ben und staͤt gehalten werden.</p></div>
+               <div><head>Der groß rodel.</head>
+               <p><lb/>Dis sind die recht, die zuͦ dem keln hofe zuͦ <placeName ref="LOC_47.66868_8.74821">Basendingen</placeName> hoͤrent.
+               <lb/>Man sol disse driu̍ gerichte han in dem hofe, das erst zuͦ sant Hylaris
+               <lb/>dult, das ander zuͦ Mayen, das tritt zuͦ sa Martis tag, und sol unser
+               <lb/>hubmaister XIIII tag dar vor fu̍rgebieten den husgenossen zuͦ
+               <lb/><placeName ref="47.64059_8.67430">Ruͦdelfingen</placeName> und zuͦ <placeName ref="LOC_47.66868_8.74821">Bassendingen</placeName>. Und wer da clagen wil uf erbe
+               <lb/>alde uf aigen, der sol es zuͦ dem gerichte tuͦn und dar u̍ber sol ime
+               <lb/>nieman urtail sprechen wan des closters lu̍t und husgenossen. So
+               <lb/>ist des hofes recht, das man dem keller git zuͦ winaͤchten dru̍ fuͦder
+               <lb/>spis holtze us dem gemain mercke. So ist es des kellers recht, so sin
+               <lb/>hus ald sin schu̍re danider vallet ald verbrint, ald wenne ers sin
+               <lb/>bedarf, das man ime gebe holtz zuͦ ainer uffrichti zuͦ dem hus und
+               <lb/>zuͦ der schu̍re und zer kuchi, ob ers bedarfe. Und u̍ber sytan, rafen und
+               <lb/>truͦtran und gert us dem gemain mercke sin noturfte und sol ime
+               ge<lb break="no"/>ben, wes er bedarf, pfluͦge geschirre. So ist es des hofes recht, das man
+               <lb/>ainem ietlichen geben sol, welha zimbran will uf ainer rechten hofstatt,
+               <lb/>als dem keller, wes er bedarf zuͦ siner noturft. So ist recht, wa ain man
+               <lb/>ist, der stirbet, der ainthain unberatten sun het, das wir von dem neman
+               <lb/>sond sin bestes gewand zuͦ fal und want und wauffen und das beste
+               <lb/>houpt. Ist aber, das er ainen unberautnen sun haut, so sol man ime
+               ne<lb break="no"/>men das best hopt und nu̍t anders. Ist aber, das sine kind ald sine
+               wir<lb break="no"/>tenne des hoptes bedorfend zuͦ dem bwe, so sol man der husgenossen dry
+               <lb/>darzuͦ setzen, das si sprechend uf ire aid, wes es wert sige, und sol man
+               <lb/>inn fu̍nf schilling dar an laussen. Ist aber, das sy sin nit bedoͤrfend, so
+               <lb/>sol man in es nu̍t geben zuͦ loͤsen. Ist, das ain frowe stirbet, het die ain
+               <lb/>tochter, die nu̍t elter ist denn das si den tag gesechen mag ald des tages
+               <lb/>liecht, so sol man ir nu̍tzend niemman. Ist aber, das sy nit tochtren haut, so
+               <lb/>sol der pfleger und die forster nemen ir bestes gewand, als sie zuͦ kilchen
+               <lb/>gaut, und sond es dem closter antwrten. Wan die hu̍llen und die schuͦch,
+               <lb/>das sol dem forster beliben. Und ir bette sol irem man beliben, die wile er
+               <lb/>one frowen ist, und sol es one geverde behalten. Und so er ain andre
+               <lb/>frowen nimpt, so die ingaut, so sol der pfleger das bette ustragen und
+               <lb/>dem closter antwrten. Zuͦ sant Martis tag ist der forster iar uß. So ist des
+               <lb/>hofes recht, ist, das die gebursami dehainen schaden haut gehept, weller
+               <lb/>das clagen wil, der sol es clagen an dem gerichte, ee das die forster ire
+               <lb/>ampt ufgebint. Und so sy das ampt ufgebent, so sol der huͦbmaister ain
+               <lb/>andern setzen, der des closters sige, ob er in mag han, darnach als es der
+               <lb/>gebursami gevallet. Darnach so sol die gebursami ainen forster wellen,
+               <lb/>der des closters sige, ob sy in vinden mu̍gend, der dem huͦbmaster geallett.
+               <lb/>Und die forster, so sy gesetzet werdent, die sond dem huͦbmaister ir <sic>trwe</sic>
+               <lb/>geben an ains aides statt, das sy das iar hu̍ten wellint der gebursami
+               <lb/>holtz und veld one alle geverde, arman und richen. Dar umb sol man
+               <lb/>inen zuͦ lon geben von ainer ietlichen schuͦpus ain hebrin garbe und
+               <lb/>ain wintrige und von dem holtze I q[uartale] habern. Machet die gebursami
+               <lb/>ze dem winter ainen how, wend si den bannen, so sonds inen sonderlichen
+               <lb/>lon geben. Es lit ain schuͦpus in der <placeName>Guphen</placeName>, die hoͤrt gen <placeName ref="LOC_47.6418_8.79396">Stamhain</placeName> in
+               <lb/>den zechenden, uf der schuͦpus sol die gebursami ain zug rint finden
+               <lb/>winter und sumer, das dem dorf nu̍tze sige. Wer den cleinen zechenden haut
+               <lb/>des closters, der sol ain zug schwin han. So sol man uf dem keln hofe
+               <lb/>ain wider han. Der hirt sol ainen boche han. Es sol nieman zuͦ
+               <placeName ref="47.64059_8.67430">Ruͦdelfing<lb break="no"/>en</placeName> noch ze <sic><placeName ref="LOC_47.66868_8.74821">Basendndingen</placeName></sic> noch dhain des closters lu̍t ferku̍mren
+               <lb/>noch versetzen sin erbe, wann in die genossami. Wil ainer sin erb verkoffen,
+               <lb/>so sol er es sinen nechsten erben bieten. Ist, das si des kofes nit u̍ber ain
+               <lb/>mogent komen, so sond der husgenossen dry dar gon und sond uff
+               <lb/>den hailgen schweren, das si das erb schetzent one alle geverde, wes es
+               <lb/>wert sige, und dar umb sond si es gen, die es verkofen wend. Wellent si
+               <lb/>es nit also nemen, so sont sy inn ungeminnet lon. Dar nach so sol ers aber
+               <lb/>den nechsten erben bu̍ten. Wil es dhainer der erben, so sol er fu̍r gerichte
+               <lb/>gan und sol er es den husgenosen bu̍ten. Will es der dhainer, so sol es das
+               <lb/>closter in sin gewalt zu̍chen und sol im sin noturfte geben alde im umb
+               <lb/>das erbe geben, das die husgenosen sprechent uf ir aide, das es wert sige.
+               <lb/>Welle ain gotteshus man ain guͦt kofen, der sol ze der priorin gan ald zuͦ
+               <lb/>dem huͦbmaster und sol in es uf gen und sol es denne zuͦ ainem erbe wider
+               <lb/>enpfachen und sol von ainer huͦbe try schillig gen zuͦ erschatze und von
+               <lb/>ainer schuͦpus achtzechen phening und dar nach von ainem ietlichen
+               <lb/>guͦt als vil sin ist. Were aber, das die priorin und der huͦbmaister des
+               er<lb break="no"/>schatz nit woltint, so sol er gan zuͦ dem keller von <placeName ref="LOC_47.66868_8.74821">Basendingen</placeName> und
+               <lb/>sol im den erschatz bu̍ten, das er in behalt und in der priorin gebe. Und wil
+               <lb/>er sin nit, so sol er su̍ uf das u̍bertu̍r legen und sol sprechen, keller, behalt
+               <lb/>disse ph[ennig]e, als du si der priorin wider antwurten wellist. Es ist och des hofs
+               <lb/>recht, da die obermu̍li ainer schuͦpus recht sol han in dem holtze, so het
+               <lb/>der keller das recht in der mu̍li, wenne er kompt in die mu̍li, das man
+               <lb/>im malen sol, des er bedarf. Ist och, das der mu̍ller korn haut uf der mu̍li,
+               <lb/>das sol er abschu̍tten und sol im malen, des er bedarf, dar nach dem
+               wid<lb break="no"/>mer, darnach dem huͦber und dar nach ietlichem, als er belenet ist. Were
+               <lb/>aber, das dhainer von vigetschaft zuͦ ainer andren mu̍li welti faren, so
+               <lb/>sol er dem mu̍ller sin ymi wider geben und dar zuͦ dry schilling. Dis
+               <lb/>ist des hofes schade ze <placeName ref="LOC_47.66868_8.74821">Basendingen</placeName>, das ist, wer sin erbe verkofet alde
+               <lb/>versetzet in die ungenossami, wa dehain man alde dehain frowe zuͦ ir
+               <lb/>ungenossen kompt. Wer strassen u̍ber vahet mit garten alde mit hu̍ser,
+               <lb/>alde wer strasen u̍ber vahet von dem dorfe untz an das holtze mit acker,
+               <lb/>wer das gemain mercke u̍ber gaut an holtze ald an velde, es ligent
+               loͤ<lb break="no"/>her in dem holtze, wer da mit das gemain mercke u̍ber vahet, wa
+               <lb/>Schlatter ald Trutikofer gottesmanhuser, Schlattinger, Diessenhover
+               <lb/>holtze ald velde stosset an Basendinger holtze ald velde, was das dorfe
+               <lb/>u̍ber vagen wirt, das sol man besren als denn dar umb ertalet wirt.
+               <lb/>Die schuͦpus, die in der <placeName>Guphen</placeName> lit, wen man da nit ain zucht rind
+               <lb/>vindet, so sond si den zechenden inhan, untz das si ains da vindent,
+               <lb/>das dem dorf nu̍tze sige. Wer sinen ungenossen nimet ald dem
+               gotz<lb break="no"/>hus flu̍chtig wirt, es sige frow alder man, si ist des hofes recht, das
+               <lb/>er von erbe und von lechen sol gon, und sol es das closter in sinen
+               ge<lb break="no"/>walt zu̍chen. Wer erbe von dem closter het, dem sol man sins zins
+               ge<lb break="no"/>stu̍nden untze in das dritt iare, und richte er si denne nit, so sol die
+               prio<lb break="no"/>rin das erbe in des closters gewalt zu̍chen. Ist aber, das er fu̍r mag
+               <lb/>bringen, das inn herren, not ald hagel geirret het, das sol ir pfleger
+               an<lb break="no"/>sechen. So ist es des hofes recht, das der keller in dem mayen drie fritag
+               <lb/>alle schaufe und gaisen in tuͦn sol und sol si haisen melchen. Und der
+               <lb/>das wil loͤsen, der sol umb zwai schauf ainen phenig geben und umb
+               <lb/>ain gais ainen phening. Der gepursami recht ist, das inen der keller
+               <lb/>ainen hirten geben sol und sol denne dem hirten das veche lichen und
+               <lb/>sol der hirt dem keller hundert aier zuͦ erschatze geben. Und tuͦt er das
+               <lb/>nit, so sol er ainen knechte gewinen und sol das veche selber ustriben und
+               <lb/>hu̍ten. So ist es des hirten recht, das er uf den wasen sol gon, und sol
+               <lb/>dem vech her us heren. Und ist es in dem ougsten alde ze howet, und ist
+               <lb/>der keller alde sin husgesinde dahaimen nit, so sol der hirt hin in gan
+               <lb/>und sol das veche selbs ustriben. So ist des kellers recht, het er fu̍nf
+               <lb/>hopt alde me alde minder, so sol er im ain brot ze der wuchen da von
+               <lb/>geben. So ist des hirten recht, wer sechs hopt fu̍r in tribet, der sol im ain
+               <lb/>brot zuͦ der wuchen gen. Der aͤchti fu̍r in tribet, der sol im es besseren.
+               <lb/>Und wer im zuͦ der wuchen ain brot git, der sol im ain wintzige garbe
+               <lb/>geben, und wer im ze viezechen tagen ain brot git, der sol im ain
+               he<lb break="no"/>brun garbe geben. Man sol dem keller dru̍ gericht fuͦder holtzes geben
+               <lb/>zuͦ den driu gerichten, und die sol er howen one alle geverde, da och
+               <lb/>anre sin geburen ir wichnechtigen hoͤwe machend. Es lit ain wisli ze
+               <lb/><placeName ref="LOC_47.66868_8.74821">Basendingen</placeName> an der brugge, da sol ain huͦbmaister sine rosse haisen
+               <lb/>intriben, wenn er da richtet, alder man sol im gras dar us schniden. Und
+               <lb/>ist es winter, so sol man im hoͤwe geben, also vil er es bedarfe. Ist, das
+               <lb/>dehainer usser sinem erbe verkoffet alder versetzet oder verku̍mret
+               <lb/>dehaine wege, wellent das sine erben versprechen, so sond si es zuͦ den
+               <lb/>drin gerichten etlichem clagen. Und ist, das si das dru̍ lobe base
+               versit<lb break="no"/>zend, so sond dehain rechte zuͦ dem erbe han. Were aber, das ain frowen
+               <lb/>alde ain man in dem land nit werint, alder dar umb nu̍t wissotint,
+               <lb/>wie lang das were. so sol man in vor gerichte recht tuͦn in dem hofe
+               <lb/>zuͦ Basendingen.
+            </p>
+            <pb facs="ZBZ_Ms_P_2135_5_v.jpg"/>
+         </div>
+      </body>
+      <back>
+         <div><p>Im 14. Jahrhundert entstanden zahlreiche Offnungen und Hofrechte.
+            Gerade Klöster intensivierten in dieser Zeit ihre Herrschaft durch den Auf- und Ausbau einer schriftgestützten Verwaltung,
+            indem sie neben Hofrechten auch Güterverzeichnisse (Urbare) anlegen liessen.
+            Basadingen und Rudolfingen standen unter der Herrschaft des Dominikanerinnenklosters St. Katharinental bei Diessenhofen.
+            Das Kloster erwarb 1260 die Vogtei und das Meieramt über die beiden Orte,
+            und bis 1327 konnte das Kloster praktisch sämtliche Güter in seinen Besitz bringen.
+            Basadingen und Rudolfingen waren somit nicht nur grundherrschaftlich, sondern auch gerichtsherrschaftlich verbunden.</p>
+            <p>Das undatierte Hofrecht entstand wohl in der ersten Hälfte des 14. Jahrhunderts. Von diesem Dokument sind zwei Fassungen erhalten geblieben,
+               eine im Staatsarchiv Zürich (<bibl><ref
+                  target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=4626039"
+                  >StAZH C V 3.16 b.5, Nr. 1</ref></bibl>)
+               und die andere, hier edierte in der Zentralbibliothek Zürich (<bibl><ref
+                  target="https://doi.org/10.7891/e-manuscripta-199603"
+                  >ZBZ Ms P 2135.5</ref></bibl>).
+            Beide Fassungen stimmen im Wortlaut exakt überein, jedoch unterscheiden sich zahlreiche Wörter in ihrer Schreibweise,
+            zudem fehlt bei der Fassung im Staatsarchiv etwa ein Drittel des Textes, da ein Pergamentbogen verloren ging.
+            Diese Fassung macht deutlich, dass die Bussenordnung und die Hofordnung ursprünglich eigenständige Dokumente waren,
+            die zusammengenäht wurden. Später erstellte ein Schreiber eine Abschrift und führte diese Texte so zu der Fassung zusammen,
+            die heute in der Zentralbibliothek liegt. Diese entstand sehr wahrscheinlich noch im 14. Jahrhundert.
+            Für eine ausführliche Beschreibung mit Literaturverweisen vgl. <bibl><ref
+               target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">Bruggmann 2027</ref></bibl>.</p></div>
+      </back>
+   </text>
+</TEI>
