@@ -51,6 +51,31 @@ as xs:string?
     return $result
 };
 
+(: The text of a name without abbreviations that are expanded, deletions and notes, e.g. "Ulrich Weber" for
+   <persName><choice><abbr>U</abbr><expan>Ulrich</expan></choice> Weber</persName>.
+   Same logic as common:reading-text in the web application (modules/ext-common.xql) :)
+declare function local:name-text($name as element())
+as xs:string
+{
+    normalize-space(string-join(local:reading($name/node())))
+};
+
+declare function local:reading($nodes as node()*)
+as xs:string*
+{
+    for $node in $nodes
+    return
+        typeswitch ($node)
+            case text() return string($node)
+            case element(tei:note) | element(tei:del) return ()
+            case element(tei:abbr) return
+                if ($node/../self::tei:choice/tei:expan or $node/following-sibling::*[1][self::tei:expan])
+                    then ()
+                    else local:reading($node/node())
+            case element() return local:reading($node/node())
+            default return ()
+};
+
 declare function local:remove-duplicates($items as item()*) 
 as item()*
 {
@@ -90,13 +115,13 @@ as item()*
                     let $collection := ((doc("/db/apps/qzh-data/person/person-additions.xml")), collection("/db/apps/qzh-data/quellenstuecke/"))
                     for $quellenstueck in $collection
                         for $p at $pos in $quellenstueck//tei:text//tei:persName (: extract all people :)
-                        let $personName := fn:normalize-space($p) (:some people contain leading or trailing spaces or line-breaks, remove them :)
+                        let $personName := local:name-text($p) (:some people contain leading or trailing spaces or line-breaks, remove them :)
                         let $source := $quellenstueck//tei:seriesStmt/tei:idno/text() (:the name of the "quellenstück" is shown in the list of people in the web application :)
                         let $dateOfTheSource := local:extractDateFromSource($quellenstueck) (:the date of the "quellenstück" is shown in the list of people in the web application :)
         
                         let $id := 
-                            if ($p//@ref) (:if a person has en explicit id, use it. Otherwise generate an automatic identifier:)
-                                then $p//@ref
+                            if ($p/@ref) (:if a person has en explicit id, use it. Otherwise generate an automatic identifier. A place name within the name may have a @ref as well, it must not be used here:)
+                                then $p/@ref
                                 else $source || "_" || $pos
         
                         order by $id
@@ -111,6 +136,7 @@ as item()*
                 
                 let $allOrdered := (:the list of people should be ordered alphabetically :)
                   for $i in $allWithoutDuplicates
+                    where normalize-space($i/persName) (: skip people which are only referenced by empty tags and therefore have no name :)
                     order by $i//persName//text(), $i//@xml:id
                     return $i
                 
