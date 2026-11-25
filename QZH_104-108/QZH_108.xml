@@ -31,26 +31,26 @@
                 <msDesc>
                     <msIdentifier>
                         <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748"
-                            >STAZH A 27.134 (Nr. 63)</idno>
+                            >STAZH A 27.134 (82.4.15)</idno>
                     </msIdentifier>
                     <head>Schreiben des Prädikanten Josef Jacob Ulrich an den Bürgermeister im Fall
                         der wegen Vogelmachens verdächtigten Barbeli Senn</head>
                     <msContents>
-                        <summary>Der Prädikant im Oetenbach, Johann Jakob Ulrich, schreibt dem
-                            Bürgermeister über den Fall von Barbeli Senn von Aeugst. Er berichtet
-                            von den Besuchen und Verhören im Oetenbach durch die Ratsherren und den
-                            Gefängnisverwalter (1) und versichert, dass das Mädchen darauf beharre,
-                            niemals Vögel gemacht zu haben noch die Fähigkeit dazu zu besitzen (2).
+                        <summary>Der Prädikant im Gefängnis Oetenbach, Johann Jakob Ulrich, schreibt dem
+                            Bürgermeister im Fall von Barbeli Senn von Aeugst. Er berichtet
+                            von den Besuchen und Verhören im Oetenbach von Ratsherren und dem
+                            Gefängnisverwalter und versichert, dass das Mädchen darauf beharre,
+                            niemals Vögel gemacht zu haben noch die Fähigkeit dazu zu besitzen.
                             Im Gegenteil bitte das Mädchen Gott und die Ratsherren wegen des durch
                             sie verursachten Ärgernisses um Verzeihung und verspreche, künftig weder
-                            an das Vogelmachen zu denken noch davon zu sprechen (3). Das Kind sei im
+                            an das Vogelmachen zu denken noch davon zu sprechen. Das Kind sei im
                             Übrigen in der Religion ungebildet, habe aber ansonsten einen
-                            «natürlichen Verstand». (4) Ulrich überlässt zum Schluss die
+                            «natürlichen Verstand». Ulrich überlässt zum Schluss die
                             Entscheidung über den weiteren Umgang mit dem Kind den Ratsherren
-                            (5).</summary>
+                          .</summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
-                            <filiation type="current">Brief (Doppelblatt)</filiation>
+                            <filiation type="current">Aufzeichnungen (Doppelblatt)</filiation>
                             
                             <filiation type="original"><origDate when="1721-07-06"
                                 />06.07.1721</filiation>
@@ -101,49 +101,46 @@
                         <abbr>usf.</abbr>
                         <expan>und sonders fürnehme</expan>
                     </choice> gnädige herren.</head>
-                <p><seg n="1"><lb/>Das arme in dem <placeName ref="LOC_47.374444_8.541111"
-                            >Oetenbach</placeName> gefangen sitzende und der <lb/>hexerey und
-                        vögelmacherey beklagte <persName>Barbeli Senn</persName> ab
-                            <placeName>Aügst</placeName>
-                        <lb/>ist von mir zufolg <choice>
-                            <abbr>eü mgnhren</abbr>
-                            <expan>eüer meiner gnädigen herren</expan>
-                        </choice> hohn befehls besucht und<lb/>das nothwendige mit ihme geredet
-                        word.</seg><seg n="2">Es beharret seiner<lb/>letzten gegen <choice>
-                            <abbr>dh</abbr>
-                            <expan>den herren</expan>
-                        </choice> verwalter da selbst und auch <abbr>mhg hren</abbr><expan>meinen
-                            gnädigen herren</expan> nach<lb break="no"/>gängern gethaner aussag,
-                        dass es niemahls weder vögel ge<lb break="no"/>macht, noch selbige machen
-                        könne, so auch glaüblicher, als wann es<lb/>das gegentheil
-                        praetendierte.</seg>
-                    <seg n="3">Anbey bittet es gott und seine gnädigen<lb/>herren der gegebenen
-                        ärgerniss halber um verzeihung und gelobet, hin<lb break="no"/>künftig an solche
-                        sachen nichtmehr weder zugedenken, noch darvon<lb/>zureden.</seg>
-                    <seg n="4">Übrigens ist das arme kind in der religion unwüssend, <lb/>kan weder
-                        schreiben noch lesen, noch die kleinen fragstüklein aus<lb break="no"
-                        />wendig sagen. Es hat zwahren etliche schöne gebedtlein gelehret,
-                        <lb/>allein erzehlt solche so verkerth und rothwelsch, dass es zu er<lb
-                            break="no"/>barmen und ohne schreken kaum anzuhörn. Das
-                        mitleidenswürdige<lb/>kind, so sonst einen guten natürlichen verstand
-                        scheinet zu haben, wänn <lb/>wol zum heil seiner seelen am beth in dem
-                        waisenhaus, alwo <lb/>annach 3 seiner geschwisterten sind, versaget, da dann
-                        gemelte sorg<lb break="no"/>falt seinetwegen anwenden wolte, dass es gott
-                        zur seligkeit möchte<lb/>kennen lehrnen.</seg>
-                    <seg n="5">Hoffete, es würde sich willig leiten lassen und die arbeit<lb/>min
-                        herren an ihme nicht vergeblich sein. Wie sie dann auch an seiner
-                        <lb/>eltesten schwester, so vor etwas zeit von <placeName
-                            ref="LOC_46.94809_7.44744">Bern</placeName> hierher gekommen, nicht<pb
-                            n="2" facs="A_27_134__Nr__63__S__2_.tif"/>
-                        <lb/>ohne segen zu sein scheinet, überlasse aber alles lediglich<lb/>eüer
-                        meiner gnädigen herren hoher und weiser disposition,</seg><lb/>dern gnaden
-                    ich bloss dises arme blut recommendieren<lb/>und nächst herzinnigester
-                    anwünschung alles himmlischen <lb/>segens zu fürterer gesegneter regierung
-                        <abbr>etc. etc.</abbr> in<lb/>wahrer ehrerbietigkeit des hertzens verharre.
-                    <lb/>Eüer <choice>
+                <p><lb/>Das arme in dem <placeName ref="LOC_47.374444_8.541111"
+                        >Oetenbach</placeName> gefangen sitzende und der <lb/>hexerey und
+                    vögelmacherey beklagte <persName>Barbeli Senn</persName> ab
+                        <placeName>Aügst</placeName>
+                    <lb/>ist von mir zufolg <choice>
+                        <abbr>eü mgnh</abbr>
+                        <expan>eüer meiner gnädigen herren</expan>
+                    </choice> hohn befehls besucht und<lb/>das nothwendige mit ihme geredet word.Es
+                    beharret seiner<lb/>letzten gegen <choice>
+                        <abbr>dh</abbr>
+                        <expan>den herren</expan>
+                    </choice> verwalter da selbst und auch <abbr>mhg hh</abbr><expan>meine
+                        hochgeachteten herren</expan> nach<lb break="no"/>gängern gethaner aussag,
+                    dass es niemahls weder vögel ge<lb break="no"/>macht, noch selbige machen könne,
+                    so auch glaüblicher, als wann es<lb/>das gegentheil praetendierte. Anbey bittet
+                    es gott und seine gnädigen<lb/>herren der gegebenen ärgerniss halber um
+                    verzeihung und gelobet, hin<lb break="no"/>künftig an solche sachen nichtmehr
+                    weder zugedenken, noch darvon<lb/>zureden. Übrigens ist das arme kind in der
+                    religion unwüssend, <lb/>kan weder schreiben noch lesen, noch die kleinen
+                    fragstüklein aus<lb break="no"/>wendig sagen. Es hat zwahren etliche schöne
+                    gebedtlein gelehret, <lb/>allein erzehlt solche so verkerth und rothwelsch, dass
+                    es zu er<lb break="no"/>barmen und ohne schreken kaum anzuhörn. Das
+                    mitleidenswürdige<lb/>kind, so sonst einen guten natürlichen verstand scheinet
+                    zu haben, wänn <lb/>wol zum heil seiner seelen am beth in dem waisenhaus, alwo
+                    <lb/>annach 3 seiner geschwisterten sind, versaget, da dann gemelte sorg<lb
+                        break="no"/>falt seinetwegen anwenden wolte, dass es gott zur seligkeit
+                    möchte<lb/>kennen lehrnen. Hoffete, es würde sich willig leiten lassen und die
+                    arbeit<lb/>min herren an ihme nicht vergeblich sein. Wie sie dann auch an seiner
+                    <lb/>eltesten schwester, so vor etwas zeit von <placeName
+                        ref="LOC_46.94809_7.44744">Bern</placeName> hierher gekommen, nicht<pb n="2"
+                        facs="A_27_134__Nr__63__S__2_.tif"/>
+                    <lb/>ohne segen zu sein scheinet, überlasse aber alles lediglich<lb/>eüer meiner
+                    gnädigen herren hoher und weiser disposition,<lb/>dern gnaden ich bloss dises
+                    arme blut recommendieren<lb/>und nächst herzinnigester anwünschung alles
+                    himmlischen <lb/>segens zu fürterer gesegneter regierung <abbr>etc. etc.</abbr>
+                    in<lb/>wahrer ehrerbietigkeit des hertzens verharre. <lb/>Eüer <choice>
                         <abbr>gn u whtt</abbr>
-                        <expan>gnädigen und wahrhaften</expan>
-                    </choice> meine gnädigen hochgebietender <abbr>hren</abbr><expan>herren</expan>
+                        <expan>gnädiger und wahrhafter</expan>
+                    </choice> meiner gnädigen hochgebietenden <abbr>hh</abbr><expan>hohen
+                        herren</expan>
                     <lb/>underthänigster getreüwer diener und bürger<lb/><persName>Johann Jacob
                         Ulrich</persName>
                     <choice>
@@ -164,7 +161,7 @@
         </body>
         <back>
             <div>
-                <p>Für den Kommentar zum Fall Barbeli Senn vgl.<ref
+                <p>Für den Kommentar zum Fall Barbeli Senn vgl. <ref
                         target="https://qzh.sources-online.org/exist/apps/qzh/quellenstuecke/QZH_104"
                         >QZH, Nr. 104.</ref></p>
             </div>

@@ -31,23 +31,23 @@
 				<msDesc>
 					<msIdentifier>
 						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748">
-							STAZH A 27.134 (Nr. 60)</idno>
+							STAZH A 27.134 (82.4.15)</idno>
 					</msIdentifier>
-					<head>Protokoll eines Verhörs mit Barbeli Senn wegen Verdachts auf Vogelmachen durch Pfarrer
-						Hans Jakob Amman von Aeugst.</head>
+					<head>Protokoll eines Verhörs mit Barbeli Senn wegen Verdachts auf Vogelmachen
+						von Pfarrer Hans Jakob Amman von Aeugst am Albis.</head>
 					<msContents>
-						<summary>Die der Hexerei verdächtigte Barbeli Senn von Aeugst wird durch
-							Pfarrer Hans Jakob Ammann vernommen. Ammann befragt Barbeli dazu, wann
-							und unter welchen Umständen sie das Vogelmachen gelernt habe (1), wie
-							das Vogelmachen ablaufe (2) und ob das Mädchen die Kunst auch anderen
-							Personen beigebracht habe (3). Zum Schluss hält Ammann fest, dass sich
-							zweifellos noch mehr Informationen zum Fall durch weitere Verhöre
-							ergeben würden (4).</summary>
+						<summary>Die der Hexerei verdächtigte Barbeli Senn von Aeugst wird vom
+							Pfarrer von Aeugst am Albis, Hans Jakob Ammann vernommen. Ammann befragt
+							Barbeli dazu, wann und unter welchen Umständen sie das Vogelmachen
+							gelernt habe, wie das Mädchen dabei vorgehe und ob es die Kunst
+							auch anderen Personen beigebracht habe. Zum Schluss hält Ammann
+							fest, dass sich zweifellos noch mehr Informationen zum Fall durch
+							weitere Verhöre ergeben würden.</summary>
 						<msItem>
 							<textLang>Deutsch</textLang>
 							<filiation type="current">Aufzeichnungen (Doppelblatt)</filiation>
 							<filiation type="original"><origDate when="1721-06-27"/>
-								</filiation>
+							</filiation>
 						</msItem>
 					</msContents>
 					<physDesc>
@@ -98,7 +98,7 @@
 				<head>
 					<lb/>Etliche fraagen, so an <persName>Babeli</persName>
 					<lb/>Senn gethan worden.</head>
-				<seg n="1"><p>
+				<p>
 						<lb/>Qx: Ist es wahr, kannst du vögel machen?<lb/>Rx: Ja.</p>
 					<p>
 						<lb/>Qx: Wer hat dich diese kunst gelehrt?<lb/>Rx: Mein vater hat mirs
@@ -111,53 +111,52 @@
 						nit mehr<lb/>sagen, wie es heisst, in einem grossen holtz.</p>
 					<p>
 						<lb/>Qx: Warum hat ers dich gelehrt?<lb/> Rx: Ich weiss nit warum. Er hat
-						gesagt, wann ihs <lb/>nit lehrne, so wolle er mich tod schlagen.</p></seg>
-				<seg n="2"><p>
+						gesagt, wann ihs <lb/>nit lehrne, so wolle er mich tod schlagen.</p>
+				<p>
 						<lb/>Qx: Aber was musst du sagen oder thun, wann du<lb/>vögel machst?
-						<lb/>Rx: Ich muss nüt sagen, aber ich muss ein hand voll<lb/>kraüter
-						nemmen in das wasser legen, und mit<lb/>einem stecken schlagen, dann gibts
+						<lb/>Rx: Ich muss nüt sagen, aber ich muss ein hand voll<lb/>kraüter nemmen
+						in das wasser legen, und mit<lb/>einem stecken schlagen, dann gibts
 						vögel.</p>
 					<p>
-						<lb/>Qx: Wo hollest die kraüter, und wie heissend<lb/>sie?<lb/>Rx: Ich
-						muss sie im holtz hollen, aber ich weiss nit<lb/>wie sie alle heissend,
-						doch kenne sie.</p>
+						<lb/>Qx: Wo hollest die kraüter, und wie heissend<lb/>sie?<lb/>Rx: Ich muss
+						sie im holtz hollen, aber ich weiss nit<lb/>wie sie alle heissend, doch
+						kenne sie.</p>
 					<p>
-						<lb/>Qx: Gibt es vil vögel wenn die kraüter schla<lb break="no"/>gest?<lb/>
+						<lb/>Qx: Gibt es vil vögel wenn die kraüter schla<lb break="no"/>gest?
 						<lb/>Rx: Zwey, doch nid mehr.</p>
-					
 					<p>
-						<lb/>Rx: machst alle tag?<lb/> Rx: Ja, der vater hats g‘sagt, ich müsse
-						alle tag<lb/>machen <choice><abbr>NB</abbr><expan>nota bene</expan></choice>, oder er wolle mich todschlagen,
-						und<lb/>wenn ich nit mache, so nemme mich der tüffel.</p>
+						<lb/>Qx: machst alle tag?<lb/> Rx: Ja, der vater hats g‘sagt, ich müsse alle
+						tag<lb/>machen <choice>
+							<abbr>NB</abbr>
+							<expan>nota bene</expan>
+						</choice>, oder er wolle mich todschlagen, und<lb/>wenn ich nit mache, so
+						nemme mich der tüffel.</p>
 					<pb n="2" facs="A_27_134__Nr__60__S__2_.tif"/>
 					<p>
-						<lb/>Qx: Ob niemand bey ihm seye wenns vögel<lb/>mache? 
-						<lb/>Rx: Ja es seye ein grosser schwartzer vogel bey ihmme, 
-						<lb/>es seye der vogel wo auch
-						bey ihm seye, wenn es die 
-						<lb/>kräuter im holtz holle.</p>
+						<lb/>Qx: Ob niemand bey ihm seye wenns vögel<lb/>mache? <lb/>Rx: Ja es seye
+						ein grosser schwartzer vogel bey ihmme, <lb/>es seye der vogel wo auch bey
+						ihm seye, wenn es die <lb/>kräuter im holtz holle.</p>
 					<p>
-						<lb/>Qx: Wie gross dieser vogel seye?								
-						<lb/>Rx: schier wie en feder-gans.</p>
+						<lb/>Qx: Wie gross dieser vogel seye? <lb/>Rx: schier wie en feder-gans.</p>
 					<p>
-						<lb/>Qx: Ob er auch mit ihm rede? 
-						<lb/>Rx: Ja er sage es schade nüt, es seye nit sünd.</p></seg>
-				<seg n="3"><p>
+						<lb/>Qx: Ob er auch mit ihm rede? <lb/>Rx: Ja er sage es schade nüt, es seye
+						nit sünd.</p>
+				<p>
 						<lb/>Qx: Wer diese kunst mehr känne? 
 						<lb/>Rx: Seine brüeder kännend sie auch, der<lb/>vater habe sie auch
-						gelehrt.</p></seg>
-				<seg n="4"><p>
+						gelehrt.</p>
+				<p>
 						<lb/>Qx: Ob es ein winter auch mache? 
 					<lb/>Rx: Nei, es gebe dann keine kraüter.</p>
 					<p><lb/>Durch mehrere fraag wird ohne zweiffel<lb/>noch viel zu vernemmen seyn.
-					</p></seg>
+					</p>
 				<pb n="3" facs="A_27_134__Nr__60__S__3_.tif"/>
 				<pb n="4" facs="A_27_134__Nr__60__S__4_.tif"/>
 			</div>
 		</body>
 		<back>
 			<div>
-				<p>Für den Kommentar zum Fall Barbeli Senn vgl.<ref
+				<p>Für den Kommentar zum Fall Barbeli Senn vgl. <ref
 						target="https://qzh.sources-online.org/exist/apps/qzh/quellenstuecke/QZH_104"
 						>QZH, Nr. 104.</ref></p>
 			</div>

@@ -31,37 +31,36 @@
                 <msDesc>
                     <msIdentifier>
                         <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748"
-                            >STAZH A 27.134 (Nr. 61)</idno>
+                            >STAZH A 27.134 (82.4.15)</idno>
                     </msIdentifier>
                     <head>Zeugenaussagen und Verhör im Fall der wegen Verdachts auf Vogelmachen im
                         Oetenbach festgehaltenen Barbeli Senn durch die Ratsherren Johann Konrad
                         Werdmüller und Heinrich Lavater</head>
-                                 <msContents>
+                    <msContents>
                         <summary>Die Ratsherren Johann Conrad Werdmüller und Heinrich Lavater
                             vernehmen nach Erhalt des Berichts von Pfarrer Hans Jakob Ammann von
-                            Aeugst Barbeli Senn von Aeugst diverse Zeugen und die Beschuldigte
-                            selbst. Heinrich, der 20-jährige Sohn Hans Maurers sagt aus, dass er von
-                            seiner Schwester Barbeli über Barbeli Senns vermeintliches Vogelmachen
-                            erfahren habe. Ausserdem habe Barbeli Senn ihm gegen Bezahlung das
-                            Vogelmachen selbst vorgeführt (1). Die 15-jährige Barbeli Maurer gibt
-                            ebenfalls an, wie Barbeli Senn ihr gegen Bezahlung das Vogelmachen habe
-                            zeigen wollen. Maurer habe aber bei der Vorführung im Wald keine Vögel
-                            gesehen (2). Hans Senn aus dem Stalliker Tal bezeugt, dass Barbeli
-                            während eineinhalb Jahren bei ihm gelebt habe, ein eigensinniges Kind
-                            gewesen und sechs Wochen zuvor davongelaufen sei. Er verneint, vom
-                            Vogelmachen etwas mitbekommen zu haben (3). Hans Maurer bezeugt, dass
-                            Barbeli seit sechs Wochen bei ihm lebe und er das Mädchen auf Empfehlung
-                            der Frau Pfarrer aufgenommen habe. Barbeli habe vor ihm selbst keine
-                            Vögel gezaubert, sondern nur seinen Kindern davon erzählt, woraufhin
-                            diese der Frau Pfarrer davon berichtet hätten (4). Zum Schluss folgt das
-                            Protokoll des Verhörs von Barbeli Senn im Oetenbach mit Fragen darüber,
-                            wo das Mädchen das Vogelmachen gelernt habe, wie dieses funktioniere und
-                            ob es dafür Geld verlange (5). Die vernehmenden Ratsherren kommen zum
-                            Schluss, dass sich das Mädchen die Geschichten über das Vogelmachen
-                            ausgedacht habe und selbst nicht mehr daran glaube. Zum Schluss habe
-                            Barbeli versprochen, diese Ideen zu vergessen und künftig fleissig zu
-                            beten, weshalb die Ratsherren um Freilassung des Mädchens bitten
-                            (6).</summary>
+                            Aeugst diverse Zeugen und die Beschuldigte selbst. Heinrich, der
+                            20-jährige Sohn Hans Maurers sagt aus, dass er von seiner Schwester
+                            Barbeli über Barbeli Senns vermeintliches Vogelmachen erfahren habe.
+                            Ausserdem habe Barbeli Senn ihm gegen Bezahlung das Vogelmachen selbst
+                            vorgeführt. Die 15-jährige Barbeli Maurer gibt ebenfalls an, wie Barbeli
+                            Senn ihr gegen Bezahlung das Vogelmachen habe zeigen wollen. Maurer habe
+                            aber bei der Vorführung im Wald keine Vögel gesehen. Hans Senn aus dem
+                            Stalliker Tal bezeugt, dass Barbeli während eineinhalb Jahren bei ihm
+                            gelebt habe, ein eigensinniges Kind gewesen und sechs Wochen zuvor
+                            davongelaufen sei. Er verneint, vom Vogelmachen etwas mitbekommen zu
+                            haben. Hans Maurer bezeugt, dass Barbeli seit sechs Wochen bei ihm lebe
+                            und er das Mädchen auf Empfehlung der Frau Pfarrer aufgenommen habe.
+                            Barbeli habe vor ihm selbst keine Vögel gezaubert, sondern nur seinen
+                            Kindern davon erzählt, woraufhin diese der Frau Pfarrer davon berichtet
+                            hätten. Zum Schluss folgt das Protokoll des Verhörs von Barbeli Senn im
+                            Oetenbach mit Fragen darüber, wo das Mädchen das Vogelmachen gelernt
+                            habe, wie dieses funktioniere und ob es dafür Geld verlange. Die
+                            vernehmenden Ratsherren kommen zum Schluss, dass sich das Mädchen die
+                            Geschichten über das Vogelmachen ausgedacht habe und selbst nicht mehr
+                            daran glaube. Zum Schluss habe Barbeli versprochen, diese Ideen zu
+                            vergessen und künftig fleissig zu beten, weshalb die Ratsherren um
+                            Freilassung des Mädchens bitten.</summary>
                         <msItem>
                             <textLang>Deutsch</textLang>
                             <filiation type="current">Aufzeichnungen (Doppelblatt)</filiation>
@@ -113,13 +112,19 @@
                 <head><lb/>Actum dienstags den 1ten Julij anno 1721 <lb/>Prasentibus herr ratsherr
                         <persName>Johann Conrad Werdmüller</persName> und <lb/>herr zoufftmeister
                         <persName>Lavater</persName>.</head>
-                <p><lb/>Nach innhalt eüwer, <choice><abbr>mghhren</abbr><expan>meiner gnädigen herren</expan></choice>
-                    erkanntnuss, haben wolermeldt <lb/>die <choice><abbr>mhhren</abbr><expan>meine herren</expan></choice>
-                    nachgänger die in dem von <choice><abbr>hren pfr</abbr><expan>herren pfarrer</expan></choice> ab <placeName
-                        ref="LOC_47.26703_8.48539">Aügst</placeName> an <lb/><abbr>hren</abbr> antistitem
-                    <persName>Neüscheler</persName> eingesannten bericht «wegen des
-                        <persName>Barbeli <lb/>Sennen</persName>von daselbst vermeint vögeli
-                        <del>halbes</del> machens halben» <lb/>verdeütete personen vor sich
+                <p><lb/>Nach innhalt eüwer, <choice>
+                        <abbr>mghhr</abbr>
+                        <expan>meiner gnädigen hohen herren</expan>
+                    </choice> erkanntnuss, haben wolermeldt <lb/>die <choice>
+                        <abbr>mhhr</abbr>
+                        <expan>meine hohen herren</expan>
+                    </choice> nachgänger die in dem von <choice>
+                        <abbr>hr pfr</abbr>
+                        <expan>herren pfarrer</expan>
+                    </choice> ab <placeName ref="LOC_47.26703_8.48539">Aügst</placeName> an
+                        <lb/><abbr>hr</abbr> antistitem <persName>Neüscheler</persName> eingesannten
+                    bericht «wegen des <persName>Barbeli <lb/>Sennen</persName>von daselbst vermeint
+                    vögeli <del>halbes</del> machens halben» <lb/>verdeütete personen vor sich
                     bescheiden, selbige allerforderst <lb/>was ihnen darvon in wüssen seye, möchte
                     examiniert und ver<lb break="no"/>hört, da dann </p>
             </div>
@@ -141,8 +146,8 @@
                         genommen, <lb/>selbige auf ein aahornin <del>stäcklein</del><add
                             place="above">ruethen</add>gelegt, in den bach zu <lb/>nechst bey ihrem
                         haus gelegt, darauf geschlagen, worüber <lb/>2 oder 3 vögel gleich den
-                        schwalmen, dem tach zu geflogen, <lb/>worüber er
-                            <persName>Heinrich</persName> sich beseegnet und geförchtet, hierauf
+                        schwalmen, dem tach zu geflogen, <lb/>worüber er,
+                            <persName>Heinrich</persName>, sich beseegnet und geförchtet, hierauf
                         wurde</seg></p>
             </div>
             <div>
@@ -197,7 +202,7 @@
                 <head><lb/>5.<lb/>So wurde das <persName>Barbeli Senn</persName> selbsten in dem
                         <placeName ref="LOC_47.305989_8.682064">Ötten<lb break="no"
                         />bach</placeName>folgender maassen examiniert und verhört. </head>
-                                    <seg n="5"><p><lb/>1.Q. Wie es heisse? <lb/>R.<persName>Barbeli
+                                    <p><lb/>1.Q. Wie es heisse? <lb/>R.<persName>Barbeli
                             Senn</persName>.</p>
                     <p><lb/>2.Q. Wo her?<lb/>R. von <placeName ref="LOC_47.26703_8.48539"
                             >Aügst</placeName>
@@ -257,10 +262,10 @@
                         gehen.<lb/>R. Es dörfte niemand vor handen seyn wanns mit
                         vögelmachen<lb/>umgange.</p>
                     <p><lb/>24.Q. Ob es aber auch selbst die vögel gesehn, so es gemacht?<lb/>R.
-                        Nein, sonder die leüth haben es so gesagt <abbr>etc. etc.</abbr></p></seg>
+                        Nein, sonder die leüth haben es so gesagt <abbr>etc. etc.</abbr></p>
                    <p><seg n="6"><lb/>Hierüber wurde ihmme von denen <choice>
-                            <abbr>mhhren</abbr>
-                            <expan>meinen herren</expan>
+                            <abbr>mhhr</abbr>
+                            <expan>meinen hohen herren</expan>
                         </choice> nachgängern<lb/>freündt-ernstliche zugesprochen, mit hin
                         vernonfftmässig angezeiget,<lb/><del>wie das diss</del>
                         <add place="margin">ob diss nit selbssentsinnte sachen</add> alles eine
@@ -269,8 +274,8 @@
                         selbst, dass es nit wahr,<lb/>was ihmme sein vatter angegeben und wolle
                         hinkönfftig fleissig<lb/>bätten, die sach aus dem sinn schlagen und sich
                         darfür in das könfftige hüeten, ersuche eüch, <choice>
-                            <abbr>mghhren</abbr>
-                            <expan>meine gnädigen herren</expan>
+                            <abbr>mghhr</abbr>
+                            <expan>meine gnädigen hohen herren</expan>
                         </choice>, um die erlassung<lb/>der gefangenschafft <abbr>etc.
                         etc.</abbr></seg></p>
             </div>
@@ -278,7 +283,7 @@
 
         <back>
             <div>
-                <p>Für den Kommentar zum Fall Barbeli Senn vgl.<ref
+                <p>Für den Kommentar zum Fall Barbeli Senn vgl. <ref
                         target="https://qzh.sources-online.org/exist/apps/qzh/quellenstuecke/QZH_104"
                         >QZH, Nr. 104.</ref></p>
             </div>

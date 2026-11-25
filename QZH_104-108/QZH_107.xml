@@ -30,23 +30,23 @@
 				<msDesc>
 					<msIdentifier>
 						<idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=5261748">
-							STAZH A 27.134 (Nr. 62) </idno>
+							STAZH A 27.134 (82.4.15) </idno>
 					</msIdentifier>
-					<head>Bericht über die erneute Befragung der im Gefängnis Oetenbach festgehaltenen Barbeli Senn
-						von Aeugst wegen Verdachts auf Vogelmachen durch die Ratsherren Johann
-						Konrad Werdmüller und Heinrich Lavater </head>
+					<head>Bericht der Ratsherren Johann Konrad Werdmüller und Heinrich Lavater über die erneute
+						Befragung der im Gefängnis Oetenbach festgehaltenen Barbeli Senn von Aeugst
+						wegen Verdachts auf Vogelmachen </head>
 					<msContents>
 						<summary>Die Ratsherren Johann Conrad Werdmüller und Heinrich Lavater
-							verhören die im Gefängnis Oetenbach festgehaltene Barbeli Senn von
-							Aeugst erneut (1). Das Mädchen habe den beiden Männern versichert, keine
+							berichten vom erneuten Verhör der im Gefängnis Oetenbach festgehaltenen Barbeli Senn von
+							Aeugst. Das Mädchen habe den beiden Männern versichert, keine
 							Vögel zaubern zu können, sondern dies nur leichtgläubigen Personen
-							erzählt zu haben (2). Die beiden Männer bitten angesichts dieser
+							erzählt zu haben. Die beiden Männer bitten angesichts dieser
 							Tatsache um ein mildes Urteil im Fall des noch minderjährigen Mädchens,
 							das im Übrigen versichert habe, künftig fleissig zu beten, zu arbeiten
-							und frommen Wandel zu tun (3).</summary>
+							und frommen Wandel zu tun.</summary>
 						<msItem>
 							<textLang>Deutsch</textLang>
-							<filiation type="current">Original (Doppelblatt)</filiation>
+							<filiation type="current">Aufzeichnungen (Doppelblatt)</filiation>
 							<filiation type="original">
 								<origDate when="1721-07-05"/>05.07.1721</filiation>
 						</msItem>
@@ -101,27 +101,29 @@
 					<persName>Johann Conrad Werdmüller</persName> und<lb/>herren
 						<abbr>zonfftmstr</abbr>
 					<persName>Lavater</persName>.</head>
-				<p><seg n="1"><lb/>Auf eürer <choice><abbr>mghhren</abbr><expan>meiner gnädigen herren</expan></choice> ergangener erkandtnus, sind
-						wohlermeldt<lb/>die <choice><abbr>mhhren</abbr><expan>meine herren nachgänger</expan></choice> widermahlen zu dem im
-							<placeName ref="LOC_47.374444_8.541111">Öttenbach</placeName>
-					<lb/>verhaffeten <persName>Barbeli Senn</persName> gekehret, selbigem, dass
-						es gott die<lb/>ehr <add>gebe</add> und der obrigkeit die wahrheit ausage,
-					gebührmässig zu<lb break="no"
-					/>gesprochen,</seg><seg n="2"> welches denn bekennt,
-						seye in seinem hertzen über<lb break="no"
-						/>zeüget, dass es keine vögel machen könne,
-						sonder solches den<lb/>einfaltigen und leichtglaübigen leüthen allso
-						angeben, als<lb/>obe selbiges dergleichen zu wegen bringen könne, so dass
-						folg<lb break="no"
-						/>samm auch nit wahr, dass jemahlen ein schwartzer vogel bey ihmme
-					<lb/>gewesen, danke au bey gott dem <abbr>hren</abbr>, dass ihmme nichts der
-					<lb break="no"
-						/>gleichen in wüssen.</seg>
-					<seg n="3">Wolle ihmme bitten, dass er ihns fehr-<lb/>nerhin vor der gleichen
-						sachen vergaume <del>wolle</del>, eüch aber,<lb/><choice><abbr>mghhren</abbr><expan>meinen gnädigen herren</expan></choice>,
-						erflehet dises annach minder jährige kind, um<lb/>ein gnädige urtheil und
-						gnaad, mit verheissung wolle<lb/>forthin fleissig bätten und arbeiten, auch
-						ein ehrbahren<lb/>und frommen wandel führen <abbr>etc. etc.</abbr></seg></p>
+				<p><lb/>Auf eürer <choice>
+						<abbr>mghhr</abbr>
+						<expan>meiner gnädigen hohen herren</expan>
+					</choice> ergangener erkandtnus, sind wohlermeldt<lb/>die <choice>
+						<abbr>mhhr</abbr>
+						<expan>meine hohen herren</expan>
+					</choice> nachgänger widermahlen zu dem im <placeName
+						ref="LOC_47.374444_8.541111">Öttenbach</placeName>
+					<lb/>verhaffeten <persName>Barbeli Senn</persName> gekehret, selbigem, dass es
+					gott die<lb/>ehr <add>gebe</add> und der obrigkeit die wahrheit ausage,
+					gebührmässig zu<lb break="no"/>gesprochen, welches denn bekennt, seye in seinem
+					hertzen über<lb break="no"/>zeüget, dass es keine vögel machen könne, sonder
+					solches den<lb/>einfaltigen und leichtglaübigen leüthen allso angeben,
+					als<lb/>obe selbiges dergleichen zu wegen bringen könne, so dass folg<lb
+						break="no"/>samm auch nit wahr, dass jemahlen ein schwartzer vogel bey ihmme
+					<lb/>gewesen, danke au bey gott dem <abbr>hren</abbr>, dass ihmme nichts der <lb
+						break="no"/>gleichen in wüssen. Wolle ihmme bitten, dass er ihns
+					fehr-<lb/>nerhin vor der gleichen sachen vergaume <del>wolle</del>, eüch aber,<lb/><choice>
+						<abbr>mghhr</abbr>
+						<expan>meinen gnädigen hohen herren</expan>
+					</choice>, erflehet dises annach minder jährige kind, um<lb/>ein gnädige urtheil
+					und gnaad, mit verheissung wolle<lb/>forthin fleissig bätten und arbeiten, auch
+					ein ehrbahren<lb/>und frommen wandel führen <abbr>etc. etc.</abbr></p>
 				<pb n="2" facs="A_27_134__Nr__62__S__2_.tif"/>
 				<pb n="3" facs="A_27_134__Nr__62__S__3_.tif"/>
 				<pb n="4" facs="A_27_134__Nr__62__S__4_.tif"/>
@@ -134,7 +136,7 @@
 		</body>
 		<back>
 			<div>
-				<p>Für den Kommentar zum Fall Barbeli Senn vgl.<ref
+				<p>Für den Kommentar zum Fall Barbeli Senn vgl. <ref
 						target="https://qzh.sources-online.org/exist/apps/qzh/quellenstuecke/QZH_104"
 						>QZH, Nr. 104.</ref></p>
 			</div>
